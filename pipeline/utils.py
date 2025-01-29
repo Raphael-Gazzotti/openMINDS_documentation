@@ -124,5 +124,3 @@ class GitPusher(object):
             self._repo.git.checkout(version)
         except GitCommandError as e:
             self._repo.git.checkout("-b", version)
-
-

@@ -1,4 +1,5 @@
 import json
+import re
 import os.path
 from typing import List, Optional, Dict
 
@@ -18,6 +19,80 @@ class SchemaDocBuilder(object):
         self.relative_paths_for_schema_docu = relative_paths_for_schema_docu
         self.instancelib_docu_path_for_schema = instancelib_docu_path_for_schema
         self.readthedocs_url = "https://openminds-documentation.readthedocs.io/en/"
+
+    def _generate_template_instance(self, property_namespace, short_namespace):
+        return f""".. raw:: html
+            
+            <script>
+            const properties = {json.dumps(self._extract_properties_value())};
+            
+            function generateTemplate(properties) {{
+                const template = {{
+                  "@context": {{
+                    "@vocab": "{property_namespace}",
+                    "inst": "{short_namespace+"/instances/"}"
+                  }},
+                  "@id": "inst:{self._schema_payload["name"][0].lower() + self._schema_payload["name"][1:]}/null",
+                  "@type": "{self._schema_payload["_type"]}",
+                }}
+                
+                // Fulfill the template with required properties
+                for (const property in properties) {{
+                    if (requiredProperties.hasOwnProperty(property)) {{
+                        const prop = properties[property];
+                        
+                        if (prop.hasOwnProperty('type')) {{
+                            if (prop.type === 'string') {{
+                                template[property] = null;
+                            }} else if (prop.type === 'array') {{
+                                if (prop.hasOwnProperty('items') && prop.items.type === 'string') {{
+                                    template[property] = [];
+                                }} else if (prop.hasOwnProperty('_linkedTypes') && prop._linkedTypes.length === 1) {{
+                                    const linkedType = prop._linkedTypes[0].split('/').pop();
+                                    const linkedTypeFormatted = linkedType.charAt(0).toLowerCase() + linkedType.slice(1);
+                                    template[property] = [{{ "@id": `inst:${{linkedTypeFormatted}}/null` }}];
+                                }} else {{
+                                    template[property] = [{{ "@id": "inst:null" }}];
+                                }}
+                            }}
+                        }} else {{
+                            if (prop.hasOwnProperty('_linkedTypes') && prop._linkedTypes.length === 1) {{
+                                const linkedType = prop._linkedTypes[0].split('/').pop();
+                                const linkedTypeFormatted = linkedType.charAt(0).toLowerCase() + linkedType.slice(1);
+                                template[property] = {{ "@id": `inst:${{linkedTypeFormatted}}/null` }};
+                            }} else {{
+                                template[property] = {{ "@id": "inst:null" }};
+                            }}
+                        }}
+                    }}
+                }}
+                
+                const formattedTemplate = JSON.stringify(template, null, 2);
+    
+                // Create a Blob object
+                const blob = new Blob([formattedTemplate], {{ type: 'application/ld+json' }});
+                
+                // Create a temporary URL for the Blob
+                const url = URL.createObjectURL(blob);
+                
+                // Create a hidden anchor element
+                const link = document.createElement('a');
+                link.href = url;
+                link.setAttribute('download', 'instance_template.jsonld');
+                document.body.appendChild(link);
+                
+                // Simulate a click on the link to trigger the download
+                link.click();
+                
+                // Clean up (optional)
+                URL.revokeObjectURL(url); 
+                document.body.removeChild(link);
+            }}
+            </script>
+
+            Generate a template instance of the {self._schema_payload["label"]} schema with the following button: <button onclick="generateTemplate(properties)">Instance template</button>
+            To help you complete the instance template, we’ve included an example using realistic mock data and guidance:
+            """
 
     def _target_file_without_extension(self) -> str:
         return os.path.join(self.version, "docs", "schema_specifications", self.schema_relative_path)
@@ -45,8 +120,24 @@ class SchemaDocBuilder(object):
                 library_link = os.path.join(self.readthedocs_url, self.version, "instance_libraries", self.instancelib_docu_path_for_schema)
                 doc.content(f"For this schema openMINDS provides a `library of instances <{library_link}.html>`_.")
                 doc.newline()
+
+            property_namespace = None
+            short_namespace = None
+            if "properties" in self._schema_payload and self._schema_payload["properties"]:
+                for p in self._schema_payload["properties"].keys():
+                    match = re.match(r'^(https?:\/\/[^\/]+\/[^\/]+\/)', p)
+                    property_namespace = match.group(1) if match else None
+                    match = re.match(r'^(https?:\/\/[^\/]+)', p)
+                    short_namespace = match.group(1) if match else None
+                    break
+
             doc.content("------------")
             doc.newline()
+            doc.heading("Build instance template", char="#")
+            doc.newline()
+            template_instance_content = self._generate_template_instance(property_namespace, short_namespace)
+            # Hacky method, RstCloth does not consider the addition of JavaScript code
+            doc._add(template_instance_content)
             doc.content("------------")
             doc.newline()
             doc.heading("Properties", char="#")
@@ -84,8 +175,32 @@ class SchemaDocBuilder(object):
                     doc.newline()
                     doc.content(f"`BACK TO TOP <{self.schema_name}_>`_")
                     doc.newline()
-                    doc.content("------------")
-                    doc.newline()
+
+    def _extract_properties_value(self) -> dict:
+        properties = {}
+        if "properties" in self._schema_payload and self._schema_payload["properties"]:
+            for p in self._schema_payload["properties"].keys():
+                p_split = p.split("/")[-1]
+                properties[p_split] = self._schema_payload["properties"][p]
+        return properties
+
+    def _extract_required_properties_value(self) -> dict:
+        required_properties = {}
+        if "required" in self._schema_payload and self._schema_payload["required"]:
+            for p in self._schema_payload["required"]:
+                p_split = p.split("/")[-1]
+                if p in self._schema_payload["properties"]:
+                    required_properties[p_split] = self._schema_payload["properties"][p]
+        return required_properties
+
+    def _extract_optional_properties_value(self) -> dict:
+        optional_properties = {}
+        if "properties" in self._schema_payload and self._schema_payload["properties"]:
+            for p in self._schema_payload["properties"].keys():
+                if "required" not in self._schema_payload or not self._schema_payload["required"] or p not in self._schema_payload["required"]:
+                    p_split = p.split("/")[-1]
+                    optional_properties[p_split] = self._schema_payload["properties"][p]
+        return optional_properties
 
     def _extract_required_properties(self) -> str:
         required_properties = []
