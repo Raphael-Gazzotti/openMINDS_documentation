@@ -146,7 +146,7 @@ Detailed and precise presentation of, or proposal for something.
    :semantic name: https://openminds.ebrains.eu/vocab/specification
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) to the offical specification of this content type. If no offical and public specification is available, leave blank and enter the specification under 'description'.
+   :instructions: Enter the internationalized resource identifier (IRI) to the official specification of this content type. If no official and public specification is available, leave blank and enter the specification under 'description'.
 
 `BACK TO TOP <ContentType_>`_
 

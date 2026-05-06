@@ -13,6 +13,7 @@ JBA_v1.13-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.13-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -35,6 +36,7 @@ JBA_v1.18-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -56,6 +58,7 @@ JBA_v1.18-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v1.18-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -78,6 +81,7 @@ JBA_v2.2-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -99,6 +103,7 @@ JBA_v2.2-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.2-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -120,6 +125,7 @@ JBA_v2.4-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -141,6 +147,7 @@ JBA_v2.4-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.4-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -162,6 +169,7 @@ JBA_v2.5-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -183,6 +191,7 @@ JBA_v2.5-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.5-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -204,6 +213,7 @@ JBA_v2.6-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.6-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -225,6 +235,7 @@ JBA_v2.9-BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -247,6 +258,7 @@ JBA_v2.9-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -268,6 +280,7 @@ JBA_v2.9-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -289,6 +302,7 @@ JBA_v2.9-fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v2.9-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -311,6 +325,7 @@ JBA_v3.0-BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -332,6 +347,7 @@ JBA_v3.0-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -353,6 +369,7 @@ JBA_v3.0-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -374,6 +391,7 @@ JBA_v3.0-fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -395,6 +413,7 @@ JBA_v3.0.1-BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -416,6 +435,7 @@ JBA_v3.0.1-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -437,6 +457,7 @@ JBA_v3.0.1-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -458,6 +479,7 @@ JBA_v3.0.1-fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.1-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -479,6 +501,7 @@ JBA_v3.0.2-BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -500,6 +523,7 @@ JBA_v3.0.2-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -521,6 +545,7 @@ JBA_v3.0.2-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -542,6 +567,7 @@ JBA_v3.0.2-fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.2-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -563,6 +589,7 @@ JBA_v3.0.3-BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-BigBrain
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -584,6 +611,7 @@ JBA_v3.0.3-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-Colin27
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -605,6 +633,7 @@ JBA_v3.0.3-MNI152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-MNI152
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA
@@ -626,6 +655,7 @@ JBA_v3.0.3-fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/JBA_v3.0.3-fsaverage
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: JBA

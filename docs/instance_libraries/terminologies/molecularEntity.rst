@@ -8,11 +8,28 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
-4-(2-Hydroxyethyl)-1-piperazineEthanesulfonicAcid
+(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
+---------------------------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/(N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole (Pittsburgh compound B) is used as a positron emission tomography tracer to increase contrast of beta-amyloid plaques in neuronal tissue.
+   :name: (N-methyl-(11c))2-(4'-methylaminophenyl)-6-hydroxybenzothiazole
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/2826731
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
 -------------------------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/4-(2-hydroxyethyl)-1-piperazineEthanesulfonicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid) is a zwitterionic sulfonic acid buffering agent; one of the twenty Good's buffers. [adapted from W  ikipedia (https://en.wikipedia.org/wiki/HEPES)]
@@ -30,6 +47,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT1AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 5-HT1A receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
@@ -47,6 +65,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT1BReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 5-HT1B receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
@@ -64,6 +83,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT2AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 5-HT2A receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
@@ -81,6 +101,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 5-HT2 receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
@@ -97,6 +118,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HT4Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 5-HT4 receptor is a subtype of serotonin receptor group (5-HT receptors) that bind the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT).
@@ -114,6 +136,7 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/5-HTTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 5-HT transporter is a type of monoamine transporter protein that transports the neurotransmitter serotonin (5-hydroxytryptamine, 5-HT) from the synaptic cleft back to the presynaptic neuron.
@@ -125,11 +148,12 @@ Related schema specification: `MolecularEntity <https://openminds-documentation.
 
 ------------
 
-6,7-Dinitro-1,4-dihydroquinoxaline-2,3-dione
+6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
 --------------------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/6,7-dinitro-1,4-dihydroquinoxaline-2,3-dione
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: DNQX (6,7-dinitroquinoxaline-2,3-dione) is a competitive antagonist at AMPA and kainate receptors, two ionotropic glutamate receptor (iGluR) subfamilies. [adapted from Wikipedia (https://en.wikipedia.org/wiki/DNQX)]
@@ -147,6 +171,7 @@ A1Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/A1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The adenosine A1 receptor is a subtype of the adenosine receptor group that bind adenosine as endogenous ligand.
@@ -163,6 +188,7 @@ A2AReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/A2AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The adenosine A2A receptor is a subtype of the adenosine receptor group that bind adenosine as endogenous ligand.
@@ -180,6 +206,7 @@ AMPAReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/AMPAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The AMPA receptors belong to the class of ionotropic glutamate receptors and mediate fast synaptic transmission in the central nervous system (CNS).
@@ -192,11 +219,31 @@ AMPAReceptor
 
 ------------
 
+ATP
+---
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/ATP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Adenosine triphosphate (ATP) is a nucleoside triphosphate. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/Adenosine_triphosphate)]
+   :description: ATP provides energy to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, and chemical synthesis. When consumed in a metabolic process, ATP converts either to adenosine diphosphate (ADP) or to adenosine monophosphate (AMP). (adapted from Wikipedia: https://en.wikipedia.org/wiki/Adenosine_triphosphate)
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0780796
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15422#atp
+   :name: ATP
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15422
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 AlexaFluor594
 -------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/AlexaFluor594
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Alexa Fluor 594' is a fluorochrome/fluorescent dye used to stain biological specimens.
@@ -208,11 +255,29 @@ AlexaFluor594
 
 ------------
 
+BAPTA
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/BAPTA
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: BAPTA (1,2-bis(o-aminophenoxy)ethane-N,N,N′,N′-tetraacetic acid) is an aminopolycarboxylic acid with a high affinity for calcium. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/BAPTA)]
+   :description: BAPTA is a white solid. It is used in research to chelate Ca2+. It is a component of some fluorescent calcium ion indicators such as Calcium Green and Oregon Green 488 BAPTA-1 and -2 (OGB-1, OGB2). [adapted from Wikipedia (https://en.wikipedia.org/wiki/BAPTA)]
+   :name: BAPTA
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_60888
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 Beta-Amyloid40
 --------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Beta-Amyloid40
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Amyloid beta peptide with carboxyterminal variant ending at residual Val40.
@@ -225,11 +290,30 @@ Beta-Amyloid40
 
 ------------
 
+D-AP5
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/D-AP5
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: D-AP5 is the D-isomer of AP5, a chemical compound that is a selective NMDA receptor antagonist that competitively inhibits the ligand (glutamate) binding site of NMDA receptors. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]
+   :description: The active isomer of AP5 is considered to be the D configuration. AP5 is sometimes used in conjunction with the calcium chelator BAPTA to determine whether NMDARs are required for a particular cellular process. AP5 has also been used to study NMDAR-dependent LTP in the mammalian hippocampus. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/AP5)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0100867
+   :name: D-AP5
+   :preferredOntologyIdentifier: https://purl.obolibrary.org/obo/CHEBI_138644
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 D1Receptor
 ----------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/D1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The D1 receptor is a subtype of the dopamine receptor group that primarily binds the neurotransmitter dopamine as endogenous ligand. The D1 receptor is the most abundant kind of dopamine receptor in the central nervous system.
@@ -247,6 +331,7 @@ D2Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/D2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The D2 receptor is a subtype of the dopamine receptor group that primarily binds the neurotransmitter dopamine as endogenous ligand.
@@ -264,6 +349,7 @@ DAB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/DAB
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: DAB is a chemically and thermodynamically stable derivative of benzidine.
@@ -281,6 +367,7 @@ Fluoro-Emerald
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Emerald
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluoro-Emerald is a fluorescent dextran derivative (dextran, fluorescein, 10,000 MW) used for tracing studies in the nervous system.
@@ -295,6 +382,7 @@ Fluoro-Gold
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Gold
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluoro-Gold is a fluorescent dye that is used as a retrograde tracer in tract tracing studies.
@@ -312,6 +400,7 @@ Fluoro-Ruby
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/Fluoro-Ruby
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluoro-Ruby is a fluorescent dextran derivative (dextran, tetramethylrhodamine, 10,000 MW) used for retrograde tracing studies in the nervous system.
@@ -329,6 +418,7 @@ GABA-AReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-AReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The GABA-A receptor is an ionotropic subtype of the GABA receptor class that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
@@ -344,7 +434,8 @@ GABA-A_BZ
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A/BZ
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-A_BZ
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The GABA-A/BZ is a distinct binding site for benzodiazepines that is situated at the interface between the α- and γ-subunits of α- and γ-subunit containing GABA-A receptors.
    :name: GABA-A/BZ
@@ -358,6 +449,7 @@ GABA-BReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABA-BReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The GABA-B receptor is a metabotropic subtype of the GABA receptor class that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
@@ -374,6 +466,7 @@ GABAReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GABAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The GABA receptors are a group of receptors that respond to the neurotransmitter gamma-aminobutyric acid (GABA) as endogenous ligand.
@@ -386,11 +479,31 @@ GABAReceptor
 
 ------------
 
+GTP
+---
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/GTP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Guanosine-5'-triphosphate (GTP) is a purine nucleoside triphosphate. [sourced from [Wikipedia](https://en.wikipedia.org/wiki/Guanosine_triphosphate)]
+   :description: GTP is one of the building blocks needed for the synthesis of RNA during the transcription process. It also has a role as an activator of substrates in metabolic reactions and as a source of energy for protein synthesis and gluconeogenesis. GTP is essential to signal transduction, in particular with G-proteins, in second-messenger mechanisms where it is converted to guanosine diphosphate (GDP) through the action of GTPases. (adapted from Wikipedia: https://en.wikipedia.org/wiki/Guanosine_triphosphate)
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0439625
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15996#gtp
+   :name: GTP
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15996
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 GTPDisodiumSalt
 ---------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/GTPDisodiumSalt
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A GTP (guanosine 5'-triphosphate) molecule bonded with two sodium ions (Na+), forming a salt hydrate.
@@ -406,6 +519,7 @@ JNKMapKinaseScaffoldProtein2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/JNKMapKinaseScaffoldProtein2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The JNK MAP kinase scaffold protein 2 is a protein that is a translation product of the human MAPK8IP2 gene or a 1:1 ortholog thereof.
@@ -422,6 +536,7 @@ M1Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The M1 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It mediates slow excitatory postsynaptic potential in the postganglionic nerve and is also expressed in exocrine glands and in the central nervous system.
@@ -439,6 +554,7 @@ M2Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The M2 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It is expressed in cardiac tissues and acts to slow the heart rate to normal after sympathetic nervous system stimulation.
@@ -456,6 +572,7 @@ M3Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/M3Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The M3 receptor belongs to the family of muscarinic receptors which are activated by acetylcholine as endegenous ligand. It is expressed in many glands, in lungs, and in the smooth muscles of blood vessels.
@@ -468,26 +585,12 @@ M3Receptor
 
 ------------
 
-MagnesiumATP
-------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumATP
-   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
-   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
-   :name: magnesium ATP
-   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
-
-`BACK TO TOP <Terminologies: MolecularEntity library_>`_
-
-------------
-
 NMDAReceptor
 ------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/NMDAReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The NMDA receptors belong to the class of ionotropic glutamate receptors which can be activated with glutamate and glycine with a voltage-dependent current flow. The blockage of the activated channel through extracellular magnesium (Mg2+) and zinc (Zn2+) ions can only be removed when the neuron is sufficiently depolarized.
@@ -500,11 +603,31 @@ NMDAReceptor
 
 ------------
 
+QX-314
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/QX-314
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: QX-314 is a quaternary lidocaine derivative, permanently charged, and lipophobic. [sourced from the [Merck website](https://www.sigmaaldrich.com/FR/fr/product/mm/552233)]
+   :description: QX-314 is a blocker of voltage-sensitive Na+ conductance when applied intracellularly. It suppresses the generation of Na+-dependent spikes from inside the cell membrane, without affecting Ca2+ currents or glutamate-activated currents. (adapted from the Merck website: https://www.sigmaaldrich.com/FR/fr/product/mm/552233)
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0523764
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:46937#qx-314
+   :name: QX-314
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_46937
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 acetylcholine
 -------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/acetylcholine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Acetylcholine in vertebrates is the major neurotransmitter at neuromuscular junctions, autonomic ganglia, parasympathetic effector junctions, a subset of sympathetic effector junctions, and at many sites in the central nervous system.
@@ -521,6 +644,7 @@ alpha-1Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-1Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-1 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
@@ -535,6 +659,7 @@ alpha-2Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-2 receptor is a subclass of the adrenoceptor group that bind epinephrine or norepinephrine as endogenous ligands.
@@ -549,6 +674,7 @@ alpha-4Beta-2Receptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/alpha-4Beta-2Receptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The alpha-4 beta-2 receptor belongs to the family of nicotinic acetylcholine receptors that respond to the neurotransmitter acetylcholine as endogenous ligand. This subtype is located in the brain, where activation yields post- and presynaptic excitation.
@@ -565,6 +691,7 @@ anterogradeTracer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/anterogradeTracer
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: An anterograde tracer is a molecule that is taken up by neurons (e.g., by viral transfection mechanisms, by other cell internalization mechanisms or passive diffusion) and transported towards the axon terminals. It is used for anterograde tract tracing studies in the nervous system.
@@ -576,11 +703,29 @@ anterogradeTracer
 
 ------------
 
+barium
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/barium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Barium (Ba) is a chemical element with atomic number 56 and belongs to the alkaline earth metals.[adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]
+   :description: Barium is a chemical element; it has symbol Ba and atomic number 56. It is the fifth element in group 2; and is a soft, silvery alkaline earth metal. Because of its high chemical reactivity, barium is never found in nature as a free element. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Barium)]
+   :name: barium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_37133
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 biomarker
 ---------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/biomarker
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A substance used as an indicator of a biological state, most commonly disease.
@@ -597,6 +742,7 @@ biotinylatedDextranAmine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/biotinylatedDextranAmine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A 'biotinylated dextran amine' is an organic compound which is used as an anterograde and retrograde neuroanatomical tracer.
@@ -613,6 +759,7 @@ brainDerivedNeurotrophicFactor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/brainDerivedNeurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'brain-derived neurotrophic factor' is a protein that, in humans, is encoded by the BDNF gene. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor)]
@@ -629,6 +776,7 @@ c-FOS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/c-FOS
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: c-FOS is a proto-oncogene that is the human homolog of the retroviral oncogene v-fos.
@@ -645,6 +793,7 @@ calbindin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calbindin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Calbindin is a calcium-binding protein.
@@ -662,6 +811,7 @@ calciumCalmodulinProteinKinaseII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseII
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'calcium calmodulin protein kinase II' is a protein with a core domain architecture consisting of a Protein kinase domain and a C-terminal Calcium/calmodulin dependent protein kinase II Association domain.
@@ -679,6 +829,7 @@ calciumCalmodulinProteinKinaseIIAlphaChain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumCalmodulinProteinKinaseIIAlphaChain
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'calcium calmodulin protein kinase II alpha chain' is a calcium/calmodulin-dependent protein kinase type II chain that is a translation product of the human CAMK2A gene or a 1:1 ortholog thereof.
@@ -695,6 +846,7 @@ calciumChloride
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calciumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Calcium chloride is an inorganic compound, a salt with the chemical formula CaCl2. [adapted from wikipedia (https://en.wikipedia.org/wiki/Calcium_chloride)]
@@ -713,6 +865,7 @@ calretinin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/calretinin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Calretinin is an intracellular calcium-binding protein belonging to the troponin C superfamily. Members of this protein family have six EF-hand domains which bind calcium.
@@ -730,6 +883,7 @@ carbonDioxide
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/carbonDioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A one-carbon compound with formula CO2 in which the carbon is attached to each oxygen atom by a double bond. A colourless, odourless gas under normal conditions, it is produced during respiration by all animals, fungi and microorganisms that depend directly or indirectly on living or decaying plants for food. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16526)]
@@ -743,11 +897,30 @@ carbonDioxide
 
 ------------
 
+cesiumSulfate
+-------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/cesiumSulfate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Cesium sulfate (or caesium sulfate) is the cesium salt with the formula Cs2SO4. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Caesium_sulfate)]
+   :description: Cesium sulfate is a white water-soluble solid that is used to prepare dense aqueous solutions for use in isopycnic (or 'density-gradient') centrifugation. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Caesium_sulfate)]
+   :interlexIdentifier: http://uri.interlex.org/ilx_0514068
+   :name: cesium sulfate
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/25137
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 cholecystokinin
 ---------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cholecystokinin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Cholecystokinin is a peptide hormone of the gastrointestinal system responsible for stimulating the digestion of fat and protein.
@@ -764,6 +937,7 @@ choline
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/choline
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Choline is a cation with the chemical formula [(CH3)3NCH2CH2OH]+. Choline forms various salts, for example choline chloride and choline bitartrate. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Choline)]
@@ -781,6 +955,7 @@ cholineAcetyltransferase
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cholineAcetyltransferase
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Choline acetyltransferase is a synthetic enzyme that catalyzes the formation of acetylcholine from acetyl-CoA and choline
@@ -797,6 +972,7 @@ cyclicAdenosineMonophosphate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/cyclicAdenosineMonophosphate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Cyclic adenosine monophosphate is a second messenger important in many biological processes.
@@ -814,6 +990,7 @@ diboronTrioxide
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/diboronTrioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Diboron trioxide or boron trioxide is the oxide of boron with the formula B2O3. [adapted from wikipedia (https://en.wikipedia.org/wiki/Boron_trioxide)]
@@ -830,6 +1007,7 @@ dimethylSulfoxide
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dimethylSulfoxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Dimethyl sulfoxide (DMSO) is an organosulfur compound with the formula (CH3)2SO. [adapted from wikipedia (https://en.wikipedia.org/wiki/Dimethyl_sulfoxide)]
@@ -848,6 +1026,7 @@ dinitrogen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dinitrogen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: An elemental molecule consisting of two trivalently-bonded nitrogen atoms. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17997)]
@@ -864,6 +1043,7 @@ dioxygen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dioxygen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The common allotrope of elemental oxygen on Earth, O2, is generally known as oxygen. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Allotropes_of_oxygen)]
@@ -881,6 +1061,7 @@ dopamine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dopamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Dopamine is one of the catecholamine neurotransmitters in the brain. It is derived from tyrosine and is the precursor to norepinephrine and epinephrine.
@@ -898,6 +1079,7 @@ dopamineTransporter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dopamineTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A 'dopamine transporter' is a membrane-spanning protein that pumps the neurotransmitter dopamine out of the synaptic cleft back into cytosol.
@@ -915,6 +1097,7 @@ dynorphin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/dynorphin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Dynorphin belongs to a class of opioid peptides that arise from the precursor protein prodynorphin. Dynorphins bind to the kappa opioid receptor.
@@ -931,6 +1114,7 @@ edeticAcid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/edeticAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Edetic Acid (Ethylenediaminetetraacetic acid, EDTA), also called edetic acid after its own abbreviation, is an aminopolycarboxylic acid with the formula [CH2N(CH2CO2H)2]2. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethylenediaminetetraacetic_acid)]
@@ -948,7 +1132,8 @@ egtazicAcid
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/EgtazicAcid
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/egtazicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: EGTA (ethylene glycol-bis(β-aminoethyl ether)-N,N,N',N'-tetraacetic acid), also known as egtazic acid (INN, USAN), is an aminopolycarboxylic acid, a chelating agent. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
    :description: EGTA is a white solid that is related to the better known EDTA. Compared to EDTA, it has a lower affinity for magnesium, making it more selective for calcium ions. It is useful in buffer solutions that resemble the environment in living cells where calcium ions are usually at least a thousandfold less concentrated than magnesium. [adapted from Wikipedia (https://en.wikipedia.org/wiki/EGTA_(chemical))]
@@ -965,6 +1150,7 @@ enkephalin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/enkephalin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Enkephalin is a pentapeptide involved in regulating nociception in the body.
@@ -981,6 +1167,7 @@ epibatidine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/epibatidine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Epibatidine is a chlorinated alkaloid that binds to nicotinic and muscarinic acetylcholine receptors with high affinity.
@@ -997,6 +1184,7 @@ ethanol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ethanol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Ethanol (also called ethyl alcohol, grain alcohol, drinking alcohol, or simply alcohol) is an organic compound with the chemical formula CH3CH2OH. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Ethanol)]
@@ -1015,6 +1203,7 @@ excitatoryAminoAcidTransporter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporters are a subclass of glutamate transporters that remove glutamate from the synaptic cleft and extrasynaptic sites via glutamate reuptake into glial cells and neurons.
@@ -1029,6 +1218,7 @@ excitatoryAminoAcidTransporter1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporter 1 belongs to the EAAT family. It is predominantly expressed in the plasma membrane removing glutamate from the extracellular space, but was also localized in the inner mitochondrial membrane as part of the malate-aspartate shuttle.
@@ -1046,6 +1236,7 @@ excitatoryAminoAcidTransporter2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporter 2 belongs to the EAAT family. It clears the excitatory neurotransmitter glutamate from the extracellular space at synapses in the central nervous system and is responsible for over 90% of glutamate reuptake within the brain.
@@ -1063,6 +1254,7 @@ excitatoryAminoAcidTransporter3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporter 3 belongs to the EAAT family transporting glutamate across plasma membranes in neurons. It can also transport aspartate and plays a role in the neuronal cysteine uptake.
@@ -1080,6 +1272,7 @@ excitatoryAminoAcidTransporter4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter4
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporter 4 belongs to the EAAT family. It is expressed predominantly in the cerebellum, has high affinity for the excitatory amino acids L-aspartate and L-glutamate.
@@ -1097,6 +1290,7 @@ excitatoryAminoAcidTransporter5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/excitatoryAminoAcidTransporter5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The excitatory amino acid transporter 5 belongs to the EAAT family. It is expressed predominantly in the retina, has high affinity for the excitatory amino acid L-glutamate.
@@ -1113,6 +1307,7 @@ flumazenil
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/flumazenil
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Flumazenil is a selective GABAA receptor antagonist that binds to the benzodiazepine recognition site on the GABAA/benzodiazepine receptor complex.
@@ -1129,6 +1324,7 @@ fluorescentMicrospheres
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/fluorescentMicrospheres
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Fluorescent microspheres are non-toxic, non-biologically reactive small polymers embedded with fluorescent dye which are used in medical imaging, as markers for fluorescent microscopy and as standards for flow cytometry fluorescent cell sorting.
@@ -1143,6 +1339,7 @@ formaldehyde
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/formaldehyde
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Formaldehyde is an organic compound with the formula CH2O and structure H-CHO. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Formaldehyde)]
@@ -1160,6 +1357,7 @@ gabazine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/gabazine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Gabazine is a competitive and selective GABAA antagonist.
@@ -1171,11 +1369,31 @@ gabazine
 
 ------------
 
+gadolinium
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/gadolinium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Gadolinium (Gd) is a chemical element with atomic number 64 and belongs to the rare-earth metals. [paraphrased from (https://en.wikipedia.org/wiki/Gadolinium)]
+   :description: Gadolinium is a chemical element; it has symbol Gd and atomic number 64. It is a silvery-white metal when oxidation is removed. Gadolinium is a malleable and ductile rare-earth element. It reacts with atmospheric oxygen or moisture slowly to form a black coating. Gadolinium below its Curie point of 20 °C (68 °F) is ferromagnetic, with an attraction to a magnetic field higher than that of nickel. Above this temperature it is the most paramagnetic element. It is found in nature only in an oxidized form. When separated, it usually has impurities of the other rare earths because of their similar chemical properties. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Gadolinium)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0782820
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:35729#gadolinium-molecular-entity
+   :name: gadolinium
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_35729
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 galanin
 -------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/galanin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Galanin is a biologically active neuropeptide, encoded by the GAL gene, that is widely distributed in the central and peripheral nervous systems and the endocrine system.
@@ -1193,6 +1411,7 @@ gluconicAcid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/gluconicAcid
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Gluconic acid is an organic compound with molecular formula C6H12O7 and condensed structural formula HOCH2(CHOH)4CO2H. [adapted from wikipedia (https://en.wikipedia.org/wiki/Gluconic_acid)]
@@ -1210,6 +1429,7 @@ glucose
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glucose
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Glucose is a sugar with the molecular formula C6H12O6. Glucose is overall the most abundant monosaccharide, a subcategory of carbohydrates. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Glucose)]
@@ -1227,6 +1447,7 @@ glutamate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glutamate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Glutamate is the carboxylate anion of glutamic acid; and the major excitatory neurotransmitter in the central nervous system of vertebrates, the peripheral nervous system of invertebrates.
@@ -1244,6 +1465,7 @@ glutamateTransporter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The glutamate transporters are a class of transporter proteins that can move the neurotransmitter glutamate across membranes.
@@ -1261,6 +1483,7 @@ glycerol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycerol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Glycerol is a triol with a structure of propane substituted at positions 1, 2 and 3 by hydroxy groups. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17754)]
@@ -1278,6 +1501,7 @@ glycineTransporter2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/glycineTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The glycine transporter 2 is a member of the Na+ and Cl−-coupled transporter family SLC6 that recaptures the inhibitory transmitter glycine in the spinal cord and brainstem.
@@ -1294,6 +1518,7 @@ growthFactor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/growthFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'growth factor' comprises signal molecules that are involved in the control of cell growth and differentiation.
@@ -1310,7 +1535,8 @@ halothane
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/molecularEntity/Halothane
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/halothane
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Halothane is a haloalkane comprising ethane having three fluoro substituents at the 1-position as well as bromo- and chloro substituents at the 2-position. It has a role as an inhalation anaesthetic. It is a haloalkane, an organofluorine compound, an organochlorine compound and an organobromine compound.[adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:5615)]
    :name: halothane
@@ -1325,6 +1551,7 @@ histamine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/histamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Histamine is produced by basophils and mast cells (in connective tissues). It is involved in local immune responses and regulating physiological function in the gut and acts as a neurotransmitter (adapted from Wikipedia).
@@ -1342,6 +1569,7 @@ insulinLikeGrowthFactor1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/insulinLikeGrowthFactor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The term 'insulin-like growth factor' names a set of proteins with high sequence similarity to insulin that are part of a complex system that cells use to communicate with their physiologic environment. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Insulin-like_growth_factor)]
@@ -1358,10 +1586,29 @@ intrabody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/intrabody
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: An 'intrabody' is an antibody that works within the cell to bind an intracellular protein.
    :name: intrabody
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+iodine
+------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/iodine
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Iodine (I) is a chemical element with atomic number 53 and belongs to the halogens. [paraphrased from Wikipedia (https://en.wikipedia.org/wiki/Iodine)]
+   :description: Iodine is a chemical element; it has symbol I and atomic number 53. The heaviest of the stable halogens, it exists at standard conditions as a semi-lustrous, non-metallic solid that melts to form a deep violet liquid at 114 °C (237 °F), and boils to a violet gas at 184 °C (363 °F). [adapted from Wikipedia (https://en.wikipedia.org/wiki/Iodine)]
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:24860#iodine-molecular-entity
+   :name: iodine
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_24860
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 
@@ -1372,6 +1619,7 @@ ionotropicGlutamateReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ionotropicGlutamateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Ionotropic glutamate receptors are a class of ligand-gated ion channels that are activated by the neurotransmitter glutamate as endogenous ligand.
@@ -1389,6 +1637,7 @@ iperoxo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/iperoxo
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Iperoxo is an organic chemical molecule that is used as a muscarinic M2 receptor agonist.
@@ -1405,6 +1654,7 @@ iron
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/iron
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Iron is a chemical element; it has symbol Fe (from Latin ferrum 'iron') and atomic number 26. [adapted from wikipedia (https://en.wikipedia.org/wiki/Iron)]
@@ -1422,6 +1672,7 @@ isoflurane
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/isoflurane
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Isoflurane is a stable, non-explosive inhalation anesthetic, relatively free from significant side effects.
@@ -1439,6 +1690,7 @@ kainateReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/kainateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The kainate receptors belong to the class of ionotropic glutamate receptors that can be involved in excitatory neurotransmission (postsynaptic) as well as inhibitory neurotransmission (presynaptic).
@@ -1456,6 +1708,7 @@ kallikrein-relatedPeptidase8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/kallikrein-relatedPeptidase8
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The kallikrein-related peptidase 8 is a protein that is a translation product of the mouse Klk1b8 gene or a 1:1 ortholog thereof.
@@ -1472,6 +1725,7 @@ ketamine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/ketamine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Ketamine is a cyclohexanone derivative used for induction of anesthesia.
@@ -1489,6 +1743,7 @@ luciferYellow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/luciferYellow
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Lucifer yellow is a fluorescent dye used that it can be readily visualized in both living and fixed cells using a fluorescence microscope.
@@ -1500,11 +1755,28 @@ luciferYellow
 
 ------------
 
+magnesiumATP
+------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumATP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: An ATP binded to magnesium ion (Mg2+) to compose biologically functional form, and most of intracellular ATP and Mg2+ assumed to form Mg-ATP complexes. [adapted from Yamanaka et al. Mitochondrial Mg(2+) homeostasis decides cellular energy metabolism and vulnerability to stress. Sci Rep. 2016 Jul 26;6:30027. doi: 10.1038/srep30027]
+   :name: magnesium ATP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/15126
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 magnesiumChloride
 -----------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A magnesium salt comprising of two chlorine atoms bound to a magnesium atom. [adapted from ChEBI (https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:6636)]
@@ -1521,6 +1793,7 @@ magnesiumSulfate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/magnesiumSulfate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A magnesium salt with the formula MgSO4, consisting of magnesium cations Mg2+ (20.19% by mass) and sulfate anions (SO4)2-. [adapted from wikipedia (https://en.wikipedia.org/wiki/Magnesium_sulfate)]
@@ -1538,6 +1811,7 @@ medetomidine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/medetomidine
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Medetomidine is a synthetic drug used as both a surgical anesthetic and analgesic.
@@ -1555,6 +1829,7 @@ metabotropicGlutamateReceptor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Metabotropic glutamate receptors are active through an indirect metabotropic process and respond to glutamate as endogenous ligand.
@@ -1572,6 +1847,7 @@ metabotropicGlutamateReceptor1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The metabotropic glutamate receptor 1 belongs to group I of the MGluR family.
@@ -1588,6 +1864,7 @@ metabotropicGlutamateReceptor2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The metabotropic glutamate receptor 2 belongs to group II of the MGluR family. When activated by its endogenous ligand glutamate, it inhibits the emptying of vesicular contents at the presynaptic terminal of glutamatergic neurons.
@@ -1605,6 +1882,7 @@ metabotropicGlutamateReceptor3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The metabotropic glutamate receptor 3 belongs to group II of the MGluR family. When activated by its endogenous ligand glutamate, it inhibits the emptying of vesicular contents at the presynaptic terminal of glutamatergic neurons.
@@ -1622,6 +1900,7 @@ metabotropicGlutamateReceptor5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/metabotropicGlutamateReceptor5
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The metabotropic glutamate receptor 5 belongs to group I of the MGluR family.
@@ -1638,6 +1917,7 @@ methanol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/methanol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Methanol is an organic chemical and the simplest aliphatic alcohol, with the formula CH3OH (a methyl group linked to a hydroxyl group, often abbreviated as MeOH). [adapted from Wikipedia (https://en.wikipedia.org/wiki/Methanol)]
@@ -1650,11 +1930,29 @@ methanol
 
 ------------
 
+monopotassiumPhosphate
+----------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/monopotassiumPhosphate
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Monopotassium phosphate (MKP) is the inorganic compound with the formula KH2PO4 (potassium cation with a dihydrogen phosphate anion). [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Monopotassium_phosphate)]
+   :description: Monopotassium phosphate, is often used as a fertilizer, food additive, and buffering agent. This salt often cocrystallizes with dipotassium salt as well as with phosphoric acid. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monopotassium_phosphate)]
+   :name: monopotassium phosphate
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_63036
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 monosodiumPhosphate
 -------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/monosodiumPhosphate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Monosodium phosphate (MSP), is an inorganic compound of sodium with a dihydrogen phosphate (H2PO4) anion. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Monosodium_phosphate)]
@@ -1672,6 +1970,7 @@ muscimol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/muscimol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Muscimol is a potent and selective orthosteric agonist for the GABAA receptors and displays sedative-hypnotic, depressant and hallucinogenic psychoactivity
@@ -1688,6 +1987,7 @@ neurobiotin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neurobiotin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Neurobiotin is a biotin derivative with moleular weight 286 kDa that can be used as an anterograde and retrograde tracer in the nervous system.
@@ -1705,6 +2005,7 @@ neuroligin-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neuroligin-3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Neuroligin-3 is a protein that is a translation product of the NLGN3 gene or a 1:1 ortholog thereof.
@@ -1722,6 +2023,7 @@ neuronalNuclearAntigen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neuronalNuclearAntigen
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Neuronal nuclear antigen is a 46/48KD DNA-binding, neuron-specific protein found in nuclei which is present in most vertebrate CNS and PNS neuronal cell types.
@@ -1738,6 +2040,7 @@ neurotrophicFactor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/neurotrophicFactor
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The 'neurotrophic factor' is a family of biomolecules that support growth, survival, and differentiation of both developing and mature neurons.
@@ -1752,6 +2055,7 @@ nickel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/nickel
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Nickel is a chemical element; it has symbol Ni and atomic number 28.
@@ -1768,6 +2072,7 @@ parvalbumin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/parvalbumin
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Parvalbumin is a calcium-binding albumin protein with low molecular weight (typically 9-11 kDa).
@@ -1785,6 +2090,7 @@ pentobarbital
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbital
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A member of the class of barbiturates, the structure of which is that of barbituric acid substituted at C-5 by ethyl and sec-pentyl groups.
@@ -1803,6 +2109,7 @@ pentobarbitalSodium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/pentobarbitalSodium
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Sodium salt of pentobarbital, which is most common form of pentobarbital.
@@ -1813,11 +2120,29 @@ pentobarbitalSodium
 
 ------------
 
+phosphocreatineSodium
+---------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/phosphocreatineSodium
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Phosphocreatine sodium is a compound of two sodiums with a phosphocreatine molecule.
+   :description: Phosphocreatine is a phosphorylated form of creatine that serves as a rapidly mobilizable reserve of high-energy phosphates in skeletal muscle, myocardium and the brain to recycle ATP. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Phosphocreatine)]
+   :name: phosphocreatine sodium
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/9571077
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 potassiumChloride
 -----------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A metal chloride salt with a K(+) counterion.
@@ -1836,6 +2161,7 @@ potassiumGluconate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/potassiumGluconate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Potassium gluconate is the potassium salt of the conjugate base of gluconic acid.
@@ -1852,10 +2178,11 @@ propofol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/propofol
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: An intravenous anesthetic agent which has the advantage of a very rapid onset after infusion or bolus injection plus a very short recovery period of a couple of minutes. (From Smith and Reynard, Textbook of Pharmacology, 1992, 1st ed, p206)
-   :description: Pharmacology: Propofol a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation). Mechanism of action: The action of propofol involves a positive modulation of the inhibitory function of the neurotransmitter gama-aminobutyric acid(GABA) through GABA-A receptors. Drug type: Approved. Investigational. Small Molecule. Drug category: Anesthetics, Intravenous. Anticonvulsants. Antiemetics. Free Radical Scavengers. Hypnotics and Sedatives
+   :description: Pharmacology: Propofol a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation). Mechanism of action: The action of propofol involves a positive modulation of the inhibitory function of the neurotransmitter gama-aminobutyric acid(GABA) through GABA-A receptors. Drug type: Approved. Investigational. Small Molecule. Drug category: Anesthetics, Intravenous. Anticonvulsants. Antiemetics. Free Radical Scavengers. Hypnotics and Sedatives.
    :interlexIdentifier: http://uri.interlex.org/ilx_0109431
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:44915#propofol
    :name: propofol
@@ -1870,6 +2197,7 @@ siliconDioxide
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/siliconDioxide
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Silicon dioxide, also known as silica, is an oxide of silicon with the chemical formula SiO2, commonly found in nature as quartz.
@@ -1886,6 +2214,7 @@ silverAmmonium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverAmmonium
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Silver ammonium is an inorganic compound with chemical formula AgNH4.
@@ -1901,6 +2230,7 @@ silverNitrate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/silverNitrate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Silver nitrate is an inorganic compound with chemical formula AgNO3.
@@ -1912,11 +2242,28 @@ silverNitrate
 
 ------------
 
+sodiumATP
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumATP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Sodium ATP is a compound of sodium and an ATP molecule.
+   :name: sodium ATP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/23675355
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 sodiumBicarbonate
 -----------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumBicarbonate
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A white, crystalline powder that is commonly used as a pH buffering agent, an electrolyte replenisher, systemic alkalizer and in topical cleansing solutions.
@@ -1933,6 +2280,7 @@ sodiumChloride
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumChloride
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Sodium chloride commonly known as table salt, is an ionic compound with the chemical formula NaCl, representing a 1:1 ratio of sodium and chloride ions.
@@ -1944,11 +2292,45 @@ sodiumChloride
 
 ------------
 
+sodiumGTP
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/sodiumGTP
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Sodium GTP is a compound of sodium and a GTP molecule.
+   :name: sodium GTP
+   :preferredOntologyIdentifier: https://pubchem.ncbi.nlm.nih.gov/compound/136636089
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+strychnine
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/strychnine
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Strychnine is a highly toxic, colorless, bitter, crystalline alkaloid. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Strychnine)]
+   :description: Strychnine is used as a pesticide, particularly for killing small vertebrates such as birds and rodents. Strychnine, when inhaled, swallowed, or absorbed through the eyes or mouth, causes poisoning which results in muscular convulsions and eventually death through asphyxia. While it is no longer used medicinally, it was used historically in small doses to strengthen muscle contractions. The most common source is from the seeds of the Strychnos nux-vomica tree.  [adapted from Wikipedia (https://en.wikipedia.org/wiki/Strychnine)]
+   :name: strychnine
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_28973
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
 sucrose
 -------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/sucrose
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: A nonreducing disaccharide composed of GLUCOSE and FRUCTOSE linked via their anomeric carbons. It is obtained commercially from SUGARCANE, sugar beet (BETA VULGARIS), and other plants and used extensively as a food and a sweetener.
@@ -1966,6 +2348,7 @@ tungsten
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/tungsten
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: Tungsten (also called wolfram) is a chemical element; it has symbol W and atomic number 74.
@@ -1982,6 +2365,7 @@ vesicularGlutamateTransporter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The vesicular glutamate transporters are a subclass of glutamate transporters that move glutamate from the cell cytoplasm into synaptic vesicles.
@@ -1996,6 +2380,7 @@ vesicularGlutamateTransporter1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter1
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The vesicular glutamate transporter 1 belongs to the VGLUT family. It is preferentially associated with the membranes of synaptic vesicles and functions in glutamate transport.
@@ -2013,6 +2398,7 @@ vesicularGlutamateTransporter2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter2
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The vesicular glutamate transporter 2 belongs to the VGLUT family. It mediates the uptake of glutamate into synaptic vesicles at presynaptic nerve terminals of excitatory neural cells.
@@ -2030,6 +2416,7 @@ vesicularGlutamateTransporter3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/vesicularGlutamateTransporter3
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: The vesicular glutamate transporter 3 belongs to the VGLUT family. It transports the neurotransmitter glutamate into synaptic vesicles before it is released into the synaptic cleft.
@@ -2046,6 +2433,7 @@ water
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/molecularEntity/water
    :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
    :definition: An oxygen hydride consisting of an oxygen atom that is covalently bonded to two hydrogen atoms.
@@ -2054,6 +2442,23 @@ water
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/CHEBI:15377#water
    :name: water
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_15377
+
+`BACK TO TOP <Terminologies: MolecularEntity library_>`_
+
+------------
+
+xenon
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/molecularEntity/xenon
+   :@type: https://openminds.ebrains.eu/controlledTerms/MolecularEntity
+   :definition: Xenon (Xe) is a chemical element with atomic number 54 and belongs to the noble gases. [paraphrased from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]
+   :description: Xenon is a chemical element; it has symbol Xe and atomic number 54. It is a dense, colorless, odorless noble gas found in Earth's atmosphere in trace amounts. Although generally unreactive, it can undergo a few chemical reactions such as the formation of xenon hexafluoroplatinate, the first noble gas compound to be synthesized. [adapted from Wikipedia (https://en.wikipedia.org/wiki/Xenon)]
+   :name: xenon
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_36910
 
 `BACK TO TOP <Terminologies: MolecularEntity library_>`_
 

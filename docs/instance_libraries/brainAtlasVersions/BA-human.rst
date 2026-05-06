@@ -13,6 +13,7 @@ BA-human_1909
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/BA-human_1909
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: BA-human

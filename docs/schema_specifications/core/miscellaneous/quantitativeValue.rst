@@ -34,7 +34,7 @@ Distinct technique used to quantify the uncertainty of a measurement.
    :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
    :value type: | linked object of type
                 | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
-   :instructions: Add the type of uncertainty used to determine the uncertainity for this quantitative value.
+   :instructions: Add the type of uncertainty used to determine the uncertainty for this quantitative value.
 
 `BACK TO TOP <QuantitativeValue_>`_
 

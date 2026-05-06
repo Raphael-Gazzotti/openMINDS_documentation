@@ -13,6 +13,7 @@ primary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cellCultureType/primary
    :@type: https://openminds.ebrains.eu/controlledTerms/CellCultureType
    :definition: A cell culture comprised of primary cultured cells and the media in which they are being actively propagated or quiescently stored.
@@ -29,6 +30,7 @@ secondary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cellCultureType/secondary
    :@type: https://openminds.ebrains.eu/controlledTerms/CellCultureType
    :definition: A cultured cell population that is derived through one or more passages in culture.

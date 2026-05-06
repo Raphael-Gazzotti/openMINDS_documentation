@@ -13,6 +13,7 @@ MRIPulseSequence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/MRIPulseSequence
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: An 'MRI pulse sequence' is a particular setting of pulse sequences and pulsed field gradients, resulting in a particular image appearance [adapted from [Wikipedia](https://en.wikipedia.org/wiki/MRI_pulse_sequence)].
@@ -27,6 +28,7 @@ MRIWeighting
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/MRIWeighting
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: Class of imaging techniques where the image contrast is generated from a specific intrinsic tissue parameter (T1, T2, etc.).
@@ -41,6 +43,7 @@ UBERONParcellation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/UBERONParcellation
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: UBERON parcellation
@@ -54,6 +57,7 @@ actionStatusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/actionStatusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: action status type
@@ -67,6 +71,7 @@ ageCategory
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/ageCategory
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The age category describes a specific spatiotemporal part of the life cycle of an organism.
@@ -82,6 +87,7 @@ analysisTechnique
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/analysisTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: analysis technique
@@ -95,6 +101,7 @@ anatomicalAxesOrientation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/anatomicalAxesOrientation
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: anatomical axes orientation
@@ -108,6 +115,7 @@ anatomicalIdentificationType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/anatomicalIdentificationType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The type of identiciation that was used to determine an anatomical location.
@@ -122,6 +130,7 @@ anatomicalPlane
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/anatomicalPlane
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A flat anatomical 2D surface that bisects an anatomical structure or an anatomical space.
@@ -138,6 +147,7 @@ annotationCriteriaType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/annotationCriteriaType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: General classification of how data were annotated.
@@ -152,6 +162,7 @@ annotationType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/annotationType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: Geometrical classification of annotations into types.
@@ -166,6 +177,7 @@ atlasType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/atlasType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: atlas type
@@ -179,6 +191,7 @@ auditoryStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/auditoryStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: An 'auditory stimulus type' groups similar auditory stimuli used across auditory stimulation techniques.
@@ -193,6 +206,7 @@ biologicalOrder
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/biologicalOrder
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: biological order
@@ -206,6 +220,7 @@ biologicalSex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/biologicalSex
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: biological sex
@@ -219,6 +234,7 @@ breedingType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/breedingType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The breeding type describes how plants or animals have been sexually propagated.
@@ -233,6 +249,7 @@ cellCultureType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/cellCultureType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The type of a cell culture (e.g. primary, secondary)
@@ -247,6 +264,7 @@ cellType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/cellType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: cell type
@@ -260,6 +278,7 @@ chemicalMixtureType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/chemicalMixtureType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A 'chemical mixture type' groups all mixtures with the same chemical and physical characteristics under a general term.
@@ -274,6 +293,7 @@ colormap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/colormap
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A colormap is a lookup table specifying the colors to be used in rendering a palettized image, [adapted from [Wiktionary](https://en.wiktionary.org/wiki/colormap)].
@@ -288,8 +308,11 @@ contributionType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/contributionType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
+   :definition: A functional role characterized by a specific activity or responsibility realized by a role-bearing entity in relation to a target entity and its life cycle.
+   :description: A contribution type denotes a functional role realized by a role-bearing entity, which may be a person, organization, consortium, hardware system, software system, service, or another entity capable of performing an activity or assuming a responsibility. The activity or responsibility is directed toward a target entity, which may represent a wide range of entities such as a person, specimen, dataset, software system, model, document, infrastructure component, or another resource.
    :name: contribution type
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -301,7 +324,8 @@ cranialWindowConstructionType
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/terminology/CranialWindowConstructionType
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/terminology/cranialWindowConstructionType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The construction type of a cranial window.
    :name: cranial window construction type
@@ -315,7 +339,8 @@ cranialWindowReinforcementType
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/terminology/CranialWindowReinforcementType
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/terminology/cranialWindowReinforcementType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The reinforcement type of a cranial window.
    :name: cranial window reinforcement type
@@ -329,6 +354,7 @@ criteriaQualityType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/criteriaQualityType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: criteria quality type
@@ -342,6 +368,7 @@ dataType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/dataType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: data type
@@ -355,6 +382,7 @@ deviceType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/deviceType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: device type
@@ -368,6 +396,7 @@ differenceMeasure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/differenceMeasure
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A measure of the difference between two things
@@ -383,6 +412,7 @@ disease
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/disease
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: disease
@@ -396,6 +426,7 @@ diseaseModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/diseaseModel
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: disease model
@@ -409,6 +440,7 @@ educationalLevel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/educationalLevel
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: An 'educational level' defines the developmental stage of a student and how learning environments are structured.
@@ -423,6 +455,7 @@ electricalStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/electricalStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: An 'electrical stimulus type' groups similar electrical stimuli used across electrical stimulation techniques.
@@ -437,6 +470,7 @@ ethicsAssessment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/ethicsAssessment
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: ethics assessment
@@ -450,6 +484,7 @@ experimentalApproach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/experimentalApproach
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: experimental approach
@@ -463,6 +498,7 @@ fileBundleGrouping
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/fileBundleGrouping
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: file bundle grouping
@@ -476,6 +512,7 @@ fileRepositoryType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/fileRepositoryType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: file repository type
@@ -489,6 +526,7 @@ fileUsageRole
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/fileUsageRole
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: file usage role
@@ -502,6 +540,7 @@ geneticStrainType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/geneticStrainType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The genetic strain type describes the genetic background type of a strain.
@@ -516,6 +555,7 @@ gustatoryStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/gustatoryStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A 'gustatory stimulus type' groups similar gustatory stimuli used across gustatory stimulation techniques.
@@ -530,6 +570,7 @@ handedness
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/handedness
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: handedness
@@ -543,6 +584,7 @@ language
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/language
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: language
@@ -556,6 +598,7 @@ laterality
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/laterality
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: laterality
@@ -569,6 +612,7 @@ learningResourceType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/learningResourceType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A 'learning resource type' groups persistent resources that explicitly entail learning activities or learning experiences in a certain format (e.g., in a physical or digital presentation).
@@ -583,10 +627,26 @@ measuredQuantity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/measuredQuantity
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A qualified physical quantity that was measured/recorded
    :name: measured quantity
+
+`BACK TO TOP <Terminologies: Terminology library_>`_
+
+------------
+
+measuredSignalType
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/terminology/measuredSignalType
+   :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
+   :definition: The types of biological electrical and non-electrical signals that vary in time and/or space and can be measured.
+   :name: measured signal type
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
 
@@ -597,6 +657,7 @@ metaDataModelType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/metaDataModelType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: (meta)data model type
@@ -610,6 +671,7 @@ modelAbstractionLevel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/modelAbstractionLevel
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: model abstraction level
@@ -623,6 +685,7 @@ modelScope
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/modelScope
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: model scope
@@ -636,6 +699,7 @@ molecularEntity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/molecularEntity
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity.
@@ -653,6 +717,7 @@ olfactoryStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/olfactoryStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: An 'olfactory stimulus type' groups similar olfactory stimuli used across olfactory stimulation techniques.
@@ -667,6 +732,7 @@ operatingDevice
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/operatingDevice
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: operating device
@@ -680,6 +746,7 @@ operatingSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/operatingSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: operating system
@@ -693,6 +760,7 @@ opticalStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/opticalStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: An 'optical stimulus type' groups similar optical stimuli used across optical stimulation techniques.
@@ -707,10 +775,11 @@ organ
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/organ
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
-   :definition: Anatomical structure that performs a specific function or group of functions.
-   :description: The preferred ontology for 'organ' is UBERON.
+   :definition: Terminology defining whole anatomical organs that function as discrete structural and functional units within an organism.
+   :description: This terminology includes complete organs composed of multiple coordinated tissue types organized into a distinct anatomical entity. Only whole organs are included, excluding internal parts or subdivisions of organs. Examples include the heart, liver, lung, and kidney. These entities represent the primary functional units within many biological systems. The terminology provides a standardized reference set for complete organs across species.
    :name: organ
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/UBERON_0000062
 
@@ -723,10 +792,11 @@ organismSubstance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/organismSubstance
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
-   :definition: Any material anatomical entity in a gaseous, liquid, semisolid or solid state produced by or derived from an organism or parts of an organism.
-   :description: The preferred ontology for 'organism substance' is UBERON.
+   :definition: Terminology defining biological substances produced by or contained within an organism.
+   :description: This terminology includes naturally occurring materials or substances that exist within anatomical contexts of an organism. These may include fluids, secreted substances, or other biological materials associated with tissues or organs. The terms represent substances rather than structural anatomical entities. Examples may include biological fluids or mineralized materials produced by tissues. The terminology enables representation of organism-derived substances in anatomical datasets.
    :name: organism substance
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -738,9 +808,11 @@ organismSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/organismSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
-   :definition: Any anatomical or functional system in an organism, regardless of scale.
+   :definition: Terminology defining biological systems composed of multiple interacting anatomical structures that together perform a major physiological function.
+   :description: This terminology includes coordinated groups of organs and structures that operate collectively to carry out essential biological processes. Examples include the nervous system, digestive system, and circulatory system. These systems organize anatomical structures into functional frameworks. The terminology represents high-level biological organization within the body. It supports cross-species representation of major physiological systems.
    :name: organism system
 
 `BACK TO TOP <Terminologies: Terminology library_>`_
@@ -752,6 +824,7 @@ patchClampVariation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/patchClampVariation
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A variation of the patch clamp technique
@@ -766,6 +839,7 @@ preparationType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/preparationType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: preparation type
@@ -779,6 +853,7 @@ productAccessibility
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/productAccessibility
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: product accessibility
@@ -792,6 +867,7 @@ programmingLanguage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/programmingLanguage
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: programming language
@@ -805,6 +881,7 @@ qualitativeOverlap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/qualitativeOverlap
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: qualitative overlap
@@ -818,6 +895,7 @@ semanticDataType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/semanticDataType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: semantic data type
@@ -831,6 +909,7 @@ service
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/service
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: service
@@ -844,6 +923,7 @@ setupType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/setupType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: The setup type describes the overall purpose of arranging equipment in a certain way (setup).
@@ -858,6 +938,7 @@ softwareApplicationCategory
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/softwareApplicationCategory
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: software application category
@@ -871,6 +952,7 @@ softwareFeature
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/softwareFeature
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: software feature
@@ -884,6 +966,7 @@ species
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/species
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: species
@@ -897,6 +980,7 @@ stimulationApproach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/stimulationApproach
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: stimulation approach
@@ -910,6 +994,7 @@ stimulationTechnique
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/stimulationTechnique
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: stimulation technique
@@ -923,6 +1008,7 @@ subcellularEntity
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/subcellularEntity
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: Entity derived from a cell or cells. The anatomical scale of these objects roughly corresponds to that which would be visible in high resolution light microscopy or conventional electron microscopy, e.g., nanometers to microns
@@ -940,6 +1026,7 @@ subjectAttribute
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/subjectAttribute
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: subject attribute
@@ -953,6 +1040,7 @@ tactileStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/tactileStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A 'tactile stimulus type' groups similar tactile stimuli used across tactile stimulation techniques.
@@ -967,6 +1055,7 @@ technique
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/technique
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: technique
@@ -980,6 +1069,7 @@ tissueSampleAttribute
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/tissueSampleAttribute
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: tissue sample attribute
@@ -993,6 +1083,7 @@ tissueSampleType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/tissueSampleType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: tissue sample type
@@ -1006,6 +1097,7 @@ typeOfUncertainty
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/typeOfUncertainty
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: type of uncertainty
@@ -1019,6 +1111,7 @@ unitOfMeasurement
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/unitOfMeasurement
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :name: unit of measurement
@@ -1032,6 +1125,7 @@ visualStimulusType
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/terminology/visualStimulusType
    :@type: https://openminds.ebrains.eu/controlledTerms/Terminology
    :definition: A 'visual stimulus type' groups similar visual stimuli used across visual stimulation techniques.

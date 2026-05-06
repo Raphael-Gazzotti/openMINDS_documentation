@@ -13,6 +13,7 @@ EUCompliant+
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant+
    :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
    :definition: Data are ethically approved in compliance with EU law and an additional assessment was made by the data sharing initiative.
@@ -28,6 +29,7 @@ EUCompliant
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/EUCompliant
    :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
    :definition: Data are ethically approved in compliance with EU law. No additional ethics assessment was made by the data sharing initiative.
@@ -38,11 +40,27 @@ EUCompliant
 
 ------------
 
+USCompliant
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/USCompliant
+   :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
+   :definition: Data are ethically approved in compliance with the laws of the United States of America. No additional ethics assessment was made by the data sharing initiative.
+   :name: US compliant
+
+`BACK TO TOP <Terminologies: EthicsAssessment library_>`_
+
+------------
+
 notRequired
 -----------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/ethicsAssessment/notRequired
    :@type: https://openminds.ebrains.eu/controlledTerms/EthicsAssessment
    :definition: An ethics assessment is 'not required' when no ethics approval was needed to conduct the study.

@@ -13,6 +13,7 @@ DWMA_2018_anteriorSegementOfArcuateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_anteriorSegementOfArcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -30,6 +31,7 @@ DWMA_2018_corticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_corticospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -47,6 +49,7 @@ DWMA_2018_directSegementOfArcuateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_directSegementOfArcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -64,6 +67,7 @@ DWMA_2018_fornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_fornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -81,6 +85,7 @@ DWMA_2018_inferiorFronto-occipitalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_inferiorFronto-occipitalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -98,6 +103,7 @@ DWMA_2018_inferiorLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_inferiorLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -115,6 +121,7 @@ DWMA_2018_longCingulateFibres
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_longCingulateFibres
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -132,6 +139,7 @@ DWMA_2018_posteriorSegementOfArcuateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_posteriorSegementOfArcuateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -149,6 +157,7 @@ DWMA_2018_shortCingulateFibres
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_shortCingulateFibres
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -166,6 +175,7 @@ DWMA_2018_temporalCingulateFibres
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_temporalCingulateFibres
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -183,6 +193,7 @@ DWMA_2018_uncinateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/DWMA_2018_uncinateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON

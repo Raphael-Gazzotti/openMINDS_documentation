@@ -8,6 +8,7 @@ ParcellationEntities
 - `DKA <parcellationEntities/DKA.html>`_
 - `DWMA <parcellationEntities/DWMA.html>`_
 - `JBA <parcellationEntities/JBA.html>`_
+- `MarmosetNMA <parcellationEntities/MarmosetNMA.html>`_
 - `PW-RBSC-cor <parcellationEntities/PW-RBSC-cor.html>`_
 - `SwansonBM <parcellationEntities/SwansonBM.html>`_
 - `SWMA <parcellationEntities/SWMA.html>`_
@@ -21,6 +22,7 @@ ParcellationEntities
    parcellationEntities/DKA
    parcellationEntities/DWMA
    parcellationEntities/JBA
+   parcellationEntities/MarmosetNMA
    parcellationEntities/PW-RBSC-cor
    parcellationEntities/SwansonBM
    parcellationEntities/SWMA

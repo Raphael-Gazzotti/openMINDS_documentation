@@ -13,6 +13,7 @@ BA-human_BA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA1
@@ -31,6 +32,7 @@ BA-human_BA10
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA10
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA10
@@ -49,6 +51,7 @@ BA-human_BA11
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA11
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA11
@@ -67,6 +70,7 @@ BA-human_BA12
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA12
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA12
@@ -85,6 +89,7 @@ BA-human_BA13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA13
@@ -103,6 +108,7 @@ BA-human_BA14
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA14
@@ -121,6 +127,7 @@ BA-human_BA15
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA15
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA15
@@ -139,6 +146,7 @@ BA-human_BA16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA16
@@ -157,6 +165,7 @@ BA-human_BA17
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA17
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA17
@@ -175,6 +184,7 @@ BA-human_BA18
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA18
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA18
@@ -193,6 +203,7 @@ BA-human_BA19
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA19
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA19
@@ -211,6 +222,7 @@ BA-human_BA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA2
@@ -229,6 +241,7 @@ BA-human_BA20
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA20
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA20
@@ -247,6 +260,7 @@ BA-human_BA21
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA21
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA21
@@ -265,6 +279,7 @@ BA-human_BA22
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA22
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA22
@@ -283,6 +298,7 @@ BA-human_BA23
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA23
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA23
@@ -301,6 +317,7 @@ BA-human_BA24
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA24
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA24
@@ -319,6 +336,7 @@ BA-human_BA25
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA25
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA25
@@ -337,6 +355,7 @@ BA-human_BA26
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA26
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA26
@@ -355,6 +374,7 @@ BA-human_BA27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA27
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA27
@@ -373,6 +393,7 @@ BA-human_BA28
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA28
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA28
@@ -391,6 +412,7 @@ BA-human_BA29
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA29
@@ -409,6 +431,7 @@ BA-human_BA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA3
@@ -427,6 +450,7 @@ BA-human_BA30
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA30
@@ -445,6 +469,7 @@ BA-human_BA31
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA31
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA31
@@ -463,6 +488,7 @@ BA-human_BA32
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA32
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA32
@@ -481,6 +507,7 @@ BA-human_BA33
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA33
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA33
@@ -499,6 +526,7 @@ BA-human_BA34
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA34
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA34
@@ -517,6 +545,7 @@ BA-human_BA35
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA35
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA35
@@ -535,6 +564,7 @@ BA-human_BA36
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA36
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA36
@@ -553,6 +583,7 @@ BA-human_BA37
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA37
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA37
@@ -571,6 +602,7 @@ BA-human_BA38
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA38
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA38
@@ -589,6 +621,7 @@ BA-human_BA39
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA39
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA39
@@ -607,6 +640,7 @@ BA-human_BA4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA4
@@ -625,6 +659,7 @@ BA-human_BA40
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA40
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA40
@@ -643,6 +678,7 @@ BA-human_BA41
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA41
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA41
@@ -661,6 +697,7 @@ BA-human_BA42
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA42
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA42
@@ -679,6 +716,7 @@ BA-human_BA43
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA43
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA43
@@ -697,6 +735,7 @@ BA-human_BA44
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA44
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA44
@@ -715,6 +754,7 @@ BA-human_BA45
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA45
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA45
@@ -733,6 +773,7 @@ BA-human_BA46
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA46
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA46
@@ -751,6 +792,7 @@ BA-human_BA47
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA47
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA47
@@ -769,6 +811,7 @@ BA-human_BA48
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA48
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA48
@@ -787,6 +830,7 @@ BA-human_BA5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA5
@@ -805,6 +849,7 @@ BA-human_BA52
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA52
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA52
@@ -823,6 +868,7 @@ BA-human_BA6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA6
@@ -841,6 +887,7 @@ BA-human_BA7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA7
@@ -859,6 +906,7 @@ BA-human_BA8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA8
@@ -877,6 +925,7 @@ BA-human_BA8a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA8a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA8a
@@ -895,6 +944,7 @@ BA-human_BA9
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_BA9
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BA9
@@ -913,6 +963,7 @@ BA-human_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/BA-human_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cortex

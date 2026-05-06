@@ -37,6 +37,7 @@ ParcellationEntityVersions
 - `JBA_v3.0.3-Colin27 <parcellationEntityVersions/JBA_v3.0.3-Colin27.html>`_
 - `JBA_v3.0.3-fsaverage <parcellationEntityVersions/JBA_v3.0.3-fsaverage.html>`_
 - `JBA_v3.0.3-MNI152 <parcellationEntityVersions/JBA_v3.0.3-MNI152.html>`_
+- `MarmosetNMA_v1 <parcellationEntityVersions/MarmosetNMA_v1.html>`_
 - `PW-RBSC-cor_6th-ed <parcellationEntityVersions/PW-RBSC-cor_6th-ed.html>`_
 - `SwansonBM_3rd-ed <parcellationEntityVersions/SwansonBM_3rd-ed.html>`_
 - `WHSSDatlas_v1.01 <parcellationEntityVersions/WHSSDatlas_v1.01.html>`_
@@ -82,6 +83,7 @@ ParcellationEntityVersions
    parcellationEntityVersions/JBA_v3.0.3-Colin27
    parcellationEntityVersions/JBA_v3.0.3-fsaverage
    parcellationEntityVersions/JBA_v3.0.3-MNI152
+   parcellationEntityVersions/MarmosetNMA_v1
    parcellationEntityVersions/PW-RBSC-cor_6th-ed
    parcellationEntityVersions/SwansonBM_3rd-ed
    parcellationEntityVersions/WHSSDatlas_v1.01

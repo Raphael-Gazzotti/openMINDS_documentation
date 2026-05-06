@@ -13,6 +13,7 @@ standardDeviation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardDeviation
    :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
    :name: standard deviation
@@ -26,6 +27,7 @@ standardError
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/typeOfUncertainty/standardError
    :@type: https://openminds.ebrains.eu/controlledTerms/TypeOfUncertainty
    :name: standard error

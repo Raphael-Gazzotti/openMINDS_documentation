@@ -13,6 +13,7 @@ AAL1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/AAL1
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: AAL1
@@ -32,6 +33,7 @@ AMBA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/AMBA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: AMBA
@@ -50,6 +52,7 @@ AsegAtlas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/AsegAtlas
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: Aseg Atlas
@@ -68,6 +71,7 @@ BA-human
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/BA-human
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: BA-human
@@ -86,6 +90,7 @@ DKA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/DKA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: DKA
@@ -103,6 +108,7 @@ DWMA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/DWMA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: DWMA
@@ -121,7 +127,8 @@ JBA
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/brainAtlas/Julich-BrainAtlas
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/JBA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: JBA
    :description: The Julich-Brain Atlas is a three-dimensional atlas of the human brain. It integrates high-resolution cytoarchitectonic maps with microstructural and connectivity data as well as neurotransmitter receptor expression profiles and functional data. It is available in the common reference spaces MNI ICBM 152 (2009c Nonlinear Asymmetric), Colin 27 and FreeSurfer fsaverage surface space.  Furthermore, many maps are also available in the BigBrain high-resolution reference space. It is continuously expanded and openly accessible for researchers to systematically integrate multi-level data. It is interoperable in a way that it can be linked with other brain parcellations, databases and mapping projects. The Julich Brain Atlas offers a powerful tool for neuroscience and medicine alike and has been adopted as central element of the multilevel human brain atlas for the EBRAINS infrastructure, see [EBRAINS Human Brain Atlas](https://www.ebrains.eu/tools/human-brain-atlas).
@@ -138,11 +145,34 @@ JBA
 
 ------------
 
+MarmosetNMA
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/brainAtlas/MarmosetNMA
+   :@type: https://openminds.ebrains.eu/sands/BrainAtlas
+   :abbreviation: MarmosetNMA
+   :description: The Marmoset Nencki-Monash Atlas is a three dimensional (3D) probabilistic brain atlas reconstructed from 20 young adult marmoset monkeys (Callithrix jacchus) and segmented based on the cytoarchitectonic analysis of the serial Nissl-stained sections of those brains.
+   :fullName: Marmoset Nencki-Monash Probabilistic Cytoarchitectonic Brain Atlas
+   :hasTerminology: `cf. respective parcellationEntities <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/MarmosetNMA.html>`_
+   :hasVersion: `cf. respective brainAtlasVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/brainAtlasVersions/MarmosetNMA.html>`_
+   :homepage: https://www.marmosetbrain.org/
+   :howToCite: Please refer to the atlas by its [RRID:SCR_018367](https://scicrunch.org/resolver/SCR_018367), and cite the publication of the version of the template you have used.
+   :shortName: Marmoset Nencki-Monash Atlas
+   :usedSpecies: `callithrixJacchus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/species.html#callithrixjacchus>`_
+
+`BACK TO TOP <BrainAtlases library_>`_
+
+------------
+
 PW-RBSC-cor
 -----------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/PW-RBSC-cor
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: PW-RBSC-cor
@@ -162,6 +192,7 @@ SWMA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/SWMA
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: SWMA
@@ -180,6 +211,7 @@ Schaefer-400p
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/Schaefer-400p
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: Schaefer-400p
@@ -199,6 +231,7 @@ SwansonBM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/SwansonBM
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: SwansonBM
@@ -214,11 +247,12 @@ SwansonBM
 
 ------------
 
-WHSSD
------
+WHSSDatlas
+----------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlas/WHSSDatlas
    :@type: https://openminds.ebrains.eu/sands/BrainAtlas
    :abbreviation: WHSSDatlas

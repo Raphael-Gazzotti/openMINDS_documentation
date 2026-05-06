@@ -13,6 +13,7 @@ chlorideReversalPotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/chlorideReversalPotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: The reversal potential for chloride ions.
@@ -27,6 +28,7 @@ compensationCurrent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/compensationCurrent
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: Current injected into a cell to maintain the membrane potential at a target value.
@@ -41,6 +43,7 @@ holdingPotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/holdingPotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: Measured membrane potential during a voltage-clamp protocol.
@@ -55,6 +58,7 @@ inputResistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/inputResistance
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: Total resistance observed by the amplifier during an electrophysiological recording.
@@ -69,6 +73,7 @@ liquidJunctionPotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/liquidJunctionPotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: A potential difference that develops when two solutions of electrolytes of different concentrations are in contact with each other.
@@ -83,6 +88,7 @@ membranePotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/membranePotential
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
@@ -99,6 +105,7 @@ sealResistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/sealResistance
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: Resistance of the seal between the pipette tip and cell membrane in patch-clamp recording.
@@ -113,6 +120,7 @@ seriesResistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/measuredQuantity/seriesResistance
    :@type: https://openminds.ebrains.eu/controlledTerms/MeasuredQuantity
    :definition: Resistance of the electrode during an electrophysiological recording.

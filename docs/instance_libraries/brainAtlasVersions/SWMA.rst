@@ -13,6 +13,7 @@ SWMA_2018
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/SWMA_2018
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: SWMA

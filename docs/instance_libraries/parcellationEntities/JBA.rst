@@ -13,6 +13,7 @@ JBA_AcbL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_AcbL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventralstriatum>`_
@@ -29,6 +30,7 @@ JBA_AcbM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_AcbM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventralstriatum>`_
@@ -45,6 +47,7 @@ JBA_Area-1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
@@ -61,6 +64,7 @@ JBA_Area-2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
@@ -77,6 +81,7 @@ JBA_Area-25.25a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25.25a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-25 <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-25>`_
@@ -93,6 +98,7 @@ JBA_Area-25.25p
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25.25p
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-25 <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-25>`_
@@ -109,6 +115,7 @@ JBA_Area-25
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-25
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -125,6 +132,7 @@ JBA_Area-33
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-33
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -141,6 +149,7 @@ JBA_Area-3a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-3a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
@@ -157,6 +166,7 @@ JBA_Area-3b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-3b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_postcentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-postcentralgyrus>`_
@@ -173,6 +183,7 @@ JBA_Area-44
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-44
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalgyrus>`_
@@ -189,6 +200,7 @@ JBA_Area-45
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-45
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalgyrus>`_
@@ -205,6 +217,7 @@ JBA_Area-4a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-4a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-precentralgyrus>`_
@@ -221,6 +234,7 @@ JBA_Area-4p
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-4p
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_precentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-precentralgyrus>`_
@@ -237,6 +251,7 @@ JBA_Area-5Ci
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5Ci
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -253,6 +268,7 @@ JBA_Area-5L
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5L
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -269,6 +285,7 @@ JBA_Area-5M
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-5M
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -285,6 +302,7 @@ JBA_Area-6d1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
@@ -301,6 +319,7 @@ JBA_Area-6d2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dorsalPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsalprecentralgyrus>`_
@@ -317,6 +336,7 @@ JBA_Area-6d3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6d3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
@@ -333,6 +353,7 @@ JBA_Area-6ma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6ma
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_posteriorMedialSuperiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-posteriormedialsuperiorfrontalgyrus>`_
@@ -349,6 +370,7 @@ JBA_Area-6mp
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-6mp
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_mesialPrecentralGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-mesialprecentralgyrus>`_
@@ -365,6 +387,7 @@ JBA_Area-7A
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7A
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -381,6 +404,7 @@ JBA_Area-7M
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7M
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -397,6 +421,7 @@ JBA_Area-7P
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7P
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -413,6 +438,7 @@ JBA_Area-7PC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-7PC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorparietallobule>`_
@@ -429,6 +455,7 @@ JBA_Area-8d1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8d1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalgyrus>`_
@@ -445,6 +472,7 @@ JBA_Area-8d2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8d2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalgyrus>`_
@@ -461,6 +489,7 @@ JBA_Area-8v1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8v1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-middlefrontalgyrus>`_
@@ -477,6 +506,7 @@ JBA_Area-8v2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-8v2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-middlefrontalgyrus>`_
@@ -493,6 +523,7 @@ JBA_Area-CoS1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-CoS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_collateralSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-collateralsulcus>`_
@@ -509,6 +540,7 @@ JBA_Area-FG1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
@@ -525,6 +557,7 @@ JBA_Area-FG2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
@@ -541,6 +574,7 @@ JBA_Area-FG3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
@@ -557,6 +591,7 @@ JBA_Area-FG4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-FG4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fusiformGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fusiformgyrus>`_
@@ -573,6 +608,7 @@ JBA_Area-Fo1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
@@ -589,6 +625,7 @@ JBA_Area-Fo2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
@@ -605,6 +642,7 @@ JBA_Area-Fo3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_medialOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-medialorbitofrontalcortex>`_
@@ -621,6 +659,7 @@ JBA_Area-Fo4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
@@ -637,6 +676,7 @@ JBA_Area-Fo5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
@@ -653,6 +693,7 @@ JBA_Area-Fo6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
@@ -669,6 +710,7 @@ JBA_Area-Fo7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fo7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOrbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateralorbitofrontalcortex>`_
@@ -685,6 +727,7 @@ JBA_Area-Fp1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fp1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalpole>`_
@@ -701,6 +744,7 @@ JBA_Area-Fp2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Fp2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalPole <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalpole>`_
@@ -717,6 +761,7 @@ JBA_Area-IFJ1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFJ1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalsulcus>`_
@@ -733,6 +778,7 @@ JBA_Area-IFJ2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFJ2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalsulcus>`_
@@ -749,6 +795,7 @@ JBA_Area-IFS1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalsulcus>`_
@@ -765,6 +812,7 @@ JBA_Area-IFS2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalsulcus>`_
@@ -781,6 +829,7 @@ JBA_Area-IFS3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalsulcus>`_
@@ -797,6 +846,7 @@ JBA_Area-IFS4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-IFS4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorfrontalsulcus>`_
@@ -813,6 +863,7 @@ JBA_Area-Ia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-agranularinsula>`_
@@ -829,6 +880,7 @@ JBA_Area-Ia1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-agranularinsula>`_
@@ -845,6 +897,7 @@ JBA_Area-Ia2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-agranularinsula>`_
@@ -861,6 +914,7 @@ JBA_Area-Ia3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ia3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_agranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-agranularinsula>`_
@@ -877,6 +931,7 @@ JBA_Area-Id1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -893,6 +948,7 @@ JBA_Area-Id10
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id10
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -909,6 +965,7 @@ JBA_Area-Id2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -925,6 +982,7 @@ JBA_Area-Id3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -941,6 +999,7 @@ JBA_Area-Id4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -957,6 +1016,7 @@ JBA_Area-Id5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -973,6 +1033,7 @@ JBA_Area-Id6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -989,6 +1050,7 @@ JBA_Area-Id7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -1005,6 +1067,7 @@ JBA_Area-Id8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -1021,6 +1084,7 @@ JBA_Area-Id9
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Id9
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dysgranularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dysgranularinsula>`_
@@ -1037,6 +1101,7 @@ JBA_Area-Ig1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
@@ -1053,6 +1118,7 @@ JBA_Area-Ig2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
@@ -1069,6 +1135,7 @@ JBA_Area-Ig3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ig3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_granularInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-granularinsula>`_
@@ -1085,6 +1152,7 @@ JBA_Area-MFG1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-MFG1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-middlefrontalgyrus>`_
@@ -1101,6 +1169,7 @@ JBA_Area-MFG2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-MFG2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fronto-marginalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fronto-marginalsulcus>`_
@@ -1117,6 +1186,7 @@ JBA_Area-OP1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
@@ -1133,6 +1203,7 @@ JBA_Area-OP2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
@@ -1149,6 +1220,7 @@ JBA_Area-OP3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
@@ -1165,6 +1237,7 @@ JBA_Area-OP4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietaloperculum>`_
@@ -1181,6 +1254,7 @@ JBA_Area-OP5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
@@ -1197,6 +1271,7 @@ JBA_Area-OP6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
@@ -1213,6 +1288,7 @@ JBA_Area-OP7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
@@ -1229,6 +1305,7 @@ JBA_Area-OP8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
@@ -1245,6 +1322,7 @@ JBA_Area-OP9
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-OP9
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalOperculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontaloperculum>`_
@@ -1261,6 +1339,7 @@ JBA_Area-PF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1277,6 +1356,7 @@ JBA_Area-PFcm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFcm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1293,6 +1373,7 @@ JBA_Area-PFm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1309,6 +1390,7 @@ JBA_Area-PFop
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFop
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1325,6 +1407,7 @@ JBA_Area-PFt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PFt
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1341,6 +1424,7 @@ JBA_Area-PGa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PGa
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1357,6 +1441,7 @@ JBA_Area-PGp
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-PGp
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_inferiorParietalLobule <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-inferiorparietallobule>`_
@@ -1373,6 +1458,7 @@ JBA_Area-Ph1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parahippocampalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parahippocampalgyrus>`_
@@ -1389,6 +1475,7 @@ JBA_Area-Ph2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parahippocampalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parahippocampalgyrus>`_
@@ -1405,6 +1492,7 @@ JBA_Area-Ph3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-Ph3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parahippocampalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parahippocampalgyrus>`_
@@ -1421,6 +1509,7 @@ JBA_Area-SFS1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-SFS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
@@ -1437,6 +1526,7 @@ JBA_Area-SFS2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-SFS2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorFrontalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiorfrontalsulcus>`_
@@ -1453,6 +1543,7 @@ JBA_Area-STS1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-STS1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
@@ -1469,6 +1560,7 @@ JBA_Area-STS2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-STS2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorTemporalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalsulcus>`_
@@ -1485,6 +1577,7 @@ JBA_Area-TE-1.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
@@ -1501,6 +1594,7 @@ JBA_Area-TE-1.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
@@ -1517,6 +1611,7 @@ JBA_Area-TE-1.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-1.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_HeschlsGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-heschlsgyrus>`_
@@ -1533,6 +1628,7 @@ JBA_Area-TE-2.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-2.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalgyrus>`_
@@ -1549,6 +1645,7 @@ JBA_Area-TE-2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalgyrus>`_
@@ -1565,6 +1662,7 @@ JBA_Area-TE-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TE-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_superiorTemporalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-superiortemporalgyrus>`_
@@ -1581,6 +1679,7 @@ JBA_Area-TI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporalinsula>`_
@@ -1597,6 +1696,7 @@ JBA_Area-TPJ
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TPJ
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporo-parietalJunction <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporo-parietaljunction>`_
@@ -1613,6 +1713,7 @@ JBA_Area-TeI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-TeI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalInsula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporalinsula>`_
@@ -1629,6 +1730,7 @@ JBA_Area-a29
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-a29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-retrosplenialpart>`_
@@ -1645,6 +1747,7 @@ JBA_Area-a30
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-a30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-retrosplenialpart>`_
@@ -1661,6 +1764,7 @@ JBA_Area-hIP1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1677,6 +1781,7 @@ JBA_Area-hIP2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1693,6 +1798,7 @@ JBA_Area-hIP3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1709,6 +1815,7 @@ JBA_Area-hIP4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1725,6 +1832,7 @@ JBA_Area-hIP5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1741,6 +1849,7 @@ JBA_Area-hIP6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1757,6 +1866,7 @@ JBA_Area-hIP7
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP7
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1773,6 +1883,7 @@ JBA_Area-hIP8
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hIP8
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_intraparietalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-intraparietalsulcus>`_
@@ -1789,6 +1900,7 @@ JBA_Area-hOc1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
@@ -1805,6 +1917,7 @@ JBA_Area-hOc2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_occipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitalcortex>`_
@@ -1821,6 +1934,7 @@ JBA_Area-hOc3d
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc3d
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
@@ -1837,6 +1951,7 @@ JBA_Area-hOc3v
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc3v
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
@@ -1853,6 +1968,7 @@ JBA_Area-hOc4d
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4d
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
@@ -1869,6 +1985,7 @@ JBA_Area-hOc4la
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4la
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
@@ -1885,6 +2002,7 @@ JBA_Area-hOc4lp
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4lp
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
@@ -1901,6 +2019,7 @@ JBA_Area-hOc4v
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc4v
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_ventralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventraloccipitalcortex>`_
@@ -1917,6 +2036,7 @@ JBA_Area-hOc5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_lateralOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lateraloccipitalcortex>`_
@@ -1933,6 +2053,7 @@ JBA_Area-hOc6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hOc6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dorsalOccipitalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dorsaloccipitalcortex>`_
@@ -1949,6 +2070,7 @@ JBA_Area-hPO1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-hPO1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parieto-occipitalSulcus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parieto-occipitalsulcus>`_
@@ -1965,6 +2087,7 @@ JBA_Area-i29
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-i29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-retrosplenialpart>`_
@@ -1981,6 +2104,7 @@ JBA_Area-i30
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-i30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-retrosplenialpart>`_
@@ -1997,6 +2121,7 @@ JBA_Area-p24ab
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -2013,6 +2138,7 @@ JBA_Area-p24ab.p24a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab.p24a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-p24ab <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-p24ab>`_
@@ -2029,6 +2155,7 @@ JBA_Area-p24ab.p24b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24ab.p24b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-p24ab <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-p24ab>`_
@@ -2045,6 +2172,7 @@ JBA_Area-p24c
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -2061,6 +2189,7 @@ JBA_Area-p24c.pd24cd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pd24cd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-p24c <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-p24c>`_
@@ -2077,6 +2206,7 @@ JBA_Area-p24c.pd24cv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pd24cv
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-p24c <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-p24c>`_
@@ -2093,6 +2223,7 @@ JBA_Area-p24c.pv24c
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p24c.pv24c
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-p24c <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-p24c>`_
@@ -2109,6 +2240,7 @@ JBA_Area-p29
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p29
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-retrosplenialpart>`_
@@ -2125,6 +2257,7 @@ JBA_Area-p30
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p30
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_retrosplenialPart <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-retrosplenialpart>`_
@@ -2141,6 +2274,7 @@ JBA_Area-p32
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-p32
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -2157,6 +2291,7 @@ JBA_Area-s24
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -2173,6 +2308,7 @@ JBA_Area-s24.s24a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24.s24a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-s24 <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-s24>`_
@@ -2189,6 +2325,7 @@ JBA_Area-s24.s24b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s24.s24b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Area-s24 <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-area-s24>`_
@@ -2205,6 +2342,7 @@ JBA_Area-s32
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Area-s32
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalCingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontalcingulategyrus>`_
@@ -2221,6 +2359,7 @@ JBA_BST
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_BST
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_basalForebrain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-basalforebrain>`_
@@ -2237,6 +2376,7 @@ JBA_CA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2253,6 +2393,7 @@ JBA_CA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2269,6 +2410,7 @@ JBA_CA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2285,6 +2427,7 @@ JBA_CA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CA3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2301,6 +2444,7 @@ JBA_CGL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_metathalamus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-metathalamus>`_
@@ -2317,6 +2461,7 @@ JBA_CGL.lam1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
@@ -2332,6 +2477,7 @@ JBA_CGL.lam2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
@@ -2347,6 +2493,7 @@ JBA_CGL.lam3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
@@ -2362,6 +2509,7 @@ JBA_CGL.lam4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
@@ -2377,6 +2525,7 @@ JBA_CGL.lam5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
@@ -2392,6 +2541,7 @@ JBA_CGL.lam6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGL.lam6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGL <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgl>`_
@@ -2407,6 +2557,7 @@ JBA_CGM.CGMd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgm>`_
@@ -2422,6 +2573,7 @@ JBA_CGM.CGMm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgm>`_
@@ -2437,6 +2589,7 @@ JBA_CGM.CGMv
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM.CGMv
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CGM <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cgm>`_
@@ -2452,6 +2605,7 @@ JBA_CGM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CGM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_metathalamus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-metathalamus>`_
@@ -2468,6 +2622,7 @@ JBA_CM.AAA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.AAA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CM <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cm>`_
@@ -2484,6 +2639,7 @@ JBA_CM.Ce
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.Ce
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CM <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cm>`_
@@ -2500,6 +2656,7 @@ JBA_CM.Me
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM.Me
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_CM <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cm>`_
@@ -2516,6 +2673,7 @@ JBA_CM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_CM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
@@ -2532,6 +2690,7 @@ JBA_Ch-123
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ch-123
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_magnocellularGroup <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-magnocellulargroup>`_
@@ -2548,6 +2707,7 @@ JBA_Ch-4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ch-4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_sublenticularBasalForebrain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-sublenticularbasalforebrain>`_
@@ -2564,6 +2724,7 @@ JBA_DG
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_DG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2580,6 +2741,7 @@ JBA_Dorsal-Dentate-Nucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Dorsal-Dentate-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dentatenucleus>`_
@@ -2596,6 +2758,7 @@ JBA_Entorhinal-Cortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Entorhinal-Cortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2612,6 +2775,7 @@ JBA_Fastigial-Nucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Fastigial-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
@@ -2628,6 +2792,7 @@ JBA_Frontal-I
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-I
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -2644,6 +2809,7 @@ JBA_Frontal-II
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-II
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -2660,6 +2826,7 @@ JBA_Frontal-to-Occipital
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Occipital
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -2676,6 +2843,7 @@ JBA_Frontal-to-Temporal-I
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal-I
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Frontal-to-Temporal <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontal-to-temporal>`_
@@ -2692,6 +2860,7 @@ JBA_Frontal-to-Temporal-II
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal-II
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Frontal-to-Temporal <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontal-to-temporal>`_
@@ -2708,6 +2877,7 @@ JBA_Frontal-to-Temporal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Frontal-to-Temporal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -2724,6 +2894,7 @@ JBA_FuCd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_FuCd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventralstriatum>`_
@@ -2740,6 +2911,7 @@ JBA_FuP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_FuP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_ventralStriatum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-ventralstriatum>`_
@@ -2756,6 +2928,7 @@ JBA_HATA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HATA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2772,6 +2945,7 @@ JBA_HC-Transsubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HC-Transsubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -2788,6 +2962,7 @@ JBA_HeschlsGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_HeschlsGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -2803,6 +2978,7 @@ JBA_IF.ice
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.ice
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_IF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-if>`_
@@ -2819,6 +2995,7 @@ JBA_IF.iol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.iol
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_IF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-if>`_
@@ -2835,6 +3012,7 @@ JBA_IF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
@@ -2851,6 +3029,7 @@ JBA_IF.ld
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_IF.ld
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_IF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-if>`_
@@ -2867,6 +3046,7 @@ JBA_Interposed-Nucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Interposed-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
@@ -2883,6 +3063,7 @@ JBA_LB.Bl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Bl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lb>`_
@@ -2899,6 +3080,7 @@ JBA_LB.Bm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Bm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lb>`_
@@ -2915,6 +3097,7 @@ JBA_LB.La
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.La
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lb>`_
@@ -2931,6 +3114,7 @@ JBA_LB.Pl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB.Pl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_LB <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-lb>`_
@@ -2947,6 +3131,7 @@ JBA_LB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_LB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
@@ -2963,6 +3148,7 @@ JBA_MF.icm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF.icm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_MF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-mf>`_
@@ -2979,6 +3165,7 @@ JBA_MF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
@@ -2995,6 +3182,7 @@ JBA_MF.lm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_MF.lm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_MF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-mf>`_
@@ -3011,6 +3199,7 @@ JBA_SF.AHi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.AHi
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_SF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-sf>`_
@@ -3027,6 +3216,7 @@ JBA_SF.APir
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.APir
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_SF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-sf>`_
@@ -3043,6 +3233,7 @@ JBA_SF.VCo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF.VCo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_SF <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-sf>`_
@@ -3059,6 +3250,7 @@ JBA_SF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_SF
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_amygdaloidGroups <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdaloidgroups>`_
@@ -3075,6 +3267,7 @@ JBA_STN
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_STN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_subthalamus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-subthalamus>`_
@@ -3091,6 +3284,7 @@ JBA_Subiculum.PaS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.PaS
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-subiculum>`_
@@ -3107,6 +3301,7 @@ JBA_Subiculum.PreS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.PreS
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-subiculum>`_
@@ -3123,6 +3318,7 @@ JBA_Subiculum.ProS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.ProS
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-subiculum>`_
@@ -3139,6 +3335,7 @@ JBA_Subiculum.Sub
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum.Sub
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_Subiculum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-subiculum>`_
@@ -3155,6 +3352,7 @@ JBA_Subiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Subiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-hippocampalformation>`_
@@ -3171,6 +3369,7 @@ JBA_Temporal-to-Parietal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Temporal-to-Parietal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -3187,6 +3386,7 @@ JBA_Terminal-islands
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Terminal-islands
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_olfactoryCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-olfactorycortex>`_
@@ -3203,6 +3403,7 @@ JBA_Tuberculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Tuberculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_olfactoryCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-olfactorycortex>`_
@@ -3219,6 +3420,7 @@ JBA_VP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_VP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_basalGanglia <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-basalganglia>`_
@@ -3235,6 +3437,7 @@ JBA_VTM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_VTM
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_fiberMasses <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-fibermasses>`_
@@ -3251,6 +3454,7 @@ JBA_Ventral-Dentate-Nucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_Ventral-Dentate-Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_dentateNucleus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-dentatenucleus>`_
@@ -3267,6 +3471,7 @@ JBA_agranularInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_agranularInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_insula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-insula>`_
@@ -3282,6 +3487,7 @@ JBA_amygdala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_amygdala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralnuclei>`_
@@ -3297,6 +3503,7 @@ JBA_amygdaloidGroups
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_amygdaloidGroups
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_amygdala <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdala>`_
@@ -3312,6 +3519,7 @@ JBA_basalForebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_basalForebrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralnuclei>`_
@@ -3327,6 +3535,7 @@ JBA_basalGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_basalGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralnuclei>`_
@@ -3342,6 +3551,7 @@ JBA_brain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_brain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: JBA_brain
@@ -3356,6 +3566,7 @@ JBA_cerebellarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebellarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebellum <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellum>`_
@@ -3371,6 +3582,7 @@ JBA_cerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_metencephalon <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-metencephalon>`_
@@ -3386,6 +3598,7 @@ JBA_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_telencephalon <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-telencephalon>`_
@@ -3401,6 +3614,7 @@ JBA_cerebralNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cerebralNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_telencephalon <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-telencephalon>`_
@@ -3416,6 +3630,7 @@ JBA_cingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_cingulateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_limbicLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-limbiclobe>`_
@@ -3431,6 +3646,7 @@ JBA_collateralSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_collateralSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -3446,6 +3662,7 @@ JBA_dentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dentateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebellarnuclei>`_
@@ -3461,6 +3678,7 @@ JBA_diencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_diencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-brain>`_
@@ -3476,6 +3694,7 @@ JBA_dorsalOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dorsalOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitallobe>`_
@@ -3491,6 +3710,7 @@ JBA_dorsalPrecentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dorsalPrecentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3506,6 +3726,7 @@ JBA_dysgranularInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_dysgranularInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_insula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-insula>`_
@@ -3521,6 +3742,7 @@ JBA_fiberMasses
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fiberMasses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_amygdala <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-amygdala>`_
@@ -3536,11 +3758,12 @@ JBA_frontalCingulateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalCingulateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cingulategyrus>`_
    :lookupLabel: JBA_frontalCingulateGyrus
-   :name: frontal cingulate
+   :name: frontal cingulate gyrus
 
 `BACK TO TOP <ParcellationEntities: JBA library_>`_
 
@@ -3551,6 +3774,7 @@ JBA_frontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -3566,6 +3790,7 @@ JBA_frontalOperculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalOperculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3581,6 +3806,7 @@ JBA_frontalPole
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_frontalPole
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3596,6 +3822,7 @@ JBA_fronto-marginalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fronto-marginalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3611,6 +3838,7 @@ JBA_fusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_fusiformGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -3626,6 +3854,7 @@ JBA_granularInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_granularInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_insula <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-insula>`_
@@ -3641,6 +3870,7 @@ JBA_hippocampalFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_hippocampalFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_limbicLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-limbiclobe>`_
@@ -3656,6 +3886,7 @@ JBA_inferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3671,6 +3902,7 @@ JBA_inferiorFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3686,6 +3918,7 @@ JBA_inferiorParietalLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_inferiorParietalLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietallobe>`_
@@ -3701,6 +3934,7 @@ JBA_insula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_insula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -3716,6 +3950,7 @@ JBA_intraparietalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_intraparietalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietallobe>`_
@@ -3731,6 +3966,7 @@ JBA_lateralOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitallobe>`_
@@ -3746,6 +3982,7 @@ JBA_lateralOrbitofrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_lateralOrbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3761,6 +3998,7 @@ JBA_limbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_limbicLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -3776,6 +4014,7 @@ JBA_magnocellularGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_magnocellularGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_basalForebrain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-basalforebrain>`_
@@ -3791,6 +4030,7 @@ JBA_medialOrbitofrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_medialOrbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3806,6 +4046,7 @@ JBA_mesialPrecentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_mesialPrecentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3821,6 +4062,7 @@ JBA_metathalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_metathalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_thalamus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-thalamus>`_
@@ -3836,6 +4078,7 @@ JBA_metencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_metencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-brain>`_
@@ -3851,6 +4094,7 @@ JBA_middleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_middleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -3866,6 +4110,7 @@ JBA_occipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_occipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitallobe>`_
@@ -3881,6 +4126,7 @@ JBA_occipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_occipitalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -3896,6 +4142,7 @@ JBA_olfactoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_olfactoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_limbicLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-limbiclobe>`_
@@ -3911,6 +4158,7 @@ JBA_parahippocampalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -3926,6 +4174,7 @@ JBA_parietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parietalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
@@ -3941,6 +4190,7 @@ JBA_parietalOperculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parietalOperculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietallobe>`_
@@ -3956,6 +4206,7 @@ JBA_parieto-occipitalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_parieto-occipitalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietallobe>`_
@@ -3971,6 +4222,7 @@ JBA_postcentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_postcentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietallobe>`_
@@ -3986,6 +4238,7 @@ JBA_posteriorMedialSuperiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_posteriorMedialSuperiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -4001,6 +4254,7 @@ JBA_precentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_precentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -4016,6 +4270,7 @@ JBA_retrosplenialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_retrosplenialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_cingulateGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cingulategyrus>`_
@@ -4031,6 +4286,7 @@ JBA_sublenticularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_sublenticularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_basalForebrain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-basalforebrain>`_
@@ -4046,6 +4302,7 @@ JBA_subthalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_subthalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_diencephalon <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-diencephalon>`_
@@ -4061,6 +4318,7 @@ JBA_superiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -4076,6 +4334,7 @@ JBA_superiorFrontalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorFrontalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-frontallobe>`_
@@ -4091,6 +4350,7 @@ JBA_superiorParietalLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorParietalLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-parietallobe>`_
@@ -4106,6 +4366,7 @@ JBA_superiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -4121,6 +4382,7 @@ JBA_superiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_superiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -4136,6 +4398,7 @@ JBA_telencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_telencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-brain>`_
@@ -4151,6 +4414,7 @@ JBA_temporalInsula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporalInsula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -4161,11 +4425,28 @@ JBA_temporalInsula
 
 ------------
 
+JBA_temporalLobe
+----------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporalLobe
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
+   :hasParent: `JBA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-cerebralcortex>`_
+   :lookupLabel: JBA_temporalLobe
+   :name: temporal lobe
+
+`BACK TO TOP <ParcellationEntities: JBA library_>`_
+
+------------
+
 JBA_temporo-parietalJunction
 ----------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_temporo-parietalJunction
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-temporallobe>`_
@@ -4181,6 +4462,7 @@ JBA_thalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_diencephalon <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-diencephalon>`_
@@ -4196,6 +4478,7 @@ JBA_ventralOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_ventralOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-occipitallobe>`_
@@ -4211,6 +4494,7 @@ JBA_ventralStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/JBA_ventralStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `JBA_basalGanglia <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/JBA.html#jba-basalganglia>`_

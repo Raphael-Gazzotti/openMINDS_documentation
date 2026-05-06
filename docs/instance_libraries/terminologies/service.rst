@@ -13,6 +13,7 @@ AllenInstituteCellTypesDataPortal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/AllenInstituteCellTypesDataPortal
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: Web application for visualizing and browsing the Allen Cell Types Database.
@@ -23,11 +24,12 @@ AllenInstituteCellTypesDataPortal
 
 ------------
 
-CollaboratoryLab
-----------------
+EBRAINSCollaboratoryLab
+-----------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/EBRAINSCollaboratoryLab
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: The Collaboratory Lab is a web-based JupyterLab service provided by the EBRAINS research infrastructure.
@@ -38,26 +40,12 @@ CollaboratoryLab
 
 ------------
 
-CollaboratoryWiki
------------------
+EBRAINSKnowledgeGraphSearchUI
+-----------------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/service/ERBAINSCollaboratoryWiki
-   :@type: https://openminds.ebrains.eu/controlledTerms/Service
-   :definition: The Collaboratory Wiki is the main interface to access all other Collaboratory service provided by the EBRAINS research infrastructure.
-   :description: The Wiki service of the Collaboratory hosts the main interface to access all the other Collaboratory services. As such, it embodies the full concept of collab workspaces and most users consider it to be the collab service. Wiki pages are a convenient way of publishing content on the web, either addressing the Team of the collab or making the content completely public, that is, also accessible to visitors who do not have an EBRAINS account.
-   :name: EBRAINS Collaboratory Wiki
-
-`BACK TO TOP <Terminologies: Service library_>`_
-
-------------
-
-KGSearchUI
-----------
-
-.. admonition:: metadata sheet
-
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/EBRAINSKnowledgeGraphSearchUI
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: The EBRAINS Knowledge Graph Search User Interface is a web application for searching the EBRAINS Knowledge Graph.
@@ -68,26 +56,12 @@ KGSearchUI
 
 ------------
 
-LocaliZoom
-----------
+EBRAINSModelCatalog
+-------------------
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.ebrains.eu/instances/service/LocaliZoom
-   :@type: https://openminds.ebrains.eu/controlledTerms/Service
-   :definition: Web application for viewing of series of high-resolution 2D images that have been anchored to reference atlases.
-   :description: LocaliZoom allows the viewing and exploring of high-resolution images with superimposed atlas overlays. For more information see: https://localizoom.readthedocs.io/en/latest/index.html.
-   :name: LocaliZoom
-
-`BACK TO TOP <Terminologies: Service library_>`_
-
-------------
-
-ModelCatalog
-------------
-
-.. admonition:: metadata sheet
-
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/EBRAINSModelCatalog
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: The EBRAINS Model Catalog contains information about models developed and/or used within the EBRAINS research infrastructure.
@@ -98,11 +72,60 @@ ModelCatalog
 
 ------------
 
+ERBAINSCollaboratoryWiki
+------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/service/ERBAINSCollaboratoryWiki
+   :@type: https://openminds.ebrains.eu/controlledTerms/Service
+   :definition: The Collaboratory Wiki is the main interface to access all other Collaboratory service provided by the EBRAINS research infrastructure.
+   :description: The Wiki service of the Collaboratory hosts the main interface to access all the other Collaboratory services. As such, it embodies the full concept of collab workspaces and most users consider it to be the collab service. Wiki pages are a convenient way of publishing content on the web, either addressing the Team of the collab or making the content completely public, that is, also accessible to visitors who do not have an EBRAINS account.
+   :name: EBRAINS Collaboratory Wiki
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
+LocaliZoom
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/service/LocaliZoom
+   :@type: https://openminds.ebrains.eu/controlledTerms/Service
+   :definition: Web application for viewing of series of high-resolution 2D images that have been anchored to reference atlases.
+   :description: LocaliZoom allows the viewing and exploring of high-resolution images with superimposed atlas overlays. For more information see: https://localizoom.readthedocs.io/en/latest/index.html.
+   :name: LocaliZoom
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
+MeshView
+--------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/service/MeshView
+   :@type: https://openminds.ebrains.eu/controlledTerms/Service
+   :definition: Web application for viewing atlas surface meshes and data point clouds.
+   :description: MeshView is a web application for real-time 3D display of surface mesh data representing structural parcellations from volumetric atlases, such as the Waxholm Space Atlas of the Sprague Dawley Rat Brain.
+   :name: MeshView
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
 ModelDB
 -------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/ModelDB
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: ModelDB is a curated database of published models in the broad domain of computational neuroscience.
@@ -118,21 +141,23 @@ Multi-Image-OSd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/Multi-Image-OSd
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: Web application for viewing of series of high-resolution 2D images.
-   :description: Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd
+   :description: Multi-Image-OSd allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/Multi-Image-OSd. This service is not supported anymore and has been replaced by 'SeriesZoom'. [edited 2025-09-11]
    :name: Multi-Image-OSd
 
 `BACK TO TOP <Terminologies: Service library_>`_
 
 ------------
 
-NeuroMorpho
------------
+NeuroMorphoDotOrg
+-----------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/NeuroMorphoDotOrg
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: A web-based inventory dedicated to densely archive and organize all publicly shared digital reconstructions of neuronal morphology.
@@ -148,6 +173,7 @@ Neuroglancer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/Neuroglancer
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: 'Neuroglancer' is a WebGL-based viewer for volumetric data.
@@ -158,11 +184,43 @@ Neuroglancer
 
 ------------
 
+Neurosift
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/service/Neurosift
+   :@type: https://openminds.ebrains.eu/controlledTerms/Service
+   :definition: Neurosift is a browser-based tool designed for the visualization of neuroscience data with a focus on NWB (Neurodata Without Borders) files.
+   :name: Neurosift
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
+SeriesZoom
+----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/service/SeriesZoom
+   :@type: https://openminds.ebrains.eu/controlledTerms/Service
+   :definition: Web application for viewing of series of high-resolution 2D images.
+   :description: SeriesZoom allows the viewing and exploring of high-resolution images. For more information see: https://github.com/Neural-Systems-at-UIO/SeriesZoom.
+   :name: SeriesZoom
+
+`BACK TO TOP <Terminologies: Service library_>`_
+
+------------
+
 Zenodo
 ------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/Zenodo
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: Zenodo is a general-purpose open repository developed under the European OpenAIRE program and operated by CERN.
@@ -178,6 +236,7 @@ siibraExplorer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/service/siibraExplorer
    :@type: https://openminds.ebrains.eu/controlledTerms/Service
    :definition: 'siibra-explorer' is an interactive viewer for multilevel brain atlases

@@ -13,6 +13,7 @@ movingCheckerboard
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingCheckerboard
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: moving checkerboard
@@ -26,6 +27,7 @@ movingGrating
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingGrating
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: moving grating
@@ -39,6 +41,7 @@ movingSymbol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/movingSymbol
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: moving symbol
@@ -52,6 +55,7 @@ naturalMovie
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/naturalMovie
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: natural movie
@@ -65,6 +69,7 @@ naturalScene
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/naturalScene
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: natural scene
@@ -78,6 +83,7 @@ staticCheckerboard
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticCheckerboard
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: static checkerboard
@@ -91,6 +97,7 @@ staticGrating
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticGrating
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: static grating
@@ -104,6 +111,7 @@ staticSymbol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/visualStimulusType/staticSymbol
    :@type: https://openminds.ebrains.eu/controlledTerms/VisualStimulusType
    :name: static symbol

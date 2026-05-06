@@ -13,6 +13,7 @@ auditoryStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/auditoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
    :definition: A stimulation of the auditory (hearing) system.
@@ -30,6 +31,7 @@ gustatoryStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/gustatoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
    :definition: A stimulation of the gustatory (taste and flavor perception) system.
@@ -47,6 +49,7 @@ interoceptiveStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/interoceptiveStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
    :definition: A stimulation that arises from inside an organism.
@@ -64,6 +67,7 @@ olfactoryStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/olfactoryStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
    :definition: A stimulation of the olfactory (smelling) system.
@@ -81,6 +85,7 @@ tactileStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/tactileStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
    :definition: A stimulation of the tactile (touch) system.
@@ -98,6 +103,7 @@ visualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/stimulationApproach/visualStimulation
    :@type: https://openminds.ebrains.eu/controlledTerms/StimulationApproach
    :definition: A stimulation of the visual (sight) system.

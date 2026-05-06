@@ -13,6 +13,7 @@ AIL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, inferior and left, respectively.
@@ -27,6 +28,7 @@ AIR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/AIR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, inferior and right, respectively.
@@ -41,6 +43,7 @@ ALI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, left and inferior, respectively.
@@ -55,6 +58,7 @@ ALS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ALS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, left and superior, respectively.
@@ -69,6 +73,7 @@ ARI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, right and inferior, respectively.
@@ -83,6 +88,7 @@ ARS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ARS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, right and superior, respectively.
@@ -97,6 +103,7 @@ ASL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, superior and left, respectively.
@@ -111,6 +118,7 @@ ASR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ASR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards anterior, superior and right, respectively.
@@ -125,6 +133,7 @@ IAL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, anterior and left, respectively.
@@ -139,6 +148,7 @@ IAR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IAR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, anterior and right, respectively.
@@ -153,6 +163,7 @@ ILA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, left and anterior, respectively.
@@ -167,6 +178,7 @@ ILP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/ILP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, left and posterior, respectively.
@@ -181,6 +193,7 @@ IPL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, posterior and left, respectively.
@@ -195,6 +208,7 @@ IPR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IPR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, posterior and right, respectively.
@@ -209,6 +223,7 @@ IRA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, right and anterior, respectively.
@@ -223,6 +238,7 @@ IRP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/IRP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards inferior, right and posterior, respectively.
@@ -237,6 +253,7 @@ LAI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, anterior and inferior, respectively.
@@ -251,6 +268,7 @@ LAS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LAS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, anterior and superior, respectively.
@@ -265,6 +283,7 @@ LIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, inferior and anterior, respectively.
@@ -279,6 +298,7 @@ LIP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LIP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, inferior and posterior, respectively.
@@ -293,6 +313,7 @@ LPI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, posterior and inferior, respectively.
@@ -307,6 +328,7 @@ LPS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LPS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, posterior and superior, respectively.
@@ -321,6 +343,7 @@ LSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, superior and anterior, respectively.
@@ -335,6 +358,7 @@ LSP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/LSP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards left, superior and posterior, respectively.
@@ -349,6 +373,7 @@ PIL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, inferior and left, respectively.
@@ -363,6 +388,7 @@ PIR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PIR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, inferior and right, respectively.
@@ -377,6 +403,7 @@ PLI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, left and inferior, respectively.
@@ -391,6 +418,7 @@ PLS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PLS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, left and superior, respectively.
@@ -405,6 +433,7 @@ PRI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, right and inferior, respectively.
@@ -419,6 +448,7 @@ PRS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PRS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, right and superior, respectively.
@@ -433,6 +463,7 @@ PSL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, superior and left, respectively.
@@ -447,6 +478,7 @@ PSR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/PSR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards posterior, superior and right, respectively.
@@ -461,6 +493,7 @@ RAI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, anterior and inferior, respectively.
@@ -475,6 +508,7 @@ RAS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RAS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, anterior and superior, respectively.
@@ -489,6 +523,7 @@ RIA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, inferior and anterior, respectively.
@@ -503,6 +538,7 @@ RIP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RIP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, inferior and posterior, respectively.
@@ -517,6 +553,7 @@ RPI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPI
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, posterior and inferior, respectively.
@@ -531,6 +568,7 @@ RPS
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RPS
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, posterior and superior, respectively.
@@ -545,6 +583,7 @@ RSA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, superior and anterior, respectively.
@@ -559,6 +598,7 @@ RSP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/RSP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards right, superior and posterior, respectively.
@@ -573,6 +613,7 @@ SAL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, anterior and left, respectively.
@@ -587,6 +628,7 @@ SAR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SAR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, anterior and right, respectively.
@@ -601,6 +643,7 @@ SLA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, left and anterior, respectively.
@@ -615,6 +658,7 @@ SLP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SLP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, left and posterior, respectively.
@@ -629,6 +673,7 @@ SPL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPL
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, posterior and left, respectively.
@@ -643,6 +688,7 @@ SPR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SPR
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, posterior and right, respectively.
@@ -657,6 +703,7 @@ SRA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRA
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, right and anterior, respectively.
@@ -671,6 +718,7 @@ SRP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/anatomicalAxesOrientation/SRP
    :@type: https://openminds.ebrains.eu/controlledTerms/AnatomicalAxesOrientation
    :definition: X, Y, Z axes are oriented towards superior, right and posterior, respectively.

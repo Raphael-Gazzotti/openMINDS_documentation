@@ -87,7 +87,7 @@ Reference to a parent object or legal person.
    :semantic name: https://openminds.ebrains.eu/vocab/hasParent
    :value type: | linked object array \(1-N\) of type
                 | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
-   :instructions: Add all anatomical parent structures for this parcellation entity as defined within the corrsponding brain atlas.
+   :instructions: Add all anatomical parent structures for this parcellation entity as defined within the corresponding brain atlas.
 
 `BACK TO TOP <ParcellationEntity_>`_
 

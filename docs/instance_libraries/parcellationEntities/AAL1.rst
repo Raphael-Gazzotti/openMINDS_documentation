@@ -13,6 +13,7 @@ AAL1_ACIN
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_ACIN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ACIN
@@ -31,6 +32,7 @@ AAL1_AG
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_AG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AG
@@ -49,6 +51,7 @@ AAL1_AMYG
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_AMYG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AMYG
@@ -67,6 +70,7 @@ AAL1_CAU
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_CAU
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CAU
@@ -85,6 +89,7 @@ AAL1_F1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F1
@@ -103,6 +108,7 @@ AAL1_F1M
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1M
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F1M
@@ -121,6 +127,7 @@ AAL1_F1MO
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1MO
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F1MO
@@ -139,6 +146,7 @@ AAL1_F1O
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F1O
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F1O
@@ -157,6 +165,7 @@ AAL1_F2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F2
@@ -175,6 +184,7 @@ AAL1_F2O
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F2O
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F2O
@@ -193,6 +203,7 @@ AAL1_F3O
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F3O
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F3O
@@ -211,6 +222,7 @@ AAL1_F3OP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F3OP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F3OP
@@ -229,6 +241,7 @@ AAL1_F3T
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_F3T
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F3T
@@ -247,6 +260,7 @@ AAL1_FUSI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_FUSI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: FUSI
@@ -265,6 +279,7 @@ AAL1_GR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_GR
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GR
@@ -283,6 +298,7 @@ AAL1_HES
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_HES
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: HES
@@ -301,6 +317,7 @@ AAL1_HIP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_HIP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: HIP
@@ -319,6 +336,7 @@ AAL1_IN
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_IN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IN
@@ -337,6 +355,7 @@ AAL1_LING
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_LING
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LING
@@ -355,6 +374,7 @@ AAL1_MCIN
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_MCIN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MCIN
@@ -373,6 +393,7 @@ AAL1_O1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_O1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: O1
@@ -391,6 +412,7 @@ AAL1_O2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_O2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: O2
@@ -409,6 +431,7 @@ AAL1_O3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_O3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: O3
@@ -427,6 +450,7 @@ AAL1_OC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_OC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: OC
@@ -445,6 +469,7 @@ AAL1_P1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_P1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: P1
@@ -463,6 +488,7 @@ AAL1_P2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_P2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: P2
@@ -481,6 +507,7 @@ AAL1_PAL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PAL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PAL
@@ -499,6 +526,7 @@ AAL1_PCIN
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PCIN
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PCIN
@@ -517,6 +545,7 @@ AAL1_PCL
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PCL
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PCL
@@ -535,6 +564,7 @@ AAL1_PHIP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PHIP
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PHIP
@@ -553,6 +583,7 @@ AAL1_POST
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_POST
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: POST
@@ -571,6 +602,7 @@ AAL1_PQ
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PQ
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PQ
@@ -589,6 +621,7 @@ AAL1_PRE
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PRE
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PRE
@@ -607,6 +640,7 @@ AAL1_PUT
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_PUT
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PUT
@@ -625,6 +659,7 @@ AAL1_Q
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_Q
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Q
@@ -643,6 +678,7 @@ AAL1_RO
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_RO
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RO
@@ -661,6 +697,7 @@ AAL1_SMA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_SMA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SMA
@@ -679,6 +716,7 @@ AAL1_SMG
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_SMG
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SMG
@@ -697,6 +735,7 @@ AAL1_T1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: T1
@@ -715,6 +754,7 @@ AAL1_T1P
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T1P
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: T1P
@@ -733,6 +773,7 @@ AAL1_T2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: T2
@@ -751,6 +792,7 @@ AAL1_T2P
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T2P
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: T2P
@@ -769,6 +811,7 @@ AAL1_T3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_T3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: T3
@@ -787,6 +830,7 @@ AAL1_THA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_THA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: THA
@@ -805,6 +849,7 @@ AAL1_V1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_V1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V1
@@ -823,6 +868,7 @@ AAL1_brain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_brain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AAL1_brain
@@ -837,6 +883,7 @@ AAL1_centralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_centralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
@@ -852,6 +899,7 @@ AAL1_frontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_frontalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
@@ -867,6 +915,7 @@ AAL1_limbicLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_limbicLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
@@ -882,6 +931,7 @@ AAL1_occipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_occipitalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
@@ -897,6 +947,7 @@ AAL1_parietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_parietalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
@@ -912,6 +963,7 @@ AAL1_subcorticalGrayNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_subcorticalGrayNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
@@ -927,6 +979,7 @@ AAL1_temporalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AAL1_temporalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_

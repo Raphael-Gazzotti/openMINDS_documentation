@@ -13,6 +13,7 @@ arterialBlood
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/arterialBlood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
    :definition: 'Arterial blood' is the oxygenated portion of blood which occupies the pulmonary vein, the left chambers of the heart, and the arteries of the circulatory system.
@@ -31,6 +32,7 @@ blood
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/blood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
    :definition: ''Blood' is a body fluid in the circulatory system of vertebrates that transports substances to and from cells (e.g. nutrients, oxygen or metabolic waste products). [[adapted from Wikipedia](https://en.wikipedia.org/wiki/Blood)]
@@ -49,6 +51,7 @@ cerebrospinalFluid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/cerebrospinalFluid
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
    :definition: 'cerebrospinal fluid' is a clear, colorless, bodily fluid, that occupies the subarachnoid space and the ventricular system around and inside the brain and spinal cord [WP, modified]. [http://en.wikipedia.org/wiki/Cerebrospinal_fluid]
@@ -67,6 +70,7 @@ venousBlood
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSubstance/venousBlood
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSubstance
    :definition: 'Venous blood' is deoxygenated blood which travels from the peripheral vessels, through the venous system into the right atrium of the heart.

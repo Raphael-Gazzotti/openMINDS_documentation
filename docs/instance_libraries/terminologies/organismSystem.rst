@@ -13,6 +13,7 @@ cardiovascularSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/cardiovascularSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: 'The 'cardiovascular system' is an anatomical organ system where the heart pumps blood through blood vessels to and from all parts of the body.
@@ -30,10 +31,11 @@ centralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/centralNervousSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
-   :definition: The 'central nervous system' is the main processing center in most organisms. Its function is to take in sensory information, process information, and send out motor signals.
-   :description: In vertebrates, the central nervous system (CNS) consists of the brain and the spinal cord. In invertebrates, it includes the central ganglia and the nerve cord.
+   :definition: Is part of the nervous system. [auto-generated from 'relationship' property of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
+   :description: The central nervous system is the core nervous system that serves an integrating and coordinating function. In vertebrates it consists of the neural tube derivatives: the brain and spinal cord. In invertebrates it includes central ganglia plus nerve cord. [definition of the [UBERON ontology term](http://purl.obolibrary.org/obo/UBERON_0001017)]
    :interlexIdentifier: http://uri.interlex.org/base/ilx_0101901
    :knowledgeSpaceLink: https://knowledge-space.org/wiki/UBERON:0001017#central-nervous-system-1
    :name: central nervous system
@@ -48,6 +50,7 @@ cholinergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/cholinergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The cholinergic system is composed of any molecule, protein, cell, tissue or organ that is related to acetylcholine.
@@ -65,6 +68,7 @@ digestiveSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/digestiveSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The 'digestive system' is an anatomical organ system composed of organs devoted to the ingestion, digestion, the assimilation of food and the discharge of residual wastes.
@@ -82,6 +86,7 @@ gabaergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/gabaergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The gabaergic system is composed of any molecule, protein, cell, tissue or organ that is related to GABA.
@@ -99,6 +104,7 @@ glutamatergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/glutamatergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The glutamatergic system is composed of any molecule, protein, cell, tissue or organ that is related to glutamate (when in the role of a neurotransmitter).
@@ -115,6 +121,7 @@ musculoskeletalSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/musculoskeletalSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The 'musculoskeletal system' is an anatomical organ system composed of organs providing the body with movement, stability, shape and support.
@@ -133,6 +140,7 @@ noradrenergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/noradrenergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The noradrenergic system is composed of any molecule, protein, cell, tissue or organ that is related to norepinephrine (also known as noradrenaline).
@@ -150,6 +158,7 @@ serotonergicSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/serotonergicSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The serotonergic system is composed of any molecule, protein, cell, tissue or organ that is related to serotonin.
@@ -167,6 +176,7 @@ vascularSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organismSystem/vascularSystem
    :@type: https://openminds.ebrains.eu/controlledTerms/OrganismSystem
    :definition: The 'vascular system' is an anatomical system that consists of all vessels in the body, and carries blood and lymph through all parts of the body.

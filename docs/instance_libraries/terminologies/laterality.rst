@@ -13,6 +13,7 @@ left
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/laterality/left
    :@type: https://openminds.ebrains.eu/controlledTerms/Laterality
    :name: left
@@ -26,6 +27,7 @@ right
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/laterality/right
    :@type: https://openminds.ebrains.eu/controlledTerms/Laterality
    :name: right

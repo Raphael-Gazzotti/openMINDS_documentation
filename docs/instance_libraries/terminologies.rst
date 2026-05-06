@@ -42,6 +42,7 @@ Terminologies
 - `Laterality <terminologies/laterality.html>`_
 - `LearningResourceType <terminologies/learningResourceType.html>`_
 - `MeasuredQuantity <terminologies/measuredQuantity.html>`_
+- `MeasuredSignalType <terminologies/measuredSignalType.html>`_
 - `MetaDataModelType <terminologies/metaDataModelType.html>`_
 - `ModelAbstractionLevel <terminologies/modelAbstractionLevel.html>`_
 - `ModelScope <terminologies/modelScope.html>`_
@@ -120,6 +121,7 @@ Terminologies
    terminologies/laterality
    terminologies/learningResourceType
    terminologies/measuredQuantity
+   terminologies/measuredSignalType
    terminologies/metaDataModelType
    terminologies/modelAbstractionLevel
    terminologies/modelScope

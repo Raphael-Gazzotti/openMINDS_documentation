@@ -32,7 +32,7 @@ describedIn
    :semantic name: https://openminds.ebrains.eu/vocab/describedIn
    :value type: | linked object of type
                 | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/webResource.html>`_
-   :instructions: Add a publication or file in which this behavioral protocol is (originally) described in detail.
+   :instructions: Add a publication or file in which this protocol is (originally) described in detail.
 
 `BACK TO TOP <Protocol_>`_
 

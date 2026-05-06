@@ -13,6 +13,7 @@ female
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/female
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Biological sex that produces egg cells (ova).
@@ -30,6 +31,7 @@ hermaphrodite
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/hermaphrodite
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Biological sex with both male and female reproductive organs.
@@ -47,6 +49,7 @@ male
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/male
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Biological sex that produces sperm cells (spermatozoa).
@@ -64,6 +67,7 @@ notDetectable
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalSex/notDetectable
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalSex
    :definition: Can be stated if the biological sex in visually not detectable at a specific point in time.

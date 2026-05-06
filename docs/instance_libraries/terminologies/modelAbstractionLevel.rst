@@ -13,6 +13,7 @@ algorithm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/algorithm
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of a neural structure or process as an algorithm
@@ -27,6 +28,7 @@ cognitiveModelling
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/cognitiveModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of cognitive processes
@@ -41,6 +43,7 @@ populationModelling-neuralField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralField
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural populations using the approximation of a neural field
@@ -55,6 +58,7 @@ populationModelling-neuralMass
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling-neuralMass
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural populations using the approximation of neural masses
@@ -69,6 +73,7 @@ populationModelling
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/populationModelling
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of neural circuits at the population level
@@ -83,6 +88,7 @@ proteinStructure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/proteinStructure
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of protein structure
@@ -97,6 +103,7 @@ rateNeurons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/rateNeurons
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by their firing rate
@@ -111,6 +118,7 @@ spikingNeurons-biophysical
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-biophysical
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by models with detailed morphology and biophysical models of ion channels
@@ -125,6 +133,7 @@ spikingNeurons-pointNeuron
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons-pointNeuron
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which individual neurons are represented by point neuron models
@@ -139,6 +148,7 @@ spikingNeurons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/spikingNeurons
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling neural networks in which the action potentials of individual neurons are represented
@@ -153,6 +163,7 @@ statisticalModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/statisticalModel
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Statistical modelling of neural data generation
@@ -167,6 +178,7 @@ systemsBiology-continuous
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-continuous
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Systems biology modelling using concentrations
@@ -181,6 +193,7 @@ systemsBiology-discrete
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-discrete
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Systems biology modelling using representations of individual particles
@@ -195,6 +208,7 @@ systemsBiology-fluxBalance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology-fluxBalance
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Systems biology modelling using flux balance analysis
@@ -209,6 +223,7 @@ systemsBiology
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/modelAbstractionLevel/systemsBiology
    :@type: https://openminds.ebrains.eu/controlledTerms/ModelAbstractionLevel
    :definition: Modelling of neural systems below the level of individual neurons

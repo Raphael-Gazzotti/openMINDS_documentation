@@ -13,6 +13,7 @@ WHSSD_v1.01
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/WHSSD_v1.01
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: WHSSD
@@ -31,6 +32,7 @@ WHSSD_v1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpaceVersion/WHSSD_v1
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpaceVersion
    :abbreviation: WHSSD

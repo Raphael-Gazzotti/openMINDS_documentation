@@ -13,6 +13,7 @@ SwansonBM_3rd-ed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/brainAtlasVersion/SwansonBM_3rd-ed
    :@type: https://openminds.ebrains.eu/sands/BrainAtlasVersion
    :abbreviation: SwansonBM

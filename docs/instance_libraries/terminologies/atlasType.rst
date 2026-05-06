@@ -13,6 +13,7 @@ deterministicAtlas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/atlasType/deterministicAtlas
    :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
    :definition: A 'deterministic atlas' is an anatomical or anatomopathological atlases based on a definite composite of a single specimen.
@@ -27,6 +28,7 @@ parcellationScheme
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/atlasType/parcellationScheme
    :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
    :definition: A 'parcellation scheme' is a set of parcels occupying a part or all of an anatomical entity that has been delineated or annotated using a common approach or set of criteria.
@@ -43,6 +45,7 @@ probabilisticAtlas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/atlasType/probabilisticAtlas
    :@type: https://openminds.ebrains.eu/controlledTerms/AtlasType
    :definition: A 'probabilistic atlas' is an anatomical or anatomopathological atlases based on statistically-weighted composites of many specimens.

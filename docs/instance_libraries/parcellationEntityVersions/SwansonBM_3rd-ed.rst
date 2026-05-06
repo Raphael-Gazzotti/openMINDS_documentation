@@ -8,11 +8,97 @@ Related schema specification: `ParcellationEntityVersion <https://openminds-docu
 
 ------------
 
+SwansonBM_3rd-ed_AmmonsHornNoguez
+---------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_AmmonsHornNoguez
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: CA
+   :lookupLabel: SwansonBM_3rd-ed_AmmonsHornNoguez
+   :name: Ammon’s horn [Noguez]
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_BarringtonsNucleus
+-----------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_BarringtonsNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: B
+   :lookupLabel: SwansonBM_3rd-ed_BarringtonsNucleus
+   :name: Barrington’s nucleus
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_EdingerWestphalNucleus
+---------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_EdingerWestphalNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: EW
+   :lookupLabel: SwansonBM_3rd-ed_EdingerWestphalNucleus
+   :name: Edinger-Westphal nucleus
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
+-------------------------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: KF
+   :lookupLabel: SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
+   :name: Kölliker-Fuse subnucleus (of PB)
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
+SwansonBM_3rd-ed_OnufsNucleus
+-----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_OnufsNucleus
+   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
+   :abbreviation: ON
+   :lookupLabel: SwansonBM_3rd-ed_OnufsNucleus
+   :name: Onuf’s nucleus
+   :versionIdentifier: 3rd ed.
+
+`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
+
+------------
+
 SwansonBM_3rd-ed_abducensNerveEustachius
 ----------------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_abducensNerveEustachius
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VIn
@@ -29,6 +115,7 @@ SwansonBM_3rd-ed_abducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_abducensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VI
@@ -45,6 +132,7 @@ SwansonBM_3rd-ed_accessoryAbducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryAbducensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ACVI
@@ -61,6 +149,7 @@ SwansonBM_3rd-ed_accessoryFacialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryFacialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ACVII
@@ -77,6 +166,7 @@ SwansonBM_3rd-ed_accessoryOlfactoryBulbBalogh
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOlfactoryBulbBalogh
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AOB
@@ -93,6 +183,7 @@ SwansonBM_3rd-ed_accessoryOlfactoryBulbGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOlfactoryBulbGlomerularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AOBgl
@@ -109,6 +200,7 @@ SwansonBM_3rd-ed_accessoryOlfactoryBulbGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOlfactoryBulbGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AOBgr
@@ -125,6 +217,7 @@ SwansonBM_3rd-ed_accessoryOlfactoryBulbMitralLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOlfactoryBulbMitralLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AOBmi
@@ -141,6 +234,7 @@ SwansonBM_3rd-ed_accessoryOlfactoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOlfactoryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: aIn
@@ -157,6 +251,7 @@ SwansonBM_3rd-ed_accessoryOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: aolt
@@ -173,6 +268,7 @@ SwansonBM_3rd-ed_accessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: aot
@@ -189,6 +285,7 @@ SwansonBM_3rd-ed_accessorySpinalNerveWillis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessorySpinalNerveWillis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: XIn
@@ -205,6 +302,7 @@ SwansonBM_3rd-ed_accessorySupraopticGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_accessorySupraopticGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ASO
@@ -221,6 +319,7 @@ SwansonBM_3rd-ed_agranularInsularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_agranularInsularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AI
@@ -237,6 +336,7 @@ SwansonBM_3rd-ed_agranularInsularAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_agranularInsularAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AId
@@ -253,6 +353,7 @@ SwansonBM_3rd-ed_agranularInsularAreaPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_agranularInsularAreaPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AIp
@@ -269,6 +370,7 @@ SwansonBM_3rd-ed_agranularInsularAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_agranularInsularAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AIv
@@ -285,6 +387,7 @@ SwansonBM_3rd-ed_alveusBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_alveusBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: alv
@@ -296,27 +399,12 @@ SwansonBM_3rd-ed_alveusBurdach
 
 ------------
 
-SwansonBM_3rd-ed_ammonsHornNoguez
----------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_AmmonsHornNoguez
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: CA
-   :lookupLabel: SwansonBM_3rd-ed_AmmonsHornNoguez
-   :name: Ammon’s horn [Noguez]
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
 SwansonBM_3rd-ed_amygdalaBurdach
 --------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_amygdalaBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AMY
@@ -333,6 +421,7 @@ SwansonBM_3rd-ed_amygdalarCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_amygdalarCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: amc
@@ -349,6 +438,7 @@ SwansonBM_3rd-ed_angularBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_angularBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ab
@@ -365,6 +455,7 @@ SwansonBM_3rd-ed_ansaPeduncularisGratiolet
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ansaPeduncularisGratiolet
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: apd
@@ -381,6 +472,7 @@ SwansonBM_3rd-ed_ansiformLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ansiformLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AN
@@ -397,6 +489,7 @@ SwansonBM_3rd-ed_ansiformLobuleCrus1SublobulesAd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ansiformLobuleCrus1SublobulesAd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANcr1a-d
@@ -413,6 +506,7 @@ SwansonBM_3rd-ed_ansiformLobuleCrus2SublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ansiformLobuleCrus2SublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANcr2a,b
@@ -429,6 +523,7 @@ SwansonBM_3rd-ed_ansoparamedianFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ansoparamedianFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: apf
@@ -445,6 +540,7 @@ SwansonBM_3rd-ed_anteriorAmygdalarArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorAmygdalarArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AAA
@@ -461,6 +557,7 @@ SwansonBM_3rd-ed_anteriorCingulateArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorCingulateArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ACA
@@ -477,6 +574,7 @@ SwansonBM_3rd-ed_anteriorCingulateAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorCingulateAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ACAd
@@ -493,6 +591,7 @@ SwansonBM_3rd-ed_anteriorCingulateAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorCingulateAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ACAv
@@ -509,6 +608,7 @@ SwansonBM_3rd-ed_anteriorCommissureOlfactoryLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorCommissureOlfactoryLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: aco
@@ -525,6 +625,7 @@ SwansonBM_3rd-ed_anteriorCommissureRiolan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorCommissureRiolan
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ac
@@ -541,6 +642,7 @@ SwansonBM_3rd-ed_anteriorCommissureTemporalLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorCommissureTemporalLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: act
@@ -557,6 +659,7 @@ SwansonBM_3rd-ed_anteriorHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AHA
@@ -573,6 +676,7 @@ SwansonBM_3rd-ed_anteriorHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AHN
@@ -589,6 +693,7 @@ SwansonBM_3rd-ed_anteriorHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AHNa
@@ -605,6 +710,7 @@ SwansonBM_3rd-ed_anteriorHypothalamicNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorHypothalamicNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AHNc
@@ -621,6 +727,7 @@ SwansonBM_3rd-ed_anteriorHypothalamicNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorHypothalamicNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AHNd
@@ -637,6 +744,7 @@ SwansonBM_3rd-ed_anteriorHypothalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorHypothalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AHNp
@@ -653,6 +761,7 @@ SwansonBM_3rd-ed_anteriorLaterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorLaterolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISlla
@@ -669,6 +778,7 @@ SwansonBM_3rd-ed_anteriorLevelHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorLevelHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANT
@@ -685,6 +795,7 @@ SwansonBM_3rd-ed_anteriorLobeCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorLobeCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ALC
@@ -701,6 +812,7 @@ SwansonBM_3rd-ed_anteriorNucleiDorsalThalamusNissl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorNucleiDorsalThalamusNissl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ATN
@@ -717,6 +829,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONd
@@ -733,6 +846,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONd1
@@ -749,6 +863,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONd2
@@ -765,6 +880,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONe
@@ -781,6 +897,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONe1
@@ -797,6 +914,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONe2
@@ -813,6 +931,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusKolliker
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusKolliker
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AON
@@ -829,6 +948,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONl
@@ -845,6 +965,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONl1
@@ -861,6 +982,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONl2
@@ -877,6 +999,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONm
@@ -893,6 +1016,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONm1
@@ -909,6 +1033,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONm2
@@ -925,6 +1050,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONpv
@@ -941,6 +1067,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONpv1
@@ -957,6 +1084,7 @@ SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AONpv2
@@ -973,6 +1101,7 @@ SwansonBM_3rd-ed_anteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: APN
@@ -989,6 +1118,7 @@ SwansonBM_3rd-ed_anteriorTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteriorTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AT
@@ -1005,6 +1135,7 @@ SwansonBM_3rd-ed_anterodorsalNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anterodorsalNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AD
@@ -1021,6 +1152,7 @@ SwansonBM_3rd-ed_anterodorsalPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anterodorsalPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ADP
@@ -1037,6 +1169,7 @@ SwansonBM_3rd-ed_anterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anterolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISal
@@ -1053,6 +1186,7 @@ SwansonBM_3rd-ed_anteromedialNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteromedialNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AM
@@ -1069,6 +1203,7 @@ SwansonBM_3rd-ed_anteromedialNucleusThalamusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteromedialNucleusThalamusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AMd
@@ -1085,6 +1220,7 @@ SwansonBM_3rd-ed_anteromedialNucleusThalamusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteromedialNucleusThalamusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AMv
@@ -1101,6 +1237,7 @@ SwansonBM_3rd-ed_anteromedialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteromedialVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISam
@@ -1117,6 +1254,7 @@ SwansonBM_3rd-ed_anteroventralNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteroventralNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AV
@@ -1133,6 +1271,7 @@ SwansonBM_3rd-ed_anteroventralPeriventricularNucleusHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteroventralPeriventricularNucleusHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AVPV
@@ -1149,6 +1288,7 @@ SwansonBM_3rd-ed_anteroventralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_anteroventralPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AVP
@@ -1165,6 +1305,7 @@ SwansonBM_3rd-ed_arachnoid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_arachnoid
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: A
@@ -1181,6 +1322,7 @@ SwansonBM_3rd-ed_arborVitae
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_arborVitae
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: arb
@@ -1197,6 +1339,7 @@ SwansonBM_3rd-ed_arcuateHypothalamicNucleusClark
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_arcuateHypothalamicNucleusClark
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ARH
@@ -1213,6 +1356,7 @@ SwansonBM_3rd-ed_areaPostrema
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_areaPostrema
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AP
@@ -1229,6 +1373,7 @@ SwansonBM_3rd-ed_auditoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_auditoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AUD
@@ -1245,6 +1390,7 @@ SwansonBM_3rd-ed_autonomicGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_autonomicGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GA
@@ -1261,6 +1407,7 @@ SwansonBM_3rd-ed_autonomicNervousSystemLangley
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_autonomicNervousSystemLangley
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANS
@@ -1272,27 +1419,12 @@ SwansonBM_3rd-ed_autonomicNervousSystemLangley
 
 ------------
 
-SwansonBM_3rd-ed_barringtonsNucleus
------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_BarringtonsNucleus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: B
-   :lookupLabel: SwansonBM_3rd-ed_BarringtonsNucleus
-   :name: Barrington’s nucleus
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
 SwansonBM_3rd-ed_basalNucleusOfTheDorsalHorn
 --------------------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basalNucleusOfTheDorsalHorn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BN
@@ -1309,6 +1441,7 @@ SwansonBM_3rd-ed_basalNucleusOfTheDorsalHornGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basalNucleusOfTheDorsalHornGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BNg
@@ -1325,6 +1458,7 @@ SwansonBM_3rd-ed_basolateralAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basolateralAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BLA
@@ -1341,6 +1475,7 @@ SwansonBM_3rd-ed_basolateralAmygdalarNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basolateralAmygdalarNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BLAa
@@ -1357,6 +1492,7 @@ SwansonBM_3rd-ed_basolateralAmygdalarNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basolateralAmygdalarNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BLAp
@@ -1373,6 +1509,7 @@ SwansonBM_3rd-ed_basomedialAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basomedialAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BMA
@@ -1389,6 +1526,7 @@ SwansonBM_3rd-ed_basomedialAmygdalarNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basomedialAmygdalarNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BMAa
@@ -1405,6 +1543,7 @@ SwansonBM_3rd-ed_basomedialAmygdalarNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_basomedialAmygdalarNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BMAp
@@ -1421,6 +1560,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTa
@@ -1437,6 +1577,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTal
@@ -1453,6 +1594,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTam
@@ -1469,6 +1611,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTdm
@@ -1485,6 +1628,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTfu
@@ -1501,6 +1645,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTju
@@ -1517,6 +1662,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTmg
@@ -1533,6 +1679,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTov
@@ -1549,6 +1696,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTrh
@@ -1565,6 +1713,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTsc
@@ -1581,6 +1730,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTv
@@ -1597,6 +1747,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisJohnston
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisJohnston
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BST
@@ -1613,6 +1764,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTp
@@ -1629,6 +1781,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTsz
@@ -1645,6 +1798,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTd
@@ -1661,6 +1815,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTif
@@ -1677,6 +1832,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTpm
@@ -1693,6 +1849,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTpr
@@ -1709,6 +1866,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTse
@@ -1725,6 +1883,7 @@ SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSTtr
@@ -1741,6 +1900,7 @@ SwansonBM_3rd-ed_bedNucleusAccessoryOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleusAccessoryOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BA
@@ -1757,6 +1917,7 @@ SwansonBM_3rd-ed_bedNucleusAnteriorCommissureGurdjian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleusAnteriorCommissureGurdjian
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BAC
@@ -1773,6 +1934,7 @@ SwansonBM_3rd-ed_bedNucleusOfTheStriaMedullarisCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bedNucleusOfTheStriaMedullarisCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BSM
@@ -1789,6 +1951,7 @@ SwansonBM_3rd-ed_behaviorControlColumn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_behaviorControlColumn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BCC
@@ -1805,6 +1968,7 @@ SwansonBM_3rd-ed_behavioralStateSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_behavioralStateSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: STA
@@ -1821,6 +1985,7 @@ SwansonBM_3rd-ed_brachialPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_brachialPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: bp
@@ -1837,6 +2002,7 @@ SwansonBM_3rd-ed_brachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_brachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: bic
@@ -1853,6 +2019,7 @@ SwansonBM_3rd-ed_brachiumOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: bsc
@@ -1869,6 +2036,7 @@ SwansonBM_3rd-ed_brain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_brain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BR
@@ -1885,6 +2053,7 @@ SwansonBM_3rd-ed_brainstem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_brainstem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: BS
@@ -1901,6 +2070,7 @@ SwansonBM_3rd-ed_bulbocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_bulbocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: bct
@@ -1917,6 +2087,7 @@ SwansonBM_3rd-ed_caudalIntracentralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_caudalIntracentralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: icec
@@ -1933,6 +2104,7 @@ SwansonBM_3rd-ed_caudoputamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_caudoputamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CP
@@ -1949,6 +2121,7 @@ SwansonBM_3rd-ed_celiacGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_celiacGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GCE
@@ -1965,6 +2138,7 @@ SwansonBM_3rd-ed_centralAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CEA
@@ -1981,6 +2155,7 @@ SwansonBM_3rd-ed_centralAmygdalarNucleusCapsularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralAmygdalarNucleusCapsularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CEAc
@@ -1997,6 +2172,7 @@ SwansonBM_3rd-ed_centralAmygdalarNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralAmygdalarNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CEAl
@@ -2013,6 +2189,7 @@ SwansonBM_3rd-ed_centralAmygdalarNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralAmygdalarNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CEAm
@@ -2029,6 +2206,7 @@ SwansonBM_3rd-ed_centralCanalSpinalCordmedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralCanalSpinalCordmedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: C
@@ -2045,6 +2223,7 @@ SwansonBM_3rd-ed_centralCervicalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralCervicalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CEC
@@ -2061,6 +2240,7 @@ SwansonBM_3rd-ed_centralGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CG
@@ -2077,6 +2257,7 @@ SwansonBM_3rd-ed_centralGrayBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralGrayBrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CGB
@@ -2093,6 +2274,7 @@ SwansonBM_3rd-ed_centralLateralNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralLateralNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CL
@@ -2109,6 +2291,7 @@ SwansonBM_3rd-ed_centralLinearNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralLinearNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CLI
@@ -2125,6 +2308,7 @@ SwansonBM_3rd-ed_centralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CENT
@@ -2141,6 +2325,7 @@ SwansonBM_3rd-ed_centralLobuleLobuleIIISublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralLobuleLobuleIIISublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CENT3a,b
@@ -2157,6 +2342,7 @@ SwansonBM_3rd-ed_centralLobuleLobuleIISublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralLobuleLobuleIISublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CENT2a,b
@@ -2173,6 +2359,7 @@ SwansonBM_3rd-ed_centralMedialNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralMedialNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CM
@@ -2189,6 +2376,7 @@ SwansonBM_3rd-ed_centralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralNervousSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CNS
@@ -2205,6 +2393,7 @@ SwansonBM_3rd-ed_centralNervousSystemGrayMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralNervousSystemGrayMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CNSg
@@ -2221,6 +2410,7 @@ SwansonBM_3rd-ed_centralNervousSystemWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralNervousSystemWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cnsw
@@ -2237,6 +2427,7 @@ SwansonBM_3rd-ed_centralTegmentalBundleBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_centralTegmentalBundleBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ctb
@@ -2253,6 +2444,7 @@ SwansonBM_3rd-ed_cerebellarCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cbc
@@ -2269,6 +2461,7 @@ SwansonBM_3rd-ed_cerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CBX
@@ -2285,6 +2478,7 @@ SwansonBM_3rd-ed_cerebellarCortexGranuleCellLayerInner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarCortexGranuleCellLayerInner
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CBXg
@@ -2301,6 +2495,7 @@ SwansonBM_3rd-ed_cerebellarCortexGrooves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarCortexGrooves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: grvcb
@@ -2317,6 +2512,7 @@ SwansonBM_3rd-ed_cerebellarCortexMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarCortexMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CBXm
@@ -2333,6 +2529,7 @@ SwansonBM_3rd-ed_cerebellarCortexPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarCortexPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CBXp
@@ -2349,6 +2546,7 @@ SwansonBM_3rd-ed_cerebellarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CBN
@@ -2365,6 +2563,7 @@ SwansonBM_3rd-ed_cerebellarPeduncles
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellarPeduncles
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cbp
@@ -2381,6 +2580,7 @@ SwansonBM_3rd-ed_cerebellumHerophilusErasistratus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellumHerophilusErasistratus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CB
@@ -2397,6 +2597,7 @@ SwansonBM_3rd-ed_cerebellumRelatedFiberTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebellumRelatedFiberTracts
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cbf
@@ -2413,6 +2614,7 @@ SwansonBM_3rd-ed_cerebralAqueductCollicularRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralAqueductCollicularRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AQc
@@ -2429,6 +2631,7 @@ SwansonBM_3rd-ed_cerebralAqueductGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralAqueductGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AQg
@@ -2445,6 +2648,7 @@ SwansonBM_3rd-ed_cerebralAqueductProperSylvius
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralAqueductProperSylvius
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AQ
@@ -2461,6 +2665,7 @@ SwansonBM_3rd-ed_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CTX
@@ -2477,6 +2682,7 @@ SwansonBM_3rd-ed_cerebralCortexCorticalPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortexCorticalPlate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CTXpl
@@ -2493,6 +2699,7 @@ SwansonBM_3rd-ed_cerebralCortexGrooves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortexGrooves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: grvc
@@ -2509,6 +2716,7 @@ SwansonBM_3rd-ed_cerebralCortexPolymodalAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortexPolymodalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CTXpm
@@ -2525,6 +2733,7 @@ SwansonBM_3rd-ed_cerebralCortexSensorymotorCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortexSensorymotorCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CTXsm
@@ -2541,6 +2750,7 @@ SwansonBM_3rd-ed_cerebralCortexSubplateRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralCortexSubplateRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CTXsp
@@ -2557,6 +2767,7 @@ SwansonBM_3rd-ed_cerebralNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CNU
@@ -2573,6 +2784,7 @@ SwansonBM_3rd-ed_cerebralPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebralPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cpd
@@ -2589,6 +2801,7 @@ SwansonBM_3rd-ed_cerebrospinalFluid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebrospinalFluid
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CSF
@@ -2605,6 +2818,7 @@ SwansonBM_3rd-ed_cerebrospinalTrunk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebrospinalTrunk
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TK
@@ -2621,6 +2835,7 @@ SwansonBM_3rd-ed_cerebrumCerebralHemispheresEndbrainTelencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cerebrumCerebralHemispheresEndbrainTelencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CH
@@ -2637,6 +2852,7 @@ SwansonBM_3rd-ed_cervicalPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cervicalPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cep
@@ -2653,6 +2869,7 @@ SwansonBM_3rd-ed_cervicalSpinalGanglia18
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cervicalSpinalGanglia18
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: G-C1-8
@@ -2669,6 +2886,7 @@ SwansonBM_3rd-ed_cervicothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cervicothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cett
@@ -2685,6 +2903,7 @@ SwansonBM_3rd-ed_choroidFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chf
@@ -2701,6 +2920,7 @@ SwansonBM_3rd-ed_choroidFissureFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidFissureFourthVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chf4
@@ -2717,6 +2937,7 @@ SwansonBM_3rd-ed_choroidFissureLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidFissureLateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chfl
@@ -2733,6 +2954,7 @@ SwansonBM_3rd-ed_choroidFissureThirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidFissureThirdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chf3
@@ -2749,6 +2971,7 @@ SwansonBM_3rd-ed_choroidPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chp
@@ -2765,6 +2988,7 @@ SwansonBM_3rd-ed_choroidPlexusFourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidPlexusFourthVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chp4
@@ -2781,6 +3005,7 @@ SwansonBM_3rd-ed_choroidPlexusLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidPlexusLateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chpl
@@ -2797,6 +3022,7 @@ SwansonBM_3rd-ed_choroidPlexusThirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidPlexusThirdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: chp3
@@ -2813,6 +3039,7 @@ SwansonBM_3rd-ed_choroidalFissureEye
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_choroidalFissureEye
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cho
@@ -2829,6 +3056,7 @@ SwansonBM_3rd-ed_ciliaryGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ciliaryGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GcIII
@@ -2845,6 +3073,7 @@ SwansonBM_3rd-ed_ciliaryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ciliaryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cin
@@ -2861,6 +3090,7 @@ SwansonBM_3rd-ed_cingulateRegionBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cingulateRegionBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CNG
@@ -2877,6 +3107,7 @@ SwansonBM_3rd-ed_cingulumBundleReil
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cingulumBundleReil
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cing
@@ -2893,6 +3124,7 @@ SwansonBM_3rd-ed_claustrumBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_claustrumBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CLA
@@ -2909,6 +3141,7 @@ SwansonBM_3rd-ed_coccygealSpinalGanglia13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_coccygealSpinalGanglia13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: G-Co1-3
@@ -2925,6 +3158,7 @@ SwansonBM_3rd-ed_coccygealSympatheticGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_coccygealSympatheticGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Gs-C
@@ -2941,6 +3175,7 @@ SwansonBM_3rd-ed_cochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cVIIIn
@@ -2957,6 +3192,7 @@ SwansonBM_3rd-ed_cochlearNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cochlearNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CN
@@ -2973,6 +3209,7 @@ SwansonBM_3rd-ed_cochlearNucleiGranularLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cochlearNucleiGranularLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CNlam
@@ -2989,6 +3226,7 @@ SwansonBM_3rd-ed_cochlearNucleiSubpeduncularGranularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cochlearNucleiSubpeduncularGranularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CNspg
@@ -3005,6 +3243,7 @@ SwansonBM_3rd-ed_columnsOfTheFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_columnsOfTheFornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fx
@@ -3021,6 +3260,7 @@ SwansonBM_3rd-ed_commissuralNucleusPeriaqueductalGrayPaxinosWatson
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_commissuralNucleusPeriaqueductalGrayPaxinosWatson
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COM
@@ -3037,6 +3277,7 @@ SwansonBM_3rd-ed_copulaPyramidisSublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_copulaPyramidisSublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COPYa,b
@@ -3053,6 +3294,7 @@ SwansonBM_3rd-ed_corpusCallosumAnteriorForcepsArnold
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumAnteriorForcepsArnold
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fa
@@ -3069,6 +3311,7 @@ SwansonBM_3rd-ed_corpusCallosumBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ccb
@@ -3085,6 +3328,7 @@ SwansonBM_3rd-ed_corpusCallosumGalen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumGalen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cc
@@ -3101,6 +3345,7 @@ SwansonBM_3rd-ed_corpusCallosumGenu
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumGenu
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ccg
@@ -3117,6 +3362,7 @@ SwansonBM_3rd-ed_corpusCallosumPosteriorForcepsArnold
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumPosteriorForcepsArnold
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fp
@@ -3133,6 +3379,7 @@ SwansonBM_3rd-ed_corpusCallosumRostrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumRostrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ccr
@@ -3149,6 +3396,7 @@ SwansonBM_3rd-ed_corpusCallosumSpleniumBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corpusCallosumSpleniumBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ccs
@@ -3165,6 +3413,7 @@ SwansonBM_3rd-ed_corticalAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticalAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COA
@@ -3181,6 +3430,7 @@ SwansonBM_3rd-ed_corticalAmygdalarNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticalAmygdalarNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COAa
@@ -3197,6 +3447,7 @@ SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COAp
@@ -3213,6 +3464,7 @@ SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COApl
@@ -3229,6 +3481,7 @@ SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: COApm
@@ -3245,6 +3498,7 @@ SwansonBM_3rd-ed_corticobulbarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticobulbarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cbt
@@ -3261,6 +3515,7 @@ SwansonBM_3rd-ed_corticopontineTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticopontineTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cpt
@@ -3277,6 +3532,7 @@ SwansonBM_3rd-ed_corticorubralTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticorubralTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: crt
@@ -3293,6 +3549,7 @@ SwansonBM_3rd-ed_corticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cst
@@ -3309,6 +3566,7 @@ SwansonBM_3rd-ed_corticospinalTractUncrossedBurdachTurck
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticospinalTractUncrossedBurdachTurck
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cstu
@@ -3325,6 +3583,7 @@ SwansonBM_3rd-ed_corticotectalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_corticotectalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cte
@@ -3341,6 +3600,7 @@ SwansonBM_3rd-ed_cranialNerves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cranialNerves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cran
@@ -3357,6 +3617,7 @@ SwansonBM_3rd-ed_cranialParasympatheticGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cranialParasympatheticGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPC
@@ -3373,6 +3634,7 @@ SwansonBM_3rd-ed_cranialPlexuses
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cranialPlexuses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: plxc
@@ -3389,6 +3651,7 @@ SwansonBM_3rd-ed_cranialSensoryGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cranialSensoryGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GCR
@@ -3405,6 +3668,7 @@ SwansonBM_3rd-ed_crus1Fissures13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_crus1Fissures13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cr1f1-3
@@ -3421,6 +3685,7 @@ SwansonBM_3rd-ed_crus2Fissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_crus2Fissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cr2f
@@ -3437,6 +3702,7 @@ SwansonBM_3rd-ed_culmen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_culmen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CUL
@@ -3453,6 +3719,7 @@ SwansonBM_3rd-ed_culmenLobulesIVV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_culmenLobulesIVV
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CUL4,5
@@ -3469,6 +3736,7 @@ SwansonBM_3rd-ed_cuneateFascicleBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cuneateFascicleBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cuf
@@ -3485,6 +3753,7 @@ SwansonBM_3rd-ed_cuneateNucleusBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cuneateNucleusBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CU
@@ -3501,6 +3770,7 @@ SwansonBM_3rd-ed_cuneiformNucleusCastaldi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cuneiformNucleusCastaldi
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CUN
@@ -3517,6 +3787,7 @@ SwansonBM_3rd-ed_cuneocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_cuneocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cct
@@ -3533,6 +3804,7 @@ SwansonBM_3rd-ed_declivalFissure2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_declivalFissure2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: def2
@@ -3549,6 +3821,7 @@ SwansonBM_3rd-ed_decliveVISublobulesAd
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_decliveVISublobulesAd
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DECa-d
@@ -3565,6 +3838,7 @@ SwansonBM_3rd-ed_decussationOfTheTrochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_decussationOfTheTrochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IVd
@@ -3581,6 +3855,7 @@ SwansonBM_3rd-ed_deepCerebellarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_deepCerebellarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DNC
@@ -3597,6 +3872,7 @@ SwansonBM_3rd-ed_dentateGyrusCrest
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusCrest
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGcr
@@ -3613,6 +3889,7 @@ SwansonBM_3rd-ed_dentateGyrusCrestgranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusCrestgranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGcr-sg
@@ -3629,6 +3906,7 @@ SwansonBM_3rd-ed_dentateGyrusCrestmolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusCrestmolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGcr-mo
@@ -3645,6 +3923,7 @@ SwansonBM_3rd-ed_dentateGyrusCrestpolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusCrestpolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGcr-po
@@ -3661,6 +3940,7 @@ SwansonBM_3rd-ed_dentateGyrusLateralBlade
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusLateralBlade
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGlb
@@ -3677,6 +3957,7 @@ SwansonBM_3rd-ed_dentateGyrusLateralBladegranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusLateralBladegranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGlb-sg
@@ -3693,6 +3974,7 @@ SwansonBM_3rd-ed_dentateGyrusLateralBlademolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusLateralBlademolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGlb-mo
@@ -3709,6 +3991,7 @@ SwansonBM_3rd-ed_dentateGyrusLateralBladepolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusLateralBladepolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGlb-po
@@ -3725,6 +4008,7 @@ SwansonBM_3rd-ed_dentateGyrusMedialBlade
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusMedialBlade
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGmb
@@ -3741,6 +4025,7 @@ SwansonBM_3rd-ed_dentateGyrusMedialBladegranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusMedialBladegranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGmb-sg
@@ -3757,6 +4042,7 @@ SwansonBM_3rd-ed_dentateGyrusMedialBlademolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusMedialBlademolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGmb-mo
@@ -3773,6 +4059,7 @@ SwansonBM_3rd-ed_dentateGyrusMedialBladepolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusMedialBladepolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DGmb-po
@@ -3789,6 +4076,7 @@ SwansonBM_3rd-ed_dentateGyrusTarin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateGyrusTarin
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DG
@@ -3805,6 +4093,7 @@ SwansonBM_3rd-ed_dentateNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DNm
@@ -3821,6 +4110,7 @@ SwansonBM_3rd-ed_dentateNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DNp
@@ -3837,6 +4127,7 @@ SwansonBM_3rd-ed_dentateNucleusVicqDAzyr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dentateNucleusVicqDAzyr
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DN
@@ -3853,6 +4144,7 @@ SwansonBM_3rd-ed_diagonalBandBroca
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_diagonalBandBroca
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: db
@@ -3869,6 +4161,7 @@ SwansonBM_3rd-ed_diagonalBandNucleusBroca
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_diagonalBandNucleusBroca
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NDB
@@ -3885,6 +4178,7 @@ SwansonBM_3rd-ed_diencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_diencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DI
@@ -3901,6 +4195,7 @@ SwansonBM_3rd-ed_distalGlossopharyngealGanglionAndersch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_distalGlossopharyngealGanglionAndersch
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GdIX
@@ -3917,6 +4212,7 @@ SwansonBM_3rd-ed_distalGlossopharyngeovagalPlacode
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_distalGlossopharyngeovagalPlacode
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IX/Xpd
@@ -3933,6 +4229,7 @@ SwansonBM_3rd-ed_distalVagalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_distalVagalGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GdX
@@ -3949,6 +4246,7 @@ SwansonBM_3rd-ed_dorsalAcousticStriaMonakow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalAcousticStriaMonakow
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: das
@@ -3965,6 +4263,7 @@ SwansonBM_3rd-ed_dorsalAuditoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalAuditoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AUDd
@@ -3981,6 +4280,7 @@ SwansonBM_3rd-ed_dorsalCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalCochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DCO
@@ -3997,6 +4297,7 @@ SwansonBM_3rd-ed_dorsalColumnNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalColumnNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DCN
@@ -4013,6 +4314,7 @@ SwansonBM_3rd-ed_dorsalColumns
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalColumns
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dc
@@ -4029,6 +4331,7 @@ SwansonBM_3rd-ed_dorsalCommissuralNucleusOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalCommissuralNucleusOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DOC
@@ -4045,6 +4348,7 @@ SwansonBM_3rd-ed_dorsalCommissureSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalCommissureSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dcm
@@ -4061,6 +4365,7 @@ SwansonBM_3rd-ed_dorsalFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalFornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: df
@@ -4077,6 +4382,7 @@ SwansonBM_3rd-ed_dorsalHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dhc
@@ -4093,6 +4399,7 @@ SwansonBM_3rd-ed_dorsalHornSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalHornSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DH
@@ -4109,6 +4416,7 @@ SwansonBM_3rd-ed_dorsalLongitudinalFascicleSchutz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalLongitudinalFascicleSchutz
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dlf
@@ -4125,6 +4433,7 @@ SwansonBM_3rd-ed_dorsalMedianSeptum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalMedianSeptum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dms
@@ -4141,6 +4450,7 @@ SwansonBM_3rd-ed_dorsalMotorNucleusVagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalMotorNucleusVagusNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DMX
@@ -4157,6 +4467,7 @@ SwansonBM_3rd-ed_dorsalNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DR
@@ -4173,6 +4484,7 @@ SwansonBM_3rd-ed_dorsalNucleusSpinalCordCaudalPartStilling
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalNucleusSpinalCordCaudalPartStilling
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DSNc
@@ -4189,6 +4501,7 @@ SwansonBM_3rd-ed_dorsalNucleusSpinalCordGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalNucleusSpinalCordGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DSNg
@@ -4205,6 +4518,7 @@ SwansonBM_3rd-ed_dorsalNucleusSpinalCordStillingClarke
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalNucleusSpinalCordStillingClarke
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DSN
@@ -4221,6 +4535,7 @@ SwansonBM_3rd-ed_dorsalPremammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalPremammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PMd
@@ -4237,6 +4552,7 @@ SwansonBM_3rd-ed_dorsalPropriohypothalamicPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalPropriohypothalamicPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: phpd
@@ -4253,6 +4569,7 @@ SwansonBM_3rd-ed_dorsalRootsCoiter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalRootsCoiter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: drt
@@ -4269,6 +4586,7 @@ SwansonBM_3rd-ed_dorsalSpinocerebellarTractFlechsig
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalSpinocerebellarTractFlechsig
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sctd
@@ -4285,6 +4603,7 @@ SwansonBM_3rd-ed_dorsalTegmentalDecussationMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalTegmentalDecussationMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dtd
@@ -4301,6 +4620,7 @@ SwansonBM_3rd-ed_dorsalTegmentalNucleusGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalTegmentalNucleusGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DTN
@@ -4317,6 +4637,7 @@ SwansonBM_3rd-ed_dorsalTegmentalTractLindvallBjorklund
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalTegmentalTractLindvallBjorklund
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dtt
@@ -4333,6 +4654,7 @@ SwansonBM_3rd-ed_dorsalTerminalNucleusAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalTerminalNucleusAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DT
@@ -4349,6 +4671,7 @@ SwansonBM_3rd-ed_dorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DOR
@@ -4365,6 +4688,7 @@ SwansonBM_3rd-ed_dorsalThalamusPolymodalAssociationCortexRelate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalThalamusPolymodalAssociationCortexRelate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DORpm
@@ -4381,6 +4705,7 @@ SwansonBM_3rd-ed_dorsalThalamusSensorymotorCortexRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsalThalamusSensorymotorCortexRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DORsm
@@ -4397,6 +4722,7 @@ SwansonBM_3rd-ed_dorsolateralFascicleLissauer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsolateralFascicleLissauer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dl
@@ -4413,6 +4739,7 @@ SwansonBM_3rd-ed_dorsomedialHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsomedialHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DMH
@@ -4429,6 +4756,7 @@ SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DMHa
@@ -4445,6 +4773,7 @@ SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DMHp
@@ -4461,6 +4790,7 @@ SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: DMHv
@@ -4477,6 +4807,7 @@ SwansonBM_3rd-ed_dura
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_dura
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: D
@@ -4493,6 +4824,7 @@ SwansonBM_3rd-ed_ectorhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ectorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ECT
@@ -4504,27 +4836,12 @@ SwansonBM_3rd-ed_ectorhinalArea
 
 ------------
 
-SwansonBM_3rd-ed_edingerWestphalNucleus
----------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_EdingerWestphalNucleus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: EW
-   :lookupLabel: SwansonBM_3rd-ed_EdingerWestphalNucleus
-   :name: Edinger-Westphal nucleus
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
 SwansonBM_3rd-ed_efferentCochlearGroup
 --------------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_efferentCochlearGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ECO
@@ -4541,6 +4858,7 @@ SwansonBM_3rd-ed_efferentCochleovestibularBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_efferentCochleovestibularBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cvb
@@ -4557,6 +4875,7 @@ SwansonBM_3rd-ed_efferentVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_efferentVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: EV
@@ -4573,6 +4892,7 @@ SwansonBM_3rd-ed_endopiriformNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_endopiriformNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: EPd
@@ -4589,6 +4909,7 @@ SwansonBM_3rd-ed_endopiriformNucleusLoo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_endopiriformNucleusLoo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: EP
@@ -4605,6 +4926,7 @@ SwansonBM_3rd-ed_endopiriformNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_endopiriformNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: EPv
@@ -4621,6 +4943,7 @@ SwansonBM_3rd-ed_endorhinalGroove
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_endorhinalGroove
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: eg
@@ -4637,6 +4960,7 @@ SwansonBM_3rd-ed_entericNervousSystemLangley
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_entericNervousSystemLangley
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ENS
@@ -4653,6 +4977,7 @@ SwansonBM_3rd-ed_entorhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_entorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ENT
@@ -4669,6 +4994,7 @@ SwansonBM_3rd-ed_entorhinalAreaLateralPartLayers16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_entorhinalAreaLateralPartLayers16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ENTl1-6
@@ -4685,6 +5011,7 @@ SwansonBM_3rd-ed_entorhinalAreaMedialPartDorsalZoneLayers16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_entorhinalAreaMedialPartDorsalZoneLayers16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ENTm1-6
@@ -4701,6 +5028,7 @@ SwansonBM_3rd-ed_entorhinalAreaMedialPartVentralZoneHaug
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_entorhinalAreaMedialPartVentralZoneHaug
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ENTmv
@@ -4717,6 +5045,7 @@ SwansonBM_3rd-ed_epithalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_epithalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: EPI
@@ -4733,6 +5062,7 @@ SwansonBM_3rd-ed_externalCapsuleBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_externalCapsuleBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ec
@@ -4749,6 +5079,7 @@ SwansonBM_3rd-ed_externalCuneateNucleusMonakowBlumenau
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_externalCuneateNucleusMonakowBlumenau
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ECU
@@ -4765,6 +5096,7 @@ SwansonBM_3rd-ed_externalMedullaryLaminaThalamusBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_externalMedullaryLaminaThalamusBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: em
@@ -4781,6 +5113,7 @@ SwansonBM_3rd-ed_extrapyramidalFiberSystems
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_extrapyramidalFiberSystems
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: eps
@@ -4797,6 +5130,7 @@ SwansonBM_3rd-ed_extrapyramidalFiberSystemsCerebralNucleiRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_extrapyramidalFiberSystemsCerebralNucleiRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: epsc
@@ -4813,6 +5147,7 @@ SwansonBM_3rd-ed_extremeCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_extremeCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ee
@@ -4829,6 +5164,7 @@ SwansonBM_3rd-ed_facialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_facialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VIIn
@@ -4845,6 +5181,7 @@ SwansonBM_3rd-ed_facialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_facialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VII
@@ -4861,6 +5198,7 @@ SwansonBM_3rd-ed_fasciculusProprius
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fasciculusProprius
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fpr
@@ -4877,6 +5215,7 @@ SwansonBM_3rd-ed_fasciculusRetroflexusMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fasciculusRetroflexusMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fr
@@ -4893,6 +5232,7 @@ SwansonBM_3rd-ed_fasciolaCinereaReilArnold
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fasciolaCinereaReilArnold
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FC
@@ -4909,6 +5249,7 @@ SwansonBM_3rd-ed_fastigialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fastigialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FN
@@ -4925,6 +5266,7 @@ SwansonBM_3rd-ed_fieldCA1AmmonsHornLorenteDeNo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1AmmonsHornLorenteDeNo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1
@@ -4941,6 +5283,7 @@ SwansonBM_3rd-ed_fieldCA1PyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1PyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1sp
@@ -4957,6 +5300,7 @@ SwansonBM_3rd-ed_fieldCA1PyramidalLayerDeep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1PyramidalLayerDeep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1spd
@@ -4973,6 +5317,7 @@ SwansonBM_3rd-ed_fieldCA1PyramidalLayerSuperficial
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1PyramidalLayerSuperficial
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1sps
@@ -4989,6 +5334,7 @@ SwansonBM_3rd-ed_fieldCA1StratumLacunosummoleculareMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1StratumLacunosummoleculareMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1slm
@@ -5005,6 +5351,7 @@ SwansonBM_3rd-ed_fieldCA1StratumOriensSala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1StratumOriensSala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1so
@@ -5021,6 +5368,7 @@ SwansonBM_3rd-ed_fieldCA1StratumRadiatumMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA1StratumRadiatumMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA1sr
@@ -5037,6 +5385,7 @@ SwansonBM_3rd-ed_fieldCA2AmmonsHornLorenteDeNo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA2AmmonsHornLorenteDeNo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA2
@@ -5053,6 +5402,7 @@ SwansonBM_3rd-ed_fieldCA2PyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA2PyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA2sp
@@ -5069,6 +5419,7 @@ SwansonBM_3rd-ed_fieldCA2StratumLacunosummoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA2StratumLacunosummoleculare
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA2slm
@@ -5085,6 +5436,7 @@ SwansonBM_3rd-ed_fieldCA2StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA2StratumOriens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA2so
@@ -5101,6 +5453,7 @@ SwansonBM_3rd-ed_fieldCA2StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA2StratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA2sr
@@ -5117,6 +5470,7 @@ SwansonBM_3rd-ed_fieldCA3AmmonsHornLorenteDeNo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3AmmonsHornLorenteDeNo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA3
@@ -5133,6 +5487,7 @@ SwansonBM_3rd-ed_fieldCA3PyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3PyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA3sp
@@ -5149,6 +5504,7 @@ SwansonBM_3rd-ed_fieldCA3StratumLacunosummoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3StratumLacunosummoleculare
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA3slm
@@ -5165,6 +5521,7 @@ SwansonBM_3rd-ed_fieldCA3StratumLucidumHonegger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3StratumLucidumHonegger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA3slu
@@ -5181,6 +5538,7 @@ SwansonBM_3rd-ed_fieldCA3StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3StratumOriens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA3so
@@ -5197,6 +5555,7 @@ SwansonBM_3rd-ed_fieldCA3StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldCA3StratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CA3sr
@@ -5213,6 +5572,7 @@ SwansonBM_3rd-ed_fieldsOfForel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fieldsOfForel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FF
@@ -5229,6 +5589,7 @@ SwansonBM_3rd-ed_filumTerminale
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_filumTerminale
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ft
@@ -5245,6 +5606,7 @@ SwansonBM_3rd-ed_fimbriaVieussens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fimbriaVieussens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fi
@@ -5261,6 +5623,7 @@ SwansonBM_3rd-ed_flocculonodularLobeCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_flocculonodularLobeCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FNL
@@ -5277,6 +5640,7 @@ SwansonBM_3rd-ed_flocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_flocculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FL
@@ -5293,6 +5657,7 @@ SwansonBM_3rd-ed_foliumtuberVermisVII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_foliumtuberVermisVII
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FOTU
@@ -5309,6 +5674,7 @@ SwansonBM_3rd-ed_forebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_forebrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FB
@@ -5325,6 +5691,7 @@ SwansonBM_3rd-ed_fornixSystemGalen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fornixSystemGalen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fxs
@@ -5341,6 +5708,7 @@ SwansonBM_3rd-ed_fourthVentricleGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fourthVentricleGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V4g
@@ -5357,6 +5725,7 @@ SwansonBM_3rd-ed_fourthVentricleLateralRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fourthVentricleLateralRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V4r
@@ -5373,6 +5742,7 @@ SwansonBM_3rd-ed_fourthVentricleProper
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_fourthVentricleProper
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V4
@@ -5389,6 +5759,7 @@ SwansonBM_3rd-ed_frontalPoleCerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_frontalPoleCerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FRP
@@ -5405,6 +5776,7 @@ SwansonBM_3rd-ed_frontalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_frontalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FRO
@@ -5421,6 +5793,7 @@ SwansonBM_3rd-ed_ganglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ganglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: G
@@ -5437,6 +5810,7 @@ SwansonBM_3rd-ed_geniculateGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_geniculateGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GgVII
@@ -5453,6 +5827,7 @@ SwansonBM_3rd-ed_geniculateGroupOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_geniculateGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GENd
@@ -5469,6 +5844,7 @@ SwansonBM_3rd-ed_geniculateGroupOfTheVentralThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_geniculateGroupOfTheVentralThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GENv
@@ -5485,6 +5861,7 @@ SwansonBM_3rd-ed_genuOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_genuOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: gVIIn
@@ -5501,6 +5878,7 @@ SwansonBM_3rd-ed_gigantocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gigantocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GRN
@@ -5517,6 +5895,7 @@ SwansonBM_3rd-ed_globusPallidusBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_globusPallidusBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GP
@@ -5533,6 +5912,7 @@ SwansonBM_3rd-ed_globusPallidusExternalSegment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_globusPallidusExternalSegment
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPe
@@ -5549,6 +5929,7 @@ SwansonBM_3rd-ed_globusPallidusInternalSegment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_globusPallidusInternalSegment
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPi
@@ -5565,6 +5946,7 @@ SwansonBM_3rd-ed_glossopharyngealNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_glossopharyngealNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IXn
@@ -5581,6 +5963,7 @@ SwansonBM_3rd-ed_gracileFascicleGoll
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gracileFascicleGoll
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: grf
@@ -5597,6 +5980,7 @@ SwansonBM_3rd-ed_gracileNucleusGeneralGoll
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gracileNucleusGeneralGoll
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GRg
@@ -5613,6 +5997,7 @@ SwansonBM_3rd-ed_gracileNucleusMedianPartBischoff
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gracileNucleusMedianPartBischoff
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GRm
@@ -5629,6 +6014,7 @@ SwansonBM_3rd-ed_gracileNucleusPrincipalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gracileNucleusPrincipalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GR
@@ -5645,6 +6031,7 @@ SwansonBM_3rd-ed_grooves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_grooves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: grv
@@ -5661,6 +6048,7 @@ SwansonBM_3rd-ed_gustatoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_gustatoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GU
@@ -5677,6 +6065,7 @@ SwansonBM_3rd-ed_habenularCommissureHaller
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_habenularCommissureHaller
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: hbc
@@ -5693,6 +6082,7 @@ SwansonBM_3rd-ed_hemisphericRegionCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hemisphericRegionCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: HEM
@@ -5709,6 +6099,7 @@ SwansonBM_3rd-ed_hindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hindbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: HB
@@ -5725,6 +6116,7 @@ SwansonBM_3rd-ed_hippocampalCommissuresDavid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hippocampalCommissuresDavid
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: hc
@@ -5741,6 +6133,7 @@ SwansonBM_3rd-ed_hippocampalFissureGratiolet
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hippocampalFissureGratiolet
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: hf
@@ -5757,6 +6150,7 @@ SwansonBM_3rd-ed_hippocampalFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hippocampalFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: HPF
@@ -5773,6 +6167,7 @@ SwansonBM_3rd-ed_hippocampalRegionAranzi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hippocampalRegionAranzi
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: HIP
@@ -5789,6 +6184,7 @@ SwansonBM_3rd-ed_hypoglossalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypoglossalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: XIIn
@@ -5805,6 +6201,7 @@ SwansonBM_3rd-ed_hypoglossalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypoglossalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: XII
@@ -5821,6 +6218,7 @@ SwansonBM_3rd-ed_hypothalamicLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypothalamicLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LZ
@@ -5837,6 +6235,7 @@ SwansonBM_3rd-ed_hypothalamicLateralZoneMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypothalamicLateralZoneMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LZm
@@ -5853,6 +6252,7 @@ SwansonBM_3rd-ed_hypothalamicLateralZoneStateRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypothalamicLateralZoneStateRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LZs
@@ -5869,6 +6269,7 @@ SwansonBM_3rd-ed_hypothalamicPeriventricularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypothalamicPeriventricularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVR
@@ -5885,6 +6286,7 @@ SwansonBM_3rd-ed_hypothalamohypophysialTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypothalamohypophysialTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: hht
@@ -5901,6 +6303,7 @@ SwansonBM_3rd-ed_hypothalamusHis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_hypothalamusHis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: HY
@@ -5917,6 +6320,7 @@ SwansonBM_3rd-ed_induseumGriseumValentin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_induseumGriseumValentin
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IG
@@ -5933,6 +6337,7 @@ SwansonBM_3rd-ed_inferiorCerebellarPeduncleRidley
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorCerebellarPeduncleRidley
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: icp
@@ -5949,6 +6354,7 @@ SwansonBM_3rd-ed_inferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IC
@@ -5965,6 +6371,7 @@ SwansonBM_3rd-ed_inferiorColliculusCentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorColliculusCentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ICc
@@ -5981,6 +6388,7 @@ SwansonBM_3rd-ed_inferiorColliculusCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorColliculusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: cic
@@ -5997,6 +6405,7 @@ SwansonBM_3rd-ed_inferiorColliculusDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorColliculusDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ICd
@@ -6013,6 +6422,7 @@ SwansonBM_3rd-ed_inferiorColliculusExternalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorColliculusExternalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ICe
@@ -6029,6 +6439,7 @@ SwansonBM_3rd-ed_inferiorMesentericGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorMesentericGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GIM
@@ -6045,6 +6456,7 @@ SwansonBM_3rd-ed_inferiorOlivaryComplexDorsalAccessoryOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorOlivaryComplexDorsalAccessoryOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IOda
@@ -6061,6 +6473,7 @@ SwansonBM_3rd-ed_inferiorOlivaryComplexMedialAccessoryOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorOlivaryComplexMedialAccessoryOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IOma
@@ -6077,6 +6490,7 @@ SwansonBM_3rd-ed_inferiorOlivaryComplexPrincipalOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorOlivaryComplexPrincipalOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IOpr
@@ -6093,6 +6507,7 @@ SwansonBM_3rd-ed_inferiorOlivaryComplexVieussens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorOlivaryComplexVieussens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IO
@@ -6109,6 +6524,7 @@ SwansonBM_3rd-ed_inferiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_inferiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISN
@@ -6125,6 +6541,7 @@ SwansonBM_3rd-ed_infracerebellarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_infracerebellarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ICB
@@ -6141,6 +6558,7 @@ SwansonBM_3rd-ed_infralimbicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_infralimbicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ILA
@@ -6157,6 +6575,7 @@ SwansonBM_3rd-ed_infundibulumExternalLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_infundibulumExternalLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: INFex
@@ -6173,6 +6592,7 @@ SwansonBM_3rd-ed_infundibulumGalen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_infundibulumGalen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: INF
@@ -6189,6 +6609,7 @@ SwansonBM_3rd-ed_infundibulumInternalLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_infundibulumInternalLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: INFin
@@ -6205,6 +6626,7 @@ SwansonBM_3rd-ed_insularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_insularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: INS
@@ -6221,6 +6643,7 @@ SwansonBM_3rd-ed_interanterodorsalNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interanterodorsalNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IAD
@@ -6237,6 +6660,7 @@ SwansonBM_3rd-ed_interanteromedialNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interanteromedialNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IAM
@@ -6253,6 +6677,7 @@ SwansonBM_3rd-ed_interbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IB
@@ -6269,6 +6694,7 @@ SwansonBM_3rd-ed_intercalatedAmygdalarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intercalatedAmygdalarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IA
@@ -6285,6 +6711,7 @@ SwansonBM_3rd-ed_intercalatedNucleusOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intercalatedNucleusOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ICS
@@ -6301,6 +6728,7 @@ SwansonBM_3rd-ed_intercruralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intercruralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: icf
@@ -6317,6 +6745,7 @@ SwansonBM_3rd-ed_interfascicularNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interfascicularNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IF
@@ -6333,6 +6762,7 @@ SwansonBM_3rd-ed_intermediateAcousticStriaHeld
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediateAcousticStriaHeld
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ias
@@ -6349,6 +6779,7 @@ SwansonBM_3rd-ed_intermediateGraySpinalCordGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediateGraySpinalCordGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IHg
@@ -6365,6 +6796,7 @@ SwansonBM_3rd-ed_intermediateGraySpinalCordProper
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediateGraySpinalCordProper
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IH
@@ -6381,6 +6813,7 @@ SwansonBM_3rd-ed_intermediateNerveWrisberg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediateNerveWrisberg
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: iVIIn
@@ -6397,6 +6830,7 @@ SwansonBM_3rd-ed_intermediodorsalNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediodorsalNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IMD
@@ -6413,6 +6847,7 @@ SwansonBM_3rd-ed_intermediolateralSpinalColumn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediolateralSpinalColumn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IML
@@ -6429,6 +6864,7 @@ SwansonBM_3rd-ed_intermediolateralSpinalColumnSacralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediolateralSpinalColumnSacralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IMLp
@@ -6445,6 +6881,7 @@ SwansonBM_3rd-ed_intermediolateralSpinalColumnThoracolumbarDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediolateralSpinalColumnThoracolumbarDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IMLs
@@ -6461,6 +6898,7 @@ SwansonBM_3rd-ed_intermediolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISli
@@ -6477,6 +6915,7 @@ SwansonBM_3rd-ed_intermediomedialSpinalColumn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intermediomedialSpinalColumn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IMM
@@ -6493,6 +6932,7 @@ SwansonBM_3rd-ed_internalArcuateFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_internalArcuateFibers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: iaf
@@ -6509,6 +6949,7 @@ SwansonBM_3rd-ed_internalCapsuleBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_internalCapsuleBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: int
@@ -6525,6 +6966,7 @@ SwansonBM_3rd-ed_internalMedullaryLaminaThalamusBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_internalMedullaryLaminaThalamusBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: im
@@ -6541,6 +6983,7 @@ SwansonBM_3rd-ed_internuclearAreaHypothalamicPeriventricularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_internuclearAreaHypothalamicPeriventricularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: I
@@ -6557,6 +7000,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusApicalSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusApicalSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNa
@@ -6573,6 +7017,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusCentralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusCentralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNc
@@ -6589,6 +7034,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusDorsomedialSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusDorsomedialSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNd
@@ -6605,6 +7051,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPN
@@ -6621,6 +7068,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusIntermediateSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusIntermediateSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNi
@@ -6637,6 +7085,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNl
@@ -6653,6 +7102,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNld
@@ -6669,6 +7119,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNli
@@ -6685,6 +7136,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusRostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusRostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNlr
@@ -6701,6 +7153,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNlv
@@ -6717,6 +7170,7 @@ SwansonBM_3rd-ed_interpeduncularNucleusRostralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interpeduncularNucleusRostralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPNr
@@ -6733,6 +7187,7 @@ SwansonBM_3rd-ed_interposedNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interposedNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IP
@@ -6749,6 +7204,7 @@ SwansonBM_3rd-ed_interposedNucleusMainPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interposedNucleusMainPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPm
@@ -6765,6 +7221,7 @@ SwansonBM_3rd-ed_interposedNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interposedNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IPp
@@ -6781,6 +7238,7 @@ SwansonBM_3rd-ed_interstitialNucleusAuditoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interstitialNucleusAuditoryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IAN
@@ -6797,6 +7255,7 @@ SwansonBM_3rd-ed_interstitialNucleusOfCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interstitialNucleusOfCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: INC
@@ -6813,6 +7272,7 @@ SwansonBM_3rd-ed_interstitialNucleusVestibularNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interstitialNucleusVestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: INV
@@ -6829,6 +7289,7 @@ SwansonBM_3rd-ed_interventricularForamenMonro
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_interventricularForamenMonro
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IVF
@@ -6845,6 +7306,7 @@ SwansonBM_3rd-ed_intracentralFissure2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intracentralFissure2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ice2
@@ -6861,6 +7323,7 @@ SwansonBM_3rd-ed_intraculminateFissure1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intraculminateFissure1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: icu1
@@ -6877,6 +7340,7 @@ SwansonBM_3rd-ed_intralaminarNucleiDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intralaminarNucleiDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ILM
@@ -6893,6 +7357,7 @@ SwansonBM_3rd-ed_intraparafloccularFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_intraparafloccularFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ipf
@@ -6909,6 +7374,7 @@ SwansonBM_3rd-ed_islandsOfCallejaOlfactoryTubercle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_islandsOfCallejaOlfactoryTubercle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: isl
@@ -6925,6 +7391,7 @@ SwansonBM_3rd-ed_isocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO
@@ -6941,6 +7408,7 @@ SwansonBM_3rd-ed_isocortexDeepSupragranularPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexDeepSupragranularPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO3
@@ -6957,6 +7425,7 @@ SwansonBM_3rd-ed_isocortexGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO4
@@ -6973,6 +7442,7 @@ SwansonBM_3rd-ed_isocortexInfragranularPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexInfragranularPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO5
@@ -6989,6 +7459,7 @@ SwansonBM_3rd-ed_isocortexMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO1
@@ -7005,6 +7476,7 @@ SwansonBM_3rd-ed_isocortexPolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexPolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO6
@@ -7021,6 +7493,7 @@ SwansonBM_3rd-ed_isocortexSuperficialSupragranularPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_isocortexSuperficialSupragranularPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ISO2
@@ -7037,6 +7510,7 @@ SwansonBM_3rd-ed_juxtarestiformBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_juxtarestiformBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: jrb
@@ -7048,27 +7522,12 @@ SwansonBM_3rd-ed_juxtarestiformBody
 
 ------------
 
-SwansonBM_3rd-ed_kollikerFuseSubnucleusOfPB
--------------------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: KF
-   :lookupLabel: SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB
-   :name: Kölliker-Fuse subnucleus (of PB)
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
 SwansonBM_3rd-ed_lateralAmygdalarNucleus
 ----------------------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LA
@@ -7085,6 +7544,7 @@ SwansonBM_3rd-ed_lateralApertureFourthVentricleLuschka
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralApertureFourthVentricleLuschka
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LAP
@@ -7101,6 +7561,7 @@ SwansonBM_3rd-ed_lateralCervicalNucleusRexedBrodal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralCervicalNucleusRexedBrodal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LCN
@@ -7117,6 +7578,7 @@ SwansonBM_3rd-ed_lateralDorsalNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralDorsalNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LD
@@ -7133,6 +7595,7 @@ SwansonBM_3rd-ed_lateralForebrainBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralForebrainBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lfb
@@ -7149,6 +7612,7 @@ SwansonBM_3rd-ed_lateralForebrainBundleSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralForebrainBundleSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lfbs
@@ -7165,6 +7629,7 @@ SwansonBM_3rd-ed_lateralForebrainBundleSystemThalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralForebrainBundleSystemThalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lfbst
@@ -7181,6 +7646,7 @@ SwansonBM_3rd-ed_lateralFuniculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralFuniculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lf
@@ -7197,6 +7663,7 @@ SwansonBM_3rd-ed_lateralGeniculateComplexDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralGeniculateComplexDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LGd
@@ -7213,6 +7680,7 @@ SwansonBM_3rd-ed_lateralGeniculateComplexIntergeniculateLeaflet
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralGeniculateComplexIntergeniculateLeaflet
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IGL
@@ -7229,6 +7697,7 @@ SwansonBM_3rd-ed_lateralGeniculateComplexSantorini
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralGeniculateComplexSantorini
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LG
@@ -7245,6 +7714,7 @@ SwansonBM_3rd-ed_lateralGeniculateComplexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralGeniculateComplexVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LGv
@@ -7261,6 +7731,7 @@ SwansonBM_3rd-ed_lateralGeniculateComplexVentralPartLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralGeniculateComplexVentralPartLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LGvl
@@ -7277,6 +7748,7 @@ SwansonBM_3rd-ed_lateralGeniculateComplexVentralPartMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralGeniculateComplexVentralPartMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LGvm
@@ -7293,6 +7765,7 @@ SwansonBM_3rd-ed_lateralHabenulaNissl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHabenulaNissl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LH
@@ -7309,6 +7782,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAa
@@ -7325,6 +7799,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionDorsalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAad
@@ -7341,6 +7816,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionIntermediateZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionIntermediateZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAai
@@ -7357,6 +7833,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionVentralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAav
@@ -7373,6 +7850,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaDorsalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaDorsalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAd
@@ -7389,6 +7867,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtadorsomedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtadorsomedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAjd
@@ -7405,6 +7884,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaparaventricularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaparaventricularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAjp
@@ -7421,6 +7901,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAjv
@@ -7437,6 +7918,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAjvd
@@ -7453,6 +7935,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAjvv
@@ -7469,6 +7952,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaMagnocellularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaMagnocellularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAm
@@ -7485,6 +7969,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAmo
@@ -7501,6 +7986,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaNissl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaNissl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHA
@@ -7517,6 +8003,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaParvicellularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaParvicellularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHApc
@@ -7533,6 +8020,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaPosteriorRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaPosteriorRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAp
@@ -7549,6 +8037,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionAnteriorZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionAnteriorZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAsfa
@@ -7567,6 +8056,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPosteriorZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPosteriorZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAsfp
@@ -7583,6 +8073,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAsfpm
@@ -7599,6 +8090,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaSuprafornicalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaSuprafornicalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAs
@@ -7615,6 +8107,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAv
@@ -7631,6 +8124,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegionLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegionLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAvl
@@ -7647,6 +8141,7 @@ SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegionMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegionMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LHAvm
@@ -7663,6 +8158,7 @@ SwansonBM_3rd-ed_lateralLemniscusReil
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralLemniscusReil
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ll
@@ -7679,6 +8175,7 @@ SwansonBM_3rd-ed_lateralMammillaryNucleusGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralMammillaryNucleusGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LM
@@ -7695,6 +8192,7 @@ SwansonBM_3rd-ed_lateralNucleiDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralNucleiDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LAT
@@ -7711,6 +8209,7 @@ SwansonBM_3rd-ed_lateralOlfactoryTractBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralOlfactoryTractBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lot
@@ -7727,6 +8226,7 @@ SwansonBM_3rd-ed_lateralOlfactoryTractDorsalLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralOlfactoryTractDorsalLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lotd
@@ -7743,6 +8243,7 @@ SwansonBM_3rd-ed_lateralOlfactoryTractGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralOlfactoryTractGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lotg
@@ -7759,6 +8260,7 @@ SwansonBM_3rd-ed_lateralPosteriorNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralPosteriorNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LP
@@ -7775,6 +8277,7 @@ SwansonBM_3rd-ed_lateralPreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralPreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LPO
@@ -7791,6 +8294,7 @@ SwansonBM_3rd-ed_lateralPropriohypothalamicPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralPropriohypothalamicPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: phpl
@@ -7807,6 +8311,7 @@ SwansonBM_3rd-ed_lateralReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LRN
@@ -7823,6 +8328,7 @@ SwansonBM_3rd-ed_lateralReticularNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralReticularNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LRNm
@@ -7839,6 +8345,7 @@ SwansonBM_3rd-ed_lateralReticularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralReticularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LRNp
@@ -7855,6 +8362,7 @@ SwansonBM_3rd-ed_lateralSeptalComplexRisoldSwanson
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalComplexRisoldSwanson
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSX
@@ -7871,6 +8379,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LS
@@ -7887,6 +8396,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalCaudodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalCaudodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc
@@ -7903,6 +8413,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.d
@@ -7919,6 +8430,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.d.d
@@ -7935,6 +8447,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.d.l
@@ -7951,6 +8464,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.d.r
@@ -7967,6 +8481,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.d.v
@@ -7983,6 +8498,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v
@@ -7999,6 +8515,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.i
@@ -8015,6 +8532,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.l
@@ -8031,6 +8549,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDom
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.l.d
@@ -8047,6 +8566,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.l.v
@@ -8063,6 +8583,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.m
@@ -8079,6 +8600,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDoma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.m.d
@@ -8095,6 +8617,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDom
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSc.v.m.v
@@ -8111,6 +8634,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl
@@ -8127,6 +8651,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl.l
@@ -8143,6 +8668,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDorsalDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl.l.d
@@ -8159,6 +8685,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl.l.v
@@ -8175,6 +8702,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl.m
@@ -8191,6 +8719,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDors
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDorsalDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl.m.d
@@ -8207,6 +8736,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVentralDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.dl.m.v
@@ -8223,6 +8753,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.m
@@ -8239,6 +8770,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.m.d
@@ -8255,6 +8787,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.m.v
@@ -8271,6 +8804,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDom
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.m.v.c
@@ -8287,6 +8821,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.m.v.r
@@ -8303,6 +8838,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.vl
@@ -8319,6 +8855,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.vl.d
@@ -8335,6 +8872,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLateralDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.vl.d.l
@@ -8351,6 +8889,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMedialDomain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.vl.d.m
@@ -8367,6 +8906,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr.vl.v
@@ -8383,6 +8923,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusRostralRostroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusRostralRostroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSr
@@ -8399,6 +8940,7 @@ SwansonBM_3rd-ed_lateralSeptalNucleusVentralPartRisoldSwanson
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSeptalNucleusVentralPartRisoldSwanson
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSv
@@ -8415,6 +8957,7 @@ SwansonBM_3rd-ed_lateralSpinalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSpinalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LSN
@@ -8431,6 +8974,7 @@ SwansonBM_3rd-ed_lateralSpinothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralSpinothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sttl
@@ -8447,6 +8991,7 @@ SwansonBM_3rd-ed_lateralTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LTN
@@ -8463,6 +9008,7 @@ SwansonBM_3rd-ed_lateralTerminalNucleusAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralTerminalNucleusAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LT
@@ -8479,6 +9025,7 @@ SwansonBM_3rd-ed_lateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VL
@@ -8495,6 +9042,7 @@ SwansonBM_3rd-ed_lateralVestibularNucleusDeiters
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lateralVestibularNucleusDeiters
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LAV
@@ -8511,6 +9059,7 @@ SwansonBM_3rd-ed_laterodorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_laterodorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LDT
@@ -8527,6 +9076,7 @@ SwansonBM_3rd-ed_laterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_laterolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISll
@@ -8543,6 +9093,7 @@ SwansonBM_3rd-ed_linearNucleusMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_linearNucleusMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LIN
@@ -8559,6 +9110,7 @@ SwansonBM_3rd-ed_lingulaI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lingulaI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LING
@@ -8575,6 +9127,7 @@ SwansonBM_3rd-ed_locusCeruleusVicqDAzyr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_locusCeruleusVicqDAzyr
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: LC
@@ -8591,6 +9144,7 @@ SwansonBM_3rd-ed_longitudinalAssociationBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_longitudinalAssociationBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lab
@@ -8607,6 +9161,7 @@ SwansonBM_3rd-ed_lumbarSpinalGanglia16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lumbarSpinalGanglia16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: G-L1-6
@@ -8623,6 +9178,7 @@ SwansonBM_3rd-ed_lumbarSympatheticGanglia16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lumbarSympatheticGanglia16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Gs-L1-6
@@ -8639,6 +9195,7 @@ SwansonBM_3rd-ed_lumbosacralPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_lumbosacralPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: lsp
@@ -8655,6 +9212,7 @@ SwansonBM_3rd-ed_magnocellularNucleusLoo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_magnocellularNucleusLoo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MA
@@ -8671,6 +9229,7 @@ SwansonBM_3rd-ed_magnocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_magnocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MARN
@@ -8687,6 +9246,7 @@ SwansonBM_3rd-ed_mainOlfactoryBulbGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbGlomerularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOBgl
@@ -8703,6 +9263,7 @@ SwansonBM_3rd-ed_mainOlfactoryBulbGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOBgr
@@ -8719,6 +9280,7 @@ SwansonBM_3rd-ed_mainOlfactoryBulbInnerPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbInnerPlexiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOBipl
@@ -8735,6 +9297,7 @@ SwansonBM_3rd-ed_mainOlfactoryBulbMitralLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbMitralLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOBmi
@@ -8751,6 +9314,7 @@ SwansonBM_3rd-ed_mainOlfactoryBulbOuterPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbOuterPlexiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOBopl
@@ -8767,6 +9331,7 @@ SwansonBM_3rd-ed_mainOlfactoryBulbSoemmerring
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mainOlfactoryBulbSoemmerring
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOB
@@ -8783,6 +9348,7 @@ SwansonBM_3rd-ed_majorIslandOfCallejaOlfactoryTubercle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_majorIslandOfCallejaOlfactoryTubercle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: islm
@@ -8799,6 +9365,7 @@ SwansonBM_3rd-ed_mammillaryBodyGallSpurzheim
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillaryBodyGallSpurzheim
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MBO
@@ -8815,6 +9382,7 @@ SwansonBM_3rd-ed_mammillaryPeduncleMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillaryPeduncleMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mp
@@ -8831,6 +9399,7 @@ SwansonBM_3rd-ed_mammillotegmentalTractGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillotegmentalTractGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mtg
@@ -8847,6 +9416,7 @@ SwansonBM_3rd-ed_mammillothalamicTractVicqDAzyr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mammillothalamicTractVicqDAzyr
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mtt
@@ -8863,6 +9433,7 @@ SwansonBM_3rd-ed_marginalZoneSpinalCordWaldeyer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_marginalZoneSpinalCordWaldeyer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MZ
@@ -8879,6 +9450,7 @@ SwansonBM_3rd-ed_medialAccessoryOculomotorNucleusBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAccessoryOculomotorNucleusBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MAN
@@ -8895,6 +9467,7 @@ SwansonBM_3rd-ed_medialAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEA
@@ -8911,6 +9484,7 @@ SwansonBM_3rd-ed_medialAmygdalarNucleusAnterodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAmygdalarNucleusAnterodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEAad
@@ -8927,6 +9501,7 @@ SwansonBM_3rd-ed_medialAmygdalarNucleusAnteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAmygdalarNucleusAnteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEAav
@@ -8943,6 +9518,7 @@ SwansonBM_3rd-ed_medialAmygdalarNucleusPosterodorsalPartSublayersAc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAmygdalarNucleusPosterodorsalPartSublayersAc
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEApd-a,b,c
@@ -8959,6 +9535,7 @@ SwansonBM_3rd-ed_medialAmygdalarNucleusPosteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialAmygdalarNucleusPosteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEApv
@@ -8975,6 +9552,7 @@ SwansonBM_3rd-ed_medialCorticohypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialCorticohypothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mct
@@ -8991,6 +9569,7 @@ SwansonBM_3rd-ed_medialForebrainBundleEdinger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleEdinger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfb
@@ -9007,6 +9586,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbs
@@ -9023,6 +9603,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystemCerebrumRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemCerebrumRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbsc
@@ -9039,6 +9620,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystemEpithalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemEpithalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbse
@@ -9055,6 +9637,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystemHypothalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemHypothalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbshy
@@ -9071,6 +9654,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystemMammillaryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemMammillaryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbsma
@@ -9087,6 +9671,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystemMidbrainRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemMidbrainRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbsm
@@ -9103,6 +9688,7 @@ SwansonBM_3rd-ed_medialForebrainBundleSystemThalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialForebrainBundleSystemThalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mfbst
@@ -9119,6 +9705,7 @@ SwansonBM_3rd-ed_medialGeniculateComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialGeniculateComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MG
@@ -9135,6 +9722,7 @@ SwansonBM_3rd-ed_medialGeniculateComplexDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialGeniculateComplexDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MGd
@@ -9151,6 +9739,7 @@ SwansonBM_3rd-ed_medialGeniculateComplexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialGeniculateComplexMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MGm
@@ -9167,6 +9756,7 @@ SwansonBM_3rd-ed_medialGeniculateComplexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialGeniculateComplexVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MGv
@@ -9183,6 +9773,7 @@ SwansonBM_3rd-ed_medialHabenulaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialHabenulaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MHd
@@ -9199,6 +9790,7 @@ SwansonBM_3rd-ed_medialHabenulaNissl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialHabenulaNissl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MH
@@ -9215,6 +9807,7 @@ SwansonBM_3rd-ed_medialHabenulaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialHabenulaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MHv
@@ -9231,6 +9824,7 @@ SwansonBM_3rd-ed_medialLemniscusReil
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialLemniscusReil
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ml
@@ -9247,6 +9841,7 @@ SwansonBM_3rd-ed_medialLongitudinalFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialLongitudinalFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mlf
@@ -9263,6 +9858,7 @@ SwansonBM_3rd-ed_medialMammillaryNucleusBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialMammillaryNucleusBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MM
@@ -9279,6 +9875,7 @@ SwansonBM_3rd-ed_medialMammillaryNucleusGeneralGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialMammillaryNucleusGeneralGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MMg
@@ -9295,6 +9892,7 @@ SwansonBM_3rd-ed_medialMammillaryNucleusMedianPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialMammillaryNucleusMedianPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MMme
@@ -9311,6 +9909,7 @@ SwansonBM_3rd-ed_medialNucleiDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialNucleiDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MED
@@ -9327,6 +9926,7 @@ SwansonBM_3rd-ed_medialPreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MPO
@@ -9343,6 +9943,7 @@ SwansonBM_3rd-ed_medialPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MPN
@@ -9359,6 +9960,7 @@ SwansonBM_3rd-ed_medialPreopticNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPreopticNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MPNc
@@ -9375,6 +9977,7 @@ SwansonBM_3rd-ed_medialPreopticNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPreopticNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MPNl
@@ -9391,6 +9994,7 @@ SwansonBM_3rd-ed_medialPreopticNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPreopticNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MPNm
@@ -9407,6 +10011,7 @@ SwansonBM_3rd-ed_medialPretectalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPretectalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MPT
@@ -9423,6 +10028,7 @@ SwansonBM_3rd-ed_medialPropriohypothalamicPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialPropriohypothalamicPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: phpm
@@ -9439,6 +10045,7 @@ SwansonBM_3rd-ed_medialSeptalComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialSeptalComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MSC
@@ -9455,6 +10062,7 @@ SwansonBM_3rd-ed_medialSeptalNucleusCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialSeptalNucleusCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MS
@@ -9471,6 +10079,7 @@ SwansonBM_3rd-ed_medialTerminalNucleusAccessoryOpticTractEdinger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialTerminalNucleusAccessoryOpticTractEdinger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MT
@@ -9487,6 +10096,7 @@ SwansonBM_3rd-ed_medialVestibularNucleusSchwalbe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medialVestibularNucleusSchwalbe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MV
@@ -9503,6 +10113,7 @@ SwansonBM_3rd-ed_medianApertureFourthVentricleMagendie
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianApertureFourthVentricleMagendie
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MAP
@@ -9519,6 +10130,7 @@ SwansonBM_3rd-ed_medianEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianEminence
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ME
@@ -9535,6 +10147,7 @@ SwansonBM_3rd-ed_medianEminenceExternalLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianEminenceExternalLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEex
@@ -9551,6 +10164,7 @@ SwansonBM_3rd-ed_medianEminenceInternalLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianEminenceInternalLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEin
@@ -9567,6 +10181,7 @@ SwansonBM_3rd-ed_medianPreopticNucleusLoo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medianPreopticNucleusLoo
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEPO
@@ -9583,6 +10198,7 @@ SwansonBM_3rd-ed_mediodorsalNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mediodorsalNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MD
@@ -9599,6 +10215,7 @@ SwansonBM_3rd-ed_mediodorsalNucleusThalamusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mediodorsalNucleusThalamusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MDc
@@ -9615,6 +10232,7 @@ SwansonBM_3rd-ed_mediodorsalNucleusThalamusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mediodorsalNucleusThalamusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MDl
@@ -9631,6 +10249,7 @@ SwansonBM_3rd-ed_mediodorsalNucleusThalamusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mediodorsalNucleusThalamusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MDm
@@ -9647,6 +10266,7 @@ SwansonBM_3rd-ed_mediolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_mediolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISlm
@@ -9663,6 +10283,7 @@ SwansonBM_3rd-ed_medulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MY
@@ -9679,6 +10300,7 @@ SwansonBM_3rd-ed_medullaryReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medullaryReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MDRN
@@ -9695,6 +10317,7 @@ SwansonBM_3rd-ed_medullaryReticularNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medullaryReticularNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MDRNd
@@ -9711,6 +10334,7 @@ SwansonBM_3rd-ed_medullaryReticularNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_medullaryReticularNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MDRNv
@@ -9727,6 +10351,7 @@ SwansonBM_3rd-ed_meninges
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_meninges
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEN
@@ -9743,6 +10368,7 @@ SwansonBM_3rd-ed_midbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MB
@@ -9759,6 +10385,7 @@ SwansonBM_3rd-ed_midbrainReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MRN
@@ -9775,6 +10402,7 @@ SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MRNm
@@ -9791,6 +10419,7 @@ SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPartGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPartGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MRNmg
@@ -9807,6 +10436,7 @@ SwansonBM_3rd-ed_midbrainReticularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainReticularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MRNp
@@ -9823,6 +10453,7 @@ SwansonBM_3rd-ed_midbrainReticularNucleusRetrorubralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainReticularNucleusRetrorubralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RR
@@ -9839,6 +10470,7 @@ SwansonBM_3rd-ed_midbrainTractOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainTractOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mtV
@@ -9855,6 +10487,7 @@ SwansonBM_3rd-ed_midbrainTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midbrainTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MEV
@@ -9871,6 +10504,7 @@ SwansonBM_3rd-ed_middleCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mcp
@@ -9887,6 +10521,7 @@ SwansonBM_3rd-ed_middleCervicalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_middleCervicalGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GMC
@@ -9903,6 +10538,7 @@ SwansonBM_3rd-ed_middleCommissureOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_middleCommissureOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: mtc
@@ -9919,6 +10555,7 @@ SwansonBM_3rd-ed_midlineGroupDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midlineGroupDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MTN
@@ -9935,6 +10572,7 @@ SwansonBM_3rd-ed_midlineNucleiDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_midlineNucleiDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MID
@@ -9951,6 +10589,7 @@ SwansonBM_3rd-ed_motoneuronGroups
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motoneuronGroups
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MNG
@@ -9967,6 +10606,7 @@ SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Vma
@@ -9983,6 +10623,7 @@ SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V
@@ -9999,6 +10640,7 @@ SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerveParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerveParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Vpc
@@ -10015,6 +10657,7 @@ SwansonBM_3rd-ed_motorRootOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motorRootOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: moV
@@ -10031,6 +10674,7 @@ SwansonBM_3rd-ed_motorSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_motorSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOT
@@ -10047,6 +10691,7 @@ SwansonBM_3rd-ed_myentericPlexusAuerbach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_myentericPlexusAuerbach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: myp
@@ -10063,6 +10708,7 @@ SwansonBM_3rd-ed_nerveFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nerveFibers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: nfi
@@ -10079,6 +10725,7 @@ SwansonBM_3rd-ed_nervePlexuses
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nervePlexuses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: plx
@@ -10095,6 +10742,7 @@ SwansonBM_3rd-ed_nerves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nerves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: n
@@ -10111,6 +10759,7 @@ SwansonBM_3rd-ed_nervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nervousSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NS
@@ -10127,6 +10776,7 @@ SwansonBM_3rd-ed_neuroendocrineMotorZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_neuroendocrineMotorZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NEM
@@ -10143,6 +10793,7 @@ SwansonBM_3rd-ed_neuroendocrineMotorZoneMagnocellular
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_neuroendocrineMotorZoneMagnocellular
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NEMm
@@ -10159,6 +10810,7 @@ SwansonBM_3rd-ed_neuroendocrineMotorZoneParvicellular
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_neuroendocrineMotorZoneParvicellular
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NEMp
@@ -10175,6 +10827,7 @@ SwansonBM_3rd-ed_nigrostriatalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nigrostriatalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: nst
@@ -10191,6 +10844,7 @@ SwansonBM_3rd-ed_nigrothalamicFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nigrothalamicFibers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ntt
@@ -10207,6 +10861,7 @@ SwansonBM_3rd-ed_nodularFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nodularFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: nf
@@ -10223,6 +10878,7 @@ SwansonBM_3rd-ed_nodulusXSublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nodulusXSublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NODa,b
@@ -10239,6 +10895,7 @@ SwansonBM_3rd-ed_nucleusAccumbens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusAccumbens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ACB
@@ -10255,6 +10912,7 @@ SwansonBM_3rd-ed_nucleusAmbiguusDorsalDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusAmbiguusDorsalDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AMBd
@@ -10271,6 +10929,7 @@ SwansonBM_3rd-ed_nucleusAmbiguusVentralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusAmbiguusVentralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AMBv
@@ -10287,6 +10946,7 @@ SwansonBM_3rd-ed_nucleusBrachiumInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusBrachiumInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NB
@@ -10303,6 +10963,7 @@ SwansonBM_3rd-ed_nucleusCircularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusCircularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NC
@@ -10319,6 +10980,7 @@ SwansonBM_3rd-ed_nucleusIncertusCompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusIncertusCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NIc
@@ -10335,6 +10997,7 @@ SwansonBM_3rd-ed_nucleusIncertusDiffusePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusIncertusDiffusePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NId
@@ -10351,6 +11014,7 @@ SwansonBM_3rd-ed_nucleusIncertusStreeter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusIncertusStreeter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NI
@@ -10367,6 +11031,7 @@ SwansonBM_3rd-ed_nucleusIntercalatusStaderini
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusIntercalatusStaderini
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NIS
@@ -10383,6 +11048,7 @@ SwansonBM_3rd-ed_nucleusOfDarkschewitsch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfDarkschewitsch
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ND
@@ -10399,6 +11065,7 @@ SwansonBM_3rd-ed_nucleusOfRoller
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfRoller
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NR
@@ -10415,6 +11082,7 @@ SwansonBM_3rd-ed_nucleusOfTheBulbocavernosus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheBulbocavernosus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NBC
@@ -10431,6 +11099,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLL
@@ -10447,6 +11116,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLLd
@@ -10463,6 +11133,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusHorizontalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusHorizontalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLLh
@@ -10479,6 +11150,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLLv
@@ -10495,6 +11167,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractDorsalCap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractDorsalCap
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLOT3
@@ -10511,6 +11184,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractGanser
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractGanser
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLOT
@@ -10527,6 +11201,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLOT1
@@ -10543,6 +11218,7 @@ SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NLOT2
@@ -10559,6 +11235,7 @@ SwansonBM_3rd-ed_nucleusOfTheOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NOT
@@ -10575,6 +11252,7 @@ SwansonBM_3rd-ed_nucleusOfThePosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfThePosteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NPC
@@ -10591,6 +11269,7 @@ SwansonBM_3rd-ed_nucleusOfTheSolitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTS
@@ -10607,6 +11286,7 @@ SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTSce
@@ -10623,6 +11303,7 @@ SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCommissuralPartCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCommissuralPartCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTSco
@@ -10639,6 +11320,7 @@ SwansonBM_3rd-ed_nucleusOfTheSolitaryTractGelatinousPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTractGelatinousPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTSge
@@ -10655,6 +11337,7 @@ SwansonBM_3rd-ed_nucleusOfTheSolitaryTractLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTractLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTSl
@@ -10671,6 +11354,7 @@ SwansonBM_3rd-ed_nucleusOfTheSolitaryTractMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSolitaryTractMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTSm
@@ -10687,6 +11371,7 @@ SwansonBM_3rd-ed_nucleusOfTheSpinalAccessoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheSpinalAccessoryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: XI
@@ -10703,6 +11388,7 @@ SwansonBM_3rd-ed_nucleusOfTheTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusOfTheTrapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NTB
@@ -10719,6 +11405,7 @@ SwansonBM_3rd-ed_nucleusPrepositusMarburg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusPrepositusMarburg
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRP
@@ -10735,6 +11422,7 @@ SwansonBM_3rd-ed_nucleusPropriusOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusPropriusOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NP
@@ -10751,6 +11439,7 @@ SwansonBM_3rd-ed_nucleusRapheMagnus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusRapheMagnus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RM
@@ -10767,6 +11456,7 @@ SwansonBM_3rd-ed_nucleusRapheObscurus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusRapheObscurus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RO
@@ -10783,6 +11473,7 @@ SwansonBM_3rd-ed_nucleusRaphePallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusRaphePallidus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RPA
@@ -10799,6 +11490,7 @@ SwansonBM_3rd-ed_nucleusRaphePontis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusRaphePontis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RPO
@@ -10815,6 +11507,7 @@ SwansonBM_3rd-ed_nucleusReuniensCaudalDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REc
@@ -10833,6 +11526,7 @@ SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REcd
@@ -10849,6 +11543,7 @@ SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionMedianPartGurdjian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionMedianPartGurdjian
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REcm
@@ -10865,6 +11560,7 @@ SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REp
@@ -10883,6 +11579,7 @@ SwansonBM_3rd-ed_nucleusReuniensMalone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensMalone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RE
@@ -10899,6 +11596,7 @@ SwansonBM_3rd-ed_nucleusReuniensRostralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REr
@@ -10916,6 +11614,7 @@ SwansonBM_3rd-ed_nucleusReuniensRostralDivisionAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REa
@@ -10932,6 +11631,7 @@ SwansonBM_3rd-ed_nucleusReuniensRostralDivisionDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REd
@@ -10948,6 +11648,7 @@ SwansonBM_3rd-ed_nucleusReuniensRostralDivisionLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REl
@@ -10964,6 +11665,7 @@ SwansonBM_3rd-ed_nucleusReuniensRostralDivisionMedianPartGurdjian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionMedianPartGurdjian
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REm
@@ -10980,6 +11682,7 @@ SwansonBM_3rd-ed_nucleusReuniensRostralDivisionVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusReuniensRostralDivisionVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: REv
@@ -10996,6 +11699,7 @@ SwansonBM_3rd-ed_nucleusSagulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusSagulum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SAG
@@ -11012,6 +11716,7 @@ SwansonBM_3rd-ed_nucleusXBrodalPompeiano
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusXBrodalPompeiano
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: x
@@ -11028,6 +11733,7 @@ SwansonBM_3rd-ed_nucleusYBrodalPompeiano
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusYBrodalPompeiano
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: y
@@ -11044,6 +11750,7 @@ SwansonBM_3rd-ed_nucleusZBrodalPompeiano
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_nucleusZBrodalPompeiano
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: z
@@ -11060,6 +11767,7 @@ SwansonBM_3rd-ed_occipitalPoleCerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_occipitalPoleCerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OCP
@@ -11076,6 +11784,7 @@ SwansonBM_3rd-ed_occipitalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_occipitalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OCC
@@ -11092,6 +11801,7 @@ SwansonBM_3rd-ed_oculomotorNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_oculomotorNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IIIn
@@ -11108,6 +11818,7 @@ SwansonBM_3rd-ed_oculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_oculomotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: III
@@ -11124,6 +11835,7 @@ SwansonBM_3rd-ed_olfactoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olfactoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OLF
@@ -11140,6 +11852,7 @@ SwansonBM_3rd-ed_olfactoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olfactoryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: In
@@ -11156,6 +11869,7 @@ SwansonBM_3rd-ed_olfactoryTubercleGanser
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olfactoryTubercleGanser
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OT
@@ -11172,6 +11886,7 @@ SwansonBM_3rd-ed_olfactoryTubercleMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olfactoryTubercleMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OT1
@@ -11188,6 +11903,7 @@ SwansonBM_3rd-ed_olfactoryTuberclePolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olfactoryTuberclePolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OT3
@@ -11204,6 +11920,7 @@ SwansonBM_3rd-ed_olfactoryTuberclePyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olfactoryTuberclePyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OT2
@@ -11220,6 +11937,7 @@ SwansonBM_3rd-ed_olivaryPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olivaryPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OP
@@ -11236,6 +11954,7 @@ SwansonBM_3rd-ed_olivocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_olivocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: oct
@@ -11247,27 +11966,12 @@ SwansonBM_3rd-ed_olivocerebellarTract
 
 ------------
 
-SwansonBM_3rd-ed_onufsNucleus
------------------------------
-
-.. admonition:: metadata sheet
-
-   :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_OnufsNucleus
-   :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
-   :abbreviation: ON
-   :lookupLabel: SwansonBM_3rd-ed_OnufsNucleus
-   :name: Onuf’s nucleus
-   :versionIdentifier: 3rd ed.
-
-`BACK TO TOP <ParcellationEntityVersions: SwansonBM_3rd-ed library_>`_
-
-------------
-
 SwansonBM_3rd-ed_opticChiasm
 ----------------------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_opticChiasm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: och
@@ -11284,6 +11988,7 @@ SwansonBM_3rd-ed_opticNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_opticNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IIn
@@ -11300,6 +12005,7 @@ SwansonBM_3rd-ed_opticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_opticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: opt
@@ -11316,6 +12022,7 @@ SwansonBM_3rd-ed_orbitalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_orbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ORB
@@ -11332,6 +12039,7 @@ SwansonBM_3rd-ed_orbitalAreaLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_orbitalAreaLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ORBl
@@ -11348,6 +12056,7 @@ SwansonBM_3rd-ed_orbitalAreaMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_orbitalAreaMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ORBm
@@ -11364,6 +12073,7 @@ SwansonBM_3rd-ed_orbitalAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_orbitalAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ORBv
@@ -11380,6 +12090,7 @@ SwansonBM_3rd-ed_orbitalAreaVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_orbitalAreaVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ORBvl
@@ -11396,6 +12107,7 @@ SwansonBM_3rd-ed_oticGanglionArnold
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_oticGanglionArnold
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GoIX
@@ -11412,6 +12124,7 @@ SwansonBM_3rd-ed_pallidotegmentalFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pallidotegmentalFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ptf
@@ -11428,6 +12141,7 @@ SwansonBM_3rd-ed_pallidothalamicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pallidothalamicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pap
@@ -11444,6 +12158,7 @@ SwansonBM_3rd-ed_pallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAL
@@ -11460,6 +12175,7 @@ SwansonBM_3rd-ed_parabigeminalNucleusBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabigeminalNucleusBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBG
@@ -11476,6 +12192,7 @@ SwansonBM_3rd-ed_parabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PB
@@ -11492,6 +12209,7 @@ SwansonBM_3rd-ed_parabrachialNucleusCentralLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusCentralLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBlc
@@ -11508,6 +12226,7 @@ SwansonBM_3rd-ed_parabrachialNucleusDorsalLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusDorsalLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBld
@@ -11524,6 +12243,7 @@ SwansonBM_3rd-ed_parabrachialNucleusExternalLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusExternalLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBle
@@ -11540,6 +12260,7 @@ SwansonBM_3rd-ed_parabrachialNucleusExternalMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusExternalMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBme
@@ -11556,6 +12277,7 @@ SwansonBM_3rd-ed_parabrachialNucleusExtremeLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusExtremeLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBlex
@@ -11572,6 +12294,7 @@ SwansonBM_3rd-ed_parabrachialNucleusInternalLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusInternalLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBli
@@ -11588,6 +12311,7 @@ SwansonBM_3rd-ed_parabrachialNucleusLateralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusLateralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBl
@@ -11604,6 +12328,7 @@ SwansonBM_3rd-ed_parabrachialNucleusMedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBm
@@ -11620,6 +12345,7 @@ SwansonBM_3rd-ed_parabrachialNucleusMedialMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusMedialMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBmm
@@ -11636,6 +12362,7 @@ SwansonBM_3rd-ed_parabrachialNucleusSuperiorLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusSuperiorLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBls
@@ -11652,6 +12379,7 @@ SwansonBM_3rd-ed_parabrachialNucleusVentralLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusVentralLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBlv
@@ -11668,6 +12396,7 @@ SwansonBM_3rd-ed_parabrachialNucleusVentralMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parabrachialNucleusVentralMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PBmv
@@ -11684,6 +12413,7 @@ SwansonBM_3rd-ed_paracentralNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paracentralNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PCN
@@ -11700,6 +12430,7 @@ SwansonBM_3rd-ed_parafascicularNucleusVogt
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parafascicularNucleusVogt
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PF
@@ -11716,6 +12447,7 @@ SwansonBM_3rd-ed_parafloccularSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parafloccularSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pfs
@@ -11732,6 +12464,7 @@ SwansonBM_3rd-ed_paraflocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraflocculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PFL
@@ -11748,6 +12481,7 @@ SwansonBM_3rd-ed_paragigantocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paragigantocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PGRN
@@ -11764,6 +12498,7 @@ SwansonBM_3rd-ed_paragigantocellularReticularNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paragigantocellularReticularNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PGRNd
@@ -11780,6 +12515,7 @@ SwansonBM_3rd-ed_paragigantocellularReticularNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paragigantocellularReticularNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PGRNl
@@ -11796,6 +12532,7 @@ SwansonBM_3rd-ed_paramedianLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paramedianLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRM
@@ -11812,6 +12549,7 @@ SwansonBM_3rd-ed_paramedianReticularNucleusMislawsky
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paramedianReticularNucleusMislawsky
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PMR
@@ -11828,6 +12566,7 @@ SwansonBM_3rd-ed_paramedianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paramedianSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pms
@@ -11844,6 +12583,7 @@ SwansonBM_3rd-ed_parapyramidalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parapyramidalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PPY
@@ -11860,6 +12600,7 @@ SwansonBM_3rd-ed_parapyramidalNucleusDeepPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parapyramidalNucleusDeepPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PPYd
@@ -11876,6 +12617,7 @@ SwansonBM_3rd-ed_parapyramidalNucleusSuperficialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parapyramidalNucleusSuperficialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PPYs
@@ -11892,6 +12634,7 @@ SwansonBM_3rd-ed_parasolitaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasolitaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAS
@@ -11908,6 +12651,7 @@ SwansonBM_3rd-ed_parastrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parastrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PS
@@ -11924,6 +12668,7 @@ SwansonBM_3rd-ed_parasubiculumLayers16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasubiculumLayers16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAR1-6
@@ -11940,6 +12685,7 @@ SwansonBM_3rd-ed_parasubthalamicNucleusZhangWang
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasubthalamicNucleusZhangWang
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PSTN
@@ -11956,6 +12702,7 @@ SwansonBM_3rd-ed_parasympatheticGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasympatheticGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPA
@@ -11972,6 +12719,7 @@ SwansonBM_3rd-ed_parasympatheticPlexuses
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasympatheticPlexuses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PPX
@@ -11988,6 +12736,7 @@ SwansonBM_3rd-ed_parasympatheticSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parasympatheticSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PSY
@@ -12004,6 +12753,7 @@ SwansonBM_3rd-ed_paratenialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paratenialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PT
@@ -12020,6 +12770,7 @@ SwansonBM_3rd-ed_paratrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paratrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAT
@@ -12036,6 +12787,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusAnteriorMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusAnteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHam
@@ -12052,6 +12804,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusAnteriorParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHap
@@ -12068,6 +12821,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusDescendingDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusDescendingDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHd
@@ -12084,6 +12838,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusDorsalParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusDorsalParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHdp
@@ -12100,6 +12855,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusFornicealPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusFornicealPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHf
@@ -12116,6 +12872,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusLateralParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusLateralParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHlp
@@ -12132,6 +12889,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMagnocellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMagnocellularDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHm
@@ -12148,6 +12906,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMalone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMalone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVH
@@ -12164,6 +12923,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHmm
@@ -12180,6 +12940,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHmp
@@ -12196,6 +12957,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPartDorsal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPartDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHmpd
@@ -12212,6 +12974,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPartVentra
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPartVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHmpv
@@ -12228,6 +12991,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusNeuroendocrineComponent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusNeuroendocrineComponent
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHne
@@ -12244,6 +13008,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusParvicellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusParvicellularDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHp
@@ -12260,6 +13025,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPeriventricularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPeriventricularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHpv
@@ -12276,6 +13042,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHpm
@@ -12292,6 +13059,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLat
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHpml
@@ -12308,6 +13076,7 @@ SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVHpmm
@@ -12324,6 +13093,7 @@ SwansonBM_3rd-ed_paraventricularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paraventricularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVT
@@ -12340,6 +13110,7 @@ SwansonBM_3rd-ed_paravertebralSympatheticGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_paravertebralSympatheticGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPAS
@@ -12356,6 +13127,7 @@ SwansonBM_3rd-ed_parietalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parietalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PTL
@@ -12372,6 +13144,7 @@ SwansonBM_3rd-ed_parietalRegionPosteriorAssociationAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parietalRegionPosteriorAssociationAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PTLp
@@ -12388,6 +13161,7 @@ SwansonBM_3rd-ed_parvicellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_parvicellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PARN
@@ -12404,6 +13178,7 @@ SwansonBM_3rd-ed_pedunculopontineNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pedunculopontineNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PPN
@@ -12420,6 +13195,7 @@ SwansonBM_3rd-ed_pelvicGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pelvicGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPEL
@@ -12436,6 +13212,7 @@ SwansonBM_3rd-ed_perforantPath
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_perforantPath
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: per
@@ -12452,6 +13229,7 @@ SwansonBM_3rd-ed_periaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAG
@@ -12468,6 +13246,7 @@ SwansonBM_3rd-ed_periaqueductalGrayDorsalDivisionBeitz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayDorsalDivisionBeitz
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAGd
@@ -12484,6 +13263,7 @@ SwansonBM_3rd-ed_periaqueductalGrayDorsolateralDivisionBeitz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayDorsolateralDivisionBeitz
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAGdl
@@ -12500,6 +13280,7 @@ SwansonBM_3rd-ed_periaqueductalGrayMedialDivisionBeitz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayMedialDivisionBeitz
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAGm
@@ -12516,6 +13297,7 @@ SwansonBM_3rd-ed_periaqueductalGrayRostrolateralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayRostrolateralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAGrl
@@ -12532,6 +13314,7 @@ SwansonBM_3rd-ed_periaqueductalGrayRostromedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayRostromedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAGrm
@@ -12548,6 +13331,7 @@ SwansonBM_3rd-ed_periaqueductalGrayVentrolateralDivisionBeitz
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periaqueductalGrayVentrolateralDivisionBeitz
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAGvl
@@ -12564,6 +13348,7 @@ SwansonBM_3rd-ed_perihypoglossalNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_perihypoglossalNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PHY
@@ -12580,6 +13365,7 @@ SwansonBM_3rd-ed_periolivaryRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periolivaryRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: POR
@@ -12596,6 +13382,7 @@ SwansonBM_3rd-ed_peripeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_peripeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PP
@@ -12612,6 +13399,7 @@ SwansonBM_3rd-ed_peripheralNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_peripheralNervousSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PNS
@@ -12628,6 +13416,7 @@ SwansonBM_3rd-ed_perireuniensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_perireuniensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PR
@@ -12644,6 +13433,7 @@ SwansonBM_3rd-ed_perirhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_perirhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PERI
@@ -12660,6 +13450,7 @@ SwansonBM_3rd-ed_periventricularBundleHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularBundleHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pvbh
@@ -12676,6 +13467,7 @@ SwansonBM_3rd-ed_periventricularBundleThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularBundleThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pvbt
@@ -12692,6 +13484,7 @@ SwansonBM_3rd-ed_periventricularHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVa
@@ -12708,6 +13501,7 @@ SwansonBM_3rd-ed_periventricularHypothalamicNucleusIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularHypothalamicNucleusIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVi
@@ -12724,6 +13518,7 @@ SwansonBM_3rd-ed_periventricularHypothalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularHypothalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVp
@@ -12740,6 +13535,7 @@ SwansonBM_3rd-ed_periventricularRegionHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_periventricularRegionHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PE
@@ -12756,6 +13552,7 @@ SwansonBM_3rd-ed_phrenicNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_phrenicNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: phn
@@ -12772,6 +13569,7 @@ SwansonBM_3rd-ed_phrenicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_phrenicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PN
@@ -12788,6 +13586,7 @@ SwansonBM_3rd-ed_pia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PI
@@ -12804,6 +13603,7 @@ SwansonBM_3rd-ed_pinealGlandGalen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pinealGlandGalen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIN
@@ -12820,6 +13620,7 @@ SwansonBM_3rd-ed_pinealStalk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pinealStalk
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIS
@@ -12836,6 +13637,7 @@ SwansonBM_3rd-ed_piriformArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_piriformArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIR
@@ -12852,6 +13654,7 @@ SwansonBM_3rd-ed_piriformAreaMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_piriformAreaMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIR1
@@ -12868,6 +13671,7 @@ SwansonBM_3rd-ed_piriformAreaPolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_piriformAreaPolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIR3
@@ -12884,6 +13688,7 @@ SwansonBM_3rd-ed_piriformAreaPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_piriformAreaPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIR2
@@ -12900,6 +13705,7 @@ SwansonBM_3rd-ed_piriformamygdalarArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_piriformamygdalarArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PAA
@@ -12916,6 +13722,7 @@ SwansonBM_3rd-ed_pituitaryGlandAnteriorLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pituitaryGlandAnteriorLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AL
@@ -12932,6 +13739,7 @@ SwansonBM_3rd-ed_pituitaryGlandGalen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pituitaryGlandGalen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PIT
@@ -12948,6 +13756,7 @@ SwansonBM_3rd-ed_pituitaryGlandIntermediateLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pituitaryGlandIntermediateLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IL
@@ -12964,6 +13773,7 @@ SwansonBM_3rd-ed_pituitaryGlandNeuralLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pituitaryGlandNeuralLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: NL
@@ -12980,6 +13790,7 @@ SwansonBM_3rd-ed_ponsVarolio
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ponsVarolio
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: P
@@ -12996,6 +13807,7 @@ SwansonBM_3rd-ed_pontineCentralGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineCentralGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PCG
@@ -13012,6 +13824,7 @@ SwansonBM_3rd-ed_pontineCentralGrayGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineCentralGrayGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PCGg
@@ -13028,6 +13841,7 @@ SwansonBM_3rd-ed_pontineGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PG
@@ -13044,6 +13858,7 @@ SwansonBM_3rd-ed_pontineGrayGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineGrayGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PGg
@@ -13060,6 +13875,7 @@ SwansonBM_3rd-ed_pontineReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRN
@@ -13076,6 +13892,7 @@ SwansonBM_3rd-ed_pontineReticularNucleusCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineReticularNucleusCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRNc
@@ -13092,6 +13909,7 @@ SwansonBM_3rd-ed_pontineReticularNucleusRostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pontineReticularNucleusRostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRNr
@@ -13108,6 +13926,7 @@ SwansonBM_3rd-ed_postAndPrecerebellarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_postAndPrecerebellarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CBPP
@@ -13124,6 +13943,7 @@ SwansonBM_3rd-ed_postcommissuralFornixElliotSmith
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_postcommissuralFornixElliotSmith
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fxpo
@@ -13140,6 +13960,7 @@ SwansonBM_3rd-ed_posteriorAmygdalarNucleusCanterasSwanson
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorAmygdalarNucleusCanterasSwanson
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PA
@@ -13156,6 +13977,7 @@ SwansonBM_3rd-ed_posteriorAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AUDpo
@@ -13172,6 +13994,7 @@ SwansonBM_3rd-ed_posteriorCommissureLieutaud
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorCommissureLieutaud
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pc
@@ -13188,6 +14011,7 @@ SwansonBM_3rd-ed_posteriorComplexThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorComplexThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PO
@@ -13204,6 +14028,7 @@ SwansonBM_3rd-ed_posteriorHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PH
@@ -13220,6 +14045,7 @@ SwansonBM_3rd-ed_posteriorLimitingNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorLimitingNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: POL
@@ -13236,6 +14062,7 @@ SwansonBM_3rd-ed_posteriorLobeCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorLobeCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PLC
@@ -13252,6 +14079,7 @@ SwansonBM_3rd-ed_posteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PPT
@@ -13268,6 +14096,7 @@ SwansonBM_3rd-ed_posteriorSeptalComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorSeptalComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PSC
@@ -13284,6 +14113,7 @@ SwansonBM_3rd-ed_posteriorSuperiorFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteriorSuperiorFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: psf
@@ -13300,6 +14130,7 @@ SwansonBM_3rd-ed_posterodorsalIntraculminateFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterodorsalIntraculminateFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: icupd
@@ -13316,6 +14147,7 @@ SwansonBM_3rd-ed_posterodorsalPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterodorsalPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PD
@@ -13332,6 +14164,7 @@ SwansonBM_3rd-ed_posterolateralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterolateralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: plf
@@ -13348,6 +14181,7 @@ SwansonBM_3rd-ed_posterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posterolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISpl
@@ -13364,6 +14198,7 @@ SwansonBM_3rd-ed_posteromedialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_posteromedialVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISpm
@@ -13380,6 +14215,7 @@ SwansonBM_3rd-ed_postpiriformTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_postpiriformTransitionArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TR
@@ -13396,6 +14232,7 @@ SwansonBM_3rd-ed_postsubiculumLayers16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_postsubiculumLayers16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: POST1-6
@@ -13412,6 +14249,7 @@ SwansonBM_3rd-ed_precentralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precentralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pce
@@ -13428,6 +14266,7 @@ SwansonBM_3rd-ed_precentralFissureA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precentralFissureA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pcea
@@ -13444,6 +14283,7 @@ SwansonBM_3rd-ed_precentralFissureB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precentralFissureB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pceb
@@ -13460,6 +14300,7 @@ SwansonBM_3rd-ed_precommissuralFornixElliotSmith
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precommissuralFornixElliotSmith
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fxpr
@@ -13476,6 +14317,7 @@ SwansonBM_3rd-ed_precommissuralFornixGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precommissuralFornixGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: fxprg
@@ -13492,6 +14334,7 @@ SwansonBM_3rd-ed_precommissuralNucleusPeriaqueductalGrayPaxinosWatson
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_precommissuralNucleusPeriaqueductalGrayPaxinosWatson
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRC
@@ -13508,6 +14351,7 @@ SwansonBM_3rd-ed_preculminateFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preculminateFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pcf
@@ -13524,6 +14368,7 @@ SwansonBM_3rd-ed_prefrontalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_prefrontalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PFR
@@ -13540,6 +14385,7 @@ SwansonBM_3rd-ed_preganglionicAutonomicPools
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preganglionicAutonomicPools
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANSpre
@@ -13556,6 +14402,7 @@ SwansonBM_3rd-ed_preganglionicAutonomicPoolsParasympathetic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preganglionicAutonomicPoolsParasympathetic
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANSprep
@@ -13572,6 +14419,7 @@ SwansonBM_3rd-ed_preganglionicAutonomicPoolsSympathetic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preganglionicAutonomicPoolsSympathetic
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ANSpres
@@ -13588,6 +14436,7 @@ SwansonBM_3rd-ed_prelimbicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_prelimbicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PL
@@ -13604,6 +14453,7 @@ SwansonBM_3rd-ed_premammillaryCommissureRisoldEtAl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_premammillaryCommissureRisoldEtAl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pmx
@@ -13620,6 +14470,7 @@ SwansonBM_3rd-ed_preopticCommissureRisoldEtAl
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preopticCommissureRisoldEtAl
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: poc
@@ -13636,6 +14487,7 @@ SwansonBM_3rd-ed_preopticLevelHypothalamusEdinger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preopticLevelHypothalamusEdinger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRO
@@ -13652,6 +14504,7 @@ SwansonBM_3rd-ed_preopticPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preopticPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PVpo
@@ -13668,6 +14521,7 @@ SwansonBM_3rd-ed_preparasubthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_preparasubthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PST
@@ -13684,6 +14538,7 @@ SwansonBM_3rd-ed_prepyramidalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_prepyramidalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ppf
@@ -13700,6 +14555,7 @@ SwansonBM_3rd-ed_presubiculumLayers16Cajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_presubiculumLayers16Cajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRE1-6
@@ -13716,6 +14572,7 @@ SwansonBM_3rd-ed_pretectalRegionEdinger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pretectalRegionEdinger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PRT
@@ -13732,6 +14589,7 @@ SwansonBM_3rd-ed_prevertebralSympatheticGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_prevertebralSympatheticGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPRS
@@ -13748,6 +14606,7 @@ SwansonBM_3rd-ed_primaryAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primaryAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AUDp
@@ -13764,6 +14623,7 @@ SwansonBM_3rd-ed_primaryFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primaryFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pri
@@ -13780,6 +14640,7 @@ SwansonBM_3rd-ed_primarySomatomotorArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatomotorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOp
@@ -13796,6 +14657,7 @@ SwansonBM_3rd-ed_primarySomatosensoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp
@@ -13812,6 +14674,7 @@ SwansonBM_3rd-ed_primarySomatosensoryAreaBarrelField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaBarrelField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp-bfd
@@ -13828,6 +14691,7 @@ SwansonBM_3rd-ed_primarySomatosensoryAreaLowerLimbRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaLowerLimbRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp-ll
@@ -13844,6 +14708,7 @@ SwansonBM_3rd-ed_primarySomatosensoryAreaMouthRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaMouthRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp-m
@@ -13860,6 +14725,7 @@ SwansonBM_3rd-ed_primarySomatosensoryAreaNoseRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaNoseRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp-n
@@ -13876,6 +14742,7 @@ SwansonBM_3rd-ed_primarySomatosensoryAreaTrunkRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaTrunkRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp-tr
@@ -13892,6 +14759,7 @@ SwansonBM_3rd-ed_primarySomatosensoryAreaUpperLimbRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primarySomatosensoryAreaUpperLimbRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSp-ul
@@ -13908,6 +14776,7 @@ SwansonBM_3rd-ed_primaryVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_primaryVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISp
@@ -13924,6 +14793,7 @@ SwansonBM_3rd-ed_principalMammillaryTractKolliker
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_principalMammillaryTractKolliker
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pm
@@ -13940,6 +14810,7 @@ SwansonBM_3rd-ed_principalSensoryNucleusOfTheTrigeminal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_principalSensoryNucleusOfTheTrigeminal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PSV
@@ -13956,6 +14827,7 @@ SwansonBM_3rd-ed_propriohypothalamicPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_propriohypothalamicPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: php
@@ -13972,6 +14844,7 @@ SwansonBM_3rd-ed_proximalGlossopharyngealGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_proximalGlossopharyngealGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GpIX
@@ -13988,6 +14861,7 @@ SwansonBM_3rd-ed_proximalGlossopharyngeovagalPlacode
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_proximalGlossopharyngeovagalPlacode
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IX/Xpp
@@ -14004,6 +14878,7 @@ SwansonBM_3rd-ed_proximalVagalGanglionEhrenritter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_proximalVagalGanglionEhrenritter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GpX
@@ -14020,6 +14895,7 @@ SwansonBM_3rd-ed_pterygopalatineGanglionMeckel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pterygopalatineGanglionMeckel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GptVII
@@ -14036,6 +14912,7 @@ SwansonBM_3rd-ed_pudentalPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pudentalPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pup
@@ -14052,6 +14929,7 @@ SwansonBM_3rd-ed_pyramidWillis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pyramidWillis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: py
@@ -14068,6 +14946,7 @@ SwansonBM_3rd-ed_pyramidalDecussationPourfourDuPetit
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pyramidalDecussationPourfourDuPetit
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pyd
@@ -14084,6 +14963,7 @@ SwansonBM_3rd-ed_pyramidalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pyramidalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: pyf
@@ -14100,6 +14980,7 @@ SwansonBM_3rd-ed_pyramusVIIISublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_pyramusVIIISublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PYRa,b
@@ -14116,6 +14997,7 @@ SwansonBM_3rd-ed_rapheNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rapheNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RA
@@ -14132,6 +15014,7 @@ SwansonBM_3rd-ed_redNucleusBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_redNucleusBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RN
@@ -14148,6 +15031,7 @@ SwansonBM_3rd-ed_reticularFormationJLenhossek
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticularFormationJLenhossek
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RET
@@ -14164,6 +15048,7 @@ SwansonBM_3rd-ed_reticularNucleusSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticularNucleusSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RS
@@ -14180,6 +15065,7 @@ SwansonBM_3rd-ed_reticularNucleusThalamusArnold
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticularNucleusThalamusArnold
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RT
@@ -14196,6 +15082,7 @@ SwansonBM_3rd-ed_reticulocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticulocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rct
@@ -14212,6 +15099,7 @@ SwansonBM_3rd-ed_reticulospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticulospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rst
@@ -14228,6 +15116,7 @@ SwansonBM_3rd-ed_reticulospinalTractLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticulospinalTractLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rstl
@@ -14244,6 +15133,7 @@ SwansonBM_3rd-ed_reticulospinalTractMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_reticulospinalTractMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rstm
@@ -14260,6 +15150,7 @@ SwansonBM_3rd-ed_retina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: R
@@ -14276,6 +15167,7 @@ SwansonBM_3rd-ed_retinaGanglionCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retinaGanglionCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Rgcl
@@ -14292,6 +15184,7 @@ SwansonBM_3rd-ed_retinaInnerNuclearLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retinaInnerNuclearLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Rinl
@@ -14308,6 +15201,7 @@ SwansonBM_3rd-ed_retinaInnerPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retinaInnerPlexiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Ripl
@@ -14324,6 +15218,7 @@ SwansonBM_3rd-ed_retinaOuterNuclearLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retinaOuterNuclearLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Ronl
@@ -14340,6 +15235,7 @@ SwansonBM_3rd-ed_retinaOuterPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retinaOuterPlexiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Ropl
@@ -14356,6 +15252,7 @@ SwansonBM_3rd-ed_retrochiasmaticAreaLateralHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrochiasmaticAreaLateralHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RCH
@@ -14372,6 +15269,7 @@ SwansonBM_3rd-ed_retrohippocampalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrohippocampalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RHP
@@ -14388,6 +15286,7 @@ SwansonBM_3rd-ed_retrosplenialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RSP
@@ -14404,6 +15303,7 @@ SwansonBM_3rd-ed_retrosplenialAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RSPd
@@ -14420,6 +15320,7 @@ SwansonBM_3rd-ed_retrosplenialAreaLateralAgranularPartRisoldSwanson
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialAreaLateralAgranularPartRisoldSwanson
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RSPagl
@@ -14436,6 +15337,7 @@ SwansonBM_3rd-ed_retrosplenialAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RSPv
@@ -14452,6 +15354,7 @@ SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RSPv.a
@@ -14468,6 +15371,7 @@ SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneBc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneBc
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RSPv.b/c
@@ -14484,6 +15388,7 @@ SwansonBM_3rd-ed_rhinalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rhinalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rf
@@ -14500,6 +15405,7 @@ SwansonBM_3rd-ed_rhinalIncisure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rhinalIncisure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ri
@@ -14516,6 +15422,7 @@ SwansonBM_3rd-ed_rhinalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rhinalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RHI
@@ -14532,6 +15439,7 @@ SwansonBM_3rd-ed_rhinocele
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rhinocele
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RC
@@ -14548,6 +15456,7 @@ SwansonBM_3rd-ed_rhomboidNucleusCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rhomboidNucleusCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RH
@@ -14564,6 +15473,7 @@ SwansonBM_3rd-ed_rostralLinearNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rostralLinearNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RL
@@ -14580,6 +15490,7 @@ SwansonBM_3rd-ed_rostralMedullaryVelumVieussens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rostralMedullaryVelumVieussens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: RMVE
@@ -14596,6 +15507,7 @@ SwansonBM_3rd-ed_rostralNeuropore
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rostralNeuropore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rnp
@@ -14612,6 +15524,7 @@ SwansonBM_3rd-ed_rostrolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rostrolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISrl
@@ -14628,6 +15541,7 @@ SwansonBM_3rd-ed_rubroreticularTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rubroreticularTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rrt
@@ -14644,6 +15558,7 @@ SwansonBM_3rd-ed_rubrospinalTractMonakow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_rubrospinalTractMonakow
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: rust
@@ -14660,6 +15575,7 @@ SwansonBM_3rd-ed_sacralParasympatheticGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sacralParasympatheticGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GPS
@@ -14676,6 +15592,7 @@ SwansonBM_3rd-ed_sacralSpinalGanglia14
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sacralSpinalGanglia14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: G-S1-4
@@ -14692,6 +15609,7 @@ SwansonBM_3rd-ed_sacralSympatheticGanglia14
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sacralSympatheticGanglia14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Gs-S1-4
@@ -14708,6 +15626,7 @@ SwansonBM_3rd-ed_secondaryFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_secondaryFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sec
@@ -14724,6 +15643,7 @@ SwansonBM_3rd-ed_secondarySomatomotorAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_secondarySomatomotorAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MOs
@@ -14740,6 +15660,7 @@ SwansonBM_3rd-ed_sensoryGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensoryGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GSE
@@ -14756,6 +15677,7 @@ SwansonBM_3rd-ed_sensoryRootOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensoryRootOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sV
@@ -14772,6 +15694,7 @@ SwansonBM_3rd-ed_sensorySystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SEN
@@ -14788,6 +15711,7 @@ SwansonBM_3rd-ed_sensorySystemAuditory
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemAuditory
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SENaud
@@ -14804,6 +15728,7 @@ SwansonBM_3rd-ed_sensorySystemGustatory
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemGustatory
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SENgu
@@ -14820,6 +15745,7 @@ SwansonBM_3rd-ed_sensorySystemHumorosensory
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemHumorosensory
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SENhum
@@ -14836,6 +15762,7 @@ SwansonBM_3rd-ed_sensorySystemSomatosensory
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemSomatosensory
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SENss
@@ -14852,6 +15779,7 @@ SwansonBM_3rd-ed_sensorySystemVisceral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemVisceral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SENvsc
@@ -14868,6 +15796,7 @@ SwansonBM_3rd-ed_sensorySystemVisual
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sensorySystemVisual
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SENvis
@@ -14884,6 +15813,7 @@ SwansonBM_3rd-ed_septalRegionMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_septalRegionMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SEP
@@ -14900,6 +15830,7 @@ SwansonBM_3rd-ed_septofimbrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_septofimbrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SF
@@ -14916,6 +15847,7 @@ SwansonBM_3rd-ed_septohippocampalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_septohippocampalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SH
@@ -14932,6 +15864,7 @@ SwansonBM_3rd-ed_simpleFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_simpleFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sif
@@ -14948,6 +15881,7 @@ SwansonBM_3rd-ed_simpleLobuleSublobulesAb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_simpleLobuleSublobulesAb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SIMa,b
@@ -14964,6 +15898,7 @@ SwansonBM_3rd-ed_solitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_solitaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ts
@@ -14980,6 +15915,7 @@ SwansonBM_3rd-ed_somaticNervousSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_somaticNervousSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SMS
@@ -14996,6 +15932,7 @@ SwansonBM_3rd-ed_somatomotorAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_somatomotorAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: MO
@@ -15012,6 +15949,7 @@ SwansonBM_3rd-ed_somatomotorMotoneuronPools
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_somatomotorMotoneuronPools
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SMM
@@ -15028,6 +15966,7 @@ SwansonBM_3rd-ed_somatosensoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_somatosensoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SS
@@ -15044,6 +15983,7 @@ SwansonBM_3rd-ed_spinalCentralGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCentralGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CGS
@@ -15060,6 +16000,7 @@ SwansonBM_3rd-ed_spinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SP
@@ -15076,6 +16017,7 @@ SwansonBM_3rd-ed_spinalCordCervicalLevelSegments18
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordCervicalLevelSegments18
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SP-C1-8
@@ -15092,6 +16034,7 @@ SwansonBM_3rd-ed_spinalCordCoccygealLevelSegments13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordCoccygealLevelSegments13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SP-Co1-3
@@ -15108,6 +16051,7 @@ SwansonBM_3rd-ed_spinalCordGrooves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordGrooves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: grvs
@@ -15124,6 +16068,7 @@ SwansonBM_3rd-ed_spinalCordLumbarLevelSegments16
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordLumbarLevelSegments16
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SP-L1-6
@@ -15140,6 +16085,7 @@ SwansonBM_3rd-ed_spinalCordSacralLevelSegments14
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordSacralLevelSegments14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SP-S1-4
@@ -15156,6 +16102,7 @@ SwansonBM_3rd-ed_spinalCordThoracicLevelSegments113
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalCordThoracicLevelSegments113
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SP-T1-13
@@ -15172,6 +16119,7 @@ SwansonBM_3rd-ed_spinalNerves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNerves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: spin
@@ -15188,6 +16136,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPV
@@ -15204,6 +16153,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVC
@@ -15220,6 +16170,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalInterpolarPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalInterpolarPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVI
@@ -15236,6 +16187,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVO
@@ -15252,6 +16204,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVOcdm
@@ -15268,6 +16221,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDors
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVOmdmd
@@ -15284,6 +16238,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVOmdmv
@@ -15300,6 +16255,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVOrdm
@@ -15316,6 +16272,7 @@ SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPVOvl
@@ -15332,6 +16289,7 @@ SwansonBM_3rd-ed_spinalPlexuses
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalPlexuses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: plxs
@@ -15348,6 +16306,7 @@ SwansonBM_3rd-ed_spinalSensoryGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalSensoryGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GSP
@@ -15364,6 +16323,7 @@ SwansonBM_3rd-ed_spinalTractOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalTractOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sptV
@@ -15380,6 +16340,7 @@ SwansonBM_3rd-ed_spinalVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinalVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPIV
@@ -15396,6 +16357,7 @@ SwansonBM_3rd-ed_spinocerebellarTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinocerebellarTracts
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sct
@@ -15412,6 +16374,7 @@ SwansonBM_3rd-ed_spinocervicalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinocervicalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: scrt
@@ -15428,6 +16391,7 @@ SwansonBM_3rd-ed_spinohypothalamicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinohypothalamicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: shp
@@ -15444,6 +16408,7 @@ SwansonBM_3rd-ed_spinoolivaryPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinoolivaryPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sop
@@ -15460,6 +16425,7 @@ SwansonBM_3rd-ed_spinoreticularPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinoreticularPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: srp
@@ -15476,6 +16442,7 @@ SwansonBM_3rd-ed_spinotectalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinotectalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: stp
@@ -15492,6 +16459,7 @@ SwansonBM_3rd-ed_spinotelencephalicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinotelencephalicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: step
@@ -15508,6 +16476,7 @@ SwansonBM_3rd-ed_spinothalamicTractThieleHorsley
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinothalamicTractThieleHorsley
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: stt
@@ -15524,6 +16493,7 @@ SwansonBM_3rd-ed_spinovestibularPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spinovestibularPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: svp
@@ -15540,6 +16510,7 @@ SwansonBM_3rd-ed_spiralGanglionCorti
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_spiralGanglionCorti
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GcVIII
@@ -15556,6 +16527,7 @@ SwansonBM_3rd-ed_splanchnicNerves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_splanchnicNerves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: spn
@@ -15572,6 +16544,7 @@ SwansonBM_3rd-ed_stellateGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_stellateGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GSTL
@@ -15588,6 +16561,7 @@ SwansonBM_3rd-ed_stratumZonaleThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_stratumZonaleThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sz
@@ -15604,6 +16578,7 @@ SwansonBM_3rd-ed_striaMedullaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_striaMedullaris
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sm
@@ -15620,6 +16595,7 @@ SwansonBM_3rd-ed_striaTerminalisWenzelWenzel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_striaTerminalisWenzelWenzel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: st
@@ -15636,6 +16612,7 @@ SwansonBM_3rd-ed_striatalFundus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_striatalFundus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: FS
@@ -15652,6 +16629,7 @@ SwansonBM_3rd-ed_striatonigralPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_striatonigralPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: snp
@@ -15668,6 +16646,7 @@ SwansonBM_3rd-ed_striatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_striatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: STR
@@ -15684,6 +16663,7 @@ SwansonBM_3rd-ed_subceruleusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subceruleusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SLC
@@ -15700,6 +16680,7 @@ SwansonBM_3rd-ed_subcommissuralOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subcommissuralOrgan
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCO
@@ -15716,6 +16697,7 @@ SwansonBM_3rd-ed_subependymalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subependymalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SEZ
@@ -15732,6 +16714,7 @@ SwansonBM_3rd-ed_subfornicalOrganPines
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subfornicalOrganPines
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SFO
@@ -15748,6 +16731,7 @@ SwansonBM_3rd-ed_subiculumBurdach
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumBurdach
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUB
@@ -15764,6 +16748,7 @@ SwansonBM_3rd-ed_subiculumDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBd
@@ -15780,6 +16765,7 @@ SwansonBM_3rd-ed_subiculumDorsalPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumDorsalPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBd-m
@@ -15796,6 +16782,7 @@ SwansonBM_3rd-ed_subiculumDorsalPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumDorsalPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBd-sp
@@ -15812,6 +16799,7 @@ SwansonBM_3rd-ed_subiculumDorsalPartStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumDorsalPartStratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBd-sr
@@ -15828,6 +16816,7 @@ SwansonBM_3rd-ed_subiculumVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBv
@@ -15844,6 +16833,7 @@ SwansonBM_3rd-ed_subiculumVentralPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumVentralPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBv-m
@@ -15860,6 +16850,7 @@ SwansonBM_3rd-ed_subiculumVentralPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumVentralPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBv-sp
@@ -15876,6 +16867,7 @@ SwansonBM_3rd-ed_subiculumVentralPartStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subiculumVentralPartStratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUBv-sr
@@ -15892,6 +16884,7 @@ SwansonBM_3rd-ed_sublaterodorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sublaterodorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SLD
@@ -15908,6 +16901,7 @@ SwansonBM_3rd-ed_submandibularGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_submandibularGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GsVII
@@ -15924,6 +16918,7 @@ SwansonBM_3rd-ed_submedialNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_submedialNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SMT
@@ -15940,6 +16935,7 @@ SwansonBM_3rd-ed_submucosalPlexusMeissner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_submucosalPlexusMeissner
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: smp
@@ -15956,6 +16952,7 @@ SwansonBM_3rd-ed_subparafascicularNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subparafascicularNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPF
@@ -15972,6 +16969,7 @@ SwansonBM_3rd-ed_subparafascicularNucleusThalamusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subparafascicularNucleusThalamusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPFm
@@ -15988,6 +16986,7 @@ SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartLateralDivisio
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartLateralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPFpl
@@ -16004,6 +17003,7 @@ SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartMedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPFpm
@@ -16020,6 +17020,7 @@ SwansonBM_3rd-ed_subparaventricularZoneHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subparaventricularZoneHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SBPV
@@ -16036,6 +17037,7 @@ SwansonBM_3rd-ed_substantiaGelatinosaSpinalCordRolando
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_substantiaGelatinosaSpinalCordRolando
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SGE
@@ -16052,6 +17054,7 @@ SwansonBM_3rd-ed_substantiaInnominataReilReichert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_substantiaInnominataReilReichert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SI
@@ -16068,6 +17071,7 @@ SwansonBM_3rd-ed_substantiaNigraCompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_substantiaNigraCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SNc
@@ -16084,6 +17088,7 @@ SwansonBM_3rd-ed_substantiaNigraReticularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_substantiaNigraReticularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SNr
@@ -16100,6 +17105,7 @@ SwansonBM_3rd-ed_substantiaNigraSoemmerringVicqDAzyr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_substantiaNigraSoemmerringVicqDAzyr
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SN
@@ -16116,6 +17122,7 @@ SwansonBM_3rd-ed_subthalamicFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subthalamicFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: stf
@@ -16132,6 +17139,7 @@ SwansonBM_3rd-ed_subthalamicNucleusLuys
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_subthalamicNucleusLuys
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: STN
@@ -16148,6 +17156,7 @@ SwansonBM_3rd-ed_superiorCentralNucleusRapheBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCentralNucleusRapheBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CS
@@ -16164,6 +17173,7 @@ SwansonBM_3rd-ed_superiorCentralNucleusRapheLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCentralNucleusRapheLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CSl
@@ -16180,6 +17190,7 @@ SwansonBM_3rd-ed_superiorCentralNucleusRapheMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCentralNucleusRapheMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: CSm
@@ -16196,6 +17207,7 @@ SwansonBM_3rd-ed_superiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: scp
@@ -16212,6 +17224,7 @@ SwansonBM_3rd-ed_superiorCerebellarPeduncleWernekinck
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCerebellarPeduncleWernekinck
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: dscp
@@ -16228,6 +17241,7 @@ SwansonBM_3rd-ed_superiorCervicalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorCervicalGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GSC
@@ -16244,6 +17258,7 @@ SwansonBM_3rd-ed_superiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SC
@@ -16260,6 +17275,7 @@ SwansonBM_3rd-ed_superiorColliculusCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: csc
@@ -16276,6 +17292,7 @@ SwansonBM_3rd-ed_superiorColliculusDeepGrayLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusDeepGrayLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCdg
@@ -16292,6 +17309,7 @@ SwansonBM_3rd-ed_superiorColliculusDeepWhiteLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusDeepWhiteLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCdw
@@ -16308,6 +17326,7 @@ SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCig.a
@@ -16324,6 +17343,7 @@ SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCig.b
@@ -16340,6 +17360,7 @@ SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCig.c
@@ -16356,6 +17377,7 @@ SwansonBM_3rd-ed_superiorColliculusIntermediateWhiteLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusIntermediateWhiteLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCiw
@@ -16372,6 +17394,7 @@ SwansonBM_3rd-ed_superiorColliculusMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCm
@@ -16388,6 +17411,7 @@ SwansonBM_3rd-ed_superiorColliculusOpticLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusOpticLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCop
@@ -16404,6 +17428,7 @@ SwansonBM_3rd-ed_superiorColliculusSensoryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusSensoryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCs
@@ -16420,6 +17445,7 @@ SwansonBM_3rd-ed_superiorColliculusSuperficialGrayLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusSuperficialGrayLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCsg
@@ -16436,6 +17462,7 @@ SwansonBM_3rd-ed_superiorColliculusZonalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorColliculusZonalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCzo
@@ -16452,6 +17479,7 @@ SwansonBM_3rd-ed_superiorMesentericGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorMesentericGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GSM
@@ -16468,6 +17496,7 @@ SwansonBM_3rd-ed_superiorOlivaryComplexLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorOlivaryComplexLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SOCl
@@ -16484,6 +17513,7 @@ SwansonBM_3rd-ed_superiorOlivaryComplexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorOlivaryComplexMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SOCm
@@ -16500,6 +17530,7 @@ SwansonBM_3rd-ed_superiorOlivaryComplexSchroederVanDerKolk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorOlivaryComplexSchroederVanDerKolk
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SOC
@@ -16516,6 +17547,7 @@ SwansonBM_3rd-ed_superiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSN
@@ -16532,6 +17564,7 @@ SwansonBM_3rd-ed_superiorVestibularNucleusBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_superiorVestibularNucleusBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUV
@@ -16548,6 +17581,7 @@ SwansonBM_3rd-ed_supplementalSomatosensoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supplementalSomatosensoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SSs
@@ -16564,6 +17598,7 @@ SwansonBM_3rd-ed_suprachiasmaticNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_suprachiasmaticNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCHd
@@ -16580,6 +17615,7 @@ SwansonBM_3rd-ed_suprachiasmaticNucleusSpiegelZwieg
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_suprachiasmaticNucleusSpiegelZwieg
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCH
@@ -16596,6 +17632,7 @@ SwansonBM_3rd-ed_suprachiasmaticNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_suprachiasmaticNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SCHv
@@ -16612,6 +17649,7 @@ SwansonBM_3rd-ed_suprachiasmaticPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_suprachiasmaticPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PSCH
@@ -16628,6 +17666,7 @@ SwansonBM_3rd-ed_suprageniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_suprageniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SGN
@@ -16644,6 +17683,7 @@ SwansonBM_3rd-ed_supragenualNucleusMeessenOlszewski
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supragenualNucleusMeessenOlszewski
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SG
@@ -16660,6 +17700,7 @@ SwansonBM_3rd-ed_supramammillaryDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supramammillaryDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: smd
@@ -16676,6 +17717,7 @@ SwansonBM_3rd-ed_supramammillaryNucleusCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supramammillaryNucleusCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUM
@@ -16692,6 +17734,7 @@ SwansonBM_3rd-ed_supramammillaryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supramammillaryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUMl
@@ -16708,6 +17751,7 @@ SwansonBM_3rd-ed_supramammillaryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supramammillaryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUMm
@@ -16724,6 +17768,7 @@ SwansonBM_3rd-ed_supraopticCommissures
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticCommissures
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sup
@@ -16740,6 +17785,7 @@ SwansonBM_3rd-ed_supraopticCommissuresAnteriorGanser
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticCommissuresAnteriorGanser
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: supa
@@ -16756,6 +17802,7 @@ SwansonBM_3rd-ed_supraopticCommissuresDorsalMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticCommissuresDorsalMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: supd
@@ -16772,6 +17819,7 @@ SwansonBM_3rd-ed_supraopticCommissuresVentralGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticCommissuresVentralGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: supv
@@ -16788,6 +17836,7 @@ SwansonBM_3rd-ed_supraopticNucleusGeneralLenhossek
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticNucleusGeneralLenhossek
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SOg
@@ -16804,6 +17853,7 @@ SwansonBM_3rd-ed_supraopticNucleusProper
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticNucleusProper
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SO
@@ -16820,6 +17870,7 @@ SwansonBM_3rd-ed_supraopticNucleusRetrochiasmaticPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supraopticNucleusRetrochiasmaticPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SOr
@@ -16836,6 +17887,7 @@ SwansonBM_3rd-ed_supratrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_supratrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SUT
@@ -16852,6 +17904,7 @@ SwansonBM_3rd-ed_sympatheticChain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sympatheticChain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: S
@@ -16868,6 +17921,7 @@ SwansonBM_3rd-ed_sympatheticGanglia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sympatheticGanglia
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GSY
@@ -16884,6 +17938,7 @@ SwansonBM_3rd-ed_sympatheticPlexuses
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sympatheticPlexuses
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SPX
@@ -16900,6 +17955,7 @@ SwansonBM_3rd-ed_sympatheticSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_sympatheticSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: SYM
@@ -16916,6 +17972,7 @@ SwansonBM_3rd-ed_tectospinalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectospinalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tsp
@@ -16932,6 +17989,7 @@ SwansonBM_3rd-ed_tectospinalPathwayCrossedEdinger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectospinalPathwayCrossedEdinger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tspc
@@ -16948,6 +18006,7 @@ SwansonBM_3rd-ed_tectospinalPathwayDirect
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectospinalPathwayDirect
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tspd
@@ -16964,6 +18023,7 @@ SwansonBM_3rd-ed_tectothalamicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectothalamicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ttp
@@ -16980,6 +18040,7 @@ SwansonBM_3rd-ed_tectum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tectum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TC
@@ -16996,6 +18057,7 @@ SwansonBM_3rd-ed_tegmentalReticularNucleusPontineGrayBechterew
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tegmentalReticularNucleusPontineGrayBechterew
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TRN
@@ -17012,6 +18074,7 @@ SwansonBM_3rd-ed_tegmentum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tegmentum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TG
@@ -17028,6 +18091,7 @@ SwansonBM_3rd-ed_telencephalicRoofPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_telencephalicRoofPlate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: trp
@@ -17044,6 +18108,7 @@ SwansonBM_3rd-ed_telencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_telencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TL
@@ -17060,6 +18125,7 @@ SwansonBM_3rd-ed_temporalAssociationAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_temporalAssociationAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TEa
@@ -17076,6 +18142,7 @@ SwansonBM_3rd-ed_temporalPoleCerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_temporalPoleCerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TEP
@@ -17092,6 +18159,7 @@ SwansonBM_3rd-ed_temporalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_temporalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TE
@@ -17108,6 +18176,7 @@ SwansonBM_3rd-ed_teniaTecta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_teniaTecta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TT
@@ -17124,6 +18193,7 @@ SwansonBM_3rd-ed_teniaTectaDorsalPartLayers14
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_teniaTectaDorsalPartLayers14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TTd1-4
@@ -17140,6 +18210,7 @@ SwansonBM_3rd-ed_teniaTectaVentralPartLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_teniaTectaVentralPartLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TTv1-3
@@ -17156,6 +18227,7 @@ SwansonBM_3rd-ed_terminalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_terminalGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GTE
@@ -17172,6 +18244,7 @@ SwansonBM_3rd-ed_terminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_terminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tn
@@ -17188,6 +18261,7 @@ SwansonBM_3rd-ed_thalamicPeduncles
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thalamicPeduncles
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tp
@@ -17204,6 +18278,7 @@ SwansonBM_3rd-ed_thalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TH
@@ -17220,6 +18295,7 @@ SwansonBM_3rd-ed_thirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3
@@ -17236,6 +18312,7 @@ SwansonBM_3rd-ed_thirdVentricleHypothalamicPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentricleHypothalamicPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3h
@@ -17252,6 +18329,7 @@ SwansonBM_3rd-ed_thirdVentricleInfundibularRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentricleInfundibularRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3ir
@@ -17268,6 +18346,7 @@ SwansonBM_3rd-ed_thirdVentricleMammillaryRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentricleMammillaryRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3m
@@ -17284,6 +18363,7 @@ SwansonBM_3rd-ed_thirdVentriclePeriventricularRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentriclePeriventricularRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3r
@@ -17300,6 +18380,7 @@ SwansonBM_3rd-ed_thirdVentriclePinealRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentriclePinealRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3pi
@@ -17316,6 +18397,7 @@ SwansonBM_3rd-ed_thirdVentriclePreopticRecessEdinger
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentriclePreopticRecessEdinger
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3p
@@ -17332,6 +18414,7 @@ SwansonBM_3rd-ed_thirdVentricleThalamicPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thirdVentricleThalamicPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: V3t
@@ -17348,6 +18431,7 @@ SwansonBM_3rd-ed_thoracicSpinalGanglia113
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thoracicSpinalGanglia113
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: G-T1-13
@@ -17364,6 +18448,7 @@ SwansonBM_3rd-ed_thoracicSympatheticGanglia313
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_thoracicSympatheticGanglia313
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Gs-T3-13
@@ -17380,6 +18465,7 @@ SwansonBM_3rd-ed_trapezoidBodyTreviranus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trapezoidBodyTreviranus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tb
@@ -17396,6 +18482,7 @@ SwansonBM_3rd-ed_triangularNucleusSeptumCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_triangularNucleusSeptumCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TRS
@@ -17412,6 +18499,7 @@ SwansonBM_3rd-ed_trigeminalGanglionVieussensGasser
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trigeminalGanglionVieussensGasser
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GV
@@ -17428,6 +18516,7 @@ SwansonBM_3rd-ed_trigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Vn
@@ -17444,6 +18533,7 @@ SwansonBM_3rd-ed_trigeminocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trigeminocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: tct
@@ -17460,6 +18550,7 @@ SwansonBM_3rd-ed_trochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IVn
@@ -17476,6 +18567,7 @@ SwansonBM_3rd-ed_trochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_trochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: IV
@@ -17492,6 +18584,7 @@ SwansonBM_3rd-ed_tuberalNucleusIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberalNucleusIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Toy
@@ -17508,6 +18601,7 @@ SwansonBM_3rd-ed_tuberalNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberalNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TUl
@@ -17524,6 +18618,7 @@ SwansonBM_3rd-ed_tuberalNucleusMalone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberalNucleusMalone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TU
@@ -17540,6 +18635,7 @@ SwansonBM_3rd-ed_tuberalNucleusSubventricularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberalNucleusSubventricularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TUsv
@@ -17556,6 +18652,7 @@ SwansonBM_3rd-ed_tuberalNucleusTereteSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberalNucleusTereteSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TUte
@@ -17572,6 +18669,7 @@ SwansonBM_3rd-ed_tuberomammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberomammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TM
@@ -17588,6 +18686,7 @@ SwansonBM_3rd-ed_tuberomammillaryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberomammillaryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TMd
@@ -17604,6 +18703,7 @@ SwansonBM_3rd-ed_tuberomammillaryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_tuberomammillaryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: TMv
@@ -17620,6 +18720,7 @@ SwansonBM_3rd-ed_uncinateFascicleRussell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_uncinateFascicleRussell
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: uf
@@ -17636,6 +18737,7 @@ SwansonBM_3rd-ed_uvulaIXSublobulesAbc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_uvulaIXSublobulesAbc
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: UVUab,c
@@ -17652,6 +18754,7 @@ SwansonBM_3rd-ed_uvularFissure1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_uvularFissure1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: uf1
@@ -17668,6 +18771,7 @@ SwansonBM_3rd-ed_vagalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vagalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Xc
@@ -17684,6 +18788,7 @@ SwansonBM_3rd-ed_vagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vagusNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: Xn
@@ -17700,6 +18805,7 @@ SwansonBM_3rd-ed_vascularOrganOfTheLaminaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vascularOrganOfTheLaminaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: OV
@@ -17716,6 +18822,7 @@ SwansonBM_3rd-ed_ventralAnteriorlateralComplexThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralAnteriorlateralComplexThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VAL
@@ -17732,6 +18839,7 @@ SwansonBM_3rd-ed_ventralAuditoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralAuditoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: AUDv
@@ -17748,6 +18856,7 @@ SwansonBM_3rd-ed_ventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VCO
@@ -17764,6 +18873,7 @@ SwansonBM_3rd-ed_ventralCochlearNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralCochlearNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VCOa
@@ -17780,6 +18890,7 @@ SwansonBM_3rd-ed_ventralCochlearNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralCochlearNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VCOp
@@ -17796,6 +18907,7 @@ SwansonBM_3rd-ed_ventralCommissureOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralCommissureOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vc
@@ -17812,6 +18924,7 @@ SwansonBM_3rd-ed_ventralCommissureSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralCommissureSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vwc
@@ -17828,6 +18941,7 @@ SwansonBM_3rd-ed_ventralFuniculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralFuniculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vf
@@ -17844,6 +18958,7 @@ SwansonBM_3rd-ed_ventralHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vhc
@@ -17860,6 +18975,7 @@ SwansonBM_3rd-ed_ventralHornSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralHornSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VH
@@ -17876,6 +18992,7 @@ SwansonBM_3rd-ed_ventralHornSpinalCordGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralHornSpinalCordGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VHg
@@ -17892,6 +19009,7 @@ SwansonBM_3rd-ed_ventralMedialNucleusThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralMedialNucleusThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VM
@@ -17908,6 +19026,7 @@ SwansonBM_3rd-ed_ventralMedianFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralMedianFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vmf
@@ -17924,6 +19043,7 @@ SwansonBM_3rd-ed_ventralNucleiDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralNucleiDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VENT
@@ -17940,6 +19060,7 @@ SwansonBM_3rd-ed_ventralPosteriorComplexThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosteriorComplexThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VP
@@ -17956,6 +19077,7 @@ SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VPLg
@@ -17972,6 +19094,7 @@ SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VPLpc
@@ -17988,6 +19111,7 @@ SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusPrincipalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusPrincipalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VPL
@@ -18004,6 +19128,7 @@ SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VPMg
@@ -18020,6 +19145,7 @@ SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VPMpc
@@ -18036,6 +19162,7 @@ SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusPrincipalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusPrincipalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VPM
@@ -18052,6 +19179,7 @@ SwansonBM_3rd-ed_ventralPremammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPremammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: PMv
@@ -18068,6 +19196,7 @@ SwansonBM_3rd-ed_ventralPropriohypothalamicPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralPropriohypothalamicPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: phpv
@@ -18086,6 +19215,7 @@ SwansonBM_3rd-ed_ventralRootsCoiter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralRootsCoiter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vrt
@@ -18102,6 +19232,7 @@ SwansonBM_3rd-ed_ventralSpinocerebellarTractGowers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralSpinocerebellarTractGowers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sctv
@@ -18118,6 +19249,7 @@ SwansonBM_3rd-ed_ventralSpinothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralSpinothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: sttv
@@ -18134,6 +19266,7 @@ SwansonBM_3rd-ed_ventralTegmentalAreaTsai
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralTegmentalAreaTsai
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VTA
@@ -18150,6 +19283,7 @@ SwansonBM_3rd-ed_ventralTegmentalDecussationForel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralTegmentalDecussationForel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vtd
@@ -18166,6 +19300,7 @@ SwansonBM_3rd-ed_ventralTegmentalNucleusGudden
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralTegmentalNucleusGudden
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VTN
@@ -18182,6 +19317,7 @@ SwansonBM_3rd-ed_ventralThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventralThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VNT
@@ -18198,6 +19334,7 @@ SwansonBM_3rd-ed_ventricularSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventricularSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VS
@@ -18214,6 +19351,7 @@ SwansonBM_3rd-ed_ventrolateralHypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventrolateralHypothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vlt
@@ -18230,6 +19368,7 @@ SwansonBM_3rd-ed_ventrolateralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventrolateralPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VLP
@@ -18246,6 +19385,7 @@ SwansonBM_3rd-ed_ventromedialHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventromedialHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VMH
@@ -18262,6 +19402,7 @@ SwansonBM_3rd-ed_ventromedialNucleusHypothalamusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventromedialNucleusHypothalamusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VMHa
@@ -18278,6 +19419,7 @@ SwansonBM_3rd-ed_ventromedialNucleusHypothalamusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventromedialNucleusHypothalamusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VMHc
@@ -18294,6 +19436,7 @@ SwansonBM_3rd-ed_ventromedialNucleusHypothalamusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventromedialNucleusHypothalamusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VMHdm
@@ -18310,6 +19453,7 @@ SwansonBM_3rd-ed_ventromedialNucleusHypothalamusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_ventromedialNucleusHypothalamusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VMHvl
@@ -18326,6 +19470,7 @@ SwansonBM_3rd-ed_vermalRegionsCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vermalRegionsCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VERM
@@ -18342,6 +19487,7 @@ SwansonBM_3rd-ed_vestibularGanglionScarpa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vestibularGanglionScarpa
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: GvVIII
@@ -18358,6 +19504,7 @@ SwansonBM_3rd-ed_vestibularNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vVIIIn
@@ -18374,6 +19521,7 @@ SwansonBM_3rd-ed_vestibularNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vestibularNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VNC
@@ -18390,6 +19538,7 @@ SwansonBM_3rd-ed_vestibulocochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vestibulocochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VIIIn
@@ -18406,6 +19555,7 @@ SwansonBM_3rd-ed_vestibulomotorRegions
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vestibulomotorRegions
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VMO
@@ -18422,6 +19572,7 @@ SwansonBM_3rd-ed_vestibulospinalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vestibulospinalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: vsp
@@ -18438,6 +19589,7 @@ SwansonBM_3rd-ed_visceralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_visceralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VISC
@@ -18454,6 +19606,7 @@ SwansonBM_3rd-ed_visceralSensorymotorAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_visceralSensorymotorAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VSM
@@ -18470,6 +19623,7 @@ SwansonBM_3rd-ed_visualAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_visualAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: VIS
@@ -18486,6 +19640,7 @@ SwansonBM_3rd-ed_vomeronasalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_vomeronasalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: von
@@ -18502,6 +19657,7 @@ SwansonBM_3rd-ed_zonaIncerta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_zonaIncerta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ZI
@@ -18518,6 +19674,7 @@ SwansonBM_3rd-ed_zonaIncertaDopaminergicGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_zonaIncertaDopaminergicGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ZIda
@@ -18534,6 +19691,7 @@ SwansonBM_3rd-ed_zonaIncertaGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_zonaIncertaGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: ZIg
@@ -18550,6 +19708,7 @@ SwansonBM_3rd-ed_zonaLimitans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/SwansonBM_3rd-ed_zonaLimitans
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :abbreviation: zl

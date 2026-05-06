@@ -8,11 +8,28 @@ Related schema specification: `ChemicalMixtureType <https://openminds-documentat
 
 ------------
 
+alloy
+-----
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/alloy
+   :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
+   :definition: A mixture of chemical elements of which at least one is a metal, the atoms are joined by metallic bonding and retains all properties of a metal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Alloy)]
+   :name: alloy
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/CHEBI_142648
+
+`BACK TO TOP <Terminologies: ChemicalMixtureType library_>`_
+
+------------
+
 colloid
 -------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/colloid
    :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
    :definition: A 'colloid' is a heterogeneous mixture in which one substance consisting of microscopically dispersed insoluble particles is suspended throughout another substance. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Colloid)]
@@ -28,6 +45,7 @@ solution
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/solution
    :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
    :definition: A 'solution' is a special type of homogeneous mixture where at least one substance, called solute, is fully dissolved in another substance, known as a solvent. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Solution_(chemistry))
@@ -43,6 +61,7 @@ suspension
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/chemicalMixtureType/suspension
    :@type: https://openminds.ebrains.eu/controlledTerms/ChemicalMixtureType
    :definition: A 'suspension' is a heterogeneous mixture of a fluid that contains solid particles sufficiently large for sedimentation and may even be visible to the naked eye. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Suspension_(chemistry))]

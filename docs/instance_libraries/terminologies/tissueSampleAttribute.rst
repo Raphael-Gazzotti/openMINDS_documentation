@@ -13,6 +13,7 @@ fixated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/fixated
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that was treated with a fixative (e.g., paraformaldehyde) to preserve its existing form and structure.
@@ -27,6 +28,7 @@ freeFloating
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/freeFloating
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that has been suspended in solution for further handling or experimental steps (e.g., immunohistochemical staining), or temporary storage before further use.
@@ -41,6 +43,7 @@ labeled
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/labeled
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that has been modified using chemical or biochemical substances for selective tagging of e.g., molecules or subcellular components, which does not necessarily leads to a visual observable colorization.
@@ -55,6 +58,7 @@ mounted
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/mounted
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that has been put ('mounted') on e.g., a glass slide with mounting medium in order to be supported for further handling and/or long term preservation.
@@ -69,6 +73,7 @@ stained
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/stained
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that has been dyed using chemical or biochemical substances for general colorization of e.g., molecules or subcellular components, that can be visualized under the right light exposure.
@@ -83,6 +88,7 @@ unstained
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/unstained
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that was not artificially modified in colorization using chemical or biochemical substances.
@@ -97,6 +103,7 @@ untreated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/tissueSampleAttribute/untreated
    :@type: https://openminds.ebrains.eu/controlledTerms/TissueSampleAttribute
    :definition: A specimen that has not been modified or treated (e.g., with chemicals) compared to its natural state.

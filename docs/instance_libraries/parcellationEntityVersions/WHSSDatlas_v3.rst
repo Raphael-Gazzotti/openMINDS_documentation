@@ -13,6 +13,7 @@ WHSSDatlas_v3_4thVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_4thVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: 4V
@@ -31,6 +32,7 @@ WHSSDatlas_v3_acousticStriae
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_acousticStriae
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: as
@@ -49,6 +51,7 @@ WHSSDatlas_v3_alveusOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_alveusOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: alv
@@ -67,6 +70,7 @@ WHSSDatlas_v3_anteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_anteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "anterior commissure" has been corrected to .mbat file name "anterior commissure, intrabulbar part"; for details, see atlas documentation
@@ -87,6 +91,7 @@ WHSSDatlas_v3_anteriorCommissureAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_anteriorCommissureAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: aca, anterior commissure, anterior limb
@@ -105,6 +110,7 @@ WHSSDatlas_v3_anteriorCommissurePosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_anteriorCommissurePosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: acp, anterior commissure, posterior limb
@@ -123,6 +129,7 @@ WHSSDatlas_v3_ascendingFibersOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ascendingFibersOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: asc7
@@ -141,6 +148,7 @@ WHSSDatlas_v3_auditoryRadiation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_auditoryRadiation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: ar, eml-ar, external medullary lamina, auditory radiation
@@ -159,6 +167,7 @@ WHSSDatlas_v3_basalForebrainRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_basalForebrainRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "basal forebrain region" has been corrected to .mbat file name "basal forebrain region, unspecified"; abbreviation for the corrected name has been added under "alternateName" instead of the abbreviation from the .mbat file; for details, see atlas documentation
@@ -179,6 +188,7 @@ WHSSDatlas_v3_bedNucleusOfTheStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_bedNucleusOfTheStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: ST
@@ -197,6 +207,7 @@ WHSSDatlas_v3_brachiumOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: bsc
@@ -215,6 +226,7 @@ WHSSDatlas_v3_brainstem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_brainstem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "brainstem" has been corrected to .mbat file name "brainstem, unspecified"; for details, see atlas documentation
@@ -235,6 +247,7 @@ WHSSDatlas_v3_centralCanal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_centralCanal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: CC
@@ -253,6 +266,7 @@ WHSSDatlas_v3_cingulateCortexArea2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_cingulateCortexArea2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Cg2, cingulate area 2
@@ -271,6 +285,7 @@ WHSSDatlas_v3_cochlea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_cochlea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Co
@@ -289,6 +304,7 @@ WHSSDatlas_v3_cochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_cochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: 8cn
@@ -307,6 +323,7 @@ WHSSDatlas_v3_commissuralStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_commissuralStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: cst
@@ -325,6 +342,7 @@ WHSSDatlas_v3_commissureOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_commissureOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: csc
@@ -343,6 +361,7 @@ WHSSDatlas_v3_cornuAmmonis1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_cornuAmmonis1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: CA1
@@ -361,6 +380,7 @@ WHSSDatlas_v3_cornuAmmonis2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_cornuAmmonis2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: CA2
@@ -379,6 +399,7 @@ WHSSDatlas_v3_cornuAmmonis3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_cornuAmmonis3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: CA3
@@ -397,6 +418,7 @@ WHSSDatlas_v3_corpusCallosumAndAssociatedSubcorticalWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_corpusCallosumAndAssociatedSubcorticalWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: cc
@@ -415,6 +437,7 @@ WHSSDatlas_v3_deeperLayersOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_deeperLayersOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SuD
@@ -433,6 +456,7 @@ WHSSDatlas_v3_dentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_dentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: DG
@@ -451,6 +475,7 @@ WHSSDatlas_v3_descendingCorticofugalPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_descendingCorticofugalPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: corticofugal tract and corona radiata, ic-cp-lfp-py
@@ -469,6 +494,7 @@ WHSSDatlas_v3_dorsalCochlearNucleusDeepCore
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_dorsalCochlearNucleusDeepCore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: DCND
@@ -487,6 +513,7 @@ WHSSDatlas_v3_dorsalCochlearNucleusFusiformAndGranuleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_dorsalCochlearNucleusFusiformAndGranuleLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: DCNFG
@@ -505,6 +532,7 @@ WHSSDatlas_v3_dorsalCochlearNucleusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_dorsalCochlearNucleusMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: DCNM
@@ -523,6 +551,7 @@ WHSSDatlas_v3_entopeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_entopeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: EP
@@ -541,6 +570,7 @@ WHSSDatlas_v3_entorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_entorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "entorhinal cortex" has been corrected to .mbat file name "medial entorhinal cortex"; for details, see atlas documentation
@@ -561,6 +591,7 @@ WHSSDatlas_v3_facialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_facialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: both .label file name and .mbat file name are "facial nerve", which is an error; abbreviation for the corrected name has been added under "alternateName" instead of the abbreviation from the .mbat file; for details, see atlas documentation
@@ -581,6 +612,7 @@ WHSSDatlas_v3_fasciculusRetroflexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_fasciculusRetroflexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: fr
@@ -599,6 +631,7 @@ WHSSDatlas_v3_fasciolaCinereum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_fasciolaCinereum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: FC
@@ -617,6 +650,7 @@ WHSSDatlas_v3_fimbriaOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_fimbriaOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: fi
@@ -635,6 +669,7 @@ WHSSDatlas_v3_fornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_fornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: f
@@ -653,6 +688,7 @@ WHSSDatlas_v3_frontalAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_frontalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: FrA
@@ -671,6 +707,7 @@ WHSSDatlas_v3_genuOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_genuOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: g7
@@ -689,6 +726,7 @@ WHSSDatlas_v3_globusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_globusPallidus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: GP, GPe, globus pallidus external
@@ -707,6 +745,7 @@ WHSSDatlas_v3_glomerularLayerOfTheAccessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_glomerularLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: GlA
@@ -725,6 +764,7 @@ WHSSDatlas_v3_glomerularLayerOfTheOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_glomerularLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Gl
@@ -743,6 +783,7 @@ WHSSDatlas_v3_granuleCellLevelOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_granuleCellLevelOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "granule cell level of the cerebellum" does not match the name in the .mbat file ("deeper cerebellum"); name was changed to reflect the possibility for subdivision; abbreviations for both the corrected name and the original name have been added under "alternateName"; for details, see atlas documentation
@@ -763,6 +804,7 @@ WHSSDatlas_v3_habenularCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_habenularCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: hbc
@@ -781,6 +823,7 @@ WHSSDatlas_v3_hypothalamicRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_hypothalamicRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: both .label file name and .mbat file name are "hypothalamic region", but name was changed to reflect the possibility for subdivision; abbreviation for the corrected name has been added under "alternateName" instead of the abbreviation from the .mbat file; for details, see atlas documentation
@@ -801,6 +844,7 @@ WHSSDatlas_v3_inferiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: icp
@@ -819,6 +863,7 @@ WHSSDatlas_v3_inferiorColliculusBrachium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusBrachium
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: bic
@@ -837,6 +882,7 @@ WHSSDatlas_v3_inferiorColliculusCentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusCentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: CNIC
@@ -855,6 +901,7 @@ WHSSDatlas_v3_inferiorColliculusCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: cic, commissure of the inferior colliculus
@@ -873,6 +920,7 @@ WHSSDatlas_v3_inferiorColliculusDorsalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusDorsalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: DCIC
@@ -891,6 +939,7 @@ WHSSDatlas_v3_inferiorColliculusExternalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorColliculusExternalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: ECIC
@@ -909,6 +958,7 @@ WHSSDatlas_v3_inferiorOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_inferiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: IO
@@ -927,6 +977,7 @@ WHSSDatlas_v3_interpeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_interpeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: IP
@@ -945,6 +996,7 @@ WHSSDatlas_v3_lateralEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: LEC
@@ -963,6 +1015,7 @@ WHSSDatlas_v3_lateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: both .label file name and .mbat file name are "lateral lemniscus", which is an error; abbreviation for the corrected name has been added under "alternateName" instead of the abbreviation from the .mbat file; for details, see atlas documentation
@@ -983,6 +1036,7 @@ WHSSDatlas_v3_lateralLemniscusCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: cll
@@ -1001,6 +1055,7 @@ WHSSDatlas_v3_lateralLemniscusDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: DLL
@@ -1019,6 +1074,7 @@ WHSSDatlas_v3_lateralLemniscusIntermediateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusIntermediateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: ILL
@@ -1037,6 +1093,7 @@ WHSSDatlas_v3_lateralLemniscusVentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralLemniscusVentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: VLL
@@ -1055,6 +1112,7 @@ WHSSDatlas_v3_lateralSuperiorOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_lateralSuperiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: LSO
@@ -1073,6 +1131,7 @@ WHSSDatlas_v3_mammillothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_mammillothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "mammillothalamic tract" has been corrected to .mbat file name "mammilotegmental tract"; for details, see atlas documentation
@@ -1093,6 +1152,7 @@ WHSSDatlas_v3_medialGeniculateBodyDorsalDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialGeniculateBodyDorsalDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: MGD
@@ -1110,6 +1170,7 @@ WHSSDatlas_v3_medialGeniculateBodyMarginalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialGeniculateBodyMarginalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: MGMZ
@@ -1127,6 +1188,7 @@ WHSSDatlas_v3_medialGeniculateBodyMedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialGeniculateBodyMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: MGM
@@ -1144,6 +1206,7 @@ WHSSDatlas_v3_medialGeniculateBodyVentralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialGeniculateBodyVentralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: MGV
@@ -1161,6 +1224,7 @@ WHSSDatlas_v3_medialLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: both .label file name and .mbat file name are "medial lemniscus", but name was changed to reflect the possibility for subdivision; abbreviation for the corrected name has been added under "alternateName" instead of the abbreviation from the .mbat file; for details, see atlas documentation
@@ -1181,6 +1245,7 @@ WHSSDatlas_v3_medialLemniscusDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialLemniscusDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: mlx
@@ -1199,6 +1264,7 @@ WHSSDatlas_v3_medialSuperiorOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_medialSuperiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: MSO
@@ -1217,6 +1283,7 @@ WHSSDatlas_v3_middleCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: mcp
@@ -1235,6 +1302,7 @@ WHSSDatlas_v3_molecularLayerOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_molecularLayerOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: MoCb
@@ -1253,6 +1321,7 @@ WHSSDatlas_v3_neocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_neocortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "neocortex" has been corrected to .mbat file name "neocortex, unspecified"; for details, see atlas documentation
@@ -1273,6 +1342,7 @@ WHSSDatlas_v3_nucleusOfTheStriaMedullaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_nucleusOfTheStriaMedullaris
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SM
@@ -1291,6 +1361,7 @@ WHSSDatlas_v3_nucleusOfTheTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_nucleusOfTheTrapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: NTB
@@ -1309,6 +1380,7 @@ WHSSDatlas_v3_nucleusSagulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_nucleusSagulum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Sag
@@ -1327,6 +1399,7 @@ WHSSDatlas_v3_olfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_olfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: both .label file name and .mbat file name are "olfactory bulb", which is an error; abbreviation for the corrected name has been added under "alternateName" instead of the abbreviation from the .mbat file; for details, see atlas documentation
@@ -1347,6 +1420,7 @@ WHSSDatlas_v3_opticNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_opticNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: 2n
@@ -1365,6 +1439,7 @@ WHSSDatlas_v3_opticTractAndOpticChiasm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_opticTractAndOpticChiasm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: opt-och
@@ -1383,6 +1458,7 @@ WHSSDatlas_v3_parasubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_parasubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PaS
@@ -1401,6 +1477,7 @@ WHSSDatlas_v3_periaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_periaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PAG
@@ -1419,6 +1496,7 @@ WHSSDatlas_v3_perirhinalArea35
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_perirhinalArea35
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PER35
@@ -1437,6 +1515,7 @@ WHSSDatlas_v3_perirhinalArea36
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_perirhinalArea36
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PER36
@@ -1455,6 +1534,7 @@ WHSSDatlas_v3_periventricularGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_periventricularGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PVG
@@ -1473,6 +1553,7 @@ WHSSDatlas_v3_pinealGland
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_pinealGland
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Pi
@@ -1491,6 +1572,7 @@ WHSSDatlas_v3_pontineNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_pontineNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Pn
@@ -1509,6 +1591,7 @@ WHSSDatlas_v3_posteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_posteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: pc
@@ -1527,6 +1610,7 @@ WHSSDatlas_v3_postrhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_postrhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: POR
@@ -1545,6 +1629,7 @@ WHSSDatlas_v3_presubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_presubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PrS
@@ -1563,6 +1648,7 @@ WHSSDatlas_v3_pretectalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_pretectalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PRT, PT
@@ -1581,6 +1667,7 @@ WHSSDatlas_v3_primaryAuditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_primaryAuditoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Au1
@@ -1599,6 +1686,7 @@ WHSSDatlas_v3_pyramidalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_pyramidalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: pyx
@@ -1617,6 +1705,7 @@ WHSSDatlas_v3_reticularThalamicNucleusAuditorySegment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_reticularThalamicNucleusAuditorySegment
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Rta, reticular (pre)thalamic nucleus, auditory segment
@@ -1634,6 +1723,7 @@ WHSSDatlas_v3_secondaryAuditoryCortexDorsalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_secondaryAuditoryCortexDorsalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: AuD
@@ -1652,6 +1742,7 @@ WHSSDatlas_v3_secondaryAuditoryCortexVentralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_secondaryAuditoryCortexVentralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: AuV
@@ -1670,6 +1761,7 @@ WHSSDatlas_v3_septalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_septalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Sep
@@ -1688,6 +1780,7 @@ WHSSDatlas_v3_spinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_spinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SpC
@@ -1705,6 +1798,7 @@ WHSSDatlas_v3_spinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_spinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Sp5
@@ -1723,6 +1817,7 @@ WHSSDatlas_v3_spinalTrigeminalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_spinalTrigeminalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: sp5
@@ -1741,6 +1836,7 @@ WHSSDatlas_v3_spiralGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_spiralGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SpG
@@ -1759,6 +1855,7 @@ WHSSDatlas_v3_striaMedullarisOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_striaMedullarisOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: sm, stria medullaris thalami
@@ -1777,6 +1874,7 @@ WHSSDatlas_v3_striaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_striaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: st
@@ -1795,6 +1893,7 @@ WHSSDatlas_v3_striatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_striatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Str
@@ -1813,6 +1912,7 @@ WHSSDatlas_v3_subiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_subiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SUB
@@ -1831,6 +1931,7 @@ WHSSDatlas_v3_substantiaNigra
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_substantiaNigra
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SN
@@ -1849,6 +1950,7 @@ WHSSDatlas_v3_subthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_subthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: STh
@@ -1867,6 +1969,7 @@ WHSSDatlas_v3_superficialGrayLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_superficialGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SuG
@@ -1885,6 +1988,7 @@ WHSSDatlas_v3_superiorParaolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_superiorParaolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SPN
@@ -1903,6 +2007,7 @@ WHSSDatlas_v3_superiorPeriolivaryRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_superiorPeriolivaryRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: SPR
@@ -1921,6 +2026,7 @@ WHSSDatlas_v3_supraopticDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_supraopticDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: sox
@@ -1939,6 +2045,7 @@ WHSSDatlas_v3_thalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "thalamus" has been corrected to .mbat file name "thalamus, unspecified"; for details, see atlas documentation
@@ -1959,6 +2066,7 @@ WHSSDatlas_v3_transverseFibersOfThePons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_transverseFibersOfThePons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: tfp
@@ -1977,6 +2085,7 @@ WHSSDatlas_v3_trapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_trapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: tz
@@ -1995,6 +2104,7 @@ WHSSDatlas_v3_ventralCochlearNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralCochlearNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: AVCN
@@ -2013,6 +2123,7 @@ WHSSDatlas_v3_ventralCochlearNucleusCapArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralCochlearNucleusCapArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: Cap
@@ -2031,6 +2142,7 @@ WHSSDatlas_v3_ventralCochlearNucleusGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralCochlearNucleusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: GCL
@@ -2049,6 +2161,7 @@ WHSSDatlas_v3_ventralCochlearNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralCochlearNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: PVCN
@@ -2067,6 +2180,7 @@ WHSSDatlas_v3_ventralHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: vhc
@@ -2085,6 +2199,7 @@ WHSSDatlas_v3_ventralPeriolivaryNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventralPeriolivaryNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "ventral periolivary nuclei" does not match the name in the .mbat file ("ventral periolivary nucleus") - .label file name correct; for details, see atlas documentation
@@ -2104,6 +2219,7 @@ WHSSDatlas_v3_ventricularSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_ventricularSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :additionalRemarks: .label file name "ventricular system" does not match the name in the .mbat file ("ventricular system, unspecified"); name was also changed to reflect the possibility for subdivision; for details, see atlas documentation
@@ -2124,6 +2240,7 @@ WHSSDatlas_v3_vestibularApparatus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_vestibularApparatus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: VeA
@@ -2142,6 +2259,7 @@ WHSSDatlas_v3_vestibularNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/WHSSDatlas_v3_vestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :alternateName: 8vn

@@ -13,6 +13,7 @@ chiSquaredStatistic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/chiSquaredStatistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: Test statistic resulting from a chi-squared test.
@@ -27,6 +28,7 @@ kolmogorovSmirnovStatistic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/kolmogorovSmirnovStatistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: Quantification of a distance between the empirical distribution function of the sample and the cumulative distribution function of the reference distribution, or between the empirical distribution functions of two samples.
@@ -41,6 +43,7 @@ kullbackLeiblerDivergence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/kullbackLeiblerDivergence
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: A measure of how one probability distribution is different from a second, reference probability distribution.
@@ -55,6 +58,7 @@ meanSquaredError
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/meanSquaredError
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: The mean squared difference between two series of values.
@@ -69,6 +73,7 @@ t_statistic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/t_statistic
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: The ratio of the departure of the estimated value of a parameter from its hypothesized value to its standard error.
@@ -83,6 +88,7 @@ z_score
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/differenceMeasure/z_score
    :@type: https://openminds.ebrains.eu/controlledTerms/DifferenceMeasure
    :definition: The number of standard deviations by which an observed value is above or below the mean value.

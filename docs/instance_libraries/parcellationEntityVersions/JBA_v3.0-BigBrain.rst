@@ -13,6 +13,7 @@ JBA_v3.0-BigBrain_Area-6d1_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-6d1_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -30,6 +31,7 @@ JBA_v3.0-BigBrain_Area-6d2_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-6d2_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -47,6 +49,7 @@ JBA_v3.0-BigBrain_Area-6d3_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-6d3_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -64,6 +67,7 @@ JBA_v3.0-BigBrain_Area-6ma_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-6ma_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -81,6 +85,7 @@ JBA_v3.0-BigBrain_Area-MFG1_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-MFG1_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -98,6 +103,7 @@ JBA_v3.0-BigBrain_Area-MFG2_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-MFG2_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -115,6 +121,7 @@ JBA_v3.0-BigBrain_Area-SFS1_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-SFS1_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -132,6 +139,7 @@ JBA_v3.0-BigBrain_Area-SFS2_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-SFS2_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -149,6 +157,7 @@ JBA_v3.0-BigBrain_Area-STS1_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-STS1_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -166,6 +175,7 @@ JBA_v3.0-BigBrain_Area-STS2_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-STS2_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -183,6 +193,7 @@ JBA_v3.0-BigBrain_Area-TE-1.0_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-TE-1.0_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -200,6 +211,7 @@ JBA_v3.0-BigBrain_Area-TE-1.1_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-TE-1.1_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -217,6 +229,7 @@ JBA_v3.0-BigBrain_Area-TE-1.2_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-TE-1.2_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -234,6 +247,7 @@ JBA_v3.0-BigBrain_Area-TE-3_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-TE-3_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -251,6 +265,7 @@ JBA_v3.0-BigBrain_Area-hIP4_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hIP4_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -268,6 +283,7 @@ JBA_v3.0-BigBrain_Area-hIP5_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hIP5_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -285,6 +301,7 @@ JBA_v3.0-BigBrain_Area-hIP6_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hIP6_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -302,6 +319,7 @@ JBA_v3.0-BigBrain_Area-hIP7_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hIP7_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -319,6 +337,7 @@ JBA_v3.0-BigBrain_Area-hIP8_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hIP8_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -336,6 +355,7 @@ JBA_v3.0-BigBrain_Area-hOc1_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hOc1_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -353,6 +373,7 @@ JBA_v3.0-BigBrain_Area-hOc2_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hOc2_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -370,6 +391,7 @@ JBA_v3.0-BigBrain_Area-hOc3v_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hOc3v_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -387,6 +409,7 @@ JBA_v3.0-BigBrain_Area-hOc5_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hOc5_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -404,6 +427,7 @@ JBA_v3.0-BigBrain_Area-hOc6_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hOc6_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -421,6 +445,7 @@ JBA_v3.0-BigBrain_Area-hPO1_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Area-hPO1_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -438,6 +463,7 @@ JBA_v3.0-BigBrain_CGL.lam1_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGL.lam1_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -455,6 +481,7 @@ JBA_v3.0-BigBrain_CGL.lam2_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGL.lam2_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -472,6 +499,7 @@ JBA_v3.0-BigBrain_CGL.lam3_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGL.lam3_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -489,6 +517,7 @@ JBA_v3.0-BigBrain_CGL.lam4_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGL.lam4_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -506,6 +535,7 @@ JBA_v3.0-BigBrain_CGL.lam5_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGL.lam5_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -523,6 +553,7 @@ JBA_v3.0-BigBrain_CGL.lam6_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGL.lam6_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -540,6 +571,7 @@ JBA_v3.0-BigBrain_CGM.CGMd_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGM.CGMd_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -557,6 +589,7 @@ JBA_v3.0-BigBrain_CGM.CGMm_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGM.CGMm_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -574,6 +607,7 @@ JBA_v3.0-BigBrain_CGM.CGMv_deep
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_CGM.CGMv_deep
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -591,6 +625,7 @@ JBA_v3.0-BigBrain_Entorhinal-Cortex_int
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v3.0-BigBrain_Entorhinal-Cortex_int
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON

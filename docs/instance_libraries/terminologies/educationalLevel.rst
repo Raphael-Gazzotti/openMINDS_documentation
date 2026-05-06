@@ -13,6 +13,7 @@ advanced
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/educationalLevel/advanced
    :@type: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
    :definition: The learner has extensive knowledge of the given topic.
@@ -27,6 +28,7 @@ beginner
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/educationalLevel/beginner
    :@type: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
    :definition: The learner has no or minimal knowledge or experience of the given topic.
@@ -41,6 +43,7 @@ intermediate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/educationalLevel/intermediate
    :@type: https://openminds.ebrains.eu/controlledTerms/EducationalLevel
    :definition: The learner has knowledge of the given topic, but is not an expert.

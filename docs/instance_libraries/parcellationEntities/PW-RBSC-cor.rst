@@ -13,6 +13,7 @@ PW-RBSC-cor_10thCerebellarLobuleNodule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_10thCerebellarLobuleNodule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 10Cb
@@ -29,6 +30,7 @@ PW-RBSC-cor_1stCerebellarLobuleLingula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_1stCerebellarLobuleLingula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 1Cb
@@ -45,6 +47,7 @@ PW-RBSC-cor_2bCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_2bCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 2bCb
@@ -61,6 +64,7 @@ PW-RBSC-cor_2ndAnd3rdCerebellarLobules
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_2ndAnd3rdCerebellarLobules
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 2/3Cb
@@ -77,6 +81,7 @@ PW-RBSC-cor_2ndCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_2ndCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 2Cb
@@ -93,6 +98,7 @@ PW-RBSC-cor_3rdAnd4thCerebellarLobules
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_3rdAnd4thCerebellarLobules
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3/4Cb
@@ -109,6 +115,7 @@ PW-RBSC-cor_3rdCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_3rdCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3Cb
@@ -125,6 +132,7 @@ PW-RBSC-cor_3rdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_3rdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3V
@@ -141,6 +149,7 @@ PW-RBSC-cor_4thAnd5thCerebellarLobules
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_4thAnd5thCerebellarLobules
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4/5Cb
@@ -157,6 +166,7 @@ PW-RBSC-cor_4thCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_4thCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4Cb
@@ -173,6 +183,7 @@ PW-RBSC-cor_4thVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_4thVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4V
@@ -189,6 +200,7 @@ PW-RBSC-cor_5thCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_5thCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5Cb
@@ -205,6 +217,7 @@ PW-RBSC-cor_6aCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_6aCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6aCb
@@ -221,6 +234,7 @@ PW-RBSC-cor_6bCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_6bCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6bCb
@@ -237,6 +251,7 @@ PW-RBSC-cor_6cCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_6cCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6cCb
@@ -253,6 +268,7 @@ PW-RBSC-cor_6thCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_6thCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6Cb
@@ -269,6 +285,7 @@ PW-RBSC-cor_7thCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_7thCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7Cb
@@ -285,6 +302,7 @@ PW-RBSC-cor_8thCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_8thCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 8Cb
@@ -301,6 +319,7 @@ PW-RBSC-cor_9thCerebellarLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 9Cb
@@ -317,6 +336,7 @@ PW-RBSC-cor_9thCerebellarLobuleA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobuleA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 9aCb
@@ -333,6 +353,7 @@ PW-RBSC-cor_9thCerebellarLobuleAAndB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobuleAAndB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 9a,bCb
@@ -349,6 +370,7 @@ PW-RBSC-cor_9thCerebellarLobuleB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobuleB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 9bCb
@@ -365,6 +387,7 @@ PW-RBSC-cor_9thCerebellarLobuleC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_9thCerebellarLobuleC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 9cCb
@@ -381,6 +404,7 @@ PW-RBSC-cor_A11dopamineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A11dopamineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A11
@@ -397,6 +421,7 @@ PW-RBSC-cor_A13DopamineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A13DopamineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A13
@@ -413,6 +438,7 @@ PW-RBSC-cor_A1NoradrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A1NoradrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A1
@@ -429,6 +455,7 @@ PW-RBSC-cor_A1NoradrenalineCellsC1AdrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A1NoradrenalineCellsC1AdrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A1/C1
@@ -445,6 +472,7 @@ PW-RBSC-cor_A2NoradrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A2NoradrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A2
@@ -461,6 +489,7 @@ PW-RBSC-cor_A5NoradrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A5NoradrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A5
@@ -477,6 +506,7 @@ PW-RBSC-cor_A7NoradrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_A7NoradrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: A7
@@ -493,6 +523,7 @@ PW-RBSC-cor_B9SerotoninCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_B9SerotoninCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: B9
@@ -509,6 +540,7 @@ PW-RBSC-cor_BarringtonsNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_BarringtonsNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Bar
@@ -525,6 +557,7 @@ PW-RBSC-cor_BotzingerComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_BotzingerComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Bo
@@ -541,6 +574,7 @@ PW-RBSC-cor_C1AdrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_C1AdrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: C1
@@ -557,6 +591,7 @@ PW-RBSC-cor_C1AdrenalineCellsAndA1NoradrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_C1AdrenalineCellsAndA1NoradrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: C1/A1
@@ -573,6 +608,7 @@ PW-RBSC-cor_C2AdrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_C2AdrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: C2
@@ -589,6 +625,7 @@ PW-RBSC-cor_C3AdrenalineCells
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_C3AdrenalineCells
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: C3
@@ -605,6 +642,7 @@ PW-RBSC-cor_EdingerWestphalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_EdingerWestphalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EW
@@ -621,6 +659,7 @@ PW-RBSC-cor_FCellGroupOfTheVestibularComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_FCellGroupOfTheVestibularComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: FVe
@@ -637,6 +676,7 @@ PW-RBSC-cor_KillikerFuseNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_KillikerFuseNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: KF
@@ -653,6 +693,7 @@ PW-RBSC-cor_PurkinjeCellLayerOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_PurkinjeCellLayerOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pk
@@ -669,6 +710,7 @@ PW-RBSC-cor_abducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_abducensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6N
@@ -685,6 +727,7 @@ PW-RBSC-cor_abducensNucleusRetractorBulbiPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_abducensNucleusRetractorBulbiPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6RB
@@ -701,6 +744,7 @@ PW-RBSC-cor_accessoryAbducensFacialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accessoryAbducensFacialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Acs6/7
@@ -717,6 +761,7 @@ PW-RBSC-cor_accessoryNerveNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accessoryNerveNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 11N
@@ -733,6 +778,7 @@ PW-RBSC-cor_accessoryNeurosecretoryNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accessoryNeurosecretoryNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ANS
@@ -749,6 +795,7 @@ PW-RBSC-cor_accessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOB
@@ -765,6 +812,7 @@ PW-RBSC-cor_accessoryOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accessoryOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: aot
@@ -781,6 +829,7 @@ PW-RBSC-cor_accumbensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accumbensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Acb
@@ -797,6 +846,7 @@ PW-RBSC-cor_accumbensNucleusCore
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accumbensNucleusCore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AcbC
@@ -813,6 +863,7 @@ PW-RBSC-cor_accumbensNucleusShell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_accumbensNucleusShell
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AcbSh
@@ -829,6 +880,7 @@ PW-RBSC-cor_agranularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_agranularInsularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AI
@@ -845,6 +897,7 @@ PW-RBSC-cor_agranularInsularCortexDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_agranularInsularCortexDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AID
@@ -861,6 +914,7 @@ PW-RBSC-cor_agranularInsularCortexPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_agranularInsularCortexPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AIP
@@ -877,6 +931,7 @@ PW-RBSC-cor_agranularInsularCortexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_agranularInsularCortexVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AIV
@@ -893,6 +948,7 @@ PW-RBSC-cor_alarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_alarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Al
@@ -909,6 +965,7 @@ PW-RBSC-cor_alveusOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_alveusOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: alv
@@ -925,6 +982,7 @@ PW-RBSC-cor_ambiguusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ambiguusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Amb
@@ -941,6 +999,7 @@ PW-RBSC-cor_ambiguusNucleusCompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ambiguusNucleusCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AmbC
@@ -957,6 +1016,7 @@ PW-RBSC-cor_ambiguusNucleusLoosePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ambiguusNucleusLoosePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AmbL
@@ -973,6 +1033,7 @@ PW-RBSC-cor_ambiguusNucleusSubcompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ambiguusNucleusSubcompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AmbSC
@@ -989,6 +1050,7 @@ PW-RBSC-cor_amygdalohippocampalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalohippocampalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHi
@@ -1005,6 +1067,7 @@ PW-RBSC-cor_amygdalohippocampalAreaAnterolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalohippocampalAreaAnterolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHiAL
@@ -1021,6 +1084,7 @@ PW-RBSC-cor_amygdalohippocampalAreaPosterolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalohippocampalAreaPosterolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHiPL
@@ -1037,6 +1101,7 @@ PW-RBSC-cor_amygdalohippocampalAreaPosteromedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalohippocampalAreaPosteromedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHiPM
@@ -1053,6 +1118,7 @@ PW-RBSC-cor_amygdaloidFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdaloidFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: af
@@ -1069,6 +1135,7 @@ PW-RBSC-cor_amygdaloidIntramedullaryGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdaloidIntramedullaryGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IMG
@@ -1085,6 +1152,7 @@ PW-RBSC-cor_amygdalopiriformTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalopiriformTransitionArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: APir
@@ -1101,6 +1169,7 @@ PW-RBSC-cor_amygdalostriatalTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_amygdalostriatalTransitionArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ASt
@@ -1117,6 +1186,7 @@ PW-RBSC-cor_angularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_angularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AngT
@@ -1133,6 +1203,7 @@ PW-RBSC-cor_ansoparamedianFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ansoparamedianFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: apmf
@@ -1149,6 +1220,7 @@ PW-RBSC-cor_anteriorAmygdaloidArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorAmygdaloidArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AA
@@ -1165,6 +1237,7 @@ PW-RBSC-cor_anteriorCerebralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCerebralArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: acer
@@ -1181,6 +1254,7 @@ PW-RBSC-cor_anteriorCommissuralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissuralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AC
@@ -1197,6 +1271,7 @@ PW-RBSC-cor_anteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ac
@@ -1213,6 +1288,7 @@ PW-RBSC-cor_anteriorCommissureAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissureAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: aca
@@ -1229,6 +1305,7 @@ PW-RBSC-cor_anteriorCommissureIntrabulbarPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissureIntrabulbarPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: aci
@@ -1245,6 +1322,7 @@ PW-RBSC-cor_anteriorCommissurePosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCommissurePosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: acp
@@ -1261,6 +1339,7 @@ PW-RBSC-cor_anteriorCorticalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorCorticalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ACo
@@ -1277,6 +1356,7 @@ PW-RBSC-cor_anteriorHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AH
@@ -1293,6 +1373,7 @@ PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHA
@@ -1309,6 +1390,7 @@ PW-RBSC-cor_anteriorHypothalamicAreaCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicAreaCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHC
@@ -1325,6 +1407,7 @@ PW-RBSC-cor_anteriorHypothalamicAreaPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorHypothalamicAreaPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AHP
@@ -1341,6 +1424,7 @@ PW-RBSC-cor_anteriorLobeOfPituitary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorLobeOfPituitary
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: APit
@@ -1357,6 +1441,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOD
@@ -1373,6 +1458,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusExternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOE
@@ -1389,6 +1475,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOL
@@ -1405,6 +1492,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOM
@@ -1421,6 +1509,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOP
@@ -1437,6 +1526,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOV
@@ -1453,6 +1543,7 @@ PW-RBSC-cor_anteriorOlfactoryNucleusVentroposteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorOlfactoryNucleusVentroposteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AOVP
@@ -1469,6 +1560,7 @@ PW-RBSC-cor_anteriorPerifornicalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorPerifornicalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: APF
@@ -1485,6 +1577,7 @@ PW-RBSC-cor_anteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: APT
@@ -1501,6 +1594,7 @@ PW-RBSC-cor_anteriorPretectalNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorPretectalNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: APTD
@@ -1517,6 +1611,7 @@ PW-RBSC-cor_anteriorPretectalNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorPretectalNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: APTV
@@ -1533,6 +1628,7 @@ PW-RBSC-cor_anteriorSpinalArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorSpinalArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: asp
@@ -1549,6 +1645,7 @@ PW-RBSC-cor_anteriorTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteriorTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ATg
@@ -1565,6 +1662,7 @@ PW-RBSC-cor_anterodorsalThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anterodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AD
@@ -1581,6 +1679,7 @@ PW-RBSC-cor_anteromedialThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AM
@@ -1597,6 +1696,7 @@ PW-RBSC-cor_anteromedialThalamicNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteromedialThalamicNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AMV
@@ -1613,6 +1713,7 @@ PW-RBSC-cor_anteroventThalamicNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteroventThalamicNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AVDM
@@ -1629,6 +1730,7 @@ PW-RBSC-cor_anteroventralPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteroventralPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AVPe
@@ -1645,6 +1747,7 @@ PW-RBSC-cor_anteroventralThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteroventralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AV
@@ -1661,6 +1764,7 @@ PW-RBSC-cor_anteroventralThalamicNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_anteroventralThalamicNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AVVL
@@ -1677,6 +1781,7 @@ PW-RBSC-cor_aqueduct
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_aqueduct
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Aq
@@ -1693,6 +1798,7 @@ PW-RBSC-cor_arcuateHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Arc
@@ -1709,6 +1815,7 @@ PW-RBSC-cor_arcuateHypothalamicNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ArcD
@@ -1725,6 +1832,7 @@ PW-RBSC-cor_arcuateHypothalamicNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ArcL
@@ -1741,6 +1849,7 @@ PW-RBSC-cor_arcuateHypothalamicNucleusLateroposteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusLateroposteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ArcLP
@@ -1757,6 +1866,7 @@ PW-RBSC-cor_arcuateHypothalamicNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ArcM
@@ -1773,6 +1883,7 @@ PW-RBSC-cor_arcuateHypothalamicNucleusMedialPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_arcuateHypothalamicNucleusMedialPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ArcMP
@@ -1789,6 +1900,7 @@ PW-RBSC-cor_areaPostrema
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_areaPostrema
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AP
@@ -1805,6 +1917,7 @@ PW-RBSC-cor_artery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_artery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: a
@@ -1821,6 +1934,7 @@ PW-RBSC-cor_ascendingFibersOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ascendingFibersOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: asc7
@@ -1837,6 +1951,7 @@ PW-RBSC-cor_azygousAnteriorCerebralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_azygousAnteriorCerebralArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: azac
@@ -1853,6 +1968,7 @@ PW-RBSC-cor_azygousPericallosalArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_azygousPericallosalArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: azp
@@ -1869,6 +1985,7 @@ PW-RBSC-cor_basalNucleusCompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basalNucleusCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BC
@@ -1885,6 +2002,7 @@ PW-RBSC-cor_basalNucleusMeynert
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basalNucleusMeynert
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: B
@@ -1901,6 +2019,7 @@ PW-RBSC-cor_basilarArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basilarArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: bas
@@ -1917,6 +2036,7 @@ PW-RBSC-cor_basolateralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basolateralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BL
@@ -1933,6 +2053,7 @@ PW-RBSC-cor_basolateralAmygdaloidNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basolateralAmygdaloidNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BLA
@@ -1949,6 +2070,7 @@ PW-RBSC-cor_basolateralAmygdaloidNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basolateralAmygdaloidNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BLP
@@ -1965,6 +2087,7 @@ PW-RBSC-cor_basolateralAmygdaloidNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basolateralAmygdaloidNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BLV
@@ -1981,6 +2104,7 @@ PW-RBSC-cor_basomedialAmygdaloidNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basomedialAmygdaloidNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BMA
@@ -1997,6 +2121,7 @@ PW-RBSC-cor_basomedialAmygdaloidNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_basomedialAmygdaloidNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BMP
@@ -2013,6 +2138,7 @@ PW-RBSC-cor_bedNucleusOfStriaTerminalisFusiformPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisFusiformPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Fu
@@ -2029,6 +2155,7 @@ PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STS
@@ -2046,6 +2173,7 @@ PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STSL
@@ -2063,6 +2191,7 @@ PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STSM
@@ -2080,6 +2209,7 @@ PW-RBSC-cor_bedNucleusOfTheAccessoryOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheAccessoryOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BAOT
@@ -2096,6 +2226,7 @@ PW-RBSC-cor_bedNucleusOfTheAnteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheAnteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BAC
@@ -2112,6 +2243,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisIntermediateDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisIntermediateDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STI
@@ -2128,6 +2260,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisIntraamygdaloidDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisIntraamygdaloidDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STIA
@@ -2144,6 +2277,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STL
@@ -2160,6 +2294,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STLD
@@ -2176,6 +2311,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STLI
@@ -2192,6 +2328,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionJuxtacapsularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionJuxtacapsularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STLJ
@@ -2208,6 +2345,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STLP
@@ -2224,6 +2362,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STLV
@@ -2240,6 +2379,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STM
@@ -2256,6 +2396,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMA
@@ -2272,6 +2413,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnterolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnterolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMAL
@@ -2288,6 +2430,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnteromedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnteromedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMAM
@@ -2304,6 +2447,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMP
@@ -2320,6 +2464,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterointermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterointermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMPI
@@ -2336,6 +2481,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMPL
@@ -2352,6 +2498,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteromedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteromedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMPM
@@ -2368,6 +2515,7 @@ PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STMV
@@ -2384,6 +2532,7 @@ PW-RBSC-cor_brachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_brachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: bic
@@ -2400,6 +2549,7 @@ PW-RBSC-cor_brachiumOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: bsc
@@ -2416,6 +2566,7 @@ PW-RBSC-cor_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CI
@@ -2432,6 +2583,7 @@ PW-RBSC-cor_caudalLinearNucleusOfTheRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudalLinearNucleusOfTheRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CLi
@@ -2448,6 +2600,7 @@ PW-RBSC-cor_caudalPeriolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudalPeriolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CPO
@@ -2464,6 +2617,7 @@ PW-RBSC-cor_caudatePutamenStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudatePutamenStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CPu
@@ -2480,6 +2634,7 @@ PW-RBSC-cor_caudomedialEntothinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudomedialEntothinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CEnt
@@ -2496,6 +2651,7 @@ PW-RBSC-cor_caudoventrolateralReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_caudoventrolateralReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CVL
@@ -2512,6 +2668,7 @@ PW-RBSC-cor_cellBridgesOfTheVentralStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cellBridgesOfTheVentralStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CB
@@ -2528,6 +2685,7 @@ PW-RBSC-cor_centralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ce
@@ -2544,6 +2702,7 @@ PW-RBSC-cor_centralAmygdaloidNucleusCapsularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralAmygdaloidNucleusCapsularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CeC
@@ -2560,6 +2719,7 @@ PW-RBSC-cor_centralAmygdaloidNucleusLateralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralAmygdaloidNucleusLateralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CeL
@@ -2576,6 +2736,7 @@ PW-RBSC-cor_centralAmygdaloidNucleusMedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralAmygdaloidNucleusMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CeM
@@ -2592,6 +2753,7 @@ PW-RBSC-cor_centralCanal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralCanal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CC
@@ -2608,6 +2770,7 @@ PW-RBSC-cor_centralCervicalNucleusOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralCervicalNucleusOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CeCv
@@ -2624,6 +2787,7 @@ PW-RBSC-cor_centralGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CG
@@ -2640,6 +2804,7 @@ PW-RBSC-cor_centralGrayAlphaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGrayAlphaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CGA
@@ -2656,6 +2821,7 @@ PW-RBSC-cor_centralGrayBetaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGrayBetaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CGB
@@ -2672,6 +2838,7 @@ PW-RBSC-cor_centralGrayGammaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGrayGammaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CGG
@@ -2688,6 +2855,7 @@ PW-RBSC-cor_centralGrayNucleusO
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGrayNucleusO
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CGO
@@ -2704,6 +2872,7 @@ PW-RBSC-cor_centralGrayOfThePons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralGrayOfThePons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CGPn
@@ -2720,6 +2889,7 @@ PW-RBSC-cor_centralMedialThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralMedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CM
@@ -2736,6 +2906,7 @@ PW-RBSC-cor_centralNucleusOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centralNucleusOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CIC
@@ -2752,6 +2923,7 @@ PW-RBSC-cor_centrolateralThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_centrolateralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CL
@@ -2768,6 +2940,7 @@ PW-RBSC-cor_cerebellarCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cerebellarCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cbx
@@ -2784,6 +2957,7 @@ PW-RBSC-cor_cerebellarWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cerebellarWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cbw
@@ -2800,6 +2974,7 @@ PW-RBSC-cor_cerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cb
@@ -2816,6 +2991,7 @@ PW-RBSC-cor_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cx
@@ -2832,6 +3008,7 @@ PW-RBSC-cor_cerebralPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cerebralPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cp
@@ -2848,6 +3025,7 @@ PW-RBSC-cor_choroidPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_choroidPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: chp
@@ -2864,6 +3042,7 @@ PW-RBSC-cor_cingulateCortexArea1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cingulateCortexArea1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cg1
@@ -2880,6 +3059,7 @@ PW-RBSC-cor_cingulateCortexArea2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cingulateCortexArea2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cg2
@@ -2896,6 +3076,7 @@ PW-RBSC-cor_cingulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cingulum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cg
@@ -2912,6 +3093,7 @@ PW-RBSC-cor_circularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_circularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cir
@@ -2928,6 +3110,7 @@ PW-RBSC-cor_claustrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_claustrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cl
@@ -2944,6 +3127,7 @@ PW-RBSC-cor_cochlearRootOfTheVestibulocochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cochlearRootOfTheVestibulocochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 8cn
@@ -2960,6 +3144,7 @@ PW-RBSC-cor_commissuralNucleusOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_commissuralNucleusOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Com
@@ -2976,6 +3161,7 @@ PW-RBSC-cor_commissuralStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_commissuralStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cst
@@ -2992,6 +3178,7 @@ PW-RBSC-cor_commissureOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_commissureOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cic
@@ -3008,6 +3195,7 @@ PW-RBSC-cor_commissureOfTheLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_commissureOfTheLateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cll
@@ -3024,6 +3212,7 @@ PW-RBSC-cor_commissureOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_commissureOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: csc
@@ -3040,6 +3229,7 @@ PW-RBSC-cor_conterminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_conterminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ct
@@ -3056,6 +3246,7 @@ PW-RBSC-cor_copulaOfThePyramis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_copulaOfThePyramis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cop
@@ -3072,6 +3263,7 @@ PW-RBSC-cor_corpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_corpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cc
@@ -3088,6 +3280,7 @@ PW-RBSC-cor_cortexAmygdalaTransitionZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cortexAmygdalaTransitionZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CxA
@@ -3104,6 +3297,7 @@ PW-RBSC-cor_cortexAmygdalaTransitionZoneLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cortexAmygdalaTransitionZoneLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CxA1
@@ -3120,6 +3314,7 @@ PW-RBSC-cor_crus1OfTheAnsiformLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_crus1OfTheAnsiformLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Crus1
@@ -3136,6 +3331,7 @@ PW-RBSC-cor_crus2OfTheAnsiformLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_crus2OfTheAnsiformLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Crus2
@@ -3152,6 +3348,7 @@ PW-RBSC-cor_cuneateFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneateFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: cu
@@ -3168,6 +3365,7 @@ PW-RBSC-cor_cuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Cu
@@ -3184,6 +3382,7 @@ PW-RBSC-cor_cuneateNucleusRotundusPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneateNucleusRotundusPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CuR
@@ -3200,6 +3399,7 @@ PW-RBSC-cor_cuneiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneiformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CnF
@@ -3216,6 +3416,7 @@ PW-RBSC-cor_cuneiformNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneiformNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CnFD
@@ -3232,6 +3433,7 @@ PW-RBSC-cor_cuneiformNucleusIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneiformNucleusIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CnFI
@@ -3248,6 +3450,7 @@ PW-RBSC-cor_cuneiformNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_cuneiformNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CnFV
@@ -3264,6 +3467,7 @@ PW-RBSC-cor_decussationOfTheSuperiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_decussationOfTheSuperiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: xscp
@@ -3280,6 +3484,7 @@ PW-RBSC-cor_decussationOfTheTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_decussationOfTheTrapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: tzx
@@ -3296,6 +3501,7 @@ PW-RBSC-cor_deepCerebralWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_deepCerebralWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dcw
@@ -3312,6 +3518,7 @@ PW-RBSC-cor_deepGrayLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_deepGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DpG
@@ -3328,6 +3535,7 @@ PW-RBSC-cor_deepWhiteLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_deepWhiteLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DpWh
@@ -3344,6 +3552,7 @@ PW-RBSC-cor_dentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DG
@@ -3360,6 +3569,7 @@ PW-RBSC-cor_dorsal3rdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsal3rdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: D3V
@@ -3376,6 +3586,7 @@ PW-RBSC-cor_dorsalAcousticStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalAcousticStria
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: das
@@ -3392,6 +3603,7 @@ PW-RBSC-cor_dorsalCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DC
@@ -3408,6 +3620,7 @@ PW-RBSC-cor_dorsalCochlearNucleusDeepCore
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCochlearNucleusDeepCore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DCDp
@@ -3424,6 +3637,7 @@ PW-RBSC-cor_dorsalCochlearNucleusFusiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCochlearNucleusFusiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DCFu
@@ -3440,6 +3654,7 @@ PW-RBSC-cor_dorsalCochlearNucleusGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCochlearNucleusGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DCGr
@@ -3456,6 +3671,7 @@ PW-RBSC-cor_dorsalCochlearNucleusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCochlearNucleusMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DCMo
@@ -3472,6 +3688,7 @@ PW-RBSC-cor_dorsalCortexOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCortexOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DCIC
@@ -3488,6 +3705,7 @@ PW-RBSC-cor_dorsalCorticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalCorticospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dcs
@@ -3504,6 +3722,7 @@ PW-RBSC-cor_dorsalEndopiriformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalEndopiriformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DEn
@@ -3520,6 +3739,7 @@ PW-RBSC-cor_dorsalFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalFornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: df
@@ -3536,6 +3756,7 @@ PW-RBSC-cor_dorsalHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dhc
@@ -3552,6 +3773,7 @@ PW-RBSC-cor_dorsalHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DA
@@ -3568,6 +3790,7 @@ PW-RBSC-cor_dorsalIntermediateEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalIntermediateEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DIEnt
@@ -3584,6 +3807,7 @@ PW-RBSC-cor_dorsalLateralGeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalLateralGeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DLG
@@ -3600,6 +3824,7 @@ PW-RBSC-cor_dorsalLateralOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dlo
@@ -3616,6 +3841,7 @@ PW-RBSC-cor_dorsalMotorNucleusOfVagus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalMotorNucleusOfVagus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 10N
@@ -3632,6 +3858,7 @@ PW-RBSC-cor_dorsalNucleusOfTheLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalNucleusOfTheLateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DLL
@@ -3648,6 +3875,7 @@ PW-RBSC-cor_dorsalNucleusOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalNucleusOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: D
@@ -3664,6 +3892,7 @@ PW-RBSC-cor_dorsalParagigantocellularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalParagigantocellularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DPGi
@@ -3680,6 +3909,7 @@ PW-RBSC-cor_dorsalPartOfClaustrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalPartOfClaustrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DCl
@@ -3696,6 +3926,7 @@ PW-RBSC-cor_dorsalPeduncularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalPeduncularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DP
@@ -3712,6 +3943,7 @@ PW-RBSC-cor_dorsalPeduncularPontineNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalPeduncularPontineNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DPPn
@@ -3728,6 +3960,7 @@ PW-RBSC-cor_dorsalPeriolivaryRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalPeriolivaryRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DPO
@@ -3744,6 +3977,7 @@ PW-RBSC-cor_dorsalRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DR
@@ -3760,6 +3994,7 @@ PW-RBSC-cor_dorsalRapheNucleusCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleusCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DRC
@@ -3776,6 +4011,7 @@ PW-RBSC-cor_dorsalRapheNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DRD
@@ -3792,6 +4028,7 @@ PW-RBSC-cor_dorsalRapheNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DRL
@@ -3808,6 +4045,7 @@ PW-RBSC-cor_dorsalRapheNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalRapheNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DRV
@@ -3824,6 +4062,7 @@ PW-RBSC-cor_dorsalSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dsc
@@ -3840,6 +4079,7 @@ PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dsc/oc
@@ -3856,6 +4096,7 @@ PW-RBSC-cor_dorsalSubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalSubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DS
@@ -3872,6 +4113,7 @@ PW-RBSC-cor_dorsalTegmentalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTegmentalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: dtgx
@@ -3888,6 +4130,7 @@ PW-RBSC-cor_dorsalTegmentalNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTegmentalNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DTgC
@@ -3904,6 +4147,7 @@ PW-RBSC-cor_dorsalTegmentalNucleusPericentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTegmentalNucleusPericentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DTgP
@@ -3920,6 +4164,7 @@ PW-RBSC-cor_dorsalTeniaTecta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTeniaTecta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DTT
@@ -3936,6 +4181,7 @@ PW-RBSC-cor_dorsalTeniaTectaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTeniaTectaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DTT1
@@ -3952,6 +4198,7 @@ PW-RBSC-cor_dorsalTerminalNucleusOfTheAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DT
@@ -3968,6 +4215,7 @@ PW-RBSC-cor_dorsalTransitionZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTransitionZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DTr
@@ -3984,6 +4232,7 @@ PW-RBSC-cor_dorsalTuberomammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsalTuberomammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DTM
@@ -4000,6 +4249,7 @@ PW-RBSC-cor_dorsolateralEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsolateralEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DLEnt
@@ -4016,6 +4266,7 @@ PW-RBSC-cor_dorsolateralOrbitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsolateralOrbitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DLO
@@ -4032,6 +4283,7 @@ PW-RBSC-cor_dorsolateralPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsolateralPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DLPAG
@@ -4048,6 +4300,7 @@ PW-RBSC-cor_dorsomedialHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DM
@@ -4064,6 +4317,7 @@ PW-RBSC-cor_dorsomedialHypothalamicNucleusCompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialHypothalamicNucleusCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DMC
@@ -4080,6 +4334,7 @@ PW-RBSC-cor_dorsomedialHypothalamicNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialHypothalamicNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DMD
@@ -4096,6 +4351,7 @@ PW-RBSC-cor_dorsomedialHypothalamicNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialHypothalamicNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DMV
@@ -4112,6 +4368,7 @@ PW-RBSC-cor_dorsomedialPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DMPAG
@@ -4128,6 +4385,7 @@ PW-RBSC-cor_dorsomedialSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DMSp5
@@ -4144,6 +4402,7 @@ PW-RBSC-cor_dorsomedialTegmentalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dorsomedialTegmentalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DMTg
@@ -4160,6 +4419,7 @@ PW-RBSC-cor_dysgranularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_dysgranularInsularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: DI
@@ -4176,6 +4436,7 @@ PW-RBSC-cor_ectorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ectorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ect
@@ -4192,6 +4453,7 @@ PW-RBSC-cor_ectotrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ectotrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: E5
@@ -4208,6 +4470,7 @@ PW-RBSC-cor_entopeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_entopeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EP
@@ -4224,6 +4487,7 @@ PW-RBSC-cor_entorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_entorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ent
@@ -4240,6 +4504,7 @@ PW-RBSC-cor_ependymaAndSubependymalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ependymaAndSubependymalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: E
@@ -4256,6 +4521,7 @@ PW-RBSC-cor_ependymalAndSubendymalLayerOlfactoryVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ependymalAndSubendymalLayerOlfactoryVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: E/OV
@@ -4272,6 +4538,7 @@ PW-RBSC-cor_epifascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_epifascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EF
@@ -4288,6 +4555,7 @@ PW-RBSC-cor_epilemniscalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_epilemniscalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ELm
@@ -4304,6 +4572,7 @@ PW-RBSC-cor_epipeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_epipeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EpP
@@ -4320,6 +4589,7 @@ PW-RBSC-cor_epirubrospinalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_epirubrospinalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ERS
@@ -4336,6 +4606,7 @@ PW-RBSC-cor_episupraopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_episupraopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ESO
@@ -4352,6 +4623,7 @@ PW-RBSC-cor_ethmoidThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ethmoidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Eth
@@ -4368,6 +4640,7 @@ PW-RBSC-cor_externalCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ec
@@ -4384,6 +4657,7 @@ PW-RBSC-cor_externalCortexOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalCortexOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ECIC
@@ -4400,6 +4674,7 @@ PW-RBSC-cor_externalCortexOfTheInferiorColliculusLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalCortexOfTheInferiorColliculusLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ECIC1
@@ -4416,6 +4691,7 @@ PW-RBSC-cor_externalCuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalCuneateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ECu
@@ -4432,6 +4708,7 @@ PW-RBSC-cor_externalMedullaryLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalMedullaryLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: eml
@@ -4448,6 +4725,7 @@ PW-RBSC-cor_externalPlexiformLayerOfTheAccessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalPlexiformLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EPlA
@@ -4464,6 +4742,7 @@ PW-RBSC-cor_externalPlexiformLayerOfTheOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_externalPlexiformLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EPl
@@ -4480,6 +4759,7 @@ PW-RBSC-cor_facialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7n
@@ -4496,6 +4776,7 @@ PW-RBSC-cor_facialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7N
@@ -4512,6 +4793,7 @@ PW-RBSC-cor_facialNucleusDorsalIntermediateSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusDorsalIntermediateSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7DI
@@ -4528,6 +4810,7 @@ PW-RBSC-cor_facialNucleusDorsolateralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusDorsolateralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7DL
@@ -4544,6 +4827,7 @@ PW-RBSC-cor_facialNucleusDorsomedialSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusDorsomedialSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7DM
@@ -4560,6 +4844,7 @@ PW-RBSC-cor_facialNucleusLateralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusLateralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7L
@@ -4576,6 +4861,7 @@ PW-RBSC-cor_facialNucleusStylohyoidPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusStylohyoidPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7SH
@@ -4592,6 +4878,7 @@ PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7VI
@@ -4608,6 +4895,7 @@ PW-RBSC-cor_facialNucleusVentromedialSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_facialNucleusVentromedialSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7VM
@@ -4624,6 +4912,7 @@ PW-RBSC-cor_fasciculusRetroflexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fasciculusRetroflexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: fr
@@ -4640,6 +4929,7 @@ PW-RBSC-cor_fasciolaCinereum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fasciolaCinereum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: FC
@@ -4656,6 +4946,7 @@ PW-RBSC-cor_fieldCA1OfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fieldCA1OfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CA1
@@ -4672,6 +4963,7 @@ PW-RBSC-cor_fieldCA2OfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fieldCA2OfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CA2
@@ -4688,6 +4980,7 @@ PW-RBSC-cor_fieldCA3OfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fieldCA3OfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CA3
@@ -4704,6 +4997,7 @@ PW-RBSC-cor_fimbriaOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fimbriaOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: fi
@@ -4720,6 +5014,7 @@ PW-RBSC-cor_flocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_flocculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Fl
@@ -4736,6 +5031,7 @@ PW-RBSC-cor_forcepsMajorOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_forcepsMajorOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: fmj
@@ -4752,6 +5048,7 @@ PW-RBSC-cor_forcepsMinorOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_forcepsMinorOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: fmi
@@ -4768,6 +5065,7 @@ PW-RBSC-cor_fornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_fornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: f
@@ -4784,6 +5082,7 @@ PW-RBSC-cor_frontalAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_frontalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: FrA
@@ -4800,6 +5099,7 @@ PW-RBSC-cor_frontalCortexArea3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_frontalCortexArea3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Fr3
@@ -4816,6 +5116,7 @@ PW-RBSC-cor_gelatinousLayerOfTheCaudalSpinalTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gelatinousLayerOfTheCaudalSpinalTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ge5
@@ -4832,6 +5133,7 @@ PW-RBSC-cor_geminiHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_geminiHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Gem
@@ -4848,6 +5150,7 @@ PW-RBSC-cor_genuOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_genuOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: gcc
@@ -4864,6 +5167,7 @@ PW-RBSC-cor_genuOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_genuOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: g7
@@ -4880,6 +5184,7 @@ PW-RBSC-cor_gigantocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gigantocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Gi
@@ -4896,6 +5201,7 @@ PW-RBSC-cor_gigantocellularReticularNucleusAlphaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gigantocellularReticularNucleusAlphaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GiA
@@ -4912,6 +5218,7 @@ PW-RBSC-cor_gigantocellularReticularNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gigantocellularReticularNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GiV
@@ -4928,6 +5235,7 @@ PW-RBSC-cor_globusPallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_globusPallidus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GP
@@ -4944,6 +5252,7 @@ PW-RBSC-cor_glomerularLayerOfTheAccessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_glomerularLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GlA
@@ -4960,6 +5269,7 @@ PW-RBSC-cor_glomerularLayerOfTheOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_glomerularLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Gl
@@ -4976,6 +5286,7 @@ PW-RBSC-cor_glossopharyngealNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_glossopharyngealNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 9n
@@ -4992,6 +5303,7 @@ PW-RBSC-cor_gracileFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gracileFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: gr
@@ -5008,6 +5320,7 @@ PW-RBSC-cor_gracileNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_gracileNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Gr
@@ -5024,6 +5337,7 @@ PW-RBSC-cor_granularCellLayerOfTheOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granularCellLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GrO
@@ -5040,6 +5354,7 @@ PW-RBSC-cor_granularInsularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granularInsularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GI
@@ -5056,6 +5371,7 @@ PW-RBSC-cor_granularLayerOfTheDentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granularLayerOfTheDentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GrDG
@@ -5072,6 +5388,7 @@ PW-RBSC-cor_granuleCellLayerOfCochlearNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granuleCellLayerOfCochlearNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GrC
@@ -5088,6 +5405,7 @@ PW-RBSC-cor_granuleCellLayerOfTheAccessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granuleCellLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GrA
@@ -5104,6 +5422,7 @@ PW-RBSC-cor_granuleCellLayerOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_granuleCellLayerOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: GrCb
@@ -5120,6 +5439,7 @@ PW-RBSC-cor_habenularCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_habenularCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: hbc
@@ -5136,6 +5456,7 @@ PW-RBSC-cor_hilusOfTheDentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_hilusOfTheDentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Hil
@@ -5152,6 +5473,7 @@ PW-RBSC-cor_hippocampalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_hippocampalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: hif
@@ -5168,6 +5490,7 @@ PW-RBSC-cor_hypoglossalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_hypoglossalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 12N
@@ -5184,6 +5507,7 @@ PW-RBSC-cor_hypoglossalNucleusGeniohyoidPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_hypoglossalNucleusGeniohyoidPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 12GH
@@ -5200,6 +5524,7 @@ PW-RBSC-cor_indusiumGriseum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_indusiumGriseum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IG
@@ -5216,6 +5541,7 @@ PW-RBSC-cor_inferiorCerebellarPeduncleDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorCerebellarPeduncleDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: icpx
@@ -5232,6 +5558,7 @@ PW-RBSC-cor_inferiorCerebellarPeduncleRestiformBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorCerebellarPeduncleRestiformBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: icp
@@ -5248,6 +5575,7 @@ PW-RBSC-cor_inferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IC
@@ -5264,6 +5592,7 @@ PW-RBSC-cor_inferiorOliveBetaSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveBetaSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOBe
@@ -5280,6 +5609,7 @@ PW-RBSC-cor_inferiorOliveCapOfKooyOfTheMedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveCapOfKooyOfTheMedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOK
@@ -5296,6 +5626,7 @@ PW-RBSC-cor_inferiorOliveDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOD
@@ -5312,6 +5643,7 @@ PW-RBSC-cor_inferiorOliveDorsomedialCellGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveDorsomedialCellGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IODM
@@ -5328,6 +5660,7 @@ PW-RBSC-cor_inferiorOliveMedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveMedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOM
@@ -5344,6 +5677,7 @@ PW-RBSC-cor_inferiorOlivePrincipalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOlivePrincipalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOPr
@@ -5360,6 +5694,7 @@ PW-RBSC-cor_inferiorOliveSubnucleusAOfMedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveSubnucleusAOfMedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOA
@@ -5376,6 +5711,7 @@ PW-RBSC-cor_inferiorOliveSubnucleusBOfMedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveSubnucleusBOfMedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOB
@@ -5392,6 +5728,7 @@ PW-RBSC-cor_inferiorOliveSubnucleusCOfMedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveSubnucleusCOfMedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOC
@@ -5408,6 +5745,7 @@ PW-RBSC-cor_inferiorOliveVentrolateralProtrusion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorOliveVentrolateralProtrusion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IOVL
@@ -5424,6 +5762,7 @@ PW-RBSC-cor_inferiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_inferiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IS
@@ -5440,6 +5779,7 @@ PW-RBSC-cor_infralimbicCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_infralimbicCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IL
@@ -5456,6 +5796,7 @@ PW-RBSC-cor_infundibularRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_infundibularRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IRe
@@ -5472,6 +5813,7 @@ PW-RBSC-cor_infundibularStem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_infundibularStem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: InfS
@@ -5488,6 +5830,7 @@ PW-RBSC-cor_interanterodorsalThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interanterodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IAD
@@ -5504,6 +5847,7 @@ PW-RBSC-cor_interanteromedialThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interanteromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IAM
@@ -5520,6 +5864,7 @@ PW-RBSC-cor_intercalatedAmygdaloidNucleusMainPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intercalatedAmygdaloidNucleusMainPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IM
@@ -5536,6 +5881,7 @@ PW-RBSC-cor_intercalatedNucleiOfTheAmygdala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intercalatedNucleiOfTheAmygdala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: I
@@ -5552,6 +5898,7 @@ PW-RBSC-cor_intercalatedNucleusOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intercalatedNucleusOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: In
@@ -5568,6 +5915,7 @@ PW-RBSC-cor_intercruralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intercruralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: icf
@@ -5584,6 +5932,7 @@ PW-RBSC-cor_interfascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interfascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IF
@@ -5600,6 +5949,7 @@ PW-RBSC-cor_intergeniculateLeaf
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intergeniculateLeaf
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IGL
@@ -5616,6 +5966,7 @@ PW-RBSC-cor_intermediateEndopiriformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateEndopiriformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IEn
@@ -5632,6 +5983,7 @@ PW-RBSC-cor_intermediateGrayLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: InG
@@ -5648,6 +6000,7 @@ PW-RBSC-cor_intermediateInterstitialNucleusOfTheMedialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateInterstitialNucleusOfTheMedialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: II
@@ -5664,6 +6017,7 @@ PW-RBSC-cor_intermediateLobeOfPituitary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateLobeOfPituitary
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPit
@@ -5680,6 +6034,7 @@ PW-RBSC-cor_intermediateNucleusOfTheLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateNucleusOfTheLateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ILL
@@ -5696,6 +6051,7 @@ PW-RBSC-cor_intermediateReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IRt
@@ -5712,6 +6068,7 @@ PW-RBSC-cor_intermediateReticularNucleusAlphaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateReticularNucleusAlphaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IRtA
@@ -5728,6 +6085,7 @@ PW-RBSC-cor_intermediateWhiteLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediateWhiteLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: InWh
@@ -5744,6 +6102,7 @@ PW-RBSC-cor_intermediodorsalThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IMD
@@ -5760,6 +6119,7 @@ PW-RBSC-cor_intermediolateralCellColumnOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediolateralCellColumnOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IML
@@ -5776,6 +6136,7 @@ PW-RBSC-cor_intermedioventralThalamicCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermedioventralThalamicCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: imvc
@@ -5792,6 +6153,7 @@ PW-RBSC-cor_intermediusNucleusOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intermediusNucleusOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: InM
@@ -5808,6 +6170,7 @@ PW-RBSC-cor_internalArcuateFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_internalArcuateFibers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ia
@@ -5824,6 +6187,7 @@ PW-RBSC-cor_internalCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_internalCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ic
@@ -5840,6 +6204,7 @@ PW-RBSC-cor_internalCarotidArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_internalCarotidArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ictd
@@ -5856,6 +6221,7 @@ PW-RBSC-cor_internalMedullaryLamina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_internalMedullaryLamina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: iml
@@ -5872,6 +6238,7 @@ PW-RBSC-cor_internalPlexiformLayerOfTheOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_internalPlexiformLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPl
@@ -5888,6 +6255,7 @@ PW-RBSC-cor_interpeduncularFossa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularFossa
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPF
@@ -5904,6 +6272,7 @@ PW-RBSC-cor_interpeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IP
@@ -5920,6 +6289,7 @@ PW-RBSC-cor_interpeduncularNucleusApicalSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusApicalSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPA
@@ -5936,6 +6306,7 @@ PW-RBSC-cor_interpeduncularNucleusCaudalSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusCaudalSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPC
@@ -5952,6 +6323,7 @@ PW-RBSC-cor_interpeduncularNucleusDorsolateralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusDorsolateralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPDL
@@ -5968,6 +6340,7 @@ PW-RBSC-cor_interpeduncularNucleusDorsomedialSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusDorsomedialSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPDM
@@ -5984,6 +6357,7 @@ PW-RBSC-cor_interpeduncularNucleusIntermediateSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusIntermediateSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPI
@@ -6000,6 +6374,7 @@ PW-RBSC-cor_interpeduncularNucleusLateralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusLateralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPL
@@ -6016,6 +6391,7 @@ PW-RBSC-cor_interpeduncularNucleusRostralSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interpeduncularNucleusRostralSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPR
@@ -6032,6 +6408,7 @@ PW-RBSC-cor_interposedCerebellarNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interposedCerebellarNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IntA
@@ -6048,6 +6425,7 @@ PW-RBSC-cor_interposedCerebellarNucleusDorsolateralHump
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interposedCerebellarNucleusDorsolateralHump
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IntDL
@@ -6064,6 +6442,7 @@ PW-RBSC-cor_interposedCerebellarNucleusDorsomedialCrest
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interposedCerebellarNucleusDorsomedialCrest
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IntDM
@@ -6080,6 +6459,7 @@ PW-RBSC-cor_interposedCerebellarNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interposedCerebellarNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IntP
@@ -6096,6 +6476,7 @@ PW-RBSC-cor_interposedCerebellarNucleusPosteriorParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interposedCerebellarNucleusPosteriorParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IntPPC
@@ -6112,6 +6493,7 @@ PW-RBSC-cor_interstitialNucleusOfCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: InC
@@ -6128,6 +6510,7 @@ PW-RBSC-cor_interstitialNucleusOfCajalShellRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfCajalShellRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: InCSh
@@ -6144,6 +6527,7 @@ PW-RBSC-cor_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ID
@@ -6160,6 +6544,7 @@ PW-RBSC-cor_interstitialNucleusOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IB
@@ -6176,6 +6561,7 @@ PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPAC
@@ -6192,6 +6578,7 @@ PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureLateralP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPACL
@@ -6208,6 +6595,7 @@ PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureMedialPa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IPACM
@@ -6224,6 +6612,7 @@ PW-RBSC-cor_interstitialNucleusOfTheVestibulocochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interstitialNucleusOfTheVestibulocochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: I8
@@ -6240,6 +6629,7 @@ PW-RBSC-cor_interventricularForamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_interventricularForamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IVF
@@ -6256,6 +6646,7 @@ PW-RBSC-cor_intramedullaryThalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_intramedullaryThalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: IMA
@@ -6272,6 +6663,7 @@ PW-RBSC-cor_islandsOfCalleja
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_islandsOfCalleja
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ICj
@@ -6288,6 +6680,7 @@ PW-RBSC-cor_islandsOfCallejaMajorIsland
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_islandsOfCallejaMajorIsland
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ICjM
@@ -6304,6 +6697,7 @@ PW-RBSC-cor_isthmicPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_isthmicPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: isPAG
@@ -6320,6 +6714,7 @@ PW-RBSC-cor_isthmicReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_isthmicReticularFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: isRt
@@ -6336,6 +6731,7 @@ PW-RBSC-cor_juxtaolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_juxtaolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: JxO
@@ -6352,6 +6748,7 @@ PW-RBSC-cor_juxtaparaventricularPartOfLateralHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_juxtaparaventricularPartOfLateralHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: JPLH
@@ -6368,6 +6765,7 @@ PW-RBSC-cor_lacunosumMoleculareLayerOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lacunosumMoleculareLayerOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LMol
@@ -6384,6 +6782,7 @@ PW-RBSC-cor_lambdoidSeptalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lambdoidSeptalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ld
@@ -6400,6 +6799,7 @@ PW-RBSC-cor_lateralAccumbensShell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralAccumbensShell
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LAcbSh
@@ -6416,6 +6816,7 @@ PW-RBSC-cor_lateralAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: La
@@ -6432,6 +6833,7 @@ PW-RBSC-cor_lateralAmygdaloidNucleusDorsolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralAmygdaloidNucleusDorsolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LaDL
@@ -6448,6 +6850,7 @@ PW-RBSC-cor_lateralAmygdaloidNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralAmygdaloidNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LaVL
@@ -6464,6 +6867,7 @@ PW-RBSC-cor_lateralAmygdaloidNucleusVentromedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralAmygdaloidNucleusVentromedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LaVM
@@ -6480,6 +6884,7 @@ PW-RBSC-cor_lateralCerebellarNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralCerebellarNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LatPC
@@ -6496,6 +6901,7 @@ PW-RBSC-cor_lateralCervicalNucleusOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralCervicalNucleusOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LatC
@@ -6512,6 +6918,7 @@ PW-RBSC-cor_lateralDentateCerebellarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralDentateCerebellarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Lat
@@ -6528,6 +6935,7 @@ PW-RBSC-cor_lateralEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LEnt
@@ -6544,6 +6952,7 @@ PW-RBSC-cor_lateralHabenularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralHabenularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LHb
@@ -6560,6 +6969,7 @@ PW-RBSC-cor_lateralHabenularNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralHabenularNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LHbL
@@ -6576,6 +6986,7 @@ PW-RBSC-cor_lateralHabenularNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralHabenularNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LHbM
@@ -6592,6 +7003,7 @@ PW-RBSC-cor_lateralHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LH
@@ -6608,6 +7020,7 @@ PW-RBSC-cor_lateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ll
@@ -6624,6 +7037,7 @@ PW-RBSC-cor_lateralMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralMammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LM
@@ -6640,6 +7054,7 @@ PW-RBSC-cor_lateralOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: lo
@@ -6656,6 +7071,7 @@ PW-RBSC-cor_lateralOrbitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralOrbitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LO
@@ -6672,6 +7088,7 @@ PW-RBSC-cor_lateralOrbitofrontalArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralOrbitofrontalArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: lofr
@@ -6688,6 +7105,7 @@ PW-RBSC-cor_lateralParabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPB
@@ -6704,6 +7122,7 @@ PW-RBSC-cor_lateralParabrachialNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBC
@@ -6720,6 +7139,7 @@ PW-RBSC-cor_lateralParabrachialNucleusCrescentPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusCrescentPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBCr
@@ -6736,6 +7156,7 @@ PW-RBSC-cor_lateralParabrachialNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBD
@@ -6752,6 +7173,7 @@ PW-RBSC-cor_lateralParabrachialNucleusExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusExternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBE
@@ -6768,6 +7190,7 @@ PW-RBSC-cor_lateralParabrachialNucleusInternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusInternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBI
@@ -6784,6 +7207,7 @@ PW-RBSC-cor_lateralParabrachialNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBM
@@ -6800,6 +7224,7 @@ PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBS
@@ -6816,6 +7241,7 @@ PW-RBSC-cor_lateralParabrachialNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParabrachialNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPBV
@@ -6832,6 +7258,7 @@ PW-RBSC-cor_lateralParagigantocellularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParagigantocellularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPGi
@@ -6848,6 +7275,7 @@ PW-RBSC-cor_lateralParagigantocellularNucleusAlphaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParagigantocellularNucleusAlphaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPGiA
@@ -6864,6 +7292,7 @@ PW-RBSC-cor_lateralParagigantocellularNucleusExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParagigantocellularNucleusExternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPGiE
@@ -6880,6 +7309,7 @@ PW-RBSC-cor_lateralParietalAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralParietalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPtA
@@ -6896,6 +7326,7 @@ PW-RBSC-cor_lateralPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPAG
@@ -6912,6 +7343,7 @@ PW-RBSC-cor_lateralPosteriorThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LP
@@ -6928,6 +7360,7 @@ PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterocaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterocaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPLC
@@ -6944,6 +7377,7 @@ PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterorostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterorostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPLR
@@ -6960,6 +7394,7 @@ PW-RBSC-cor_lateralPosteriorThalamicNucleusMediocaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleusMediocaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPMC
@@ -6976,6 +7411,7 @@ PW-RBSC-cor_lateralPosteriorThalamicNucleusMediorostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPosteriorThalamicNucleusMediorostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPMR
@@ -6992,6 +7428,7 @@ PW-RBSC-cor_lateralPreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralPreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LPO
@@ -7008,6 +7445,7 @@ PW-RBSC-cor_lateralRecessOfThe4thVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralRecessOfThe4thVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LR4V
@@ -7024,6 +7462,7 @@ PW-RBSC-cor_lateralReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LRt
@@ -7040,6 +7479,7 @@ PW-RBSC-cor_lateralReticularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralReticularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LRtPC
@@ -7056,6 +7496,7 @@ PW-RBSC-cor_lateralReticularNucleusSubtrigeminalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralReticularNucleusSubtrigeminalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LRtS5
@@ -7072,6 +7513,7 @@ PW-RBSC-cor_lateralSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralSeptalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LS
@@ -7088,6 +7530,7 @@ PW-RBSC-cor_lateralSeptalNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralSeptalNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LSD
@@ -7104,6 +7547,7 @@ PW-RBSC-cor_lateralSeptalNucleusIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralSeptalNucleusIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LSI
@@ -7120,6 +7564,7 @@ PW-RBSC-cor_lateralSeptalNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralSeptalNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LSV
@@ -7136,6 +7581,7 @@ PW-RBSC-cor_lateralSpinalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralSpinalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LSp
@@ -7152,6 +7598,7 @@ PW-RBSC-cor_lateralStripeOfTheStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralStripeOfTheStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LSS
@@ -7168,6 +7615,7 @@ PW-RBSC-cor_lateralSuperiorOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralSuperiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LSO
@@ -7184,6 +7632,7 @@ PW-RBSC-cor_lateralTerminalNucleusOfTheAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LT
@@ -7200,6 +7649,7 @@ PW-RBSC-cor_lateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LV
@@ -7216,6 +7666,7 @@ PW-RBSC-cor_lateralVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateralVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LVe
@@ -7232,6 +7683,7 @@ PW-RBSC-cor_lateroanteriorHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateroanteriorHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LA
@@ -7248,6 +7700,7 @@ PW-RBSC-cor_laterodorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_laterodorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LDTg
@@ -7264,6 +7717,7 @@ PW-RBSC-cor_laterodorsalTegmentalNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_laterodorsalTegmentalNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LDTgV
@@ -7280,6 +7734,7 @@ PW-RBSC-cor_laterodorsalThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_laterodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LD
@@ -7296,6 +7751,7 @@ PW-RBSC-cor_laterodorsalThalamicNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_laterodorsalThalamicNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LDDM
@@ -7312,6 +7768,7 @@ PW-RBSC-cor_laterodorsalThalamicNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_laterodorsalThalamicNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LDVL
@@ -7328,6 +7785,7 @@ PW-RBSC-cor_lateroventralPeriolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lateroventralPeriolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LVPO
@@ -7344,6 +7802,7 @@ PW-RBSC-cor_layer1OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer1OfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 1
@@ -7360,6 +7819,7 @@ PW-RBSC-cor_layer1bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer1bOfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 1b
@@ -7376,6 +7836,7 @@ PW-RBSC-cor_layer2OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer2OfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 2
@@ -7392,6 +7853,7 @@ PW-RBSC-cor_layer3OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer3OfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3
@@ -7408,6 +7870,7 @@ PW-RBSC-cor_layer4OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer4OfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4
@@ -7424,6 +7887,7 @@ PW-RBSC-cor_layer5OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer5OfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5
@@ -7440,6 +7904,7 @@ PW-RBSC-cor_layer5aOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer5aOfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5a
@@ -7456,6 +7921,7 @@ PW-RBSC-cor_layer5bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer5bOfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5b
@@ -7472,6 +7938,7 @@ PW-RBSC-cor_layer6OfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer6OfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6
@@ -7488,6 +7955,7 @@ PW-RBSC-cor_layer6aOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer6aOfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6a
@@ -7504,6 +7972,7 @@ PW-RBSC-cor_layer6bOfCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_layer6bOfCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6b
@@ -7520,6 +7989,7 @@ PW-RBSC-cor_leminaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_leminaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LTer
@@ -7536,6 +8006,7 @@ PW-RBSC-cor_linearNucleusOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_linearNucleusOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Li
@@ -7552,6 +8023,7 @@ PW-RBSC-cor_lithoidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_lithoidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Lth
@@ -7568,6 +8040,7 @@ PW-RBSC-cor_locusCoeruleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_locusCoeruleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LC
@@ -7584,6 +8057,7 @@ PW-RBSC-cor_longitudinalFasciculusOfThePons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_longitudinalFasciculusOfThePons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: lfp
@@ -7600,6 +8074,7 @@ PW-RBSC-cor_magnocellularNucleusOfTheLateralHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_magnocellularNucleusOfTheLateralHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MCLH
@@ -7616,6 +8091,7 @@ PW-RBSC-cor_magnocellularNucleusOfThePosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_magnocellularNucleusOfThePosteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MCPC
@@ -7632,6 +8108,7 @@ PW-RBSC-cor_magnocellularPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_magnocellularPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MCPO
@@ -7648,6 +8125,7 @@ PW-RBSC-cor_mammillaryPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mammillaryPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mp
@@ -7664,6 +8142,7 @@ PW-RBSC-cor_mammillaryRecessOfThe3rdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mammillaryRecessOfThe3rdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MRe
@@ -7680,6 +8159,7 @@ PW-RBSC-cor_mammillotegmentalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mammillotegmentalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mtg
@@ -7696,6 +8176,7 @@ PW-RBSC-cor_mammillothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mammillothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mt
@@ -7712,6 +8193,7 @@ PW-RBSC-cor_marginalZoneOfTheMedialGeniculate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_marginalZoneOfTheMedialGeniculate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MZMG
@@ -7728,6 +8210,7 @@ PW-RBSC-cor_matrixRegionOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_matrixRegionOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Mx
@@ -7744,6 +8227,7 @@ PW-RBSC-cor_medialAccessoryOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAccessoryOculomotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MA3
@@ -7760,6 +8244,7 @@ PW-RBSC-cor_medialAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Me
@@ -7776,6 +8261,7 @@ PW-RBSC-cor_medialAmygdaloidNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MeA
@@ -7792,6 +8278,7 @@ PW-RBSC-cor_medialAmygdaloidNucleusAnterodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusAnterodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MeAD
@@ -7808,6 +8295,7 @@ PW-RBSC-cor_medialAmygdaloidNucleusAnteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusAnteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MeAV
@@ -7824,6 +8312,7 @@ PW-RBSC-cor_medialAmygdaloidNucleusPosterodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusPosterodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MePD
@@ -7840,6 +8329,7 @@ PW-RBSC-cor_medialAmygdaloidNucleusPosteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialAmygdaloidNucleusPosteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MePV
@@ -7856,6 +8346,7 @@ PW-RBSC-cor_medialCerebellarNucleusCaudomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialCerebellarNucleusCaudomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MedCM
@@ -7872,6 +8363,7 @@ PW-RBSC-cor_medialCerebellarNucleusDorsolateralProtuberance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialCerebellarNucleusDorsolateralProtuberance
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MedDL
@@ -7888,6 +8380,7 @@ PW-RBSC-cor_medialCerebellarNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialCerebellarNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MedL
@@ -7904,6 +8397,7 @@ PW-RBSC-cor_medialCorticohypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialCorticohypothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mch
@@ -7920,6 +8414,7 @@ PW-RBSC-cor_medialEminenceExternalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialEminenceExternalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MEE
@@ -7936,6 +8431,7 @@ PW-RBSC-cor_medialEminenceInternalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialEminenceInternalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MEI
@@ -7952,6 +8448,7 @@ PW-RBSC-cor_medialEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MEnt
@@ -7968,6 +8465,7 @@ PW-RBSC-cor_medialEntorhinalCortexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialEntorhinalCortexVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MEntV
@@ -7984,6 +8482,7 @@ PW-RBSC-cor_medialFastigialCerebellarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialFastigialCerebellarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Med
@@ -8000,6 +8499,7 @@ PW-RBSC-cor_medialForebrainBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialForebrainBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mfb
@@ -8016,6 +8516,7 @@ PW-RBSC-cor_medialForebrainBundleAComponent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialForebrainBundleAComponent
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mfba
@@ -8032,6 +8533,7 @@ PW-RBSC-cor_medialForebrainBundleBComponent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialForebrainBundleBComponent
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mfbb
@@ -8048,6 +8550,7 @@ PW-RBSC-cor_medialGeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialGeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MG
@@ -8064,6 +8567,7 @@ PW-RBSC-cor_medialGeniculateNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialGeniculateNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MGD
@@ -8080,6 +8584,7 @@ PW-RBSC-cor_medialGeniculateNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialGeniculateNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MGM
@@ -8096,6 +8601,7 @@ PW-RBSC-cor_medialGeniculateNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialGeniculateNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MGV
@@ -8112,6 +8618,7 @@ PW-RBSC-cor_medialHabenularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialHabenularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MHb
@@ -8128,6 +8635,7 @@ PW-RBSC-cor_medialLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ml
@@ -8144,6 +8652,7 @@ PW-RBSC-cor_medialLemniscusDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialLemniscusDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mlx
@@ -8160,6 +8669,7 @@ PW-RBSC-cor_medialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mlf
@@ -8176,6 +8686,7 @@ PW-RBSC-cor_medialMammillaryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialMammillaryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ML
@@ -8192,6 +8703,7 @@ PW-RBSC-cor_medialMammillaryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialMammillaryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MM
@@ -8208,6 +8720,7 @@ PW-RBSC-cor_medialMammillaryNucleusMedianPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialMammillaryNucleusMedianPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MnM
@@ -8224,6 +8737,7 @@ PW-RBSC-cor_medialOrbitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialOrbitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MO
@@ -8240,6 +8754,7 @@ PW-RBSC-cor_medialOrbitofrontalArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialOrbitofrontalArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mofr
@@ -8256,6 +8771,7 @@ PW-RBSC-cor_medialParabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialParabrachialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPB
@@ -8272,6 +8788,7 @@ PW-RBSC-cor_medialParabrachialNucleusExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialParabrachialNucleusExternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPBE
@@ -8288,6 +8805,7 @@ PW-RBSC-cor_medialParalemniscialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialParalemniscialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPL
@@ -8304,6 +8822,7 @@ PW-RBSC-cor_medialParietalAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialParietalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPtA
@@ -8320,6 +8839,7 @@ PW-RBSC-cor_medialPreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialPreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPA
@@ -8336,6 +8856,7 @@ PW-RBSC-cor_medialPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPO
@@ -8352,6 +8873,7 @@ PW-RBSC-cor_medialPreopticNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialPreopticNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPOC
@@ -8368,6 +8890,7 @@ PW-RBSC-cor_medialPreopticNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialPreopticNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPOL
@@ -8384,6 +8907,7 @@ PW-RBSC-cor_medialPreopticNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialPreopticNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPOM
@@ -8400,6 +8924,7 @@ PW-RBSC-cor_medialPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MPT
@@ -8416,6 +8941,7 @@ PW-RBSC-cor_medialSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialSeptalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MS
@@ -8432,6 +8958,7 @@ PW-RBSC-cor_medialSuperiorOlive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialSuperiorOlive
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MSO
@@ -8448,6 +8975,7 @@ PW-RBSC-cor_medialTerminalNucleusOfTheAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MT
@@ -8464,6 +8992,7 @@ PW-RBSC-cor_medialTuberalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialTuberalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MTu
@@ -8480,6 +9009,7 @@ PW-RBSC-cor_medialVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MVe
@@ -8496,6 +9026,7 @@ PW-RBSC-cor_medialVestibularNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialVestibularNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MVeMC
@@ -8512,6 +9043,7 @@ PW-RBSC-cor_medialVestibularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medialVestibularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MVePC
@@ -8528,6 +9060,7 @@ PW-RBSC-cor_medianAccessoryNucleusOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medianAccessoryNucleusOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MnA
@@ -8544,6 +9077,7 @@ PW-RBSC-cor_medianEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medianEminence
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ME
@@ -8560,6 +9094,7 @@ PW-RBSC-cor_medianPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medianPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MnPO
@@ -8576,6 +9111,7 @@ PW-RBSC-cor_medianRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medianRapheNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MnR
@@ -8592,6 +9128,7 @@ PW-RBSC-cor_mediodorsalThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mediodorsalThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MD
@@ -8608,6 +9145,7 @@ PW-RBSC-cor_mediodorsalThalamicNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mediodorsalThalamicNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MDC
@@ -8624,6 +9162,7 @@ PW-RBSC-cor_mediodorsalThalamicNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mediodorsalThalamicNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MDL
@@ -8640,6 +9179,7 @@ PW-RBSC-cor_mediodorsalThalamicNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mediodorsalThalamicNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MDM
@@ -8656,6 +9196,7 @@ PW-RBSC-cor_medioventralPeriolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medioventralPeriolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MVPO
@@ -8672,6 +9213,7 @@ PW-RBSC-cor_medullaryReticularNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medullaryReticularNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MdD
@@ -8688,6 +9230,7 @@ PW-RBSC-cor_medullaryReticularNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_medullaryReticularNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MdV
@@ -8704,6 +9247,7 @@ PW-RBSC-cor_mesencephalicReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mesencephalicReticularFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mRt
@@ -8720,6 +9264,7 @@ PW-RBSC-cor_mesencephalicTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mesencephalicTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Me5
@@ -8736,6 +9281,7 @@ PW-RBSC-cor_mesencephalicTrigeminalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mesencephalicTrigeminalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: me5
@@ -8752,6 +9298,7 @@ PW-RBSC-cor_microcellularTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_microcellularTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MiTg
@@ -8768,6 +9315,7 @@ PW-RBSC-cor_middleCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mcp
@@ -8784,6 +9332,7 @@ PW-RBSC-cor_middleCerebralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_middleCerebralArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: mcer
@@ -8800,6 +9349,7 @@ PW-RBSC-cor_mitralCellLayerOfTheAccessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mitralCellLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MiA
@@ -8816,6 +9366,7 @@ PW-RBSC-cor_mitralCellLayerOfTheOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_mitralCellLayerOfTheOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Mi
@@ -8832,6 +9383,7 @@ PW-RBSC-cor_molecularLayerOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_molecularLayerOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MoCb
@@ -8848,6 +9400,7 @@ PW-RBSC-cor_molecularLayerOfTheDentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_molecularLayerOfTheDentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MoDG
@@ -8864,6 +9417,7 @@ PW-RBSC-cor_molecularLayerOfTheSubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_molecularLayerOfTheSubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: MoS
@@ -8880,6 +9434,7 @@ PW-RBSC-cor_motorRootOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorRootOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: m5
@@ -8896,6 +9451,7 @@ PW-RBSC-cor_motorTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5N
@@ -8912,6 +9468,7 @@ PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5ADi
@@ -8928,6 +9485,7 @@ PW-RBSC-cor_motorTrigeminalNucleusMasseterPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusMasseterPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5Ma
@@ -8944,6 +9502,7 @@ PW-RBSC-cor_motorTrigeminalNucleusMylohyoidPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusMylohyoidPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5MHy
@@ -8960,6 +9519,7 @@ PW-RBSC-cor_motorTrigeminalNucleusTemporalisPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusTemporalisPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5Te
@@ -8976,6 +9536,7 @@ PW-RBSC-cor_motorTrigeminalNucleusTensorTympaniPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_motorTrigeminalNucleusTensorTympaniPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5TT
@@ -8992,6 +9553,7 @@ PW-RBSC-cor_navicularNucleusOfTheBasalForebrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_navicularNucleusOfTheBasalForebrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Nv
@@ -9008,6 +9570,7 @@ PW-RBSC-cor_nervusIntermediusComponentOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nervusIntermediusComponentOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 7ni
@@ -9024,6 +9587,7 @@ PW-RBSC-cor_nigrostriatalBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nigrostriatalBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ns
@@ -9040,6 +9604,7 @@ PW-RBSC-cor_nucleusOfDarkschewitsch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfDarkschewitsch
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Dk
@@ -9056,6 +9621,7 @@ PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EVe
@@ -9072,6 +9638,7 @@ PW-RBSC-cor_nucleusOfRoller
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfRoller
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Ro
@@ -9088,6 +9655,7 @@ PW-RBSC-cor_nucleusOfTheAnsaLenticularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheAnsaLenticularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AL
@@ -9104,6 +9672,7 @@ PW-RBSC-cor_nucleusOfTheBrachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheBrachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: BIC
@@ -9120,6 +9689,7 @@ PW-RBSC-cor_nucleusOfTheCentralAcousticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheCentralAcousticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CAT
@@ -9136,6 +9706,7 @@ PW-RBSC-cor_nucleusOfTheCommissuralStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheCommissuralStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: CST
@@ -9152,6 +9723,7 @@ PW-RBSC-cor_nucleusOfTheFieldsOfForel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheFieldsOfForel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: F
@@ -9168,6 +9740,7 @@ PW-RBSC-cor_nucleusOfTheHorizontalLimbOfTheDiagonalBand
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheHorizontalLimbOfTheDiagonalBand
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: HDB
@@ -9184,6 +9757,7 @@ PW-RBSC-cor_nucleusOfTheLateralOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LOT
@@ -9200,6 +9774,7 @@ PW-RBSC-cor_nucleusOfTheLateralOlfactoryTractLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheLateralOlfactoryTractLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: LOT1
@@ -9216,6 +9791,7 @@ PW-RBSC-cor_nucleusOfTheOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: OT
@@ -9232,6 +9808,7 @@ PW-RBSC-cor_nucleusOfThePosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfThePosteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PCom
@@ -9248,6 +9825,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolCe
@@ -9264,6 +9842,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractCommissuralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractCommissuralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolC
@@ -9280,6 +9859,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolDM
@@ -9296,6 +9876,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractGelatinousPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractGelatinousPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolG
@@ -9312,6 +9893,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolIM
@@ -9328,6 +9910,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractInterstitialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractInterstitialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolI
@@ -9344,6 +9927,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolL
@@ -9360,6 +9944,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolM
@@ -9376,6 +9961,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractRostrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractRostrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolRL
@@ -9392,6 +9978,7 @@ PW-RBSC-cor_nucleusOfTheSolitaryTractVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheSolitaryTractVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolVL
@@ -9408,6 +9995,7 @@ PW-RBSC-cor_nucleusOfTheStriaMedullaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheStriaMedullaris
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SM
@@ -9424,6 +10012,7 @@ PW-RBSC-cor_nucleusOfTheTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheTrapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Tz
@@ -9440,6 +10029,7 @@ PW-RBSC-cor_nucleusOfTheVerticalLimbOfTheDiagonalBand
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusOfTheVerticalLimbOfTheDiagonalBand
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VDB
@@ -9456,6 +10046,7 @@ PW-RBSC-cor_nucleusX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusX
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: X
@@ -9472,6 +10063,7 @@ PW-RBSC-cor_nucleusY
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusY
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Y
@@ -9488,6 +10080,7 @@ PW-RBSC-cor_nucleusZ
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_nucleusZ
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Z
@@ -9504,6 +10097,7 @@ PW-RBSC-cor_obex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_obex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Obex
@@ -9520,6 +10114,7 @@ PW-RBSC-cor_oculomotorNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_oculomotorNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3n
@@ -9536,6 +10131,7 @@ PW-RBSC-cor_oculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_oculomotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3N
@@ -9552,6 +10148,7 @@ PW-RBSC-cor_oculomotorNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_oculomotorNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 3PC
@@ -9568,6 +10165,7 @@ PW-RBSC-cor_olfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: OB
@@ -9584,6 +10182,7 @@ PW-RBSC-cor_olfactoryNerveLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olfactoryNerveLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ON
@@ -9600,6 +10199,7 @@ PW-RBSC-cor_olfactoryTubercle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olfactoryTubercle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Tu
@@ -9616,6 +10216,7 @@ PW-RBSC-cor_olfactoryVentricleOlfactoryPartOfLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olfactoryVentricleOlfactoryPartOfLateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: OV
@@ -9632,6 +10233,7 @@ PW-RBSC-cor_olivaryPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olivaryPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: OPT
@@ -9648,6 +10250,7 @@ PW-RBSC-cor_olivocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olivocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: oc
@@ -9664,6 +10267,7 @@ PW-RBSC-cor_olivocochlearBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_olivocochlearBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ocb
@@ -9680,6 +10284,7 @@ PW-RBSC-cor_opticChiasm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_opticChiasm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: och
@@ -9696,6 +10301,7 @@ PW-RBSC-cor_opticNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_opticNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 2n
@@ -9712,6 +10318,7 @@ PW-RBSC-cor_opticNerveLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_opticNerveLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Op
@@ -9728,6 +10335,7 @@ PW-RBSC-cor_opticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_opticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: opt
@@ -9744,6 +10352,7 @@ PW-RBSC-cor_oriensLayerOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_oriensLayerOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Or
@@ -9760,6 +10369,7 @@ PW-RBSC-cor_ovalParacentralThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ovalParacentralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: OPC
@@ -9776,6 +10386,7 @@ PW-RBSC-cor_p1PeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_p1PeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: p1PAG
@@ -9792,6 +10403,7 @@ PW-RBSC-cor_paraabducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraabducensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pa6
@@ -9808,6 +10420,7 @@ PW-RBSC-cor_parabigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parabigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PBG
@@ -9824,6 +10437,7 @@ PW-RBSC-cor_parabrachialPigmentedNucleusOfTheVTA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parabrachialPigmentedNucleusOfTheVTA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PBP
@@ -9840,6 +10454,7 @@ PW-RBSC-cor_paracentralThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paracentralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PC
@@ -9856,6 +10471,7 @@ PW-RBSC-cor_paracochlearGlialSubstance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paracochlearGlialSubstance
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PCGS
@@ -9872,6 +10488,7 @@ PW-RBSC-cor_paracommissuralNucleusOfThePosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paracommissuralNucleusOfThePosteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaC
@@ -9888,6 +10505,7 @@ PW-RBSC-cor_parafascicularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parafascicularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PF
@@ -9904,6 +10522,7 @@ PW-RBSC-cor_parafloccularSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parafloccularSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pfs
@@ -9920,6 +10539,7 @@ PW-RBSC-cor_paraflocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraflocculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PFl
@@ -9936,6 +10556,7 @@ PW-RBSC-cor_parainterfascicularNucleusOfTheVTA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parainterfascicularNucleusOfTheVTA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PIF
@@ -9952,6 +10573,7 @@ PW-RBSC-cor_paralambdoidSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paralambdoidSeptalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PLd
@@ -9968,6 +10590,7 @@ PW-RBSC-cor_paralemniscalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paralemniscalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PL
@@ -9984,6 +10607,7 @@ PW-RBSC-cor_paramedianLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paramedianLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PM
@@ -10000,6 +10624,7 @@ PW-RBSC-cor_paramedianRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paramedianRapheNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PMnR
@@ -10016,6 +10641,7 @@ PW-RBSC-cor_paramedianReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paramedianReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PMn
@@ -10032,6 +10658,7 @@ PW-RBSC-cor_paramedianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paramedianSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pms
@@ -10048,6 +10675,7 @@ PW-RBSC-cor_paranigralNucleusOfTheVTA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paranigralNucleusOfTheVTA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PN
@@ -10064,6 +10692,7 @@ PW-RBSC-cor_parapyramidalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parapyramidalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PPy
@@ -10080,6 +10709,7 @@ PW-RBSC-cor_pararubralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pararubralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaR
@@ -10096,6 +10726,7 @@ PW-RBSC-cor_parasolitaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parasolitaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PSol
@@ -10112,6 +10743,7 @@ PW-RBSC-cor_parastrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parastrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PS
@@ -10128,6 +10760,7 @@ PW-RBSC-cor_parasubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parasubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaS
@@ -10144,6 +10777,7 @@ PW-RBSC-cor_parasubthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parasubthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PSTh
@@ -10160,6 +10794,7 @@ PW-RBSC-cor_paratenialThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paratenialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PT
@@ -10176,6 +10811,7 @@ PW-RBSC-cor_paratereteNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paratereteNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PTe
@@ -10192,6 +10828,7 @@ PW-RBSC-cor_paratrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paratrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pa5
@@ -10208,6 +10845,7 @@ PW-RBSC-cor_paratrochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paratrochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pa4
@@ -10224,6 +10862,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pa
@@ -10240,6 +10879,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusAnteriorParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaAP
@@ -10256,6 +10896,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusDorsalCap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusDorsalCap
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaDC
@@ -10272,6 +10913,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusLateralMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusLateralMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaLM
@@ -10288,6 +10930,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusMedialMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaMM
@@ -10304,6 +10947,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusMedialParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusMedialParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaMP
@@ -10320,6 +10964,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaPo
@@ -10336,6 +10981,7 @@ PW-RBSC-cor_paraventricularHypothalamicNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularHypothalamicNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaV
@@ -10352,6 +10998,7 @@ PW-RBSC-cor_paraventricularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PV
@@ -10368,6 +11015,7 @@ PW-RBSC-cor_paraventricularThalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularThalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PVA
@@ -10384,6 +11032,7 @@ PW-RBSC-cor_paraventricularThalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraventricularThalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PVP
@@ -10400,6 +11049,7 @@ PW-RBSC-cor_paraxiphoidNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_paraxiphoidNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PaXi
@@ -10416,6 +11066,7 @@ PW-RBSC-cor_parietalCortexPosteriorAreaCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parietalCortexPosteriorAreaCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PtPC
@@ -10432,6 +11083,7 @@ PW-RBSC-cor_parietalCortexPosteriorAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parietalCortexPosteriorAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PtPD
@@ -10448,6 +11100,7 @@ PW-RBSC-cor_parietalCortexPosteriorAreaRostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parietalCortexPosteriorAreaRostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PtPR
@@ -10464,6 +11117,7 @@ PW-RBSC-cor_parvicellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parvicellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PCRt
@@ -10480,6 +11134,7 @@ PW-RBSC-cor_parvicellularReticularNucleusAlphaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_parvicellularReticularNucleusAlphaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PCRtA
@@ -10496,6 +11151,7 @@ PW-RBSC-cor_peduncularPartOfLateralHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_peduncularPartOfLateralHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PLH
@@ -10512,6 +11168,7 @@ PW-RBSC-cor_pedunculopontineTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pedunculopontineTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PTg
@@ -10528,6 +11185,7 @@ PW-RBSC-cor_periaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_periaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PAG
@@ -10544,6 +11202,7 @@ PW-RBSC-cor_perifacialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_perifacialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: P7
@@ -10560,6 +11219,7 @@ PW-RBSC-cor_perifornicalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_perifornicalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PeF
@@ -10576,6 +11236,7 @@ PW-RBSC-cor_perifornicalPartOfLateralHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_perifornicalPartOfLateralHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PeFLH
@@ -10592,6 +11253,7 @@ PW-RBSC-cor_perilemniscalNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_perilemniscalNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PLV
@@ -10608,6 +11270,7 @@ PW-RBSC-cor_periolivaryHorn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_periolivaryHorn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: POH
@@ -10624,6 +11287,7 @@ PW-RBSC-cor_peripeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_peripeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PP
@@ -10640,6 +11304,7 @@ PW-RBSC-cor_perirhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_perirhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PRh
@@ -10656,6 +11321,7 @@ PW-RBSC-cor_peritrigeminalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_peritrigeminalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: P5
@@ -10672,6 +11338,7 @@ PW-RBSC-cor_periventricularGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_periventricularGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PVG
@@ -10688,6 +11355,7 @@ PW-RBSC-cor_periventricularHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_periventricularHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pe
@@ -10704,6 +11372,7 @@ PW-RBSC-cor_periventricularHypothalamicNucleusAnteriorParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_periventricularHypothalamicNucleusAnteriorParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PeAP
@@ -10720,6 +11389,7 @@ PW-RBSC-cor_pinealGland
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pinealGland
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pi
@@ -10736,6 +11406,7 @@ PW-RBSC-cor_pinealStalk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pinealStalk
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PiSt
@@ -10752,6 +11423,7 @@ PW-RBSC-cor_piriformCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_piriformCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pir
@@ -10768,6 +11440,7 @@ PW-RBSC-cor_piriformCortexLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_piriformCortexLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pir1
@@ -10784,6 +11457,7 @@ PW-RBSC-cor_pleomorphicPartOfPeriaqueductaiGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pleomorphicPartOfPeriaqueductaiGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PlPAG
@@ -10800,6 +11474,7 @@ PW-RBSC-cor_polymorphLayerOfTheDentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_polymorphLayerOfTheDentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PoDG
@@ -10816,6 +11491,7 @@ PW-RBSC-cor_pontineNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pontineNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pn
@@ -10832,6 +11508,7 @@ PW-RBSC-cor_pontineRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pontineRapheNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PnR
@@ -10848,6 +11525,7 @@ PW-RBSC-cor_pontineReticularNucleusCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pontineReticularNucleusCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PnC
@@ -10864,6 +11542,7 @@ PW-RBSC-cor_pontineReticularNucleusOralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pontineReticularNucleusOralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PnO
@@ -10880,6 +11559,7 @@ PW-RBSC-cor_pontineReticularNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pontineReticularNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PnV
@@ -10896,6 +11576,7 @@ PW-RBSC-cor_posteriorCerebralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorCerebralArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pcer
@@ -10912,6 +11593,7 @@ PW-RBSC-cor_posteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pc
@@ -10928,6 +11610,7 @@ PW-RBSC-cor_posteriorHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PHA
@@ -10944,6 +11627,7 @@ PW-RBSC-cor_posteriorHypothalamicAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorHypothalamicAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PHD
@@ -10960,6 +11644,7 @@ PW-RBSC-cor_posteriorHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PH
@@ -10976,6 +11661,7 @@ PW-RBSC-cor_posteriorIntralaminarThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorIntralaminarThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PIL
@@ -10992,6 +11678,7 @@ PW-RBSC-cor_posteriorLimitansThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorLimitansThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PLi
@@ -11008,6 +11695,7 @@ PW-RBSC-cor_posteriorLobeOfPituitary
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorLobeOfPituitary
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PPit
@@ -11024,6 +11712,7 @@ PW-RBSC-cor_posteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PPT
@@ -11040,6 +11729,7 @@ PW-RBSC-cor_posteriorSuperiorFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorSuperiorFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: psf
@@ -11056,6 +11746,7 @@ PW-RBSC-cor_posteriorThalamicNuclearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorThalamicNuclearGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Po
@@ -11072,6 +11763,7 @@ PW-RBSC-cor_posteriorThalamicNuclearGroupTriangularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteriorThalamicNuclearGroupTriangularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PoT
@@ -11088,6 +11780,7 @@ PW-RBSC-cor_posterodorsalPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterodorsalPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PDPO
@@ -11104,6 +11797,7 @@ PW-RBSC-cor_posterodorsalRapheNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterodorsalRapheNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PDR
@@ -11120,6 +11814,7 @@ PW-RBSC-cor_posterodorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterodorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PDTg
@@ -11136,6 +11831,7 @@ PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PLCo
@@ -11152,6 +11848,7 @@ PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PLCo1
@@ -11168,6 +11865,7 @@ PW-RBSC-cor_posterolateralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posterolateralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: plf
@@ -11184,6 +11882,7 @@ PW-RBSC-cor_posteromedialCorticalAmygdaloidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteromedialCorticalAmygdaloidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PMCo
@@ -11200,6 +11899,7 @@ PW-RBSC-cor_posteromedianThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_posteromedianThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PoMn
@@ -11216,6 +11916,7 @@ PW-RBSC-cor_postsubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_postsubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Post
@@ -11232,6 +11933,7 @@ PW-RBSC-cor_preBotzingerComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_preBotzingerComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PrBo
@@ -11248,6 +11950,7 @@ PW-RBSC-cor_preEdingerWestphalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_preEdingerWestphalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PrEW
@@ -11264,6 +11967,7 @@ PW-RBSC-cor_precommissuralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_precommissuralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PrC
@@ -11280,6 +11984,7 @@ PW-RBSC-cor_preculminateFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_preculminateFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pcuf
@@ -11296,6 +12001,7 @@ PW-RBSC-cor_precuneiformArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_precuneiformArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PrCnF
@@ -11312,6 +12018,7 @@ PW-RBSC-cor_prelimbicCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_prelimbicCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PrL
@@ -11328,6 +12035,7 @@ PW-RBSC-cor_premammillaryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_premammillaryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PMD
@@ -11344,6 +12052,7 @@ PW-RBSC-cor_premammillaryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_premammillaryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PMV
@@ -11360,6 +12069,7 @@ PW-RBSC-cor_preopticRecessOfThe3rdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_preopticRecessOfThe3rdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: P3V
@@ -11376,6 +12086,7 @@ PW-RBSC-cor_prepositusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_prepositusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pr
@@ -11392,6 +12103,7 @@ PW-RBSC-cor_prepyramidalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_prepyramidalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ppf
@@ -11408,6 +12120,7 @@ PW-RBSC-cor_prerubralField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_prerubralField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PR
@@ -11424,6 +12137,7 @@ PW-RBSC-cor_presubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_presubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: PrS
@@ -11440,6 +12154,7 @@ PW-RBSC-cor_primaryAuditoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primaryAuditoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Au1
@@ -11456,6 +12171,7 @@ PW-RBSC-cor_primaryFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primaryFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: prf
@@ -11472,6 +12188,7 @@ PW-RBSC-cor_primaryMotorCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primaryMotorCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: M1
@@ -11488,6 +12205,7 @@ PW-RBSC-cor_primarySomatosensoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1
@@ -11504,6 +12222,7 @@ PW-RBSC-cor_primarySomatosensoryCortexBarrelField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexBarrelField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1BF
@@ -11520,6 +12239,7 @@ PW-RBSC-cor_primarySomatosensoryCortexDysgranularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexDysgranularZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1DZ
@@ -11536,6 +12256,7 @@ PW-RBSC-cor_primarySomatosensoryCortexForelimbRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexForelimbRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1FL
@@ -11552,6 +12273,7 @@ PW-RBSC-cor_primarySomatosensoryCortexHindlimbRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexHindlimbRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1HL
@@ -11568,6 +12290,7 @@ PW-RBSC-cor_primarySomatosensoryCortexJawRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexJawRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1J
@@ -11584,6 +12307,7 @@ PW-RBSC-cor_primarySomatosensoryCortexOralDysgranularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexOralDysgranularZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1DZO
@@ -11600,6 +12324,7 @@ PW-RBSC-cor_primarySomatosensoryCortexShoulderRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexShoulderRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1Sh
@@ -11616,6 +12341,7 @@ PW-RBSC-cor_primarySomatosensoryCortexTrunkRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexTrunkRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1Tr
@@ -11632,6 +12358,7 @@ PW-RBSC-cor_primarySomatosensoryCortexUpperLipRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primarySomatosensoryCortexUpperLipRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S1ULp
@@ -11648,6 +12375,7 @@ PW-RBSC-cor_primaryVisualCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primaryVisualCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V1
@@ -11664,6 +12392,7 @@ PW-RBSC-cor_primaryVisualCortexBinocularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primaryVisualCortexBinocularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V1B
@@ -11680,6 +12409,7 @@ PW-RBSC-cor_primaryVisualCortexMonocularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_primaryVisualCortexMonocularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V1M
@@ -11696,6 +12426,7 @@ PW-RBSC-cor_principalMammillaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_principalMammillaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pm
@@ -11712,6 +12443,7 @@ PW-RBSC-cor_principalSensoryTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_principalSensoryTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pr5
@@ -11728,6 +12460,7 @@ PW-RBSC-cor_principalSensoryTrigeminalNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_principalSensoryTrigeminalNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pr5DM
@@ -11744,6 +12477,7 @@ PW-RBSC-cor_principalSensoryTrigeminalNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_principalSensoryTrigeminalNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Pr5VL
@@ -11760,6 +12494,7 @@ PW-RBSC-cor_pyramidalCellLayerOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pyramidalCellLayerOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Py
@@ -11776,6 +12511,7 @@ PW-RBSC-cor_pyramidalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pyramidalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: pyx
@@ -11792,6 +12528,7 @@ PW-RBSC-cor_pyramidalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_pyramidalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: py
@@ -11808,6 +12545,7 @@ PW-RBSC-cor_r1ReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_r1ReticularFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: r1Rt
@@ -11824,6 +12562,7 @@ PW-RBSC-cor_r2ReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_r2ReticularFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: r2Rt
@@ -11840,6 +12579,7 @@ PW-RBSC-cor_r3ReticularFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_r3ReticularFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: r3Rt
@@ -11856,6 +12596,7 @@ PW-RBSC-cor_radiatumLayerOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_radiatumLayerOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Rad
@@ -11872,6 +12613,7 @@ PW-RBSC-cor_rapheInterpositusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rapheInterpositusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RIP
@@ -11888,6 +12630,7 @@ PW-RBSC-cor_rapheMagnusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rapheMagnusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RMg
@@ -11904,6 +12647,7 @@ PW-RBSC-cor_rapheObscurusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rapheObscurusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ROb
@@ -11920,6 +12664,7 @@ PW-RBSC-cor_raphePallidusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_raphePallidusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RPa
@@ -11936,6 +12681,7 @@ PW-RBSC-cor_recessOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_recessOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ReIC
@@ -11952,6 +12698,7 @@ PW-RBSC-cor_redNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_redNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: R
@@ -11968,6 +12715,7 @@ PW-RBSC-cor_redNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_redNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RMC
@@ -11984,6 +12732,7 @@ PW-RBSC-cor_redNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_redNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RPC
@@ -12000,6 +12749,7 @@ PW-RBSC-cor_regionWhereVAAndVLOverlap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_regionWhereVAAndVLOverlap
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VA/VL
@@ -12016,6 +12766,7 @@ PW-RBSC-cor_reticluostrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticluostrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RtSt
@@ -12032,6 +12783,7 @@ PW-RBSC-cor_reticularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Rt
@@ -12048,6 +12800,7 @@ PW-RBSC-cor_reticulotegmentalNucleusOfThePons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticulotegmentalNucleusOfThePons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RtTg
@@ -12064,6 +12817,7 @@ PW-RBSC-cor_reticulotegmentalNucleusOfThePonsLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticulotegmentalNucleusOfThePonsLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RtTgL
@@ -12080,6 +12834,7 @@ PW-RBSC-cor_reticulotegmentalNucleusOfThePonsPericentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reticulotegmentalNucleusOfThePonsPericentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RtTgP
@@ -12096,6 +12851,7 @@ PW-RBSC-cor_retroambiguusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retroambiguusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RAmb
@@ -12112,6 +12868,7 @@ PW-RBSC-cor_retrochiasmaticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrochiasmaticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RCh
@@ -12128,6 +12885,7 @@ PW-RBSC-cor_retrochiasmaticAreaLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrochiasmaticAreaLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RChL
@@ -12144,6 +12902,7 @@ PW-RBSC-cor_retroendopiriformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retroendopiriformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: REn
@@ -12160,6 +12919,7 @@ PW-RBSC-cor_retroethmoidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retroethmoidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: REth
@@ -12176,6 +12936,7 @@ PW-RBSC-cor_retrolemniscalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrolemniscalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RL
@@ -12192,6 +12953,7 @@ PW-RBSC-cor_retroparafascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retroparafascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RPF
@@ -12208,6 +12970,7 @@ PW-RBSC-cor_retrorubralField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrorubralField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RRF
@@ -12224,6 +12987,7 @@ PW-RBSC-cor_retrorubralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrorubralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RR
@@ -12240,6 +13004,7 @@ PW-RBSC-cor_retrosplenialDysgranularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrosplenialDysgranularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RSD
@@ -12256,6 +13021,7 @@ PW-RBSC-cor_retrosplenialGranularCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrosplenialGranularCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RSG
@@ -12272,6 +13038,7 @@ PW-RBSC-cor_retrosplenialGranularCortexARegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrosplenialGranularCortexARegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RSGa
@@ -12288,6 +13055,7 @@ PW-RBSC-cor_retrosplenialGranularCortexBRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrosplenialGranularCortexBRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RSGb
@@ -12304,6 +13072,7 @@ PW-RBSC-cor_retrosplenialGranularCortexCRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrosplenialGranularCortexCRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RSGc
@@ -12320,6 +13089,7 @@ PW-RBSC-cor_retrouniensArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_retrouniensArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RRe
@@ -12336,6 +13106,7 @@ PW-RBSC-cor_reuniensThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_reuniensThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Re
@@ -12352,6 +13123,7 @@ PW-RBSC-cor_rhabdoidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rhabdoidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Rbd
@@ -12368,6 +13140,7 @@ PW-RBSC-cor_rhinalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rhinalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: rf
@@ -12384,6 +13157,7 @@ PW-RBSC-cor_rhinalIncisure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rhinalIncisure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ri
@@ -12400,6 +13174,7 @@ PW-RBSC-cor_rhomboidThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rhomboidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Rh
@@ -12416,6 +13191,7 @@ PW-RBSC-cor_rootOfAbducensNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rootOfAbducensNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 6n
@@ -12432,6 +13208,7 @@ PW-RBSC-cor_rootOfAccessoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rootOfAccessoryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 11n
@@ -12448,6 +13225,7 @@ PW-RBSC-cor_rootOfHypoglossalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rootOfHypoglossalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 12n
@@ -12464,6 +13242,7 @@ PW-RBSC-cor_rostralAmygdalopiriformArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostralAmygdalopiriformArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RAPir
@@ -12480,6 +13259,7 @@ PW-RBSC-cor_rostralInterstitialNucleusOfMedialLongitudinalFasciculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostralInterstitialNucleusOfMedialLongitudinalFasciculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RI
@@ -12496,6 +13276,7 @@ PW-RBSC-cor_rostralLinearNucleusOfTheRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostralLinearNucleusOfTheRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RLi
@@ -12512,6 +13293,7 @@ PW-RBSC-cor_rostralVentralRespiratoryGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostralVentralRespiratoryGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RVRG
@@ -12528,6 +13310,7 @@ PW-RBSC-cor_rostroventrolateralReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostroventrolateralReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: RVL
@@ -12544,6 +13327,7 @@ PW-RBSC-cor_rostrumOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rostrumOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: rcc
@@ -12560,6 +13344,7 @@ PW-RBSC-cor_rubrospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_rubrospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: rs
@@ -12576,6 +13361,7 @@ PW-RBSC-cor_sagulumNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sagulumNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sag
@@ -12592,6 +13378,7 @@ PW-RBSC-cor_scaphoidThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_scaphoidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sc
@@ -12608,6 +13395,7 @@ PW-RBSC-cor_secondaryAuditoryCortexDorsalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryAuditoryCortexDorsalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AuD
@@ -12624,6 +13412,7 @@ PW-RBSC-cor_secondaryAuditoryCortexVentralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryAuditoryCortexVentralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: AuV
@@ -12640,6 +13429,7 @@ PW-RBSC-cor_secondaryFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: sf
@@ -12656,6 +13446,7 @@ PW-RBSC-cor_secondaryMotorCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryMotorCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: M2
@@ -12672,6 +13463,7 @@ PW-RBSC-cor_secondarySomatosensoryCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondarySomatosensoryCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S2
@@ -12688,6 +13480,7 @@ PW-RBSC-cor_secondaryVisualCortexLateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryVisualCortexLateralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V2L
@@ -12704,6 +13497,7 @@ PW-RBSC-cor_secondaryVisualCortexMediolateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryVisualCortexMediolateralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V2ML
@@ -12720,6 +13514,7 @@ PW-RBSC-cor_secondaryVisualCortexMediomedialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_secondaryVisualCortexMediomedialArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: V2MM
@@ -12736,6 +13531,7 @@ PW-RBSC-cor_sensoryRootOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sensoryRootOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: s5
@@ -12752,6 +13548,7 @@ PW-RBSC-cor_septofimbrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_septofimbrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SFi
@@ -12768,6 +13565,7 @@ PW-RBSC-cor_septohippocampalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_septohippocampalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SHi
@@ -12784,6 +13582,7 @@ PW-RBSC-cor_septohypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_septohypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SHy
@@ -12800,6 +13599,7 @@ PW-RBSC-cor_simpleLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_simpleLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sim
@@ -12816,6 +13616,7 @@ PW-RBSC-cor_simpleLobuleA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_simpleLobuleA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SimA
@@ -12832,6 +13633,7 @@ PW-RBSC-cor_simpleLobuleB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_simpleLobuleB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SimB
@@ -12848,6 +13650,7 @@ PW-RBSC-cor_simplexFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_simplexFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: simf
@@ -12864,6 +13667,7 @@ PW-RBSC-cor_solitaryNucleusDorsolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_solitaryNucleusDorsolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolDL
@@ -12880,6 +13684,7 @@ PW-RBSC-cor_solitaryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_solitaryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SolV
@@ -12896,6 +13701,7 @@ PW-RBSC-cor_solitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_solitaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: sol
@@ -12912,6 +13718,7 @@ PW-RBSC-cor_sphenoidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sphenoidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sph
@@ -12928,6 +13735,7 @@ PW-RBSC-cor_spinalTrigeminalNucleusCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spinalTrigeminalNucleusCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sp5C
@@ -12944,6 +13752,7 @@ PW-RBSC-cor_spinalTrigeminalNucleusInterpolarPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spinalTrigeminalNucleusInterpolarPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sp5I
@@ -12960,6 +13769,7 @@ PW-RBSC-cor_spinalTrigeminalNucleusOralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spinalTrigeminalNucleusOralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sp5O
@@ -12976,6 +13786,7 @@ PW-RBSC-cor_spinalTrigeminalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spinalTrigeminalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: sp5
@@ -12992,6 +13803,7 @@ PW-RBSC-cor_spinalVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spinalVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SpVe
@@ -13008,6 +13820,7 @@ PW-RBSC-cor_spleniumOfTheCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_spleniumOfTheCorpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: scc
@@ -13024,6 +13837,7 @@ PW-RBSC-cor_stigmoidHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_stigmoidHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Stg
@@ -13040,6 +13854,7 @@ PW-RBSC-cor_stratumLucidumOfTheHippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_stratumLucidumOfTheHippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SLu
@@ -13056,6 +13871,7 @@ PW-RBSC-cor_striaMedullarisOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_striaMedullarisOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: sm
@@ -13072,6 +13888,7 @@ PW-RBSC-cor_striaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_striaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: st
@@ -13088,6 +13905,7 @@ PW-RBSC-cor_strialPartOfThePreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_strialPartOfThePreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: StA
@@ -13104,6 +13922,7 @@ PW-RBSC-cor_striohypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_striohypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: StHy
@@ -13120,6 +13939,7 @@ PW-RBSC-cor_subbrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subbrachialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubB
@@ -13136,6 +13956,7 @@ PW-RBSC-cor_subcoeruleusNucleusAlphaPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subcoeruleusNucleusAlphaPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubCA
@@ -13152,6 +13973,7 @@ PW-RBSC-cor_subcoeruleusNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subcoeruleusNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubCD
@@ -13168,6 +13990,7 @@ PW-RBSC-cor_subcoeruleusNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subcoeruleusNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubCV
@@ -13184,6 +14007,7 @@ PW-RBSC-cor_subcommissuralOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subcommissuralOrgan
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SCO
@@ -13200,6 +14024,7 @@ PW-RBSC-cor_subfornicalOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subfornicalOrgan
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SFO
@@ -13216,6 +14041,7 @@ PW-RBSC-cor_subgeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subgeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubG
@@ -13232,6 +14058,7 @@ PW-RBSC-cor_subiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: S
@@ -13248,6 +14075,7 @@ PW-RBSC-cor_subiculumTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subiculumTransitionArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STr
@@ -13264,6 +14092,7 @@ PW-RBSC-cor_subincertalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subincertalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubI
@@ -13280,6 +14109,7 @@ PW-RBSC-cor_sublenticularExtendedAmygdala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sublenticularExtendedAmygdala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EA
@@ -13296,6 +14126,7 @@ PW-RBSC-cor_sublenticularExtendedAmygdalaCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sublenticularExtendedAmygdalaCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EAC
@@ -13312,6 +14143,7 @@ PW-RBSC-cor_sublenticularExtendedAmygdalaMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_sublenticularExtendedAmygdalaMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: EAM
@@ -13328,6 +14160,7 @@ PW-RBSC-cor_submammillothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_submammillothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SMT
@@ -13344,6 +14177,7 @@ PW-RBSC-cor_submediusThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_submediusThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Sub
@@ -13360,6 +14194,7 @@ PW-RBSC-cor_submediusThalamicNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_submediusThalamicNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubD
@@ -13376,6 +14211,7 @@ PW-RBSC-cor_submediusThalamicNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_submediusThalamicNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubV
@@ -13392,6 +14228,7 @@ PW-RBSC-cor_subparafascicularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subparafascicularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SPF
@@ -13408,6 +14245,7 @@ PW-RBSC-cor_subparafascicularThalamicNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subparafascicularThalamicNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SPFPC
@@ -13424,6 +14262,7 @@ PW-RBSC-cor_subparaventricularZoneOfTheHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subparaventricularZoneOfTheHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SPa
@@ -13440,6 +14279,7 @@ PW-RBSC-cor_subpeduncularTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subpeduncularTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SPTg
@@ -13456,6 +14296,7 @@ PW-RBSC-cor_subpostremaArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subpostremaArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SubP
@@ -13472,6 +14313,7 @@ PW-RBSC-cor_substantiaInnominata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaInnominata
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SI
@@ -13488,6 +14330,7 @@ PW-RBSC-cor_substantiaInnominataBasalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaInnominataBasalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SIB
@@ -13504,6 +14347,7 @@ PW-RBSC-cor_substantiaNigraCompactPartDorsalTier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraCompactPartDorsalTier
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SNCD
@@ -13520,6 +14364,7 @@ PW-RBSC-cor_substantiaNigraCompactPartMedialTier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraCompactPartMedialTier
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SNCM
@@ -13536,6 +14381,7 @@ PW-RBSC-cor_substantiaNigraCompactaPartVentralTier
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraCompactaPartVentralTier
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SNCV
@@ -13552,6 +14398,7 @@ PW-RBSC-cor_substantiaNigraLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SNL
@@ -13568,6 +14415,7 @@ PW-RBSC-cor_substantiaNigraReticularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_substantiaNigraReticularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SNR
@@ -13584,6 +14432,7 @@ PW-RBSC-cor_subthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_subthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: STh
@@ -13600,6 +14449,7 @@ PW-RBSC-cor_superficialGrayLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superficialGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SuG
@@ -13616,6 +14466,7 @@ PW-RBSC-cor_superiorCerebellarPeduncleBrachiumConjunctivum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorCerebellarPeduncleBrachiumConjunctivum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: scp
@@ -13632,6 +14483,7 @@ PW-RBSC-cor_superiorCerebellarPeduncleDescendingLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorCerebellarPeduncleDescendingLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: scpd
@@ -13648,6 +14500,7 @@ PW-RBSC-cor_superiorMedullaryVelum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorMedullaryVelum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SMV
@@ -13664,6 +14517,7 @@ PW-RBSC-cor_superiorParaolivaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorParaolivaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SPO
@@ -13680,6 +14534,7 @@ PW-RBSC-cor_superiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SuS
@@ -13696,6 +14551,7 @@ PW-RBSC-cor_superiorThalamicRadiation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorThalamicRadiation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: str
@@ -13712,6 +14568,7 @@ PW-RBSC-cor_superiorVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_superiorVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SuVe
@@ -13728,6 +14585,7 @@ PW-RBSC-cor_suprachiasmaticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_suprachiasmaticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SCh
@@ -13744,6 +14602,7 @@ PW-RBSC-cor_suprachiasmaticNucleusDorsolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_suprachiasmaticNucleusDorsolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SChDL
@@ -13760,6 +14619,7 @@ PW-RBSC-cor_suprachiasmaticNucleusVentromedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_suprachiasmaticNucleusVentromedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SChVM
@@ -13776,6 +14636,7 @@ PW-RBSC-cor_suprageniculateThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_suprageniculateThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SG
@@ -13792,6 +14653,7 @@ PW-RBSC-cor_supragenualNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supragenualNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SGe
@@ -13808,6 +14670,7 @@ PW-RBSC-cor_supramammillaryDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supramammillaryDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: sumx
@@ -13824,6 +14687,7 @@ PW-RBSC-cor_supramammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supramammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SuM
@@ -13840,6 +14704,7 @@ PW-RBSC-cor_supramammillaryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supramammillaryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SuML
@@ -13856,6 +14721,7 @@ PW-RBSC-cor_supramammillaryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supramammillaryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SuMM
@@ -13872,6 +14738,7 @@ PW-RBSC-cor_supraoculomotorCap
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supraoculomotorCap
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Su3C
@@ -13888,6 +14755,7 @@ PW-RBSC-cor_supraoculomotorPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supraoculomotorPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Su3
@@ -13904,6 +14772,7 @@ PW-RBSC-cor_supraopticDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supraopticDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: sox
@@ -13920,6 +14789,7 @@ PW-RBSC-cor_supraopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supraopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SO
@@ -13936,6 +14806,7 @@ PW-RBSC-cor_supraopticNucleusRetrochiasmaticPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supraopticNucleusRetrochiasmaticPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: SOR
@@ -13952,6 +14823,7 @@ PW-RBSC-cor_supratrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_supratrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Su5
@@ -13968,6 +14840,7 @@ PW-RBSC-cor_tectospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_tectospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ts
@@ -13984,6 +14857,7 @@ PW-RBSC-cor_temporalAssociationCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_temporalAssociationCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: TeA
@@ -14000,6 +14874,7 @@ PW-RBSC-cor_tereteHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_tereteHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Te
@@ -14016,6 +14891,7 @@ PW-RBSC-cor_transverseFibersOfThePons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_transverseFibersOfThePons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: tfp
@@ -14032,6 +14908,7 @@ PW-RBSC-cor_trapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: tz
@@ -14048,6 +14925,7 @@ PW-RBSC-cor_triangularNucleusLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_triangularNucleusLateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: TrLL
@@ -14064,6 +14942,7 @@ PW-RBSC-cor_triangularSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_triangularSeptalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: TS
@@ -14080,6 +14959,7 @@ PW-RBSC-cor_trigeminalGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trigeminalGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5Gn
@@ -14096,6 +14976,7 @@ PW-RBSC-cor_trigeminalSolitaryTransitionZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trigeminalSolitaryTransitionZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5Sol
@@ -14112,6 +14993,7 @@ PW-RBSC-cor_trigeminalTransitionZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trigeminalTransitionZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 5Tr
@@ -14128,6 +15010,7 @@ PW-RBSC-cor_trigeminothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trigeminothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: tth
@@ -14144,6 +15027,7 @@ PW-RBSC-cor_trochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4n
@@ -14160,6 +15044,7 @@ PW-RBSC-cor_trochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4N
@@ -14176,6 +15061,7 @@ PW-RBSC-cor_trochlearNucluesShellRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_trochlearNucluesShellRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 4Sh
@@ -14192,6 +15078,7 @@ PW-RBSC-cor_tuberalRegionOfLateralHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_tuberalRegionOfLateralHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: TuLH
@@ -14208,6 +15095,7 @@ PW-RBSC-cor_uncinateFasciculusDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_uncinateFasciculusDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: unx
@@ -14224,6 +15112,7 @@ PW-RBSC-cor_uncinateFasciculusOfTheCerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_uncinateFasciculusOfTheCerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: un
@@ -14240,6 +15129,7 @@ PW-RBSC-cor_vagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vagusNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 10n
@@ -14256,6 +15146,7 @@ PW-RBSC-cor_vascularOrganOfTheLaminaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vascularOrganOfTheLaminaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VOLT
@@ -14272,6 +15163,7 @@ PW-RBSC-cor_vein
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vein
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: v
@@ -14288,6 +15180,7 @@ PW-RBSC-cor_ventralAnteriorThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralAnteriorThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VA
@@ -14304,6 +15197,7 @@ PW-RBSC-cor_ventralCochlearNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VCA
@@ -14320,6 +15214,7 @@ PW-RBSC-cor_ventralCochlearNucleusCapsularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusCapsularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VCCap
@@ -14336,6 +15231,7 @@ PW-RBSC-cor_ventralCochlearNucleusGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VCAGr
@@ -14352,6 +15248,7 @@ PW-RBSC-cor_ventralCochlearNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VCP
@@ -14368,6 +15265,7 @@ PW-RBSC-cor_ventralCochlearNucleusPosteriorPartOctopusCellArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralCochlearNucleusPosteriorPartOctopusCellArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VCPO
@@ -14384,6 +15282,7 @@ PW-RBSC-cor_ventralEndopiriformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralEndopiriformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VEn
@@ -14400,6 +15299,7 @@ PW-RBSC-cor_ventralGeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralGeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VG
@@ -14416,6 +15316,7 @@ PW-RBSC-cor_ventralGeniculateNucleusLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralGeniculateNucleusLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VG1
@@ -14432,6 +15333,7 @@ PW-RBSC-cor_ventralHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vhc
@@ -14448,6 +15350,7 @@ PW-RBSC-cor_ventralIntermediateEntorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralIntermediateEntorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VIEnt
@@ -14464,6 +15367,7 @@ PW-RBSC-cor_ventralLinearNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralLinearNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VLi
@@ -14480,6 +15384,7 @@ PW-RBSC-cor_ventralNucleusOfTheLatLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralNucleusOfTheLatLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VLL
@@ -14496,6 +15401,7 @@ PW-RBSC-cor_ventralOrbitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralOrbitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VO
@@ -14512,6 +15418,7 @@ PW-RBSC-cor_ventralPallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralPallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VP
@@ -14528,6 +15435,7 @@ PW-RBSC-cor_ventralPartOfClaustrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralPartOfClaustrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VCl
@@ -14544,6 +15452,7 @@ PW-RBSC-cor_ventralPosteriorNucleusOfTheThalamusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralPosteriorNucleusOfTheThalamusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VPPC
@@ -14560,6 +15469,7 @@ PW-RBSC-cor_ventralPosterolateralThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralPosterolateralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VPL
@@ -14576,6 +15486,7 @@ PW-RBSC-cor_ventralPosteromedialThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralPosteromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VPM
@@ -14592,6 +15503,7 @@ PW-RBSC-cor_ventralReuniensThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralReuniensThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VRe
@@ -14608,6 +15520,7 @@ PW-RBSC-cor_ventralSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vsc
@@ -14624,6 +15537,7 @@ PW-RBSC-cor_ventralSpinocerebellarTractDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralSpinocerebellarTractDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vscx
@@ -14640,6 +15554,7 @@ PW-RBSC-cor_ventralSubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralSubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VS
@@ -14656,6 +15571,7 @@ PW-RBSC-cor_ventralTegmentalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTegmentalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VTA
@@ -14672,6 +15588,7 @@ PW-RBSC-cor_ventralTegmentalAreaRostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTegmentalAreaRostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VTAR
@@ -14688,6 +15605,7 @@ PW-RBSC-cor_ventralTegmentalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTegmentalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vtgx
@@ -14704,6 +15622,7 @@ PW-RBSC-cor_ventralTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VTg
@@ -14720,6 +15639,7 @@ PW-RBSC-cor_ventralTeniaTecta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTeniaTecta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VTT
@@ -14736,6 +15656,7 @@ PW-RBSC-cor_ventralTeniaTectaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTeniaTectaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VTT1
@@ -14752,6 +15673,7 @@ PW-RBSC-cor_ventralTuberomammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventralTuberomammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VTM
@@ -14768,6 +15690,7 @@ PW-RBSC-cor_ventrolateralHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventrolateralHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VLH
@@ -14784,6 +15707,7 @@ PW-RBSC-cor_ventrolateralHypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventrolateralHypothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vlh
@@ -14800,6 +15724,7 @@ PW-RBSC-cor_ventrolateralPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventrolateralPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VLPAG
@@ -14816,6 +15741,7 @@ PW-RBSC-cor_ventrolateralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventrolateralPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VLPO
@@ -14832,6 +15758,7 @@ PW-RBSC-cor_ventrolateralThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventrolateralThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VL
@@ -14848,6 +15775,7 @@ PW-RBSC-cor_ventromedialHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMH
@@ -14864,6 +15792,7 @@ PW-RBSC-cor_ventromedialHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMHA
@@ -14880,6 +15809,7 @@ PW-RBSC-cor_ventromedialHypothalamicNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMHC
@@ -14896,6 +15826,7 @@ PW-RBSC-cor_ventromedialHypothalamicNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMHDM
@@ -14912,6 +15843,7 @@ PW-RBSC-cor_ventromedialHypothalamicNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialHypothalamicNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMHVL
@@ -14928,6 +15860,7 @@ PW-RBSC-cor_ventromedialNucleusOfTheHypothalamusShell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialNucleusOfTheHypothalamusShell
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMHSh
@@ -14944,6 +15877,7 @@ PW-RBSC-cor_ventromedialPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VMPO
@@ -14960,6 +15894,7 @@ PW-RBSC-cor_ventromedialThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_ventromedialThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VM
@@ -14976,6 +15911,7 @@ PW-RBSC-cor_vertebralArtery
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vertebralArtery
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vert
@@ -14992,6 +15928,7 @@ PW-RBSC-cor_vestibularRootOfTheVestibulocochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibularRootOfTheVestibulocochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 8vn
@@ -15008,6 +15945,7 @@ PW-RBSC-cor_vestibulocerebellarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibulocerebellarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VeCb
@@ -15024,6 +15962,7 @@ PW-RBSC-cor_vestibulocochlearGanglion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibulocochlearGanglion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 8Gn
@@ -15040,6 +15979,7 @@ PW-RBSC-cor_vestibulocochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibulocochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: 8n
@@ -15056,6 +15996,7 @@ PW-RBSC-cor_vestibulomesencephalicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibulomesencephalicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: veme
@@ -15072,6 +16013,7 @@ PW-RBSC-cor_vestibulospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vestibulospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vesp
@@ -15088,6 +16030,7 @@ PW-RBSC-cor_vomeronasalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vomeronasalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: vn
@@ -15104,6 +16047,7 @@ PW-RBSC-cor_vomeronasalNerveLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_vomeronasalNerveLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: VN
@@ -15120,6 +16064,7 @@ PW-RBSC-cor_xiphoidThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_xiphoidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Xi
@@ -15136,6 +16081,7 @@ PW-RBSC-cor_zonaIncerta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaIncerta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ZI
@@ -15152,6 +16098,7 @@ PW-RBSC-cor_zonaIncertaCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaIncertaCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ZIC
@@ -15168,6 +16115,7 @@ PW-RBSC-cor_zonaIncertaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaIncertaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ZID
@@ -15184,6 +16132,7 @@ PW-RBSC-cor_zonaIncertaRostralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaIncertaRostralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ZIR
@@ -15200,6 +16149,7 @@ PW-RBSC-cor_zonaIncertaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaIncertaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ZIV
@@ -15216,6 +16166,7 @@ PW-RBSC-cor_zonaLimitans
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonaLimitans
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: ZL
@@ -15232,6 +16183,7 @@ PW-RBSC-cor_zonalLayerOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/PW-RBSC-cor_zonalLayerOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :abbreviation: Zo

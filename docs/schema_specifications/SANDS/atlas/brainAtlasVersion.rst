@@ -6,8 +6,6 @@ BrainAtlasVersion
 
 :Display as: Brain atlas version
 
-Structured information on a brain atlas (version level).
-
 
 For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/brainAtlasVersions.html>`_.
 
@@ -185,7 +183,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/webResource.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/webResource.html>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
 `BACK TO TOP <BrainAtlasVersion_>`_

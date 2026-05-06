@@ -13,6 +13,7 @@ dutch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/dutch
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: Dutch
@@ -26,6 +27,7 @@ english
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/english
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: English
@@ -39,6 +41,7 @@ french
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/french
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: French
@@ -52,6 +55,7 @@ german
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/german
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: German
@@ -65,6 +69,7 @@ greek
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/greek
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: Greek
@@ -78,6 +83,7 @@ italian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/italian
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: Italian
@@ -91,6 +97,7 @@ norwegian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/norwegian
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: Norwegian
@@ -104,6 +111,7 @@ spanish
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/spanish
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: Spanish
@@ -117,6 +125,7 @@ swedish
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/language/swedish
    :@type: https://openminds.ebrains.eu/controlledTerms/Language
    :name: Swedish

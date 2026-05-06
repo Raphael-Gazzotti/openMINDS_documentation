@@ -13,6 +13,7 @@ AsegAtlas_accumbensArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_accumbensArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_accumbensArea
@@ -28,6 +29,7 @@ AsegAtlas_amygdala
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_amygdala
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_amygdala
@@ -43,6 +45,7 @@ AsegAtlas_brainStem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_brainStem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_brainStem
@@ -58,6 +61,7 @@ AsegAtlas_caudate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_caudate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_caudate
@@ -73,6 +77,7 @@ AsegAtlas_cerebellumCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebellumCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebellumCortex
@@ -88,6 +93,7 @@ AsegAtlas_cerebellumWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebellumWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebellumWhiteMatter
@@ -103,6 +109,7 @@ AsegAtlas_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebralCortex
@@ -118,6 +125,7 @@ AsegAtlas_cerebralWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebralWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebralWhiteMatter
@@ -133,6 +141,7 @@ AsegAtlas_cerebrospinalFluid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_cerebrospinalFluid
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebrospinalFluid
@@ -148,6 +157,7 @@ AsegAtlas_fourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_fourthVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_fourthVentricle
@@ -163,6 +173,7 @@ AsegAtlas_hippocampus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_hippocampus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_hippocampus
@@ -178,6 +189,7 @@ AsegAtlas_inferiorLateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_inferiorLateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_inferiorLateralVentricle
@@ -193,6 +205,7 @@ AsegAtlas_lateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_lateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_lateralVentricle
@@ -207,6 +220,7 @@ AsegAtlas_lesion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_lesion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_lesion
@@ -221,6 +235,7 @@ AsegAtlas_pallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_pallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_pallidum
@@ -236,6 +251,7 @@ AsegAtlas_putamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_putamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_putamen
@@ -251,6 +267,7 @@ AsegAtlas_thalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_thalamus
@@ -265,6 +282,7 @@ AsegAtlas_thirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_thirdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_thirdVentricle
@@ -280,6 +298,7 @@ AsegAtlas_unknown
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_unknown
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_unknown
@@ -294,6 +313,7 @@ AsegAtlas_ventralDiencephalon
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_ventralDiencephalon
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_ventralDiencephalon
@@ -308,6 +328,7 @@ AsegAtlas_vessel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/AsegAtlas_vessel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: AsegAtlas_vessel

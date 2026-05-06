@@ -6,6 +6,8 @@ Electrode
 
 :Display as: Electrode
 
+Structured information on an electrode.
+
 
 ------------
 

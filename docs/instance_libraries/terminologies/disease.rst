@@ -13,6 +13,7 @@ COVID-19
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/COVID-19
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A coronavirus infectious disease that is characterized by fever, cough and shortness of breath and caused by the coronavirus strain SARS-CoV-2.
@@ -29,6 +30,7 @@ acquiredBlindness
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/acquiredBlindness
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: Acquired blindness is caused by a group of diseases, disorders or injuries that led to permanent severely impaired vision or irreversible lack of vision during adulthood.
@@ -45,6 +47,7 @@ alzheimersDisease
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/alzheimersDisease
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :name: Alzheimer's disease
@@ -59,6 +62,7 @@ autismSpectrumDisorder
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/autismSpectrumDisorder
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :name: autism spectrum disorder
@@ -73,6 +77,7 @@ cerebralAtrophy
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/cerebralAtrophy
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: Cerebral atrophy describes the pathological process of wasting or decrease in size of the cells or tissue of the cerebrum.
@@ -89,6 +94,7 @@ congenitalBlindness
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/congenitalBlindness
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: Congenital blindness is caused by a group of diseases, disorders or injuries that led to permanent severely impaired vision or irreversible lack of vision before/during birth or in early childhood.
@@ -103,6 +109,7 @@ disorderOfConsciousness
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/disorderOfConsciousness
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A 'disorder of consciousness' is a state where a subject's consciousness has been affected by damage to the brain.
@@ -117,6 +124,7 @@ epilepsy
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/epilepsy
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: Epilepsy describes a group of central nervous system disorders characterized by recurrent unprovoked seizures.
@@ -132,6 +140,7 @@ focalCerebralIschemia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/focalCerebralIschemia
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A 'focal brain ischemia' occurs when a blood clot has occluded a cerebral vessel reducing the blood flow to a specific brain region which increases the risk of cell death in that particular area. [adapted from [Wikipedia](https://en.wikipedia.org/wiki/Brain_ischemia#Focal_brain_ischemia)]
@@ -146,6 +155,7 @@ fragileXsyndrome
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/fragileXsyndrome
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :name: fragile X syndrome
@@ -160,6 +170,7 @@ glioma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/glioma
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A benign or malignant brain and spinal cord tumor that arises from glial cells (astrocytes, oligodendrocytes, ependymal cells).
@@ -177,6 +188,7 @@ longCOVID
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/longCOVID
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A long-term disease originally caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with symptoms persisting beyond three to four weeks.
@@ -188,11 +200,31 @@ longCOVID
 
 ------------
 
+macularDegeneration
+-------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/disease/macularDegeneration
+   :@type: https://openminds.ebrains.eu/controlledTerms/Disease
+   :definition: A retinal degeneration characterized by gradual deterioration of light-sensing cells in the tissues at the back of the eye resulting in vision loss.[adapted from [Disease Ontology definition](http://purl.obolibrary.org/obo/DOID_4448)]
+   :description: Deterioration of the macula lutea in the retina; may be inherited, drug induced, or due to aging; leads to a severe loss of central vision while peripheral vision is retained.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106448
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1
+   :name: macular degeneration
+   :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_4448
+
+`BACK TO TOP <Terminologies: Disease library_>`_
+
+------------
+
 malignantNeoplasm
 -----------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/malignantNeoplasm
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A 'malignant neoplasm' is composed of atypical, often pleomorphic cells that uncontrollably grow and multiply, spreading into surrounding tissue and even invading distant anatomic sites (metastasis). Many malignant neoplasm form solid tumors, but cancers of the blood generally do not. [(adapted from [NCI](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)].
@@ -209,6 +241,7 @@ meningioma
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/meningioma
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A generally slow growing tumor attached to the dura mater and composed of neoplastic meningothelial (arachnoidal) cells.
@@ -226,6 +259,7 @@ mentalDisorder
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/mentalDisorder
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A 'mental disorder' is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour and is usually associated with distress or impairment in important areas of functioning. [adapted from [WHO fact-sheets](https://www.who.int/news-room/fact-sheets/detail/mental-disorders)]
@@ -243,6 +277,7 @@ minimallyConsciousState
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/minimallyConsciousState
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A 'minimally conscious state' (MCS) is a disorder of consciousness with partial preservation of conscious awareness. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Minimally_conscious_state)]
@@ -257,6 +292,7 @@ multipleSclerosis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/multipleSclerosis
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: 'Multiple sclerosis' is a disorder in which the body's immune system attacks the protective meylin covering of the nerve cells in the brain, optic nerve and spinal cord (adapted from the [Mayo clinic](https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269#:~:text=Multiple%20sclerosis%20is%20a%20disorder,insulation%20on%20an%20electrical%20wire.))
@@ -274,6 +310,7 @@ parkinsonsDisease
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/parkinsonsDisease
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: Parkinson's is a progressive central nervous system disorder that affects the motor system.
@@ -289,6 +326,7 @@ stroke
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/stroke
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.
@@ -305,6 +343,7 @@ unresponsiveWakefulnessSyndrome
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/unresponsiveWakefulnessSyndrome
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :definition: The 'unresponsive wakefulness syndrome' (UWS) is a disorder of consciousness, formerly known as vegetative state, with only reflexive behavior and no sign of conscious awareness [[Laureys et al. 2010](https://doi.org/10.1186/1741-7015-8-68)].
@@ -319,6 +358,7 @@ williamsBeurenSyndrome
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/disease/williamsBeurenSyndrome
    :@type: https://openminds.ebrains.eu/controlledTerms/Disease
    :name: Williams-Beuren syndrome

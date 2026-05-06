@@ -32,7 +32,7 @@ Mention of what deserves additional attention or notice.
    :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter any additional remarks concering this anatomical target position.
+   :instructions: Enter any additional remarks concerning this anatomical target position.
 
 `BACK TO TOP <AnatomicalTargetPosition_>`_
 

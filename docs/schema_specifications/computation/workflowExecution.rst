@@ -16,8 +16,8 @@ Structured information about an execution of a computational workflow.
 Properties
 ##########
 
-:Required: `stages <stages_heading_>`_
-:Optional: `configuration <configuration_heading_>`_, `recipe <recipe_heading_>`_, `stage <stage_heading_>`_, `startedBy <startedBy_heading_>`_
+:Required: `stage <stage_heading_>`_
+:Optional: `configuration <configuration_heading_>`_, `recipe <recipe_heading_>`_, `startedBy <startedBy_heading_>`_
 
 ------------
 

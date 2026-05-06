@@ -6,6 +6,8 @@ ElectrodeArray
 
 :Display as: Electrode array
 
+Structured information on an electrode array.
+
 
 ------------
 

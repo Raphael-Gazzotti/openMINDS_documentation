@@ -13,6 +13,7 @@ developerDocumentation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/developerDocumentation
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: Documentation for the developers of a resource.
@@ -27,6 +28,7 @@ interactiveTutorial
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/interactiveTutorial
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A tutorial presented in an interactive format, for example a Jupyter notebook.
@@ -41,6 +43,7 @@ slideDeck
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/slideDeck
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A set of slides for a visual presentation.
@@ -55,6 +58,7 @@ userDocumentation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/userDocumentation
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: Documentation for the users of a resource.
@@ -69,6 +73,7 @@ videoPresentation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/videoPresentation
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A video recorded presentation.
@@ -83,6 +88,7 @@ videoTutorial
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/learningResourceType/videoTutorial
    :@type: https://openminds.ebrains.eu/controlledTerms/LearningResourceType
    :definition: A tutorial presented as a video.

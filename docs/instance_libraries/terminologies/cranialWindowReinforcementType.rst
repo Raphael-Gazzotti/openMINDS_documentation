@@ -13,6 +13,7 @@ GRINLensBasedCranialWindow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/GRINLensBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
    :definition: A cranial window reinforced by an implanted GRIN lens.
@@ -27,6 +28,7 @@ crystallineBasedCranialWindow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/crystallineBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
    :definition: A cranial window reinforced by an implantation of a crystalline material.
@@ -41,6 +43,7 @@ glassCoverslipCranialWindow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/glassCoverslipCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
    :definition: A cranial window reinforced by an implantation of a glass coverslip.
@@ -55,6 +58,7 @@ polymerBasedCranialWindow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/polymerBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
    :definition: A cranial window reinforced by an implantation of a polymer material.
@@ -69,6 +73,7 @@ prismBasedCranialWindow
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/cranialWindowReinforcementType/prismBasedCranialWindow
    :@type: https://openminds.ebrains.eu/controlledTerms/CranialWindowReinforcementType
    :definition: A cranial window reinforced by an implanted prism.

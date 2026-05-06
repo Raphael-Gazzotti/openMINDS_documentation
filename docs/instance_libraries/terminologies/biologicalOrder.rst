@@ -13,6 +13,7 @@ carnivora
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/carnivora
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Carnivora* (carnivore) belongs to the class *Mammalia* (mammals).
@@ -29,6 +30,7 @@ cypriniformes
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/cypriniformes
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Cypriniformes* belongs to the class *Actinopterygii* (ray-finned fishes).
@@ -45,6 +47,7 @@ didelphimorphia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/didelphimorphia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Didelphimorphia* (opossums) belongs to the class *Mammalia* (mammals).
@@ -59,6 +62,7 @@ nudibranchia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/nudibranchia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Nudibranchia* (nudibranchs) belongs to the class *Gastropoda* (gastropods).
@@ -75,6 +79,7 @@ primates
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/primates
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Primates* belongs to the class *Mammalia* (mammals).
@@ -91,6 +96,7 @@ rodentia
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/biologicalOrder/rodentia
    :@type: https://openminds.ebrains.eu/controlledTerms/BiologicalOrder
    :definition: The biological order *Rodentia* (rodents) belongs to the class *Mammalia* (mammals).

@@ -13,6 +13,7 @@ AMB-CCF
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/AMB-CCF
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: AMB CCF
@@ -32,6 +33,7 @@ BigBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/BigBrain
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: BigBrain
@@ -51,6 +53,7 @@ MEBRAINStemplate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MEBRAINStemplate
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: MEBRAINStemplate
@@ -69,12 +72,13 @@ MNI-Colin27
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-Colin27
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: MNI-Colin27
    :description: The 'MNI Colin 27 Average Brain Stereotaxic Registration Model' is a stereotaxic average of 27 T1-weighted MRI scans of the same individual. It was created at the Montreal Neurological Institute (MNI) in a two step process: (1) each of the 27 T1-weighted scans were registered to stereotaxic space using MRITOTAL (an automated volumetric registration procedure) and resampled onto a 1mm grid. All 27 scans were averaged together to create an initial average. (2) The initial average volume was used as a target for a second phase of registration where each original T1-weighted MRI was re-registered in stereotaxic space. This two-step procedure has the advantage of removing the small variance in intra-subject mapping in stereotaxic space associated with the use of a multi-subject average resulting in an average brain stereotaxic registration model with high signal-to-noise ratio and structure definition.
    :fullName: MNI Colin27 Average Brain Stereotaxic Registration Model
-   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/MNIColin27.html>`_
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/MNI-Colin27.html>`_
    :homepage: https://www.mcgill.ca/bic/software/tools-data-analysis/anatomical-mri/atlases
    :howToCite: Holmes CJ, Hoge R, Collins L, Woods R, Toga AW, and Evans AC; 'Enhancement of MR images using registration for signal averaging.'; J Comput Assist Tomogr; 1998 Mar-Apr; 22(2):324–33. [doi: 10.1097/00004728-199803000-00032](http://dx.doi.org/10.1097/00004728-199803000-00032) Aubert-Broche B, Evans AC, and Collins DL; 'A new improved version of the realistic digital brain phantom'; NeuroImage; 2006 Aug;32(1):138–45. [doi: 10.1016/j.neuroimage.2006.03.052](https://doi.org/10.1016/j.neuroimage.2006.03.052)
    :shortName: MNI Colin27 Average Brain
@@ -89,6 +93,7 @@ MNI-ICBM152
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MNI-ICBM152
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: ICBM152
@@ -103,11 +108,53 @@ MNI-ICBM152
 
 ------------
 
+MarmosetNMT
+-----------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/MarmosetNMT
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :abbreviation: MarmosetNMT
+   :description: Stereotactic coordinate space of the coronal plane generated using computational average of histology sections.
+   :fullName: The Marmoset Nencki-Monash Template in Stereotaxic Coordinates
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/MarmosetNMT.html>`_
+   :homepage: https://www.marmosetbrain.org/nencki_monash_template
+   :howToCite: Please refer to the template by its RRID:SCR_018367, and cite the publication of the version of the template you have used.
+   :shortName: Marmoset Nencki-Monash Template
+   :usedSpecies: `callithrixJacchus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/species.html#callithrixjacchus>`_
+
+`BACK TO TOP <CommonCoordinateSpaces library_>`_
+
+------------
+
+P-MarmosetBSC-corT
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
+   :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/P-MarmosetBSC-corT
+   :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
+   :abbreviation: P-MarmosetBSC-corT
+   :description: Stereotactic coordinate space of the coronal plane.
+   :fullName: Paxinos et al. Coronal Template of the Marmoset Brain in Stereotaxic Coordinates
+   :hasVersion: `cf. respective commonCoordinateSpaceVersions <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/commonCoordinateSpaceVersions/P-MarmosetBSC-corT.html>`_
+   :homepage: http://www.neura.edu.au/research/themes/paxinos-group
+   :shortName: Paxinos et al. Stereotaxic Coronal Template (Marmoset Brain)
+   :usedSpecies: `callithrixJacchus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/terminologies/species.html#callithrixjacchus>`_
+
+`BACK TO TOP <CommonCoordinateSpaces library_>`_
+
+------------
+
 PW-RBSC-corT
 ------------
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/PW-RBSC-corT
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: PW-RBSC-corT
@@ -126,6 +173,7 @@ SwansonSRB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/SwansonSRB
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: SwansonSRB
@@ -144,6 +192,7 @@ WHSSD
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/WHSSD
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: WHSSD
@@ -163,6 +212,7 @@ fsLR
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsLR
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: fsLR
@@ -181,6 +231,7 @@ fsaverage
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/commonCoordinateSpace/fsaverage
    :@type: https://openminds.ebrains.eu/sands/CommonCoordinateSpace
    :abbreviation: fsaverage

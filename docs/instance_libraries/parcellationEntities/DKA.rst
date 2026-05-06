@@ -13,6 +13,7 @@ DKA_anteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_anteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cingulateCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cingulatecortex>`_
@@ -29,6 +30,7 @@ DKA_banksOfSuperiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_banksOfSuperiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_lateralAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-lateralaspect>`_
@@ -45,6 +47,7 @@ DKA_banksSuperiorTemporalSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_banksSuperiorTemporalSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: DKA_banksSuperiorTemporalSulcus
@@ -59,6 +62,7 @@ DKA_caudalAnteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_caudalAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_anteriorCingulateCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-anteriorcingulatecortex>`_
@@ -75,6 +79,7 @@ DKA_caudalMiddleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_caudalMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-middlefrontalgyrus>`_
@@ -91,6 +96,7 @@ DKA_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :lookupLabel: DKA_cerebralCortex
@@ -106,6 +112,7 @@ DKA_cingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_cingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cerebralcortex>`_
@@ -122,6 +129,7 @@ DKA_corpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_corpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -138,6 +146,7 @@ DKA_cuneusCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_cuneusCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -154,6 +163,7 @@ DKA_entorhinalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_entorhinalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_medialAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-medialaspect>`_
@@ -170,6 +180,7 @@ DKA_frontalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_frontalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cerebralcortex>`_
@@ -186,6 +197,7 @@ DKA_frontalPole
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_frontalPole
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -202,6 +214,7 @@ DKA_fusiformGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_fusiformGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_medialAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-medialaspect>`_
@@ -218,6 +231,7 @@ DKA_inferiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_inferiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -234,6 +248,7 @@ DKA_inferiorParietalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_inferiorParietalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-parietallobe>`_
@@ -250,6 +265,7 @@ DKA_inferiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_inferiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_lateralAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-lateralaspect>`_
@@ -266,6 +282,7 @@ DKA_insula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_insula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cerebralcortex>`_
@@ -282,6 +299,7 @@ DKA_isthmusOfCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_isthmusOfCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -298,6 +316,7 @@ DKA_lateralOccipitalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_lateralOccipitalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -314,6 +333,7 @@ DKA_lateralOrbitalFrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_lateralOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_orbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-orbitofrontalcortex>`_
@@ -330,6 +350,7 @@ DKA_lingualGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_lingualGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -346,6 +367,7 @@ DKA_medialOrbitalFrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_medialOrbitalFrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_orbitofrontalCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-orbitofrontalcortex>`_
@@ -362,6 +384,7 @@ DKA_middleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_middleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -378,6 +401,7 @@ DKA_middleTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_middleTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_lateralAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-lateralaspect>`_
@@ -394,6 +418,7 @@ DKA_occipitalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_occipitalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cerebralcortex>`_
@@ -410,6 +435,7 @@ DKA_orbitofrontalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_orbitofrontalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -426,6 +452,7 @@ DKA_paracentralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_paracentralLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -442,6 +469,7 @@ DKA_parahippocampalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parahippocampalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_medialAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-medialaspect>`_
@@ -458,6 +486,7 @@ DKA_parietalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parietalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cerebralcortex>`_
@@ -474,6 +503,7 @@ DKA_parsOpercularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parsOpercularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-inferiorfrontalgyrus>`_
@@ -490,6 +520,7 @@ DKA_parsOrbitalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parsOrbitalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-inferiorfrontalgyrus>`_
@@ -506,6 +537,7 @@ DKA_parsTriangularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_parsTriangularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_inferiorFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-inferiorfrontalgyrus>`_
@@ -522,6 +554,7 @@ DKA_pericalcarineCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_pericalcarineCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -538,6 +571,7 @@ DKA_postcentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_postcentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-parietallobe>`_
@@ -554,6 +588,7 @@ DKA_posteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_posteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-occipitallobe>`_
@@ -570,6 +605,7 @@ DKA_precentralGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_precentralGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -586,6 +622,7 @@ DKA_precuneusCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_precuneusCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-parietallobe>`_
@@ -602,6 +639,7 @@ DKA_rostralAnteriorCingulateCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_rostralAnteriorCingulateCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_anteriorCingulateCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-anteriorcingulatecortex>`_
@@ -618,6 +656,7 @@ DKA_rostralMiddleFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_rostralMiddleFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_middleFrontalGyrus <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-middlefrontalgyrus>`_
@@ -634,6 +673,7 @@ DKA_superiorFrontalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_superiorFrontalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_frontalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-frontallobe>`_
@@ -650,6 +690,7 @@ DKA_superiorParietalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_superiorParietalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-parietallobe>`_
@@ -666,6 +707,7 @@ DKA_superiorTemporalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_superiorTemporalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_lateralAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-lateralaspect>`_
@@ -682,6 +724,7 @@ DKA_supramarginalGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_supramarginalGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_parietalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-parietallobe>`_
@@ -698,6 +741,7 @@ DKA_temporalLobe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalLobe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-cerebralcortex>`_
@@ -714,6 +758,7 @@ DKA_temporalLobe_lateralAspect
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalLobe_lateralAspect
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe>`_
@@ -729,6 +774,7 @@ DKA_temporalLobe_medialAspect
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalLobe_medialAspect
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe>`_
@@ -744,6 +790,7 @@ DKA_temporalPole
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_temporalPole
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_medialAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-medialaspect>`_
@@ -760,6 +807,7 @@ DKA_transverseTemporalCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntity/DKA_transverseTemporalCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntity
    :hasParent: `DKA_temporalLobe_lateralAspect <https://openminds-documentation.readthedocs.io/en/v3.0/instance_libraries/parcellationEntities/DKA.html#dka-temporallobe-lateralaspect>`_

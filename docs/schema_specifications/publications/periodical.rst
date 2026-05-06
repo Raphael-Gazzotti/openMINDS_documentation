@@ -14,8 +14,8 @@ Periodical
 Properties
 ##########
 
-:Required: `shortName <shortName_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `name <name_heading_>`_
+:Required: `name <name_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_
 
 ------------
 

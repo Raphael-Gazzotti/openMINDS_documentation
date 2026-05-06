@@ -13,6 +13,7 @@ AMBA_CCFv3-2017_abducensNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_abducensNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -29,6 +30,7 @@ AMBA_CCFv3-2017_abducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_abducensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -45,6 +47,7 @@ AMBA_CCFv3-2017_accessoryAbducensNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryAbducensNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -61,6 +64,7 @@ AMBA_CCFv3-2017_accessoryFacialMotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryFacialMotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -77,6 +81,7 @@ AMBA_CCFv3-2017_accessoryOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -93,6 +98,7 @@ AMBA_CCFv3-2017_accessoryOlfactoryBulbGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOlfactoryBulbGlomerularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -109,6 +115,7 @@ AMBA_CCFv3-2017_accessoryOlfactoryBulbGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOlfactoryBulbGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -125,6 +132,7 @@ AMBA_CCFv3-2017_accessoryOlfactoryBulbMitralLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOlfactoryBulbMitralLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -141,6 +149,7 @@ AMBA_CCFv3-2017_accessoryOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -157,6 +166,7 @@ AMBA_CCFv3-2017_accessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -173,6 +183,7 @@ AMBA_CCFv3-2017_accessorySpinalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessorySpinalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -189,6 +200,7 @@ AMBA_CCFv3-2017_accessorySupraopticGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessorySupraopticGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -205,6 +217,7 @@ AMBA_CCFv3-2017_accessoryTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_accessoryTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -221,6 +234,7 @@ AMBA_CCFv3-2017_agranularInsularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -237,6 +251,7 @@ AMBA_CCFv3-2017_agranularInsularAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -253,6 +268,7 @@ AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -269,6 +285,7 @@ AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -285,6 +302,7 @@ AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -301,6 +319,7 @@ AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -317,6 +336,7 @@ AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaDorsalPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -333,6 +353,7 @@ AMBA_CCFv3-2017_agranularInsularAreaPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -349,6 +370,7 @@ AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -365,6 +387,7 @@ AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -381,6 +404,7 @@ AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -397,6 +421,7 @@ AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -413,6 +438,7 @@ AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaPosteriorPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -429,6 +455,7 @@ AMBA_CCFv3-2017_agranularInsularAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -445,6 +472,7 @@ AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -461,6 +489,7 @@ AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -477,6 +506,7 @@ AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -493,6 +523,7 @@ AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -509,6 +540,7 @@ AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_agranularInsularAreaVentralPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -525,6 +557,7 @@ AMBA_CCFv3-2017_alveus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_alveus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -541,6 +574,7 @@ AMBA_CCFv3-2017_ammonsHorn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ammonsHorn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -557,6 +591,7 @@ AMBA_CCFv3-2017_amygdalarCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_amygdalarCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -573,6 +608,7 @@ AMBA_CCFv3-2017_angularPath
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_angularPath
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -589,6 +625,7 @@ AMBA_CCFv3-2017_ansaPeduncularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ansaPeduncularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -605,6 +642,7 @@ AMBA_CCFv3-2017_ansiformLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ansiformLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -621,6 +659,7 @@ AMBA_CCFv3-2017_ansoparamedianFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ansoparamedianFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -637,6 +676,7 @@ AMBA_CCFv3-2017_anteriorAmygdalarArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAmygdalarArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -653,6 +693,7 @@ AMBA_CCFv3-2017_anteriorArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -669,6 +710,7 @@ AMBA_CCFv3-2017_anteriorAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -685,6 +727,7 @@ AMBA_CCFv3-2017_anteriorAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -701,6 +744,7 @@ AMBA_CCFv3-2017_anteriorAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -717,6 +761,7 @@ AMBA_CCFv3-2017_anteriorAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -733,6 +778,7 @@ AMBA_CCFv3-2017_anteriorAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -749,6 +795,7 @@ AMBA_CCFv3-2017_anteriorAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -765,6 +812,7 @@ AMBA_CCFv3-2017_anteriorCingulateArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -781,6 +829,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -797,6 +846,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -813,6 +863,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -829,6 +880,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -845,6 +897,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -861,6 +914,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaDorsalPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -877,6 +931,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -893,6 +948,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -909,6 +965,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -925,6 +982,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -941,6 +999,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -957,6 +1016,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -973,6 +1033,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaVentralPart6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaVentralPart6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -989,6 +1050,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaVentralPart6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaVentralPart6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1005,6 +1067,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaVentralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaVentralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1021,6 +1084,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaVentralPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaVentralPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1037,6 +1101,7 @@ AMBA_CCFv3-2017_anteriorCingulateAreaVentralPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCingulateAreaVentralPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1053,6 +1118,7 @@ AMBA_CCFv3-2017_anteriorCommissureOlfactoryLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCommissureOlfactoryLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1069,6 +1135,7 @@ AMBA_CCFv3-2017_anteriorCommissureTemporalLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorCommissureTemporalLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1085,6 +1152,7 @@ AMBA_CCFv3-2017_anteriorGroupOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1101,6 +1169,7 @@ AMBA_CCFv3-2017_anteriorHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1117,6 +1186,7 @@ AMBA_CCFv3-2017_anteriorHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1133,6 +1203,7 @@ AMBA_CCFv3-2017_anteriorHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1149,6 +1220,7 @@ AMBA_CCFv3-2017_anteriorHypothalamicNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1165,6 +1237,7 @@ AMBA_CCFv3-2017_anteriorHypothalamicNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1181,6 +1254,7 @@ AMBA_CCFv3-2017_anteriorHypothalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorHypothalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1197,6 +1271,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1213,6 +1288,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1229,6 +1305,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusExternalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusExternalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1245,6 +1322,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1261,6 +1339,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1277,6 +1356,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1293,6 +1373,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1309,6 +1390,7 @@ AMBA_CCFv3-2017_anteriorOlfactoryNucleusPosteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorOlfactoryNucleusPosteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1325,6 +1407,7 @@ AMBA_CCFv3-2017_anteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1341,6 +1424,7 @@ AMBA_CCFv3-2017_anteriorTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteriorTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1357,6 +1441,7 @@ AMBA_CCFv3-2017_anterodorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterodorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1373,6 +1458,7 @@ AMBA_CCFv3-2017_anterodorsalPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterodorsalPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1389,6 +1475,7 @@ AMBA_CCFv3-2017_anterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1405,6 +1492,7 @@ AMBA_CCFv3-2017_anterolateralVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1421,6 +1509,7 @@ AMBA_CCFv3-2017_anterolateralVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1437,6 +1526,7 @@ AMBA_CCFv3-2017_anterolateralVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1453,6 +1543,7 @@ AMBA_CCFv3-2017_anterolateralVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1469,6 +1560,7 @@ AMBA_CCFv3-2017_anterolateralVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1485,6 +1577,7 @@ AMBA_CCFv3-2017_anterolateralVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anterolateralVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1501,6 +1594,7 @@ AMBA_CCFv3-2017_anteromedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1517,6 +1611,7 @@ AMBA_CCFv3-2017_anteromedialNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1533,6 +1628,7 @@ AMBA_CCFv3-2017_anteromedialNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1549,6 +1645,7 @@ AMBA_CCFv3-2017_anteromedialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1565,6 +1662,7 @@ AMBA_CCFv3-2017_anteromedialVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1581,6 +1679,7 @@ AMBA_CCFv3-2017_anteromedialVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1597,6 +1696,7 @@ AMBA_CCFv3-2017_anteromedialVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1613,6 +1713,7 @@ AMBA_CCFv3-2017_anteromedialVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1629,6 +1730,7 @@ AMBA_CCFv3-2017_anteromedialVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1645,6 +1747,7 @@ AMBA_CCFv3-2017_anteromedialVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteromedialVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1661,6 +1764,7 @@ AMBA_CCFv3-2017_anteroventralNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteroventralNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1677,6 +1781,7 @@ AMBA_CCFv3-2017_anteroventralPeriventricularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteroventralPeriventricularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1693,6 +1798,7 @@ AMBA_CCFv3-2017_anteroventralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_anteroventralPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1709,6 +1815,7 @@ AMBA_CCFv3-2017_arborVitae
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_arborVitae
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1725,6 +1832,7 @@ AMBA_CCFv3-2017_arcuateHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_arcuateHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1741,6 +1849,7 @@ AMBA_CCFv3-2017_areaPostrema
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_areaPostrema
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1757,6 +1866,7 @@ AMBA_CCFv3-2017_areaProstriata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_areaProstriata
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1773,6 +1883,7 @@ AMBA_CCFv3-2017_auditoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_auditoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1789,6 +1900,7 @@ AMBA_CCFv3-2017_auditoryRadiation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_auditoryRadiation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1805,6 +1917,7 @@ AMBA_CCFv3-2017_barringtonsNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_barringtonsNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1821,6 +1934,7 @@ AMBA_CCFv3-2017_basicCellGroupsAndRegions
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basicCellGroupsAndRegions
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1837,6 +1951,7 @@ AMBA_CCFv3-2017_basolateralAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basolateralAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1853,6 +1968,7 @@ AMBA_CCFv3-2017_basolateralAmygdalarNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basolateralAmygdalarNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1869,6 +1985,7 @@ AMBA_CCFv3-2017_basolateralAmygdalarNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basolateralAmygdalarNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1885,6 +2002,7 @@ AMBA_CCFv3-2017_basolateralAmygdalarNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basolateralAmygdalarNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1901,6 +2019,7 @@ AMBA_CCFv3-2017_basomedialAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basomedialAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1917,6 +2036,7 @@ AMBA_CCFv3-2017_basomedialAmygdalarNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basomedialAmygdalarNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1933,6 +2053,7 @@ AMBA_CCFv3-2017_basomedialAmygdalarNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_basomedialAmygdalarNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1949,6 +2070,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1965,6 +2087,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1981,6 +2104,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionAnterolateralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionAnterolateralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1997,6 +2121,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionAnteromedialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionAnteromedialArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2013,6 +2138,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionDorsomedialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionDorsomedialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2029,6 +2155,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionFusiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionFusiformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2045,6 +2172,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionJuxtacapsularNucleu
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionJuxtacapsularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2061,6 +2189,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionMagnocellularNucleu
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionMagnocellularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2077,6 +2206,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionOvalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionOvalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2093,6 +2223,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionRhomboidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionRhomboidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2109,6 +2240,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionVentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisAnteriorDivisionVentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2125,6 +2257,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2141,6 +2274,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2157,6 +2291,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionInterfascicularNuc
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionInterfascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2173,6 +2308,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionPrincipalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionPrincipalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2189,6 +2325,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionStrialExtension
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionStrialExtension
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2205,6 +2342,7 @@ AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionTransverseNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleiOfTheStriaTerminalisPosteriorDivisionTransverseNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2221,6 +2359,7 @@ AMBA_CCFv3-2017_bedNucleusOfTheAccessoryOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleusOfTheAccessoryOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2237,6 +2376,7 @@ AMBA_CCFv3-2017_bedNucleusOfTheAnteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bedNucleusOfTheAnteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2253,6 +2393,7 @@ AMBA_CCFv3-2017_brachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_brachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2269,6 +2410,7 @@ AMBA_CCFv3-2017_brachiumOfTheSuperiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2285,6 +2427,7 @@ AMBA_CCFv3-2017_brainStem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_brainStem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2301,6 +2444,7 @@ AMBA_CCFv3-2017_bulbocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_bulbocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2317,6 +2461,7 @@ AMBA_CCFv3-2017_caudoputamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_caudoputamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2333,6 +2478,7 @@ AMBA_CCFv3-2017_centralAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2349,6 +2495,7 @@ AMBA_CCFv3-2017_centralAmygdalarNucleusCapsularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralAmygdalarNucleusCapsularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2365,6 +2512,7 @@ AMBA_CCFv3-2017_centralAmygdalarNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralAmygdalarNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2381,6 +2529,7 @@ AMBA_CCFv3-2017_centralAmygdalarNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralAmygdalarNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2397,6 +2546,7 @@ AMBA_CCFv3-2017_centralCanalSpinalCordmedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralCanalSpinalCordmedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2413,6 +2563,7 @@ AMBA_CCFv3-2017_centralLateralNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralLateralNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2429,6 +2580,7 @@ AMBA_CCFv3-2017_centralLinearNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralLinearNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2445,6 +2597,7 @@ AMBA_CCFv3-2017_centralLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2461,6 +2614,7 @@ AMBA_CCFv3-2017_centralMedialNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralMedialNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2477,6 +2631,7 @@ AMBA_CCFv3-2017_centralTegmentalBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_centralTegmentalBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2493,6 +2648,7 @@ AMBA_CCFv3-2017_cerebalPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebalPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2509,6 +2665,7 @@ AMBA_CCFv3-2017_cerebellarCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2525,6 +2682,7 @@ AMBA_CCFv3-2017_cerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2541,6 +2699,7 @@ AMBA_CCFv3-2017_cerebellarCortexGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarCortexGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2557,6 +2716,7 @@ AMBA_CCFv3-2017_cerebellarCortexMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarCortexMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2573,6 +2733,7 @@ AMBA_CCFv3-2017_cerebellarCortexPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarCortexPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2589,6 +2750,7 @@ AMBA_CCFv3-2017_cerebellarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2605,6 +2767,7 @@ AMBA_CCFv3-2017_cerebellarPeduncles
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellarPeduncles
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2621,6 +2784,7 @@ AMBA_CCFv3-2017_cerebellum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2637,6 +2801,7 @@ AMBA_CCFv3-2017_cerebellumRelatedFiberTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebellumRelatedFiberTracts
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2653,6 +2818,7 @@ AMBA_CCFv3-2017_cerebralAqueduct
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebralAqueduct
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2669,6 +2835,7 @@ AMBA_CCFv3-2017_cerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2685,6 +2852,7 @@ AMBA_CCFv3-2017_cerebralNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebralNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2701,6 +2869,7 @@ AMBA_CCFv3-2017_cerebralNucleiRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebralNucleiRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2717,6 +2886,7 @@ AMBA_CCFv3-2017_cerebrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2733,6 +2903,7 @@ AMBA_CCFv3-2017_cerebrumRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cerebrumRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2749,6 +2920,7 @@ AMBA_CCFv3-2017_cervicothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cervicothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2765,6 +2937,7 @@ AMBA_CCFv3-2017_choroidFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_choroidFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2781,6 +2954,7 @@ AMBA_CCFv3-2017_choroidPlexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_choroidPlexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2797,6 +2971,7 @@ AMBA_CCFv3-2017_cingulumBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cingulumBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2813,6 +2988,7 @@ AMBA_CCFv3-2017_claustrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_claustrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2829,6 +3005,7 @@ AMBA_CCFv3-2017_cochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2845,6 +3022,7 @@ AMBA_CCFv3-2017_cochlearNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cochlearNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2861,6 +3039,7 @@ AMBA_CCFv3-2017_cochlearNucleusSubpedunclularGranularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cochlearNucleusSubpedunclularGranularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2877,6 +3056,7 @@ AMBA_CCFv3-2017_columnsOfTheFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_columnsOfTheFornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2893,6 +3073,7 @@ AMBA_CCFv3-2017_commissuralBranchOfStriaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_commissuralBranchOfStriaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2909,6 +3090,7 @@ AMBA_CCFv3-2017_copulaPyramidis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_copulaPyramidis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2925,6 +3107,7 @@ AMBA_CCFv3-2017_copulaPyramidisGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_copulaPyramidisGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2941,6 +3124,7 @@ AMBA_CCFv3-2017_copulaPyramidisMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_copulaPyramidisMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2957,6 +3141,7 @@ AMBA_CCFv3-2017_copulaPyramidisPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_copulaPyramidisPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2973,6 +3158,7 @@ AMBA_CCFv3-2017_corpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -2989,6 +3175,7 @@ AMBA_CCFv3-2017_corpusCallosumAnteriorForceps
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosumAnteriorForceps
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3005,6 +3192,7 @@ AMBA_CCFv3-2017_corpusCallosumBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosumBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3021,6 +3209,7 @@ AMBA_CCFv3-2017_corpusCallosumExtremeCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosumExtremeCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3037,6 +3226,7 @@ AMBA_CCFv3-2017_corpusCallosumPosteriorForceps
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosumPosteriorForceps
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3053,6 +3243,7 @@ AMBA_CCFv3-2017_corpusCallosumRostrum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosumRostrum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3069,6 +3260,7 @@ AMBA_CCFv3-2017_corpusCallosumSplenium
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corpusCallosumSplenium
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3085,6 +3277,7 @@ AMBA_CCFv3-2017_corticalAmygdalarArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3101,6 +3294,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3117,6 +3311,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3133,6 +3328,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPartLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPartLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3149,6 +3345,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPartLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaAnteriorPartLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3165,6 +3362,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3181,6 +3379,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3197,6 +3396,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3213,6 +3413,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3229,6 +3430,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3245,6 +3447,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayers12
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayers12
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3261,6 +3464,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartLateralZoneLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3277,6 +3481,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3293,6 +3498,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3309,6 +3515,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3325,6 +3532,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3341,6 +3549,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayers12
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayers12
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3357,6 +3566,7 @@ AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalAmygdalarAreaPosteriorPartMedialZoneLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3373,6 +3583,7 @@ AMBA_CCFv3-2017_corticalPlate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalPlate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3389,6 +3600,7 @@ AMBA_CCFv3-2017_corticalSubplate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticalSubplate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3405,6 +3617,7 @@ AMBA_CCFv3-2017_corticobulbarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticobulbarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3421,6 +3634,7 @@ AMBA_CCFv3-2017_corticopontineTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticopontineTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3437,6 +3651,7 @@ AMBA_CCFv3-2017_corticorubralTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticorubralTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3453,6 +3668,7 @@ AMBA_CCFv3-2017_corticospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3469,6 +3685,7 @@ AMBA_CCFv3-2017_corticospinalTractCrossed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticospinalTractCrossed
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3485,6 +3702,7 @@ AMBA_CCFv3-2017_corticospinalTractUncrossed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticospinalTractUncrossed
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3501,6 +3719,7 @@ AMBA_CCFv3-2017_corticotectalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_corticotectalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3517,6 +3736,7 @@ AMBA_CCFv3-2017_cranialNerves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cranialNerves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3533,6 +3753,7 @@ AMBA_CCFv3-2017_crossedTectospinalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crossedTectospinalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3549,6 +3770,7 @@ AMBA_CCFv3-2017_crus1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3565,6 +3787,7 @@ AMBA_CCFv3-2017_crus1GranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus1GranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3581,6 +3804,7 @@ AMBA_CCFv3-2017_crus1MolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus1MolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3597,6 +3821,7 @@ AMBA_CCFv3-2017_crus1PurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus1PurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3613,6 +3838,7 @@ AMBA_CCFv3-2017_crus2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3629,6 +3855,7 @@ AMBA_CCFv3-2017_crus2GranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus2GranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3645,6 +3872,7 @@ AMBA_CCFv3-2017_crus2MolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus2MolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3661,6 +3889,7 @@ AMBA_CCFv3-2017_crus2PurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_crus2PurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3677,6 +3906,7 @@ AMBA_CCFv3-2017_culmen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_culmen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3693,6 +3923,7 @@ AMBA_CCFv3-2017_cuneateFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cuneateFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3709,6 +3940,7 @@ AMBA_CCFv3-2017_cuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cuneateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3725,6 +3957,7 @@ AMBA_CCFv3-2017_cuneiformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cuneiformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3741,6 +3974,7 @@ AMBA_CCFv3-2017_cuneocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_cuneocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3757,6 +3991,7 @@ AMBA_CCFv3-2017_decliveVI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_decliveVI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3773,6 +4008,7 @@ AMBA_CCFv3-2017_decliveVIGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_decliveVIGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3789,6 +4025,7 @@ AMBA_CCFv3-2017_decliveVIMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_decliveVIMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3805,6 +4042,7 @@ AMBA_CCFv3-2017_decliveVIPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_decliveVIPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3821,6 +4059,7 @@ AMBA_CCFv3-2017_dentateGyrus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3837,6 +4076,7 @@ AMBA_CCFv3-2017_dentateGyrusCrest
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusCrest
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3853,6 +4093,7 @@ AMBA_CCFv3-2017_dentateGyrusCrestGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusCrestGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3869,6 +4110,7 @@ AMBA_CCFv3-2017_dentateGyrusCrestMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusCrestMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3885,6 +4127,7 @@ AMBA_CCFv3-2017_dentateGyrusCrestPolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusCrestPolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3901,6 +4144,7 @@ AMBA_CCFv3-2017_dentateGyrusGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3917,6 +4161,7 @@ AMBA_CCFv3-2017_dentateGyrusLateralBlade
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusLateralBlade
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3933,6 +4178,7 @@ AMBA_CCFv3-2017_dentateGyrusLateralBladeGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusLateralBladeGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3949,6 +4195,7 @@ AMBA_CCFv3-2017_dentateGyrusLateralBladeMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusLateralBladeMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3965,6 +4212,7 @@ AMBA_CCFv3-2017_dentateGyrusLateralBladePolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusLateralBladePolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3981,6 +4229,7 @@ AMBA_CCFv3-2017_dentateGyrusMedialBlade
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusMedialBlade
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -3997,6 +4246,7 @@ AMBA_CCFv3-2017_dentateGyrusMedialBladeGranuleCellLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusMedialBladeGranuleCellLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4013,6 +4263,7 @@ AMBA_CCFv3-2017_dentateGyrusMedialBladeMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusMedialBladeMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4029,6 +4280,7 @@ AMBA_CCFv3-2017_dentateGyrusMedialBladePolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusMedialBladePolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4045,6 +4297,7 @@ AMBA_CCFv3-2017_dentateGyrusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4061,6 +4314,7 @@ AMBA_CCFv3-2017_dentateGyrusPolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusPolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4077,6 +4331,7 @@ AMBA_CCFv3-2017_dentateGyrusSubgranularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateGyrusSubgranularZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4093,6 +4348,7 @@ AMBA_CCFv3-2017_dentateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dentateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4109,6 +4365,7 @@ AMBA_CCFv3-2017_diagonalBandNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_diagonalBandNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4125,6 +4382,7 @@ AMBA_CCFv3-2017_directTectospinalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_directTectospinalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4141,6 +4399,7 @@ AMBA_CCFv3-2017_dopaminergicA13Group
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dopaminergicA13Group
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4157,6 +4416,7 @@ AMBA_CCFv3-2017_doralTegmentalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_doralTegmentalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4173,6 +4433,7 @@ AMBA_CCFv3-2017_dorsalAcousticStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAcousticStria
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4189,6 +4450,7 @@ AMBA_CCFv3-2017_dorsalAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4205,6 +4467,7 @@ AMBA_CCFv3-2017_dorsalAuditoryAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4221,6 +4484,7 @@ AMBA_CCFv3-2017_dorsalAuditoryAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4237,6 +4501,7 @@ AMBA_CCFv3-2017_dorsalAuditoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4253,6 +4518,7 @@ AMBA_CCFv3-2017_dorsalAuditoryAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4269,6 +4535,7 @@ AMBA_CCFv3-2017_dorsalAuditoryAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4285,6 +4552,7 @@ AMBA_CCFv3-2017_dorsalAuditoryAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalAuditoryAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4301,6 +4569,7 @@ AMBA_CCFv3-2017_dorsalCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalCochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4317,6 +4586,7 @@ AMBA_CCFv3-2017_dorsalColumn
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalColumn
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4333,6 +4603,7 @@ AMBA_CCFv3-2017_dorsalColumnNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalColumnNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4349,6 +4620,7 @@ AMBA_CCFv3-2017_dorsalCommissureOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalCommissureOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4365,6 +4637,7 @@ AMBA_CCFv3-2017_dorsalFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalFornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4381,6 +4654,7 @@ AMBA_CCFv3-2017_dorsalHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4397,6 +4671,7 @@ AMBA_CCFv3-2017_dorsalLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4413,6 +4688,7 @@ AMBA_CCFv3-2017_dorsalLongitudinalFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalLongitudinalFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4429,6 +4705,7 @@ AMBA_CCFv3-2017_dorsalMotorNucleusOfTheVagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalMotorNucleusOfTheVagusNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4445,6 +4722,7 @@ AMBA_CCFv3-2017_dorsalNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4461,6 +4739,7 @@ AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4477,6 +4756,7 @@ AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplexCore
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplexCore
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4493,6 +4773,7 @@ AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplexIpsilateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplexIpsilateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4509,6 +4790,7 @@ AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplexShell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPartOfTheLateralGeniculateComplexShell
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4525,6 +4807,7 @@ AMBA_CCFv3-2017_dorsalPeduncularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPeduncularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4541,6 +4824,7 @@ AMBA_CCFv3-2017_dorsalPeduncularAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPeduncularAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4557,6 +4841,7 @@ AMBA_CCFv3-2017_dorsalPeduncularAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPeduncularAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4573,6 +4858,7 @@ AMBA_CCFv3-2017_dorsalPeduncularAreaLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPeduncularAreaLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4589,6 +4875,7 @@ AMBA_CCFv3-2017_dorsalPeduncularAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPeduncularAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4605,6 +4892,7 @@ AMBA_CCFv3-2017_dorsalPeduncularAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPeduncularAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4621,6 +4909,7 @@ AMBA_CCFv3-2017_dorsalPremammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalPremammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4637,6 +4926,7 @@ AMBA_CCFv3-2017_dorsalRoots
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalRoots
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4653,6 +4943,7 @@ AMBA_CCFv3-2017_dorsalSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4669,6 +4960,7 @@ AMBA_CCFv3-2017_dorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4685,6 +4977,7 @@ AMBA_CCFv3-2017_dorsalTegmentalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalTegmentalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4701,6 +4994,7 @@ AMBA_CCFv3-2017_dorsalTerminalNucleusOfTheAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4717,6 +5011,7 @@ AMBA_CCFv3-2017_dorsalThalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsalThalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4733,6 +5028,7 @@ AMBA_CCFv3-2017_dorsolateralFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsolateralFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4749,6 +5045,7 @@ AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4765,6 +5062,7 @@ AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4781,6 +5079,7 @@ AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4797,6 +5096,7 @@ AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_dorsomedialNucleusOfTheHypothalamusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4813,6 +5113,7 @@ AMBA_CCFv3-2017_ectorhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ectorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4829,6 +5130,7 @@ AMBA_CCFv3-2017_ectorhinalAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ectorhinalAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4845,6 +5147,7 @@ AMBA_CCFv3-2017_ectorhinalAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ectorhinalAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4861,6 +5164,7 @@ AMBA_CCFv3-2017_ectorhinalAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ectorhinalAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4877,6 +5181,7 @@ AMBA_CCFv3-2017_ectorhinalAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ectorhinalAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4893,6 +5198,7 @@ AMBA_CCFv3-2017_ectorhinalAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ectorhinalAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4909,6 +5215,7 @@ AMBA_CCFv3-2017_edingerWestphalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_edingerWestphalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4925,6 +5232,7 @@ AMBA_CCFv3-2017_efferentCochlearGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_efferentCochlearGroup
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4941,6 +5249,7 @@ AMBA_CCFv3-2017_efferentCochleovestibularBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_efferentCochleovestibularBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4957,6 +5266,7 @@ AMBA_CCFv3-2017_efferentVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_efferentVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4973,6 +5283,7 @@ AMBA_CCFv3-2017_endopiriformNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_endopiriformNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -4989,6 +5300,7 @@ AMBA_CCFv3-2017_endopiriformNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_endopiriformNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5005,6 +5317,7 @@ AMBA_CCFv3-2017_endopiriformNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_endopiriformNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5021,6 +5334,7 @@ AMBA_CCFv3-2017_endorhinalGroove
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_endorhinalGroove
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5037,6 +5351,7 @@ AMBA_CCFv3-2017_entorhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5053,6 +5368,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5069,6 +5385,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5085,6 +5402,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5101,6 +5419,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5117,6 +5436,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5133,6 +5453,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer2b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5149,6 +5470,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5165,6 +5487,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer4-5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer4-5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5181,6 +5504,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5197,6 +5521,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer5-6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer5-6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5213,6 +5538,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5229,6 +5555,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5245,6 +5572,7 @@ AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaLateralPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5261,6 +5589,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5277,6 +5606,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5293,6 +5623,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5309,6 +5640,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer2a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer2a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5325,6 +5657,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer2b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer2b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5341,6 +5674,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5357,6 +5691,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5373,6 +5708,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer5-6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer5-6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5389,6 +5725,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5405,6 +5742,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartDorsalZoneLayer6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5421,6 +5759,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5437,6 +5776,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5453,6 +5793,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5469,6 +5810,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5485,6 +5827,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5501,6 +5844,7 @@ AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer5-6
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_entorhinalAreaMedialPartVentralZoneLayer5-6
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5517,6 +5861,7 @@ AMBA_CCFv3-2017_epithalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_epithalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5533,6 +5878,7 @@ AMBA_CCFv3-2017_epithalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_epithalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5549,6 +5895,7 @@ AMBA_CCFv3-2017_ethmoidNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ethmoidNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5565,6 +5912,7 @@ AMBA_CCFv3-2017_externalCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_externalCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5581,6 +5929,7 @@ AMBA_CCFv3-2017_externalCuneateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_externalCuneateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5597,6 +5946,7 @@ AMBA_CCFv3-2017_externalMedullaryLaminaOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_externalMedullaryLaminaOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5613,6 +5963,7 @@ AMBA_CCFv3-2017_extrapyramidalFiberSystems
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_extrapyramidalFiberSystems
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5629,6 +5980,7 @@ AMBA_CCFv3-2017_facialMotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_facialMotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5645,6 +5997,7 @@ AMBA_CCFv3-2017_facialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_facialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5661,6 +6014,7 @@ AMBA_CCFv3-2017_fasciculusProprius
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fasciculusProprius
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5677,6 +6031,7 @@ AMBA_CCFv3-2017_fasciculusRetroflexus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fasciculusRetroflexus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5693,6 +6048,7 @@ AMBA_CCFv3-2017_fasciolaCinerea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fasciolaCinerea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5709,6 +6065,7 @@ AMBA_CCFv3-2017_fastigialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fastigialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5725,6 +6082,7 @@ AMBA_CCFv3-2017_fiberTracts
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fiberTracts
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5741,6 +6099,7 @@ AMBA_CCFv3-2017_fieldCA1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5757,6 +6116,7 @@ AMBA_CCFv3-2017_fieldCA1PyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA1PyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5773,6 +6133,7 @@ AMBA_CCFv3-2017_fieldCA1StratumLacunosummoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA1StratumLacunosummoleculare
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5789,6 +6150,7 @@ AMBA_CCFv3-2017_fieldCA1StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA1StratumOriens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5805,6 +6167,7 @@ AMBA_CCFv3-2017_fieldCA1StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA1StratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5821,6 +6184,7 @@ AMBA_CCFv3-2017_fieldCA2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5837,6 +6201,7 @@ AMBA_CCFv3-2017_fieldCA2PyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA2PyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5853,6 +6218,7 @@ AMBA_CCFv3-2017_fieldCA2StratumLacunosummoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA2StratumLacunosummoleculare
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5869,6 +6235,7 @@ AMBA_CCFv3-2017_fieldCA2StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA2StratumOriens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5885,6 +6252,7 @@ AMBA_CCFv3-2017_fieldCA2StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA2StratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5901,6 +6269,7 @@ AMBA_CCFv3-2017_fieldCA3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5917,6 +6286,7 @@ AMBA_CCFv3-2017_fieldCA3PyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA3PyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5933,6 +6303,7 @@ AMBA_CCFv3-2017_fieldCA3StratumLacunosummoleculare
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA3StratumLacunosummoleculare
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5949,6 +6320,7 @@ AMBA_CCFv3-2017_fieldCA3StratumLucidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA3StratumLucidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5965,6 +6337,7 @@ AMBA_CCFv3-2017_fieldCA3StratumOriens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA3StratumOriens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5981,6 +6354,7 @@ AMBA_CCFv3-2017_fieldCA3StratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldCA3StratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -5997,6 +6371,7 @@ AMBA_CCFv3-2017_fieldsOfForel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fieldsOfForel
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6013,6 +6388,7 @@ AMBA_CCFv3-2017_fimbria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fimbria
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6029,6 +6405,7 @@ AMBA_CCFv3-2017_flocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_flocculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6045,6 +6422,7 @@ AMBA_CCFv3-2017_flocculusGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_flocculusGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6061,6 +6439,7 @@ AMBA_CCFv3-2017_flocculusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_flocculusMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6077,6 +6456,7 @@ AMBA_CCFv3-2017_flocculusPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_flocculusPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6093,6 +6473,7 @@ AMBA_CCFv3-2017_foliumtuberVermisVII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_foliumtuberVermisVII
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6109,6 +6490,7 @@ AMBA_CCFv3-2017_foliumtuberVermisVIIGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_foliumtuberVermisVIIGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6125,6 +6507,7 @@ AMBA_CCFv3-2017_foliumtuberVermisVIIMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_foliumtuberVermisVIIMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6141,6 +6524,7 @@ AMBA_CCFv3-2017_foliumtuberVermisVIIPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_foliumtuberVermisVIIPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6157,6 +6541,7 @@ AMBA_CCFv3-2017_fornixSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fornixSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6173,6 +6558,7 @@ AMBA_CCFv3-2017_fourthVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fourthVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6189,6 +6575,7 @@ AMBA_CCFv3-2017_frontalPoleCerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_frontalPoleCerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6205,6 +6592,7 @@ AMBA_CCFv3-2017_frontalPoleLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_frontalPoleLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6221,6 +6609,7 @@ AMBA_CCFv3-2017_frontalPoleLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_frontalPoleLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6237,6 +6626,7 @@ AMBA_CCFv3-2017_frontalPoleLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_frontalPoleLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6253,6 +6643,7 @@ AMBA_CCFv3-2017_frontalPoleLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_frontalPoleLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6269,6 +6660,7 @@ AMBA_CCFv3-2017_frontalPoleLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_frontalPoleLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6285,6 +6677,7 @@ AMBA_CCFv3-2017_fundusOfStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_fundusOfStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6301,6 +6694,7 @@ AMBA_CCFv3-2017_geniculateGroupDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_geniculateGroupDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6317,6 +6711,7 @@ AMBA_CCFv3-2017_geniculateGroupVentralThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_geniculateGroupVentralThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6333,6 +6728,7 @@ AMBA_CCFv3-2017_genuOfCorpusCallosum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_genuOfCorpusCallosum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6349,6 +6745,7 @@ AMBA_CCFv3-2017_genuOfTheFacialNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_genuOfTheFacialNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6365,6 +6762,7 @@ AMBA_CCFv3-2017_gigantocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gigantocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6381,6 +6779,7 @@ AMBA_CCFv3-2017_globusPallidusExternalSegment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_globusPallidusExternalSegment
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6397,6 +6796,7 @@ AMBA_CCFv3-2017_globusPallidusInternalSegment
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_globusPallidusInternalSegment
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6413,6 +6813,7 @@ AMBA_CCFv3-2017_glossopharyngealNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_glossopharyngealNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6429,6 +6830,7 @@ AMBA_CCFv3-2017_gracileFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gracileFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6445,6 +6847,7 @@ AMBA_CCFv3-2017_gracileNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gracileNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6461,6 +6864,7 @@ AMBA_CCFv3-2017_granularLaminaOfTheCochlearNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_granularLaminaOfTheCochlearNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6477,6 +6881,7 @@ AMBA_CCFv3-2017_grooves
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_grooves
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6493,6 +6898,7 @@ AMBA_CCFv3-2017_groovesOfTheCerebellarCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_groovesOfTheCerebellarCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6509,6 +6915,7 @@ AMBA_CCFv3-2017_groovesOfTheCerebralCortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_groovesOfTheCerebralCortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6525,6 +6932,7 @@ AMBA_CCFv3-2017_gustatoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6541,6 +6949,7 @@ AMBA_CCFv3-2017_gustatoryAreasLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreasLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6557,6 +6966,7 @@ AMBA_CCFv3-2017_gustatoryAreasLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreasLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6573,6 +6983,7 @@ AMBA_CCFv3-2017_gustatoryAreasLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreasLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6589,6 +7000,7 @@ AMBA_CCFv3-2017_gustatoryAreasLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreasLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6605,6 +7017,7 @@ AMBA_CCFv3-2017_gustatoryAreasLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreasLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6621,6 +7034,7 @@ AMBA_CCFv3-2017_gustatoryAreasLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_gustatoryAreasLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6637,6 +7051,7 @@ AMBA_CCFv3-2017_habenularCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_habenularCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6653,6 +7068,7 @@ AMBA_CCFv3-2017_hemisphericRegions
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hemisphericRegions
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6669,6 +7085,7 @@ AMBA_CCFv3-2017_hindbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hindbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6685,6 +7102,7 @@ AMBA_CCFv3-2017_hippocampalCommissures
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hippocampalCommissures
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6701,6 +7119,7 @@ AMBA_CCFv3-2017_hippocampalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hippocampalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6717,6 +7136,7 @@ AMBA_CCFv3-2017_hippocampalFormation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hippocampalFormation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6733,6 +7153,7 @@ AMBA_CCFv3-2017_hippocampalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hippocampalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6749,6 +7170,7 @@ AMBA_CCFv3-2017_hippocampoamygdalarTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hippocampoamygdalarTransitionArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6765,6 +7187,7 @@ AMBA_CCFv3-2017_hypoglossalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypoglossalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6781,6 +7204,7 @@ AMBA_CCFv3-2017_hypoglossalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypoglossalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6797,6 +7221,7 @@ AMBA_CCFv3-2017_hypothalamicLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypothalamicLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6813,6 +7238,7 @@ AMBA_CCFv3-2017_hypothalamicMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypothalamicMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6829,6 +7255,7 @@ AMBA_CCFv3-2017_hypothalamohypophysialTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypothalamohypophysialTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6845,6 +7272,7 @@ AMBA_CCFv3-2017_hypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6861,6 +7289,7 @@ AMBA_CCFv3-2017_hypothalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_hypothalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6877,6 +7306,7 @@ AMBA_CCFv3-2017_induseumGriseum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_induseumGriseum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6893,6 +7323,7 @@ AMBA_CCFv3-2017_inferiorCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6909,6 +7340,7 @@ AMBA_CCFv3-2017_inferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6925,6 +7357,7 @@ AMBA_CCFv3-2017_inferiorColliculusCentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorColliculusCentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6941,6 +7374,7 @@ AMBA_CCFv3-2017_inferiorColliculusCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorColliculusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6957,6 +7391,7 @@ AMBA_CCFv3-2017_inferiorColliculusDorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorColliculusDorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6973,6 +7408,7 @@ AMBA_CCFv3-2017_inferiorColliculusExternalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorColliculusExternalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -6989,6 +7425,7 @@ AMBA_CCFv3-2017_inferiorOlivaryComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7005,6 +7442,7 @@ AMBA_CCFv3-2017_inferiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_inferiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7021,6 +7459,7 @@ AMBA_CCFv3-2017_infracerebellarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infracerebellarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7037,6 +7476,7 @@ AMBA_CCFv3-2017_infralimbicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7053,6 +7493,7 @@ AMBA_CCFv3-2017_infralimbicAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7069,6 +7510,7 @@ AMBA_CCFv3-2017_infralimbicAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7085,6 +7527,7 @@ AMBA_CCFv3-2017_infralimbicAreaLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicAreaLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7101,6 +7544,7 @@ AMBA_CCFv3-2017_infralimbicAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7117,6 +7561,7 @@ AMBA_CCFv3-2017_infralimbicAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7133,6 +7578,7 @@ AMBA_CCFv3-2017_infralimbicAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_infralimbicAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7149,6 +7595,7 @@ AMBA_CCFv3-2017_interanterodorsalNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interanterodorsalNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7165,6 +7612,7 @@ AMBA_CCFv3-2017_interanteromedialNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interanteromedialNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7181,6 +7629,7 @@ AMBA_CCFv3-2017_interbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7197,6 +7646,7 @@ AMBA_CCFv3-2017_intercalatedAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intercalatedAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7213,6 +7663,7 @@ AMBA_CCFv3-2017_intercollicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intercollicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7229,6 +7680,7 @@ AMBA_CCFv3-2017_intercruralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intercruralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7245,6 +7697,7 @@ AMBA_CCFv3-2017_interfascicularNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interfascicularNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7261,6 +7714,7 @@ AMBA_CCFv3-2017_intergeniculateLeafletOfTheLateralGeniculateComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intergeniculateLeafletOfTheLateralGeniculateComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7277,6 +7731,7 @@ AMBA_CCFv3-2017_intermediateAcousticStria
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intermediateAcousticStria
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7293,6 +7748,7 @@ AMBA_CCFv3-2017_intermediateGeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intermediateGeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7309,6 +7765,7 @@ AMBA_CCFv3-2017_intermediateNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intermediateNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7325,6 +7782,7 @@ AMBA_CCFv3-2017_intermediateReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intermediateReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7341,6 +7799,7 @@ AMBA_CCFv3-2017_intermediodorsalNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intermediodorsalNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7357,6 +7816,7 @@ AMBA_CCFv3-2017_internalArcuateFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_internalArcuateFibers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7373,6 +7833,7 @@ AMBA_CCFv3-2017_internalCapsule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_internalCapsule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7389,6 +7850,7 @@ AMBA_CCFv3-2017_internalMedullaryLaminaOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_internalMedullaryLaminaOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7405,6 +7867,7 @@ AMBA_CCFv3-2017_interpeduncularFossa
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularFossa
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7421,6 +7884,7 @@ AMBA_CCFv3-2017_interpeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7437,6 +7901,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusApical
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusApical
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7453,6 +7918,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusCaudal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusCaudal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7469,6 +7935,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusDorsolateral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusDorsolateral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7485,6 +7952,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusDorsomedial
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusDorsomedial
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7501,6 +7969,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusIntermediate
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusIntermediate
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7517,6 +7986,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusLateral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusLateral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7533,6 +8003,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusRostral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusRostral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7549,6 +8020,7 @@ AMBA_CCFv3-2017_interpeduncularNucleusRostrolateral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interpeduncularNucleusRostrolateral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7565,6 +8037,7 @@ AMBA_CCFv3-2017_interposedNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interposedNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7581,6 +8054,7 @@ AMBA_CCFv3-2017_interstitialNucleusOfCajal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interstitialNucleusOfCajal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7597,6 +8071,7 @@ AMBA_CCFv3-2017_interstitialNucleusOfTheVestibularNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interstitialNucleusOfTheVestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7613,6 +8088,7 @@ AMBA_CCFv3-2017_intertrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intertrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7629,6 +8105,7 @@ AMBA_CCFv3-2017_interventricularForamen
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_interventricularForamen
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7645,6 +8122,7 @@ AMBA_CCFv3-2017_intralaminarNucleiOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intralaminarNucleiOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7661,6 +8139,7 @@ AMBA_CCFv3-2017_intraparafloccularFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_intraparafloccularFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7677,6 +8156,7 @@ AMBA_CCFv3-2017_islandsOfCalleja
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_islandsOfCalleja
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7693,6 +8173,7 @@ AMBA_CCFv3-2017_isocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_isocortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7709,6 +8190,7 @@ AMBA_CCFv3-2017_juxtarestiformBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_juxtarestiformBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7725,6 +8207,7 @@ AMBA_CCFv3-2017_koellikerFuseSubnucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_koellikerFuseSubnucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7741,6 +8224,7 @@ AMBA_CCFv3-2017_lateralAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7757,6 +8241,7 @@ AMBA_CCFv3-2017_lateralDorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralDorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7773,6 +8258,7 @@ AMBA_CCFv3-2017_lateralForebrainBundleSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralForebrainBundleSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7789,6 +8275,7 @@ AMBA_CCFv3-2017_lateralGroupOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7805,6 +8292,7 @@ AMBA_CCFv3-2017_lateralHabenula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralHabenula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7821,6 +8309,7 @@ AMBA_CCFv3-2017_lateralHypothalamicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralHypothalamicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7837,6 +8326,7 @@ AMBA_CCFv3-2017_lateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7853,6 +8343,7 @@ AMBA_CCFv3-2017_lateralMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralMammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7869,6 +8360,7 @@ AMBA_CCFv3-2017_lateralOlfactoryTractBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralOlfactoryTractBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7885,6 +8377,7 @@ AMBA_CCFv3-2017_lateralOlfactoryTractGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralOlfactoryTractGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7901,6 +8394,7 @@ AMBA_CCFv3-2017_lateralPosteriorNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralPosteriorNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7917,6 +8411,7 @@ AMBA_CCFv3-2017_lateralPreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralPreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7933,6 +8428,7 @@ AMBA_CCFv3-2017_lateralRecess
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralRecess
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7949,6 +8445,7 @@ AMBA_CCFv3-2017_lateralReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7965,6 +8462,7 @@ AMBA_CCFv3-2017_lateralReticularNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralReticularNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7981,6 +8479,7 @@ AMBA_CCFv3-2017_lateralReticularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralReticularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -7997,6 +8496,7 @@ AMBA_CCFv3-2017_lateralSeptalComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralSeptalComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8013,6 +8513,7 @@ AMBA_CCFv3-2017_lateralSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralSeptalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8029,6 +8530,7 @@ AMBA_CCFv3-2017_lateralSeptalNucleusCaudalCaudodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralSeptalNucleusCaudalCaudodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8045,6 +8547,7 @@ AMBA_CCFv3-2017_lateralSeptalNucleusRostralRostroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralSeptalNucleusRostralRostroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8061,6 +8564,7 @@ AMBA_CCFv3-2017_lateralSeptalNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralSeptalNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8077,6 +8581,7 @@ AMBA_CCFv3-2017_lateralSpinothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralSpinothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8093,6 +8598,7 @@ AMBA_CCFv3-2017_lateralStripOfStriatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralStripOfStriatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8109,6 +8615,7 @@ AMBA_CCFv3-2017_lateralTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8125,6 +8632,7 @@ AMBA_CCFv3-2017_lateralTerminalNucleusOfTheAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8141,6 +8649,7 @@ AMBA_CCFv3-2017_lateralVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8157,6 +8666,7 @@ AMBA_CCFv3-2017_lateralVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8173,6 +8683,7 @@ AMBA_CCFv3-2017_lateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8189,6 +8700,7 @@ AMBA_CCFv3-2017_lateralVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8205,6 +8717,7 @@ AMBA_CCFv3-2017_lateralVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8221,6 +8734,7 @@ AMBA_CCFv3-2017_lateralVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8237,6 +8751,7 @@ AMBA_CCFv3-2017_lateralVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8253,6 +8768,7 @@ AMBA_CCFv3-2017_lateralVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8269,6 +8785,7 @@ AMBA_CCFv3-2017_lateralVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lateralVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8285,6 +8802,7 @@ AMBA_CCFv3-2017_laterodorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterodorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8301,6 +8819,7 @@ AMBA_CCFv3-2017_laterointermediateArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8317,6 +8836,7 @@ AMBA_CCFv3-2017_laterointermediateAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8333,6 +8853,7 @@ AMBA_CCFv3-2017_laterointermediateAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8349,6 +8870,7 @@ AMBA_CCFv3-2017_laterointermediateAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8365,6 +8887,7 @@ AMBA_CCFv3-2017_laterointermediateAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8381,6 +8904,7 @@ AMBA_CCFv3-2017_laterointermediateAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8397,6 +8921,7 @@ AMBA_CCFv3-2017_laterointermediateAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterointermediateAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8413,6 +8938,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8429,6 +8955,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8445,6 +8972,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8461,6 +8989,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8477,6 +9006,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8493,6 +9023,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8509,6 +9040,7 @@ AMBA_CCFv3-2017_laterolateralAnteriorVisualArealayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_laterolateralAnteriorVisualArealayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8525,6 +9057,7 @@ AMBA_CCFv3-2017_layer6bIsocortex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_layer6bIsocortex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8541,6 +9074,7 @@ AMBA_CCFv3-2017_linearNucleusOfTheMedulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_linearNucleusOfTheMedulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8557,6 +9091,7 @@ AMBA_CCFv3-2017_lingulaI
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lingulaI
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8573,6 +9108,7 @@ AMBA_CCFv3-2017_lingulaIGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lingulaIGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8589,6 +9125,7 @@ AMBA_CCFv3-2017_lingulaIMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lingulaIMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8605,6 +9142,7 @@ AMBA_CCFv3-2017_lingulaIPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lingulaIPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8621,6 +9159,7 @@ AMBA_CCFv3-2017_lobuleII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleII
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8637,6 +9176,7 @@ AMBA_CCFv3-2017_lobuleIIGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIIGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8653,6 +9193,7 @@ AMBA_CCFv3-2017_lobuleIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIII
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8669,6 +9210,7 @@ AMBA_CCFv3-2017_lobuleIIIGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIIIGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8685,6 +9227,7 @@ AMBA_CCFv3-2017_lobuleIIIMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIIIMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8701,6 +9244,7 @@ AMBA_CCFv3-2017_lobuleIIIPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIIIPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8717,6 +9261,7 @@ AMBA_CCFv3-2017_lobuleIIMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIIMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8733,6 +9278,7 @@ AMBA_CCFv3-2017_lobuleIIPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIIPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8749,6 +9295,7 @@ AMBA_CCFv3-2017_lobuleIV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIV
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8765,6 +9312,7 @@ AMBA_CCFv3-2017_lobuleIVGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIVGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8781,6 +9329,7 @@ AMBA_CCFv3-2017_lobuleIVMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIVMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8797,6 +9346,7 @@ AMBA_CCFv3-2017_lobuleIVPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleIVPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8813,6 +9363,7 @@ AMBA_CCFv3-2017_lobuleV
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleV
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8829,6 +9380,7 @@ AMBA_CCFv3-2017_lobuleVGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleVGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8845,6 +9397,7 @@ AMBA_CCFv3-2017_lobuleVMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleVMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8861,6 +9414,7 @@ AMBA_CCFv3-2017_lobuleVPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobuleVPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8877,6 +9431,7 @@ AMBA_CCFv3-2017_lobulesIV-V
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobulesIV-V
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8893,6 +9448,7 @@ AMBA_CCFv3-2017_lobulesIV-VGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobulesIV-VGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8909,6 +9465,7 @@ AMBA_CCFv3-2017_lobulesIV-VMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobulesIV-VMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8925,6 +9482,7 @@ AMBA_CCFv3-2017_lobulesIV-VPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_lobulesIV-VPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8941,6 +9499,7 @@ AMBA_CCFv3-2017_locusCeruleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_locusCeruleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8957,6 +9516,7 @@ AMBA_CCFv3-2017_longitudinalAssociationBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_longitudinalAssociationBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8973,6 +9533,7 @@ AMBA_CCFv3-2017_magnocellularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_magnocellularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -8989,6 +9550,7 @@ AMBA_CCFv3-2017_magnocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_magnocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9005,6 +9567,7 @@ AMBA_CCFv3-2017_mainOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9021,6 +9584,7 @@ AMBA_CCFv3-2017_mainOlfactoryBulbGlomerularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulbGlomerularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9037,6 +9601,7 @@ AMBA_CCFv3-2017_mainOlfactoryBulbGranuleLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulbGranuleLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9053,6 +9618,7 @@ AMBA_CCFv3-2017_mainOlfactoryBulbInnerPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulbInnerPlexiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9069,6 +9635,7 @@ AMBA_CCFv3-2017_mainOlfactoryBulbMitralLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulbMitralLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9085,6 +9652,7 @@ AMBA_CCFv3-2017_mainOlfactoryBulbOuterPlexiformLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mainOlfactoryBulbOuterPlexiformLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9101,6 +9669,7 @@ AMBA_CCFv3-2017_majorIslandOfCalleja
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_majorIslandOfCalleja
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9117,6 +9686,7 @@ AMBA_CCFv3-2017_mammillaryBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mammillaryBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9133,6 +9703,7 @@ AMBA_CCFv3-2017_mammillaryPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mammillaryPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9149,6 +9720,7 @@ AMBA_CCFv3-2017_mammillaryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mammillaryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9165,6 +9737,7 @@ AMBA_CCFv3-2017_mammillotegmentalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mammillotegmentalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9181,6 +9754,7 @@ AMBA_CCFv3-2017_mammillothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mammillothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9197,6 +9771,7 @@ AMBA_CCFv3-2017_medialAccesoryOculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAccesoryOculomotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9213,6 +9788,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9229,6 +9805,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusAnterodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusAnterodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9245,6 +9822,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusAnteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusAnteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9261,6 +9839,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9277,6 +9856,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPartSublayerA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPartSublayerA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9293,6 +9873,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPartSublayerB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPartSublayerB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9309,6 +9890,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPartSublayerC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusPosterodorsalPartSublayerC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9325,6 +9907,7 @@ AMBA_CCFv3-2017_medialAmygdalarNucleusPosteroventralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialAmygdalarNucleusPosteroventralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9341,6 +9924,7 @@ AMBA_CCFv3-2017_medialCorticohypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialCorticohypothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9357,6 +9941,7 @@ AMBA_CCFv3-2017_medialForebrainBundle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialForebrainBundle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9373,6 +9958,7 @@ AMBA_CCFv3-2017_medialForebrainBundleSystem
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialForebrainBundleSystem
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9389,6 +9975,7 @@ AMBA_CCFv3-2017_medialGeniculateComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialGeniculateComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9405,6 +9992,7 @@ AMBA_CCFv3-2017_medialGeniculateComplexDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialGeniculateComplexDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9421,6 +10009,7 @@ AMBA_CCFv3-2017_medialGeniculateComplexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialGeniculateComplexMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9437,6 +10026,7 @@ AMBA_CCFv3-2017_medialGeniculateComplexVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialGeniculateComplexVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9453,6 +10043,7 @@ AMBA_CCFv3-2017_medialGroupOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9469,6 +10060,7 @@ AMBA_CCFv3-2017_medialHabenula
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialHabenula
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9485,6 +10077,7 @@ AMBA_CCFv3-2017_medialLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9501,6 +10094,7 @@ AMBA_CCFv3-2017_medialLongitudinalFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialLongitudinalFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9517,6 +10111,7 @@ AMBA_CCFv3-2017_medialMammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialMammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9533,6 +10128,7 @@ AMBA_CCFv3-2017_medialMammillaryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialMammillaryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9549,6 +10145,7 @@ AMBA_CCFv3-2017_medialMammillaryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialMammillaryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9565,6 +10162,7 @@ AMBA_CCFv3-2017_medialMammillaryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialMammillaryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9581,6 +10179,7 @@ AMBA_CCFv3-2017_medialMammillaryNucleusMedianPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialMammillaryNucleusMedianPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9597,6 +10196,7 @@ AMBA_CCFv3-2017_medialMammillaryNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialMammillaryNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9613,6 +10213,7 @@ AMBA_CCFv3-2017_medialPreopticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialPreopticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9629,6 +10230,7 @@ AMBA_CCFv3-2017_medialPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9645,6 +10247,7 @@ AMBA_CCFv3-2017_medialPreopticNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialPreopticNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9661,6 +10264,7 @@ AMBA_CCFv3-2017_medialPreopticNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialPreopticNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9677,6 +10281,7 @@ AMBA_CCFv3-2017_medialPreopticNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialPreopticNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9693,6 +10298,7 @@ AMBA_CCFv3-2017_medialPretectalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialPretectalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9709,6 +10315,7 @@ AMBA_CCFv3-2017_medialSeptalComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialSeptalComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9725,6 +10332,7 @@ AMBA_CCFv3-2017_medialSeptalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialSeptalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9741,6 +10349,7 @@ AMBA_CCFv3-2017_medialTerminalNucleusOfTheAccessoryOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9757,6 +10366,7 @@ AMBA_CCFv3-2017_medialVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9773,6 +10383,7 @@ AMBA_CCFv3-2017_medialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9789,6 +10400,7 @@ AMBA_CCFv3-2017_medialVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9805,6 +10417,7 @@ AMBA_CCFv3-2017_medialVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9821,6 +10434,7 @@ AMBA_CCFv3-2017_medialVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9837,6 +10451,7 @@ AMBA_CCFv3-2017_medialVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9853,6 +10468,7 @@ AMBA_CCFv3-2017_medialVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9869,6 +10485,7 @@ AMBA_CCFv3-2017_medialVisualArealayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medialVisualArealayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9885,6 +10502,7 @@ AMBA_CCFv3-2017_medianEminence
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medianEminence
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9901,6 +10519,7 @@ AMBA_CCFv3-2017_medianPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medianPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9917,6 +10536,7 @@ AMBA_CCFv3-2017_mediodorsalNucleusOfThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediodorsalNucleusOfThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9933,6 +10553,7 @@ AMBA_CCFv3-2017_mediodorsalNucleusOfTheThalamusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediodorsalNucleusOfTheThalamusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9949,6 +10570,7 @@ AMBA_CCFv3-2017_mediodorsalNucleusOfTheThalamusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediodorsalNucleusOfTheThalamusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9965,6 +10587,7 @@ AMBA_CCFv3-2017_mediodorsalNucleusOfTheThalamusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediodorsalNucleusOfTheThalamusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9981,6 +10604,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -9997,6 +10621,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10013,6 +10638,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10029,6 +10655,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10045,6 +10672,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10061,6 +10689,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10077,6 +10706,7 @@ AMBA_CCFv3-2017_mediomedialAnteriorVisualArealayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialAnteriorVisualArealayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10093,6 +10723,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10109,6 +10740,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10125,6 +10757,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10141,6 +10774,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10157,6 +10791,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10173,6 +10808,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10189,6 +10825,7 @@ AMBA_CCFv3-2017_mediomedialPosteriorVisualArealayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_mediomedialPosteriorVisualArealayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10205,6 +10842,7 @@ AMBA_CCFv3-2017_medulla
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medulla
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10221,6 +10859,7 @@ AMBA_CCFv3-2017_medullaBehavioralStateRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medullaBehavioralStateRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10237,6 +10876,7 @@ AMBA_CCFv3-2017_medullaMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medullaMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10253,6 +10893,7 @@ AMBA_CCFv3-2017_medullaSensoryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medullaSensoryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10269,6 +10910,7 @@ AMBA_CCFv3-2017_medullaryReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medullaryReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10285,6 +10927,7 @@ AMBA_CCFv3-2017_medullaryReticularNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medullaryReticularNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10301,6 +10944,7 @@ AMBA_CCFv3-2017_medullaryReticularNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_medullaryReticularNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10317,6 +10961,7 @@ AMBA_CCFv3-2017_midbrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrain
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10333,6 +10978,7 @@ AMBA_CCFv3-2017_midbrainBehavioralStateRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainBehavioralStateRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10349,6 +10995,7 @@ AMBA_CCFv3-2017_midbrainMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10365,6 +11012,7 @@ AMBA_CCFv3-2017_midbrainRapheNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainRapheNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10381,6 +11029,7 @@ AMBA_CCFv3-2017_midbrainRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10397,6 +11046,7 @@ AMBA_CCFv3-2017_midbrainReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10413,6 +11063,7 @@ AMBA_CCFv3-2017_midbrainReticularNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainReticularNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10429,6 +11080,7 @@ AMBA_CCFv3-2017_midbrainReticularNucleusMagnocellularPartGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainReticularNucleusMagnocellularPartGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10445,6 +11097,7 @@ AMBA_CCFv3-2017_midbrainReticularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainReticularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10461,6 +11114,7 @@ AMBA_CCFv3-2017_midbrainReticularNucleusRetrorubralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainReticularNucleusRetrorubralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10477,6 +11131,7 @@ AMBA_CCFv3-2017_midbrainSensoryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainSensoryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10493,6 +11148,7 @@ AMBA_CCFv3-2017_midbrainTractOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainTractOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10509,6 +11165,7 @@ AMBA_CCFv3-2017_midbrainTrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midbrainTrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10525,6 +11182,7 @@ AMBA_CCFv3-2017_middleCerebellarPeduncle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_middleCerebellarPeduncle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10541,6 +11199,7 @@ AMBA_CCFv3-2017_middleThalamicCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_middleThalamicCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10557,6 +11216,7 @@ AMBA_CCFv3-2017_midlineGroupOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_midlineGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10573,6 +11233,7 @@ AMBA_CCFv3-2017_motorNucleusOfTrigeminal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_motorNucleusOfTrigeminal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10589,6 +11250,7 @@ AMBA_CCFv3-2017_motorRootOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_motorRootOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10605,6 +11267,7 @@ AMBA_CCFv3-2017_nigrostriatalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nigrostriatalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10621,6 +11284,7 @@ AMBA_CCFv3-2017_nigrothalamicFibers
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nigrothalamicFibers
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10637,6 +11301,7 @@ AMBA_CCFv3-2017_nodularFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nodularFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10653,6 +11318,7 @@ AMBA_CCFv3-2017_nodulusX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nodulusX
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10669,6 +11335,7 @@ AMBA_CCFv3-2017_nodulusXGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nodulusXGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10685,6 +11352,7 @@ AMBA_CCFv3-2017_nodulusXMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nodulusXMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10701,6 +11369,7 @@ AMBA_CCFv3-2017_nodulusXPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nodulusXPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10717,6 +11386,7 @@ AMBA_CCFv3-2017_nucleusAccumbens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusAccumbens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10733,6 +11403,7 @@ AMBA_CCFv3-2017_nucleusAmbiguus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusAmbiguus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10749,6 +11420,7 @@ AMBA_CCFv3-2017_nucleusAmbiguusDorsalDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusAmbiguusDorsalDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10765,6 +11437,7 @@ AMBA_CCFv3-2017_nucleusAmbiguusVentralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusAmbiguusVentralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10781,6 +11454,7 @@ AMBA_CCFv3-2017_nucleusCircularis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusCircularis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10797,6 +11471,7 @@ AMBA_CCFv3-2017_nucleusIncertus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusIncertus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10813,6 +11488,7 @@ AMBA_CCFv3-2017_nucleusIntercalatus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusIntercalatus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10829,6 +11505,7 @@ AMBA_CCFv3-2017_nucleusOfDarkschewitsch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfDarkschewitsch
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10845,6 +11522,7 @@ AMBA_CCFv3-2017_nucleusOfReuniens
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfReuniens
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10861,6 +11539,7 @@ AMBA_CCFv3-2017_nucleusOfRoller
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfRoller
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10877,6 +11556,7 @@ AMBA_CCFv3-2017_nucleusOfTheBrachiumOfTheInferiorColliculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheBrachiumOfTheInferiorColliculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10893,6 +11573,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralLemniscus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralLemniscus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10909,6 +11590,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralLemniscusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralLemniscusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10925,6 +11607,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralLemniscusHorizontalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralLemniscusHorizontalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10941,6 +11624,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralLemniscusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralLemniscusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10957,6 +11641,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10973,6 +11658,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -10989,6 +11675,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11005,6 +11692,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11021,6 +11709,7 @@ AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheLateralOlfactoryTractPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11037,6 +11726,7 @@ AMBA_CCFv3-2017_nucleusOfTheOpticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheOpticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11053,6 +11743,7 @@ AMBA_CCFv3-2017_nucleusOfThePosteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfThePosteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11069,6 +11760,7 @@ AMBA_CCFv3-2017_nucleusOfTheSolitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheSolitaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11085,6 +11777,7 @@ AMBA_CCFv3-2017_nucleusOfTheSolitaryTractCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheSolitaryTractCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11101,6 +11794,7 @@ AMBA_CCFv3-2017_nucleusOfTheSolitaryTractCommissuralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheSolitaryTractCommissuralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11117,6 +11811,7 @@ AMBA_CCFv3-2017_nucleusOfTheSolitaryTractGelatinousPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheSolitaryTractGelatinousPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11133,6 +11828,7 @@ AMBA_CCFv3-2017_nucleusOfTheSolitaryTractLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheSolitaryTractLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11149,6 +11845,7 @@ AMBA_CCFv3-2017_nucleusOfTheSolitaryTractMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheSolitaryTractMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11165,6 +11862,7 @@ AMBA_CCFv3-2017_nucleusOfTheTrapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusOfTheTrapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11181,6 +11879,7 @@ AMBA_CCFv3-2017_nucleusPrepositus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusPrepositus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11197,6 +11896,7 @@ AMBA_CCFv3-2017_nucleusRapheMagnus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusRapheMagnus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11213,6 +11913,7 @@ AMBA_CCFv3-2017_nucleusRapheObscurus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusRapheObscurus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11229,6 +11930,7 @@ AMBA_CCFv3-2017_nucleusRaphePallidus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusRaphePallidus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11245,6 +11947,7 @@ AMBA_CCFv3-2017_nucleusRaphePontis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusRaphePontis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11261,6 +11964,7 @@ AMBA_CCFv3-2017_nucleusSagulum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusSagulum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11277,6 +11981,7 @@ AMBA_CCFv3-2017_nucleusX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusX
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11293,6 +11998,7 @@ AMBA_CCFv3-2017_nucleusY
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusY
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11309,6 +12015,7 @@ AMBA_CCFv3-2017_nucleusZ
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_nucleusZ
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11325,6 +12032,7 @@ AMBA_CCFv3-2017_oculomotorNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_oculomotorNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11341,6 +12049,7 @@ AMBA_CCFv3-2017_oculomotorNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_oculomotorNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11357,6 +12066,7 @@ AMBA_CCFv3-2017_olfactoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11373,6 +12083,7 @@ AMBA_CCFv3-2017_olfactoryNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11389,6 +12100,7 @@ AMBA_CCFv3-2017_olfactoryNerveLayerOfMainOlfactoryBulb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryNerveLayerOfMainOlfactoryBulb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11405,6 +12117,7 @@ AMBA_CCFv3-2017_olfactoryTubercle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryTubercle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11421,6 +12134,7 @@ AMBA_CCFv3-2017_olfactoryTubercleLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryTubercleLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11437,6 +12151,7 @@ AMBA_CCFv3-2017_olfactoryTubercleMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryTubercleMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11453,6 +12168,7 @@ AMBA_CCFv3-2017_olfactoryTuberclePolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryTuberclePolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11469,6 +12185,7 @@ AMBA_CCFv3-2017_olfactoryTuberclePyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olfactoryTuberclePyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11485,6 +12202,7 @@ AMBA_CCFv3-2017_olivaryPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olivaryPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11501,6 +12219,7 @@ AMBA_CCFv3-2017_olivocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_olivocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11517,6 +12236,7 @@ AMBA_CCFv3-2017_opticChiasm
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_opticChiasm
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11533,6 +12253,7 @@ AMBA_CCFv3-2017_opticNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_opticNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11549,6 +12270,7 @@ AMBA_CCFv3-2017_opticRadiation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_opticRadiation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11565,6 +12287,7 @@ AMBA_CCFv3-2017_opticTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_opticTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11581,6 +12304,7 @@ AMBA_CCFv3-2017_orbitalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11597,6 +12321,7 @@ AMBA_CCFv3-2017_orbitalAreaLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11613,6 +12338,7 @@ AMBA_CCFv3-2017_orbitalAreaLateralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLateralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11629,6 +12355,7 @@ AMBA_CCFv3-2017_orbitalAreaLateralPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLateralPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11645,6 +12372,7 @@ AMBA_CCFv3-2017_orbitalAreaLateralPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLateralPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11661,6 +12389,7 @@ AMBA_CCFv3-2017_orbitalAreaLateralPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLateralPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11677,6 +12406,7 @@ AMBA_CCFv3-2017_orbitalAreaLateralPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLateralPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11693,6 +12423,7 @@ AMBA_CCFv3-2017_orbitalAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11709,6 +12440,7 @@ AMBA_CCFv3-2017_orbitalAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11725,6 +12457,7 @@ AMBA_CCFv3-2017_orbitalAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11741,6 +12474,7 @@ AMBA_CCFv3-2017_orbitalAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11757,6 +12491,7 @@ AMBA_CCFv3-2017_orbitalAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11773,6 +12508,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11789,6 +12525,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11805,6 +12542,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11821,6 +12559,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPartLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPartLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11837,6 +12576,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11853,6 +12593,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11869,6 +12610,7 @@ AMBA_CCFv3-2017_orbitalAreaMedialPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaMedialPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11885,6 +12627,7 @@ AMBA_CCFv3-2017_orbitalAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11901,6 +12644,7 @@ AMBA_CCFv3-2017_orbitalAreaVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11917,6 +12661,7 @@ AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11933,6 +12678,7 @@ AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11949,6 +12695,7 @@ AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11965,6 +12712,7 @@ AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11981,6 +12729,7 @@ AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_orbitalAreaVentrolateralPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -11997,6 +12746,7 @@ AMBA_CCFv3-2017_pallidotegmentalFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidotegmentalFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12013,6 +12763,7 @@ AMBA_CCFv3-2017_pallidothalamicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidothalamicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12029,6 +12780,7 @@ AMBA_CCFv3-2017_pallidum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12045,6 +12797,7 @@ AMBA_CCFv3-2017_pallidumCaudalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidumCaudalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12061,6 +12814,7 @@ AMBA_CCFv3-2017_pallidumDorsalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidumDorsalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12077,6 +12831,7 @@ AMBA_CCFv3-2017_pallidumMedialRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidumMedialRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12093,6 +12848,7 @@ AMBA_CCFv3-2017_pallidumVentralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pallidumVentralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12109,6 +12865,7 @@ AMBA_CCFv3-2017_parabigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12125,6 +12882,7 @@ AMBA_CCFv3-2017_parabrachialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12141,6 +12899,7 @@ AMBA_CCFv3-2017_parabrachialNucleusLateralDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12157,6 +12916,7 @@ AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionCentralLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionCentralLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12173,6 +12933,7 @@ AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionDorsalLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionDorsalLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12189,6 +12950,7 @@ AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionExternalLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionExternalLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12205,6 +12967,7 @@ AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionSuperiorLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionSuperiorLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12221,6 +12984,7 @@ AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionVentralLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusLateralDivisionVentralLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12237,6 +13001,7 @@ AMBA_CCFv3-2017_parabrachialNucleusMedialDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusMedialDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12253,6 +13018,7 @@ AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionExternalMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionExternalMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12269,6 +13035,7 @@ AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionMedialMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionMedialMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12285,6 +13052,7 @@ AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionVentralMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parabrachialNucleusMedialDivisionVentralMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12301,6 +13069,7 @@ AMBA_CCFv3-2017_paracentralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paracentralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12317,6 +13086,7 @@ AMBA_CCFv3-2017_parafascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parafascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12333,6 +13103,7 @@ AMBA_CCFv3-2017_parafloccularSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parafloccularSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12349,6 +13120,7 @@ AMBA_CCFv3-2017_paraflocculus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraflocculus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12365,6 +13137,7 @@ AMBA_CCFv3-2017_paraflocculusGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraflocculusGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12381,6 +13154,7 @@ AMBA_CCFv3-2017_paraflocculusMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraflocculusMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12397,6 +13171,7 @@ AMBA_CCFv3-2017_paraflocculusPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraflocculusPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12413,6 +13188,7 @@ AMBA_CCFv3-2017_paragigantocellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paragigantocellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12429,6 +13205,7 @@ AMBA_CCFv3-2017_paragigantocellularReticularNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paragigantocellularReticularNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12445,6 +13222,7 @@ AMBA_CCFv3-2017_paragigantocellularReticularNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paragigantocellularReticularNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12461,6 +13239,7 @@ AMBA_CCFv3-2017_paramedianLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paramedianLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12477,6 +13256,7 @@ AMBA_CCFv3-2017_paramedianLobuleGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paramedianLobuleGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12493,6 +13273,7 @@ AMBA_CCFv3-2017_paramedianLobuleMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paramedianLobuleMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12509,6 +13290,7 @@ AMBA_CCFv3-2017_paramedianLobulePurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paramedianLobulePurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12525,6 +13307,7 @@ AMBA_CCFv3-2017_paramedianReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paramedianReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12541,6 +13324,7 @@ AMBA_CCFv3-2017_paramedianSulcus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paramedianSulcus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12557,6 +13341,7 @@ AMBA_CCFv3-2017_paranigralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paranigralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12573,6 +13358,7 @@ AMBA_CCFv3-2017_parapyramidalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parapyramidalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12589,6 +13375,7 @@ AMBA_CCFv3-2017_parapyramidalNucleusDeepPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parapyramidalNucleusDeepPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12605,6 +13392,7 @@ AMBA_CCFv3-2017_parapyramidalNucleusSuperficialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parapyramidalNucleusSuperficialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12621,6 +13409,7 @@ AMBA_CCFv3-2017_parasolitaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parasolitaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12637,6 +13426,7 @@ AMBA_CCFv3-2017_parastrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parastrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12653,6 +13443,7 @@ AMBA_CCFv3-2017_parasubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parasubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12669,6 +13460,7 @@ AMBA_CCFv3-2017_parasubiculumLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parasubiculumLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12685,6 +13477,7 @@ AMBA_CCFv3-2017_parasubiculumLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parasubiculumLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12701,6 +13494,7 @@ AMBA_CCFv3-2017_parasubiculumLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parasubiculumLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12717,6 +13511,7 @@ AMBA_CCFv3-2017_parasubthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parasubthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12733,6 +13528,7 @@ AMBA_CCFv3-2017_parataenialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parataenialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12749,6 +13545,7 @@ AMBA_CCFv3-2017_paratrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paratrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12765,6 +13562,7 @@ AMBA_CCFv3-2017_paratrochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paratrochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12781,6 +13579,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12797,6 +13596,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12813,6 +13613,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionDorsalParvic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionDorsalParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12829,6 +13630,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionFornicealPar
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionFornicealPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12845,6 +13647,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionLateralParvi
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionLateralParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12861,6 +13664,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionMedialParvic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusDescendingDivisionMedialParvicellularPartVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12877,6 +13681,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12893,6 +13698,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionAnteriorM
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionAnteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12909,6 +13715,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionMedialMag
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionMedialMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12925,6 +13732,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionPosterior
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionPosteriorMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12941,6 +13749,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionPosterior
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionPosteriorMagnocellularPartLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12957,6 +13766,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionPosterior
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusMagnocellularDivisionPosteriorMagnocellularPartMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12973,6 +13783,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivision
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivision
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -12989,6 +13800,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionAnteriorP
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionAnteriorParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13005,6 +13817,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionMedialPar
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionMedialParvicellularPartDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13021,6 +13834,7 @@ AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionPeriventr
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularHypothalamicNucleusParvicellularDivisionPeriventricularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13037,6 +13851,7 @@ AMBA_CCFv3-2017_paraventricularNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_paraventricularNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13053,6 +13868,7 @@ AMBA_CCFv3-2017_parvicellularMotor5Nucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parvicellularMotor5Nucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13069,6 +13885,7 @@ AMBA_CCFv3-2017_parvicellularReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_parvicellularReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13085,6 +13902,7 @@ AMBA_CCFv3-2017_pedunculopontineNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pedunculopontineNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13101,6 +13919,7 @@ AMBA_CCFv3-2017_perforantPath
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perforantPath
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13117,6 +13936,7 @@ AMBA_CCFv3-2017_periaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13133,6 +13953,7 @@ AMBA_CCFv3-2017_perifornicalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perifornicalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13149,6 +13970,7 @@ AMBA_CCFv3-2017_perihypoglossalNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perihypoglossalNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13165,6 +13987,7 @@ AMBA_CCFv3-2017_peripeduncularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_peripeduncularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13181,6 +14004,7 @@ AMBA_CCFv3-2017_perireunensisNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perireunensisNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13197,6 +14021,7 @@ AMBA_CCFv3-2017_perirhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perirhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13213,6 +14038,7 @@ AMBA_CCFv3-2017_perirhinalAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perirhinalAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13229,6 +14055,7 @@ AMBA_CCFv3-2017_perirhinalAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perirhinalAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13245,6 +14072,7 @@ AMBA_CCFv3-2017_perirhinalAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perirhinalAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13261,6 +14089,7 @@ AMBA_CCFv3-2017_perirhinalAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perirhinalAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13277,6 +14106,7 @@ AMBA_CCFv3-2017_perirhinalAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_perirhinalAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13293,6 +14123,7 @@ AMBA_CCFv3-2017_peritrigeminalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_peritrigeminalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13309,6 +14140,7 @@ AMBA_CCFv3-2017_periventricularBundleOfTheHypothalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularBundleOfTheHypothalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13325,6 +14157,7 @@ AMBA_CCFv3-2017_periventricularBundleOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularBundleOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13341,6 +14174,7 @@ AMBA_CCFv3-2017_periventricularHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13357,6 +14191,7 @@ AMBA_CCFv3-2017_periventricularHypothalamicNucleusIntermediatePart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularHypothalamicNucleusIntermediatePart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13373,6 +14208,7 @@ AMBA_CCFv3-2017_periventricularHypothalamicNucleusPosteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularHypothalamicNucleusPosteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13389,6 +14225,7 @@ AMBA_CCFv3-2017_periventricularHypothalamicNucleusPreopticPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularHypothalamicNucleusPreopticPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13405,6 +14242,7 @@ AMBA_CCFv3-2017_periventricularRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13421,6 +14259,7 @@ AMBA_CCFv3-2017_periventricularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_periventricularZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13437,6 +14276,7 @@ AMBA_CCFv3-2017_pinealBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pinealBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13453,6 +14293,7 @@ AMBA_CCFv3-2017_pinealStalk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pinealStalk
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13469,6 +14310,7 @@ AMBA_CCFv3-2017_piriformArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13485,6 +14327,7 @@ AMBA_CCFv3-2017_piriformAreaLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformAreaLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13501,6 +14344,7 @@ AMBA_CCFv3-2017_piriformAreaMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformAreaMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13517,6 +14361,7 @@ AMBA_CCFv3-2017_piriformAreaPolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformAreaPolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13533,6 +14378,7 @@ AMBA_CCFv3-2017_piriformAreaPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformAreaPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13549,6 +14395,7 @@ AMBA_CCFv3-2017_piriformamygdalarArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformamygdalarArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13565,6 +14412,7 @@ AMBA_CCFv3-2017_piriformamygdalarAreaLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformamygdalarAreaLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13581,6 +14429,7 @@ AMBA_CCFv3-2017_piriformamygdalarAreaMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformamygdalarAreaMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13597,6 +14446,7 @@ AMBA_CCFv3-2017_piriformamygdalarAreaPolymorphLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformamygdalarAreaPolymorphLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13613,6 +14463,7 @@ AMBA_CCFv3-2017_piriformamygdalarAreaPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_piriformamygdalarAreaPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13629,6 +14480,7 @@ AMBA_CCFv3-2017_pons
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pons
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13645,6 +14497,7 @@ AMBA_CCFv3-2017_ponsBehavioralStateRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ponsBehavioralStateRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13661,6 +14514,7 @@ AMBA_CCFv3-2017_ponsMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ponsMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13677,6 +14531,7 @@ AMBA_CCFv3-2017_ponsSensoryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ponsSensoryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13693,6 +14548,7 @@ AMBA_CCFv3-2017_pontineCentralGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pontineCentralGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13709,6 +14565,7 @@ AMBA_CCFv3-2017_pontineGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pontineGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13725,6 +14582,7 @@ AMBA_CCFv3-2017_pontineReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pontineReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13741,6 +14599,7 @@ AMBA_CCFv3-2017_pontineReticularNucleusCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pontineReticularNucleusCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13757,6 +14616,7 @@ AMBA_CCFv3-2017_pontineReticularNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pontineReticularNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13773,6 +14633,7 @@ AMBA_CCFv3-2017_postcommissuralFornix
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postcommissuralFornix
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13789,6 +14650,7 @@ AMBA_CCFv3-2017_posteriorAmygdalarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAmygdalarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13805,6 +14667,7 @@ AMBA_CCFv3-2017_posteriorAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13821,6 +14684,7 @@ AMBA_CCFv3-2017_posteriorAuditoryAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13837,6 +14701,7 @@ AMBA_CCFv3-2017_posteriorAuditoryAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13853,6 +14718,7 @@ AMBA_CCFv3-2017_posteriorAuditoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13869,6 +14735,7 @@ AMBA_CCFv3-2017_posteriorAuditoryAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13885,6 +14752,7 @@ AMBA_CCFv3-2017_posteriorAuditoryAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13901,6 +14769,7 @@ AMBA_CCFv3-2017_posteriorAuditoryAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorAuditoryAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13917,6 +14786,7 @@ AMBA_CCFv3-2017_posteriorCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13933,6 +14803,7 @@ AMBA_CCFv3-2017_posteriorComplexOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorComplexOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13949,6 +14820,7 @@ AMBA_CCFv3-2017_posteriorHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13965,6 +14837,7 @@ AMBA_CCFv3-2017_posteriorIntralaminarThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorIntralaminarThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13981,6 +14854,7 @@ AMBA_CCFv3-2017_posteriorLimitingNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorLimitingNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -13997,6 +14871,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14013,6 +14888,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14029,6 +14905,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14045,6 +14922,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14061,6 +14939,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14077,6 +14956,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14093,6 +14973,7 @@ AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorParietalAssociationAreasLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14109,6 +14990,7 @@ AMBA_CCFv3-2017_posteriorPretectalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorPretectalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14125,6 +15007,7 @@ AMBA_CCFv3-2017_posteriorSuperiorFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorSuperiorFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14141,6 +15024,7 @@ AMBA_CCFv3-2017_posteriorTriangularThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteriorTriangularThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14157,6 +15041,7 @@ AMBA_CCFv3-2017_posterodorsalPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterodorsalPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14173,6 +15058,7 @@ AMBA_CCFv3-2017_posterodorsalTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterodorsalTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14189,6 +15075,7 @@ AMBA_CCFv3-2017_posterolateralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14205,6 +15092,7 @@ AMBA_CCFv3-2017_posterolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14221,6 +15109,7 @@ AMBA_CCFv3-2017_posterolateralVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14237,6 +15126,7 @@ AMBA_CCFv3-2017_posterolateralVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14253,6 +15143,7 @@ AMBA_CCFv3-2017_posterolateralVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14269,6 +15160,7 @@ AMBA_CCFv3-2017_posterolateralVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14285,6 +15177,7 @@ AMBA_CCFv3-2017_posterolateralVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14301,6 +15194,7 @@ AMBA_CCFv3-2017_posterolateralVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posterolateralVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14317,6 +15211,7 @@ AMBA_CCFv3-2017_posteromedialVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14333,6 +15228,7 @@ AMBA_CCFv3-2017_posteromedialVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14349,6 +15245,7 @@ AMBA_CCFv3-2017_posteromedialVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14365,6 +15262,7 @@ AMBA_CCFv3-2017_posteromedialVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14381,6 +15279,7 @@ AMBA_CCFv3-2017_posteromedialVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14397,6 +15296,7 @@ AMBA_CCFv3-2017_posteromedialVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14413,6 +15313,7 @@ AMBA_CCFv3-2017_posteromedialVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_posteromedialVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14429,6 +15330,7 @@ AMBA_CCFv3-2017_postpiriformTransitionArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postpiriformTransitionArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14445,6 +15347,7 @@ AMBA_CCFv3-2017_postpiriformTransitionAreaLayers1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postpiriformTransitionAreaLayers1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14461,6 +15364,7 @@ AMBA_CCFv3-2017_postpiriformTransitionAreaLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postpiriformTransitionAreaLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14477,6 +15381,7 @@ AMBA_CCFv3-2017_postpiriformTransitionAreaLayers2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postpiriformTransitionAreaLayers2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14493,6 +15398,7 @@ AMBA_CCFv3-2017_postpiriformTransitionAreaLayers3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postpiriformTransitionAreaLayers3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14509,6 +15415,7 @@ AMBA_CCFv3-2017_postrhinalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14525,6 +15432,7 @@ AMBA_CCFv3-2017_postrhinalAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14541,6 +15449,7 @@ AMBA_CCFv3-2017_postrhinalAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14557,6 +15466,7 @@ AMBA_CCFv3-2017_postrhinalAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14573,6 +15483,7 @@ AMBA_CCFv3-2017_postrhinalAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14589,6 +15500,7 @@ AMBA_CCFv3-2017_postrhinalAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14605,6 +15517,7 @@ AMBA_CCFv3-2017_postrhinalAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postrhinalAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14621,6 +15534,7 @@ AMBA_CCFv3-2017_postsubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postsubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14637,6 +15551,7 @@ AMBA_CCFv3-2017_postsubiculumLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postsubiculumLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14653,6 +15568,7 @@ AMBA_CCFv3-2017_postsubiculumLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postsubiculumLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14669,6 +15585,7 @@ AMBA_CCFv3-2017_postsubiculumLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_postsubiculumLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14685,6 +15602,7 @@ AMBA_CCFv3-2017_precentralFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_precentralFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14701,6 +15619,7 @@ AMBA_CCFv3-2017_precommissuralFornixDiagonalBand
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_precommissuralFornixDiagonalBand
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14717,6 +15636,7 @@ AMBA_CCFv3-2017_precommissuralFornixGeneral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_precommissuralFornixGeneral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14733,6 +15653,7 @@ AMBA_CCFv3-2017_precommissuralNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_precommissuralNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14749,6 +15670,7 @@ AMBA_CCFv3-2017_preculminateFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_preculminateFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14765,6 +15687,7 @@ AMBA_CCFv3-2017_prelimbicArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14781,6 +15704,7 @@ AMBA_CCFv3-2017_prelimbicAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14797,6 +15721,7 @@ AMBA_CCFv3-2017_prelimbicAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14813,6 +15738,7 @@ AMBA_CCFv3-2017_prelimbicAreaLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicAreaLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14829,6 +15755,7 @@ AMBA_CCFv3-2017_prelimbicAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14845,6 +15772,7 @@ AMBA_CCFv3-2017_prelimbicAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14861,6 +15789,7 @@ AMBA_CCFv3-2017_prelimbicAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prelimbicAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14877,6 +15806,7 @@ AMBA_CCFv3-2017_premammillaryCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_premammillaryCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14893,6 +15823,7 @@ AMBA_CCFv3-2017_preopticCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_preopticCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14909,6 +15840,7 @@ AMBA_CCFv3-2017_preparasubthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_preparasubthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14925,6 +15857,7 @@ AMBA_CCFv3-2017_prepyramidalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prepyramidalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14941,6 +15874,7 @@ AMBA_CCFv3-2017_presubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_presubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14957,6 +15891,7 @@ AMBA_CCFv3-2017_presubiculumLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_presubiculumLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14973,6 +15908,7 @@ AMBA_CCFv3-2017_presubiculumLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_presubiculumLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -14989,6 +15925,7 @@ AMBA_CCFv3-2017_presubiculumLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_presubiculumLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15005,6 +15942,7 @@ AMBA_CCFv3-2017_pretectalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pretectalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15021,6 +15959,7 @@ AMBA_CCFv3-2017_primaryAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15037,6 +15976,7 @@ AMBA_CCFv3-2017_primaryAuditoryAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15053,6 +15993,7 @@ AMBA_CCFv3-2017_primaryAuditoryAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15069,6 +16010,7 @@ AMBA_CCFv3-2017_primaryAuditoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15085,6 +16027,7 @@ AMBA_CCFv3-2017_primaryAuditoryAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15101,6 +16044,7 @@ AMBA_CCFv3-2017_primaryAuditoryAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15117,6 +16061,7 @@ AMBA_CCFv3-2017_primaryAuditoryAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryAuditoryAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15133,6 +16078,7 @@ AMBA_CCFv3-2017_primaryFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15149,6 +16095,7 @@ AMBA_CCFv3-2017_primaryMotorArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryMotorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15165,6 +16112,7 @@ AMBA_CCFv3-2017_primaryMotorAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryMotorAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15181,6 +16129,7 @@ AMBA_CCFv3-2017_primaryMotorAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryMotorAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15197,6 +16146,7 @@ AMBA_CCFv3-2017_primaryMotorAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryMotorAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15213,6 +16163,7 @@ AMBA_CCFv3-2017_primaryMotorAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryMotorAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15229,6 +16180,7 @@ AMBA_CCFv3-2017_primaryMotorAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryMotorAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15245,6 +16197,7 @@ AMBA_CCFv3-2017_primarySomatosensoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15261,6 +16214,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelField
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelField
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15277,6 +16231,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15293,6 +16248,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15309,6 +16265,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15325,6 +16282,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15341,6 +16299,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15357,6 +16316,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaBarrelFieldLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15373,6 +16333,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15389,6 +16350,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15405,6 +16367,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15421,6 +16384,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15437,6 +16401,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15453,6 +16418,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15469,6 +16435,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15485,6 +16452,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15501,6 +16469,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15517,6 +16486,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15533,6 +16503,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15549,6 +16520,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15565,6 +16537,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaLowerLimbLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15581,6 +16554,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouth
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouth
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15597,6 +16571,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15613,6 +16588,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15629,6 +16605,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15645,6 +16622,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15661,6 +16639,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15677,6 +16656,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaMouthLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15693,6 +16673,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNose
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNose
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15709,6 +16690,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15725,6 +16707,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15741,6 +16724,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15757,6 +16741,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15773,6 +16758,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15789,6 +16775,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaNoseLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15805,6 +16792,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunk
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunk
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15821,6 +16809,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15837,6 +16826,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15853,6 +16843,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15869,6 +16860,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15885,6 +16877,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15901,6 +16894,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaTrunkLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15917,6 +16911,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassigned
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassigned
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15933,6 +16928,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15949,6 +16945,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15965,6 +16962,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15981,6 +16979,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -15997,6 +16996,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16013,6 +17013,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUnassignedLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16029,6 +17030,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimb
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimb
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16045,6 +17047,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16061,6 +17064,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16077,6 +17081,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16093,6 +17098,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16109,6 +17115,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16125,6 +17132,7 @@ AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primarySomatosensoryAreaUpperLimbLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16141,6 +17149,7 @@ AMBA_CCFv3-2017_primaryVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16157,6 +17166,7 @@ AMBA_CCFv3-2017_primaryVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16173,6 +17183,7 @@ AMBA_CCFv3-2017_primaryVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16189,6 +17200,7 @@ AMBA_CCFv3-2017_primaryVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16205,6 +17217,7 @@ AMBA_CCFv3-2017_primaryVisualAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16221,6 +17234,7 @@ AMBA_CCFv3-2017_primaryVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16237,6 +17251,7 @@ AMBA_CCFv3-2017_primaryVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_primaryVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16253,6 +17268,7 @@ AMBA_CCFv3-2017_principalMammillaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_principalMammillaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16269,6 +17285,7 @@ AMBA_CCFv3-2017_principalSensoryNucleusOfTheTrigeminal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_principalSensoryNucleusOfTheTrigeminal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16285,6 +17302,7 @@ AMBA_CCFv3-2017_propriohypothalamicPathways
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_propriohypothalamicPathways
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16301,6 +17319,7 @@ AMBA_CCFv3-2017_propriohypothalamicPathwaysDorsal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_propriohypothalamicPathwaysDorsal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16317,6 +17336,7 @@ AMBA_CCFv3-2017_propriohypothalamicPathwaysLateral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_propriohypothalamicPathwaysLateral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16333,6 +17353,7 @@ AMBA_CCFv3-2017_propriohypothalamicPathwaysMedial
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_propriohypothalamicPathwaysMedial
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16349,6 +17370,7 @@ AMBA_CCFv3-2017_propriohypothalamicPathwaysVentral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_propriohypothalamicPathwaysVentral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16365,6 +17387,7 @@ AMBA_CCFv3-2017_prosubiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16381,6 +17404,7 @@ AMBA_CCFv3-2017_prosubiculumDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16397,6 +17421,7 @@ AMBA_CCFv3-2017_prosubiculumDorsalPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumDorsalPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16413,6 +17438,7 @@ AMBA_CCFv3-2017_prosubiculumDorsalPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumDorsalPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16429,6 +17455,7 @@ AMBA_CCFv3-2017_prosubiculumDorsalPartStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumDorsalPartStratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16445,6 +17472,7 @@ AMBA_CCFv3-2017_prosubiculumVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16461,6 +17489,7 @@ AMBA_CCFv3-2017_prosubiculumVentralPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumVentralPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16477,6 +17506,7 @@ AMBA_CCFv3-2017_prosubiculumVentralPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumVentralPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16493,6 +17523,7 @@ AMBA_CCFv3-2017_prosubiculumVentralPartStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_prosubiculumVentralPartStratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16509,6 +17540,7 @@ AMBA_CCFv3-2017_pyramid
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pyramid
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16525,6 +17557,7 @@ AMBA_CCFv3-2017_pyramidalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pyramidalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16541,6 +17574,7 @@ AMBA_CCFv3-2017_pyramusVIII
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pyramusVIII
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16557,6 +17591,7 @@ AMBA_CCFv3-2017_pyramusVIIIGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pyramusVIIIGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16573,6 +17608,7 @@ AMBA_CCFv3-2017_pyramusVIIIMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pyramusVIIIMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16589,6 +17625,7 @@ AMBA_CCFv3-2017_pyramusVIIIPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_pyramusVIIIPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16605,6 +17642,7 @@ AMBA_CCFv3-2017_redNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_redNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16621,6 +17659,7 @@ AMBA_CCFv3-2017_reticularNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_reticularNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16637,6 +17676,7 @@ AMBA_CCFv3-2017_reticulocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_reticulocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16653,6 +17693,7 @@ AMBA_CCFv3-2017_retina
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retina
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16669,6 +17710,7 @@ AMBA_CCFv3-2017_retriculospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retriculospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16685,6 +17727,7 @@ AMBA_CCFv3-2017_retriculospinalTractLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retriculospinalTractLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16701,6 +17744,7 @@ AMBA_CCFv3-2017_retriculospinalTractMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retriculospinalTractMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16717,6 +17761,7 @@ AMBA_CCFv3-2017_retrochiasmaticArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrochiasmaticArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16733,6 +17778,7 @@ AMBA_CCFv3-2017_retroethmoidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retroethmoidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16749,6 +17795,7 @@ AMBA_CCFv3-2017_retrohippocampalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrohippocampalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16765,6 +17812,7 @@ AMBA_CCFv3-2017_retroparafascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retroparafascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16781,6 +17829,7 @@ AMBA_CCFv3-2017_retrosplenialArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16797,6 +17846,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16813,6 +17863,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16829,6 +17880,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16845,6 +17897,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16861,6 +17914,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16877,6 +17931,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16893,6 +17948,7 @@ AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaDorsalPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16909,6 +17965,7 @@ AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16925,6 +17982,7 @@ AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16941,6 +17999,7 @@ AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16957,6 +18016,7 @@ AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16973,6 +18033,7 @@ AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -16989,6 +18050,7 @@ AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaLateralAgranularPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17005,6 +18067,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17021,6 +18084,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17037,6 +18101,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17053,6 +18118,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17069,6 +18135,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17085,6 +18152,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17101,6 +18169,7 @@ AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_retrosplenialAreaVentralPartLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17117,6 +18186,7 @@ AMBA_CCFv3-2017_rhinalFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rhinalFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17133,6 +18203,7 @@ AMBA_CCFv3-2017_rhinalIncisure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rhinalIncisure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17149,6 +18220,7 @@ AMBA_CCFv3-2017_rhinocele
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rhinocele
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17165,6 +18237,7 @@ AMBA_CCFv3-2017_rhomboidNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rhomboidNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17181,6 +18254,7 @@ AMBA_CCFv3-2017_root
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_root
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17197,6 +18271,7 @@ AMBA_CCFv3-2017_rostralLinearNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostralLinearNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17213,6 +18288,7 @@ AMBA_CCFv3-2017_rostrolateralAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17229,6 +18305,7 @@ AMBA_CCFv3-2017_rostrolateralAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17245,6 +18322,7 @@ AMBA_CCFv3-2017_rostrolateralAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17261,6 +18339,7 @@ AMBA_CCFv3-2017_rostrolateralAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17277,6 +18356,7 @@ AMBA_CCFv3-2017_rostrolateralAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17293,6 +18373,7 @@ AMBA_CCFv3-2017_rostrolateralAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17309,6 +18390,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17325,6 +18407,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17341,6 +18424,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17357,6 +18441,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17373,6 +18458,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17389,6 +18475,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17405,6 +18492,7 @@ AMBA_CCFv3-2017_rostrolateralLateralVisualArealayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralLateralVisualArealayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17421,6 +18509,7 @@ AMBA_CCFv3-2017_rostrolateralVisualArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rostrolateralVisualArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17437,6 +18526,7 @@ AMBA_CCFv3-2017_rubroreticularTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rubroreticularTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17453,6 +18543,7 @@ AMBA_CCFv3-2017_rubrospinalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_rubrospinalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17469,6 +18560,7 @@ AMBA_CCFv3-2017_secondaryFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17485,6 +18577,7 @@ AMBA_CCFv3-2017_secondaryMotorArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryMotorArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17501,6 +18594,7 @@ AMBA_CCFv3-2017_secondaryMotorAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryMotorAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17517,6 +18611,7 @@ AMBA_CCFv3-2017_secondaryMotorAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryMotorAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17533,6 +18628,7 @@ AMBA_CCFv3-2017_secondaryMotorAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryMotorAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17549,6 +18645,7 @@ AMBA_CCFv3-2017_secondaryMotorAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryMotorAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17565,6 +18662,7 @@ AMBA_CCFv3-2017_secondaryMotorAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_secondaryMotorAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17581,6 +18679,7 @@ AMBA_CCFv3-2017_sensoryRootOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_sensoryRootOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17597,6 +18696,7 @@ AMBA_CCFv3-2017_septofimbrialNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_septofimbrialNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17613,6 +18713,7 @@ AMBA_CCFv3-2017_septohippocampalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_septohippocampalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17629,6 +18730,7 @@ AMBA_CCFv3-2017_simpleFissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_simpleFissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17645,6 +18747,7 @@ AMBA_CCFv3-2017_simpleLobule
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_simpleLobule
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17661,6 +18764,7 @@ AMBA_CCFv3-2017_simpleLobuleGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_simpleLobuleGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17677,6 +18781,7 @@ AMBA_CCFv3-2017_simpleLobuleMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_simpleLobuleMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17693,6 +18798,7 @@ AMBA_CCFv3-2017_simpleLobulePurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_simpleLobulePurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17709,6 +18815,7 @@ AMBA_CCFv3-2017_solitaryTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_solitaryTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17725,6 +18832,7 @@ AMBA_CCFv3-2017_somatomotorAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatomotorAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17741,6 +18849,7 @@ AMBA_CCFv3-2017_somatomotorAreasLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatomotorAreasLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17757,6 +18866,7 @@ AMBA_CCFv3-2017_somatomotorAreasLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatomotorAreasLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17773,6 +18883,7 @@ AMBA_CCFv3-2017_somatomotorAreasLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatomotorAreasLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17789,6 +18900,7 @@ AMBA_CCFv3-2017_somatomotorAreasLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatomotorAreasLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17805,6 +18917,7 @@ AMBA_CCFv3-2017_somatomotorAreasLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatomotorAreasLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17821,6 +18934,7 @@ AMBA_CCFv3-2017_somatosensoryAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17837,6 +18951,7 @@ AMBA_CCFv3-2017_somatosensoryAreasLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreasLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17853,6 +18968,7 @@ AMBA_CCFv3-2017_somatosensoryAreasLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreasLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17869,6 +18985,7 @@ AMBA_CCFv3-2017_somatosensoryAreasLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreasLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17885,6 +19002,7 @@ AMBA_CCFv3-2017_somatosensoryAreasLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreasLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17901,6 +19019,7 @@ AMBA_CCFv3-2017_somatosensoryAreasLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreasLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17917,6 +19036,7 @@ AMBA_CCFv3-2017_somatosensoryAreasLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_somatosensoryAreasLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17933,6 +19053,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalCaudalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalCaudalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17949,6 +19070,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalInterpolarPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalInterpolarPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17965,6 +19087,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17981,6 +19104,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -17997,6 +19121,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialPartDorsalZ
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialPartDorsalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18013,6 +19138,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialPartVentral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialPartVentralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18029,6 +19155,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18045,6 +19172,7 @@ AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18061,6 +19189,7 @@ AMBA_CCFv3-2017_spinalTractOfTheTrigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalTractOfTheTrigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18077,6 +19206,7 @@ AMBA_CCFv3-2017_spinalVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinalVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18093,6 +19223,7 @@ AMBA_CCFv3-2017_spinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18109,6 +19240,7 @@ AMBA_CCFv3-2017_spinocervicalTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinocervicalTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18125,6 +19257,7 @@ AMBA_CCFv3-2017_spinohypothalamicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinohypothalamicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18141,6 +19274,7 @@ AMBA_CCFv3-2017_spinoolivaryPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinoolivaryPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18157,6 +19291,7 @@ AMBA_CCFv3-2017_spinoreticularPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinoreticularPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18173,6 +19308,7 @@ AMBA_CCFv3-2017_spinotectalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinotectalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18189,6 +19325,7 @@ AMBA_CCFv3-2017_spinotelenchephalicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinotelenchephalicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18205,6 +19342,7 @@ AMBA_CCFv3-2017_spinothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18221,6 +19359,7 @@ AMBA_CCFv3-2017_spinovestibularPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_spinovestibularPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18237,6 +19376,7 @@ AMBA_CCFv3-2017_striaMedullaris
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striaMedullaris
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18253,6 +19393,7 @@ AMBA_CCFv3-2017_striaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18269,6 +19410,7 @@ AMBA_CCFv3-2017_striatonigralPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striatonigralPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18285,6 +19427,7 @@ AMBA_CCFv3-2017_striatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18301,6 +19444,7 @@ AMBA_CCFv3-2017_striatumDorsalRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striatumDorsalRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18317,6 +19461,7 @@ AMBA_CCFv3-2017_striatumVentralRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striatumVentralRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18333,6 +19478,7 @@ AMBA_CCFv3-2017_striatumlikeAmygdalarNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_striatumlikeAmygdalarNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18349,6 +19495,7 @@ AMBA_CCFv3-2017_subceruleusNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subceruleusNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18365,6 +19512,7 @@ AMBA_CCFv3-2017_subcommissuralOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subcommissuralOrgan
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18381,6 +19529,7 @@ AMBA_CCFv3-2017_subependymalZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subependymalZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18397,6 +19546,7 @@ AMBA_CCFv3-2017_subfornicalOrgan
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subfornicalOrgan
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18413,6 +19563,7 @@ AMBA_CCFv3-2017_subgeniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subgeniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18429,6 +19580,7 @@ AMBA_CCFv3-2017_subiculum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18445,6 +19597,7 @@ AMBA_CCFv3-2017_subiculumDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18461,6 +19614,7 @@ AMBA_CCFv3-2017_subiculumDorsalPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumDorsalPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18477,6 +19631,7 @@ AMBA_CCFv3-2017_subiculumDorsalPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumDorsalPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18493,6 +19648,7 @@ AMBA_CCFv3-2017_subiculumDorsalPartStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumDorsalPartStratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18509,6 +19665,7 @@ AMBA_CCFv3-2017_subiculumVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18525,6 +19682,7 @@ AMBA_CCFv3-2017_subiculumVentralPartMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumVentralPartMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18541,6 +19699,7 @@ AMBA_CCFv3-2017_subiculumVentralPartPyramidalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumVentralPartPyramidalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18557,6 +19716,7 @@ AMBA_CCFv3-2017_subiculumVentralPartStratumRadiatum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subiculumVentralPartStratumRadiatum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18573,6 +19733,7 @@ AMBA_CCFv3-2017_sublaterodorsalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_sublaterodorsalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18589,6 +19750,7 @@ AMBA_CCFv3-2017_submedialNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_submedialNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18605,6 +19767,7 @@ AMBA_CCFv3-2017_subparafascicularArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subparafascicularArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18621,6 +19784,7 @@ AMBA_CCFv3-2017_subparafascicularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subparafascicularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18637,6 +19801,7 @@ AMBA_CCFv3-2017_subparafascicularNucleusMagnocellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subparafascicularNucleusMagnocellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18653,6 +19818,7 @@ AMBA_CCFv3-2017_subparafascicularNucleusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subparafascicularNucleusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18669,6 +19835,7 @@ AMBA_CCFv3-2017_subparaventricularZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subparaventricularZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18685,6 +19852,7 @@ AMBA_CCFv3-2017_substantiaInnominata
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_substantiaInnominata
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18701,6 +19869,7 @@ AMBA_CCFv3-2017_substantiaNigraCompactPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_substantiaNigraCompactPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18717,6 +19886,7 @@ AMBA_CCFv3-2017_substantiaNigraLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_substantiaNigraLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18733,6 +19903,7 @@ AMBA_CCFv3-2017_substantiaNigraReticularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_substantiaNigraReticularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18749,6 +19920,7 @@ AMBA_CCFv3-2017_subthalamicFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subthalamicFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18765,6 +19937,7 @@ AMBA_CCFv3-2017_subthalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_subthalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18781,6 +19954,7 @@ AMBA_CCFv3-2017_superiorCentralNucleusRaphe
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorCentralNucleusRaphe
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18797,6 +19971,7 @@ AMBA_CCFv3-2017_superiorCentralNucleusRapheLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorCentralNucleusRapheLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18813,6 +19988,7 @@ AMBA_CCFv3-2017_superiorCentralNucleusRapheMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorCentralNucleusRapheMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18829,6 +20005,7 @@ AMBA_CCFv3-2017_superiorCerebelarPeduncles
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorCerebelarPeduncles
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18845,6 +20022,7 @@ AMBA_CCFv3-2017_superiorCerebellarPeduncleDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorCerebellarPeduncleDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18861,6 +20039,7 @@ AMBA_CCFv3-2017_superiorColliculusCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18877,6 +20056,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18893,6 +20073,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedDeepGrayLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedDeepGrayLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18909,6 +20090,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedDeepWhiteLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedDeepWhiteLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18925,6 +20107,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18941,6 +20124,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayerSublayerA
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayerSublayerA
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18957,6 +20141,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayerSublayerB
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayerSublayerB
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18973,6 +20158,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayerSublayerC
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateGrayLayerSublayerC
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -18989,6 +20175,7 @@ AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateWhiteLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusMotorRelatedIntermediateWhiteLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19005,6 +20192,7 @@ AMBA_CCFv3-2017_superiorColliculusOpticLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusOpticLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19021,6 +20209,7 @@ AMBA_CCFv3-2017_superiorColliculusSensoryRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusSensoryRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19037,6 +20226,7 @@ AMBA_CCFv3-2017_superiorColliculusSuperficialGrayLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusSuperficialGrayLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19053,6 +20243,7 @@ AMBA_CCFv3-2017_superiorColliculusZonalLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorColliculusZonalLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19069,6 +20260,7 @@ AMBA_CCFv3-2017_superiorOlivaryComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorOlivaryComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19085,6 +20277,7 @@ AMBA_CCFv3-2017_superiorOlivaryComplexLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorOlivaryComplexLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19101,6 +20294,7 @@ AMBA_CCFv3-2017_superiorOlivaryComplexMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorOlivaryComplexMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19117,6 +20311,7 @@ AMBA_CCFv3-2017_superiorOlivaryComplexPeriolivaryRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorOlivaryComplexPeriolivaryRegion
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19133,6 +20328,7 @@ AMBA_CCFv3-2017_superiorSalivatoryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorSalivatoryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19149,6 +20345,7 @@ AMBA_CCFv3-2017_superiorVestibularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_superiorVestibularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19165,6 +20362,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19181,6 +20379,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19197,6 +20396,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19213,6 +20413,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19229,6 +20430,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19245,6 +20447,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19261,6 +20464,7 @@ AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supplementalSomatosensoryAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19277,6 +20481,7 @@ AMBA_CCFv3-2017_supracallosalCerebralWhiteMatter
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supracallosalCerebralWhiteMatter
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19293,6 +20498,7 @@ AMBA_CCFv3-2017_suprachiasmaticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_suprachiasmaticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19309,6 +20515,7 @@ AMBA_CCFv3-2017_suprachiasmaticPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_suprachiasmaticPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19325,6 +20532,7 @@ AMBA_CCFv3-2017_suprageniculateNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_suprageniculateNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19341,6 +20549,7 @@ AMBA_CCFv3-2017_supragenualNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supragenualNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19357,6 +20566,7 @@ AMBA_CCFv3-2017_supramammillaryDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supramammillaryDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19373,6 +20583,7 @@ AMBA_CCFv3-2017_supramammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supramammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19389,6 +20600,7 @@ AMBA_CCFv3-2017_supramammillaryNucleusLateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supramammillaryNucleusLateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19405,6 +20617,7 @@ AMBA_CCFv3-2017_supramammillaryNucleusMedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supramammillaryNucleusMedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19421,6 +20634,7 @@ AMBA_CCFv3-2017_supraoculomotorPeriaqueductalGray
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supraoculomotorPeriaqueductalGray
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19437,6 +20651,7 @@ AMBA_CCFv3-2017_supraopticCommissures
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supraopticCommissures
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19453,6 +20668,7 @@ AMBA_CCFv3-2017_supraopticCommissuresAnterior
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supraopticCommissuresAnterior
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19469,6 +20685,7 @@ AMBA_CCFv3-2017_supraopticCommissuresDorsal
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supraopticCommissuresDorsal
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19485,6 +20702,7 @@ AMBA_CCFv3-2017_supraopticCommissuresVentral
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supraopticCommissuresVentral
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19501,6 +20719,7 @@ AMBA_CCFv3-2017_supraopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supraopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19517,6 +20736,7 @@ AMBA_CCFv3-2017_supratrigeminalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_supratrigeminalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19533,6 +20753,7 @@ AMBA_CCFv3-2017_taeniaTecta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTecta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19549,6 +20770,7 @@ AMBA_CCFv3-2017_taeniaTectaDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19565,6 +20787,7 @@ AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19581,6 +20804,7 @@ AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19597,6 +20821,7 @@ AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19613,6 +20838,7 @@ AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPartLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19629,6 +20855,7 @@ AMBA_CCFv3-2017_taeniaTectaDorsalPartLayers14
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaDorsalPartLayers14
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19645,6 +20872,7 @@ AMBA_CCFv3-2017_taeniaTectaVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19661,6 +20889,7 @@ AMBA_CCFv3-2017_taeniaTectaVentralPartLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaVentralPartLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19677,6 +20906,7 @@ AMBA_CCFv3-2017_taeniaTectaVentralPartLayer2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaVentralPartLayer2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19693,6 +20923,7 @@ AMBA_CCFv3-2017_taeniaTectaVentralPartLayer3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaVentralPartLayer3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19709,6 +20940,7 @@ AMBA_CCFv3-2017_taeniaTectaVentralPartLayers13
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_taeniaTectaVentralPartLayers13
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19725,6 +20957,7 @@ AMBA_CCFv3-2017_tectospinalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tectospinalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19741,6 +20974,7 @@ AMBA_CCFv3-2017_tectothalamicPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tectothalamicPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19757,6 +20991,7 @@ AMBA_CCFv3-2017_tegmentalReticularNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tegmentalReticularNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19773,6 +21008,7 @@ AMBA_CCFv3-2017_temporalAssociationAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19789,6 +21025,7 @@ AMBA_CCFv3-2017_temporalAssociationAreasLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreasLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19805,6 +21042,7 @@ AMBA_CCFv3-2017_temporalAssociationAreasLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreasLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19821,6 +21059,7 @@ AMBA_CCFv3-2017_temporalAssociationAreasLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreasLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19837,6 +21076,7 @@ AMBA_CCFv3-2017_temporalAssociationAreasLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreasLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19853,6 +21093,7 @@ AMBA_CCFv3-2017_temporalAssociationAreasLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreasLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19869,6 +21110,7 @@ AMBA_CCFv3-2017_temporalAssociationAreasLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_temporalAssociationAreasLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19885,6 +21127,7 @@ AMBA_CCFv3-2017_terminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_terminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19901,6 +21144,7 @@ AMBA_CCFv3-2017_thalamicPeduncles
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_thalamicPeduncles
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19917,6 +21161,7 @@ AMBA_CCFv3-2017_thalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_thalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19933,6 +21178,7 @@ AMBA_CCFv3-2017_thalamusPolymodalAssociationCortexRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_thalamusPolymodalAssociationCortexRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19949,6 +21195,7 @@ AMBA_CCFv3-2017_thalamusRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_thalamusRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19965,6 +21212,7 @@ AMBA_CCFv3-2017_thalamusSensorymotorCortexRelated
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_thalamusSensorymotorCortexRelated
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19981,6 +21229,7 @@ AMBA_CCFv3-2017_thirdVentricle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_thirdVentricle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -19997,6 +21246,7 @@ AMBA_CCFv3-2017_trapezoidBody
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_trapezoidBody
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20013,6 +21263,7 @@ AMBA_CCFv3-2017_triangularNucleusOfSeptum
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_triangularNucleusOfSeptum
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20029,6 +21280,7 @@ AMBA_CCFv3-2017_trigeminalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_trigeminalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20045,6 +21297,7 @@ AMBA_CCFv3-2017_trigeminocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_trigeminocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20061,6 +21314,7 @@ AMBA_CCFv3-2017_trochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_trochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20077,6 +21331,7 @@ AMBA_CCFv3-2017_trochlearNerveDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_trochlearNerveDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20093,6 +21348,7 @@ AMBA_CCFv3-2017_trochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_trochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20109,6 +21365,7 @@ AMBA_CCFv3-2017_tuberalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tuberalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20125,6 +21382,7 @@ AMBA_CCFv3-2017_tuberomammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tuberomammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20141,6 +21399,7 @@ AMBA_CCFv3-2017_tuberomammillaryNucleusDorsalPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tuberomammillaryNucleusDorsalPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20157,6 +21416,7 @@ AMBA_CCFv3-2017_tuberomammillaryNucleusVentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_tuberomammillaryNucleusVentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20173,6 +21433,7 @@ AMBA_CCFv3-2017_uncinateFascicle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_uncinateFascicle
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20189,6 +21450,7 @@ AMBA_CCFv3-2017_uvulaIX
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_uvulaIX
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20205,6 +21467,7 @@ AMBA_CCFv3-2017_uvulaIXGranularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_uvulaIXGranularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20221,6 +21484,7 @@ AMBA_CCFv3-2017_uvulaIXMolecularLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_uvulaIXMolecularLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20237,6 +21501,7 @@ AMBA_CCFv3-2017_uvulaIXPurkinjeLayer
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_uvulaIXPurkinjeLayer
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20253,6 +21518,7 @@ AMBA_CCFv3-2017_vagusNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vagusNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20269,6 +21535,7 @@ AMBA_CCFv3-2017_vascularOrganOfTheLaminaTerminalis
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vascularOrganOfTheLaminaTerminalis
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20285,6 +21552,7 @@ AMBA_CCFv3-2017_ventralAnteriorlateralComplexOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAnteriorlateralComplexOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20301,6 +21569,7 @@ AMBA_CCFv3-2017_ventralAuditoryArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20317,6 +21586,7 @@ AMBA_CCFv3-2017_ventralAuditoryAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20333,6 +21603,7 @@ AMBA_CCFv3-2017_ventralAuditoryAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20349,6 +21620,7 @@ AMBA_CCFv3-2017_ventralAuditoryAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20365,6 +21637,7 @@ AMBA_CCFv3-2017_ventralAuditoryAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20381,6 +21654,7 @@ AMBA_CCFv3-2017_ventralAuditoryAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20397,6 +21671,7 @@ AMBA_CCFv3-2017_ventralAuditoryAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralAuditoryAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20413,6 +21688,7 @@ AMBA_CCFv3-2017_ventralCochlearNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralCochlearNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20429,6 +21705,7 @@ AMBA_CCFv3-2017_ventralCommissureOfTheSpinalCord
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralCommissureOfTheSpinalCord
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20445,6 +21722,7 @@ AMBA_CCFv3-2017_ventralGroupOfTheDorsalThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralGroupOfTheDorsalThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20461,6 +21739,7 @@ AMBA_CCFv3-2017_ventralHippocampalCommissure
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralHippocampalCommissure
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20477,6 +21756,7 @@ AMBA_CCFv3-2017_ventralMedialNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralMedialNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20493,6 +21773,7 @@ AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplex
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplex
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20509,6 +21790,7 @@ AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplexLateralZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplexLateralZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20525,6 +21807,7 @@ AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplexMedialZone
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPartOfTheLateralGeniculateComplexMedialZone
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20541,6 +21824,7 @@ AMBA_CCFv3-2017_ventralPosteriorComplexOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPosteriorComplexOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20557,6 +21841,7 @@ AMBA_CCFv3-2017_ventralPosterolateralNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPosterolateralNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20573,6 +21858,7 @@ AMBA_CCFv3-2017_ventralPosterolateralNucleusOfTheThalamusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPosterolateralNucleusOfTheThalamusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20589,6 +21875,7 @@ AMBA_CCFv3-2017_ventralPosteromedialNucleusOfTheThalamus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPosteromedialNucleusOfTheThalamus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20605,6 +21892,7 @@ AMBA_CCFv3-2017_ventralPosteromedialNucleusOfTheThalamusParvicellularPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPosteromedialNucleusOfTheThalamusParvicellularPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20621,6 +21909,7 @@ AMBA_CCFv3-2017_ventralPremammillaryNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralPremammillaryNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20637,6 +21926,7 @@ AMBA_CCFv3-2017_ventralRoots
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralRoots
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20653,6 +21943,7 @@ AMBA_CCFv3-2017_ventralSpinocerebellarTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralSpinocerebellarTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20669,6 +21960,7 @@ AMBA_CCFv3-2017_ventralSpinothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralSpinothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20685,6 +21977,7 @@ AMBA_CCFv3-2017_ventralTegmentalArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralTegmentalArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20701,6 +21994,7 @@ AMBA_CCFv3-2017_ventralTegmentalDecussation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralTegmentalDecussation
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20717,6 +22011,7 @@ AMBA_CCFv3-2017_ventralTegmentalNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventralTegmentalNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20733,6 +22028,7 @@ AMBA_CCFv3-2017_ventricularSystems
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventricularSystems
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20749,6 +22045,7 @@ AMBA_CCFv3-2017_ventrolateralHypothalamicTract
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventrolateralHypothalamicTract
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20765,6 +22062,7 @@ AMBA_CCFv3-2017_ventrolateralPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventrolateralPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20781,6 +22079,7 @@ AMBA_CCFv3-2017_ventromedialHypothalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventromedialHypothalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20797,6 +22096,7 @@ AMBA_CCFv3-2017_ventromedialHypothalamicNucleusAnteriorPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventromedialHypothalamicNucleusAnteriorPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20813,6 +22113,7 @@ AMBA_CCFv3-2017_ventromedialHypothalamicNucleusCentralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventromedialHypothalamicNucleusCentralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20829,6 +22130,7 @@ AMBA_CCFv3-2017_ventromedialHypothalamicNucleusDorsomedialPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventromedialHypothalamicNucleusDorsomedialPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20845,6 +22147,7 @@ AMBA_CCFv3-2017_ventromedialHypothalamicNucleusVentrolateralPart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventromedialHypothalamicNucleusVentrolateralPart
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20861,6 +22164,7 @@ AMBA_CCFv3-2017_ventromedialPreopticNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_ventromedialPreopticNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20877,6 +22181,7 @@ AMBA_CCFv3-2017_vermalRegions
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vermalRegions
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20893,6 +22198,7 @@ AMBA_CCFv3-2017_vestibularNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vestibularNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20909,6 +22215,7 @@ AMBA_CCFv3-2017_vestibularNuclei
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vestibularNuclei
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20925,6 +22232,7 @@ AMBA_CCFv3-2017_vestibulocerebellarNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vestibulocerebellarNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20941,6 +22249,7 @@ AMBA_CCFv3-2017_vestibulocochlearNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vestibulocochlearNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20957,6 +22266,7 @@ AMBA_CCFv3-2017_vestibulospinalPathway
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vestibulospinalPathway
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20973,6 +22283,7 @@ AMBA_CCFv3-2017_visceralArea
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralArea
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -20989,6 +22300,7 @@ AMBA_CCFv3-2017_visceralAreaLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralAreaLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21005,6 +22317,7 @@ AMBA_CCFv3-2017_visceralAreaLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralAreaLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21021,6 +22334,7 @@ AMBA_CCFv3-2017_visceralAreaLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralAreaLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21037,6 +22351,7 @@ AMBA_CCFv3-2017_visceralAreaLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralAreaLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21053,6 +22368,7 @@ AMBA_CCFv3-2017_visceralAreaLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralAreaLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21069,6 +22385,7 @@ AMBA_CCFv3-2017_visceralAreaLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visceralAreaLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21085,6 +22402,7 @@ AMBA_CCFv3-2017_visualAreas
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreas
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21101,6 +22419,7 @@ AMBA_CCFv3-2017_visualAreasLayer1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreasLayer1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21117,6 +22436,7 @@ AMBA_CCFv3-2017_visualAreasLayer2-3
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreasLayer2-3
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21133,6 +22453,7 @@ AMBA_CCFv3-2017_visualAreasLayer4
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreasLayer4
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21149,6 +22470,7 @@ AMBA_CCFv3-2017_visualAreasLayer5
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreasLayer5
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21165,6 +22487,7 @@ AMBA_CCFv3-2017_visualAreasLayer6a
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreasLayer6a
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21181,6 +22504,7 @@ AMBA_CCFv3-2017_visualAreasLayer6b
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_visualAreasLayer6b
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21197,6 +22521,7 @@ AMBA_CCFv3-2017_vomeronasalNerve
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_vomeronasalNerve
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21213,6 +22538,7 @@ AMBA_CCFv3-2017_xiphoidThalamicNucleus
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_xiphoidThalamicNucleus
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -21229,6 +22555,7 @@ AMBA_CCFv3-2017_zonaIncerta
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/AMBA_CCFv3-2017_zonaIncerta
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON

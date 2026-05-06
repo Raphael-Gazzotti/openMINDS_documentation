@@ -202,7 +202,7 @@ Non-abridged instructions, comments, and information for using a particular prod
 
    :semantic name: https://openminds.ebrains.eu/vocab/fullDocumentation
    :value type: | linked object of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/webResource.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/data/file.html>`_, `ISBN <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/digitalIdentifier/ISBN.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/miscellaneous/webResource.html>`_
    :instructions: Add the publication or file that acts as the full documentation of this research product version.
 
 `BACK TO TOP <SoftwareVersion_>`_
@@ -257,7 +257,7 @@ hasPart
 
    :semantic name: https://openminds.ebrains.eu/vocab/hasPart
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/products/softwareVersion.html>`_
+                | `ModelVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/products/modelVersion.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/core/products/softwareVersion.html>`_, `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/v3.0/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
    :instructions: Add all software versions that supplement this software version.
 
 `BACK TO TOP <SoftwareVersion_>`_

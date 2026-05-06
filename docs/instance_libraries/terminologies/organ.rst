@@ -13,6 +13,7 @@ brain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organ/brain
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
    :definition: 'Brain' is part of the central nervous system.
@@ -31,6 +32,7 @@ heart
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organ/heart
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
    :definition: 'Heart' is part of the cardiovascular system
@@ -49,6 +51,7 @@ liver
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organ/liver
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
    :definition: 'Liver' is an organ that is part of the digestive system of vertebrate animals.
@@ -67,6 +70,7 @@ muscle
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organ/muscle
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
    :definition: 'Muscle' is part of the musculoskeletal system.
@@ -84,6 +88,7 @@ skin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/organ/skin
    :@type: https://openminds.ebrains.eu/controlledTerms/Organ
    :definition: 'Skin' is the organ covering the body that consists of the dermis and epidermis.

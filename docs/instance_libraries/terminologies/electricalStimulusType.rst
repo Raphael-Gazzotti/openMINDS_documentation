@@ -13,6 +13,7 @@ directCurrent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/electricalStimulusType/directCurrent
    :@type: https://openminds.ebrains.eu/controlledTerms/ElectricalStimulusType
    :name: direct current

@@ -13,6 +13,7 @@ derivedData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/derivedData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
    :name: derived data
@@ -26,6 +27,7 @@ experimentalData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/experimentalData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
    :name: experimental data
@@ -39,6 +41,7 @@ rawData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/rawData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
    :name: raw data
@@ -52,6 +55,7 @@ simulatedData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/semanticDataType/simulatedData
    :@type: https://openminds.ebrains.eu/controlledTerms/SemanticDataType
    :name: simulated data

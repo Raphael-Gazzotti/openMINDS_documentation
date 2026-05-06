@@ -13,6 +13,7 @@ exVivo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/preparationType/exVivo
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening or existing outside a living body.
@@ -29,6 +30,7 @@ inSilico
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/preparationType/inSilico
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Conducted or produced by means of computer modelling or simulation.
@@ -45,6 +47,7 @@ inSitu
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/preparationType/inSitu
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening or being examined in the original place instead of being moved to another place
@@ -61,6 +64,7 @@ inUtero
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/preparationType/inUtero
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening in, within, or while inside the uterus.
@@ -77,6 +81,7 @@ inVitro
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/preparationType/inVitro
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening outside the body in artificial conditions (e.g., in a test tube or culture dish).
@@ -93,6 +98,7 @@ inVivo
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/preparationType/inVivo
    :@type: https://openminds.ebrains.eu/controlledTerms/PreparationType
    :definition: Something happening or existing inside a living body.

@@ -13,6 +13,7 @@ JBA_v1.13-Colin27_Area-1_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-1_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -30,6 +31,7 @@ JBA_v1.13-Colin27_Area-25_PM-v16.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-25_PM-v16.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -47,6 +49,7 @@ JBA_v1.13-Colin27_Area-2_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-2_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -64,6 +67,7 @@ JBA_v1.13-Colin27_Area-33_PM-v16.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-33_PM-v16.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -81,6 +85,7 @@ JBA_v1.13-Colin27_Area-3a_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-3a_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -98,6 +103,7 @@ JBA_v1.13-Colin27_Area-3b_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-3b_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -115,6 +121,7 @@ JBA_v1.13-Colin27_Area-44_PM-v7.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-44_PM-v7.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -132,6 +139,7 @@ JBA_v1.13-Colin27_Area-45_PM-v7.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-45_PM-v7.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -149,6 +157,7 @@ JBA_v1.13-Colin27_Area-4a_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-4a_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -166,6 +175,7 @@ JBA_v1.13-Colin27_Area-4p_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-4p_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -183,6 +193,7 @@ JBA_v1.13-Colin27_Area-5Ci_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-5Ci_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -200,6 +211,7 @@ JBA_v1.13-Colin27_Area-5L_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-5L_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -217,6 +229,7 @@ JBA_v1.13-Colin27_Area-5M_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-5M_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -234,6 +247,7 @@ JBA_v1.13-Colin27_Area-7A_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-7A_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -251,6 +265,7 @@ JBA_v1.13-Colin27_Area-7M_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-7M_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -268,6 +283,7 @@ JBA_v1.13-Colin27_Area-7PC_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-7PC_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -285,6 +301,7 @@ JBA_v1.13-Colin27_Area-7P_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-7P_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -302,6 +319,7 @@ JBA_v1.13-Colin27_Area-FG1_PM-v1.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-FG1_PM-v1.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -319,6 +337,7 @@ JBA_v1.13-Colin27_Area-FG2_PM-v1.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-FG2_PM-v1.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -336,6 +355,7 @@ JBA_v1.13-Colin27_Area-FG3_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-FG3_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -353,6 +373,7 @@ JBA_v1.13-Colin27_Area-FG4_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-FG4_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -370,6 +391,7 @@ JBA_v1.13-Colin27_Area-Fo1_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Fo1_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -387,6 +409,7 @@ JBA_v1.13-Colin27_Area-Fo2_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Fo2_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -404,6 +427,7 @@ JBA_v1.13-Colin27_Area-Fo3_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Fo3_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -421,6 +445,7 @@ JBA_v1.13-Colin27_Area-Fp1_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Fp1_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -438,6 +463,7 @@ JBA_v1.13-Colin27_Area-Fp2_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Fp2_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -455,6 +481,7 @@ JBA_v1.13-Colin27_Area-Id1_PM-v11.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Id1_PM-v11.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -472,6 +499,7 @@ JBA_v1.13-Colin27_Area-Ig1_PM-v11.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Ig1_PM-v11.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -489,6 +517,7 @@ JBA_v1.13-Colin27_Area-Ig2_PM-v11.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-Ig2_PM-v11.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -506,6 +535,7 @@ JBA_v1.13-Colin27_Area-OP1_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-OP1_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -523,6 +553,7 @@ JBA_v1.13-Colin27_Area-OP2_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-OP2_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -540,6 +571,7 @@ JBA_v1.13-Colin27_Area-OP3_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-OP3_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -557,6 +589,7 @@ JBA_v1.13-Colin27_Area-OP4_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-OP4_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -574,6 +607,7 @@ JBA_v1.13-Colin27_Area-PF_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PF_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -591,6 +625,7 @@ JBA_v1.13-Colin27_Area-PFcm_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PFcm_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -608,6 +643,7 @@ JBA_v1.13-Colin27_Area-PFm_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PFm_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -625,6 +661,7 @@ JBA_v1.13-Colin27_Area-PFop_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PFop_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -642,6 +679,7 @@ JBA_v1.13-Colin27_Area-PFt_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PFt_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -659,6 +697,7 @@ JBA_v1.13-Colin27_Area-PGa_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PGa_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -676,6 +715,7 @@ JBA_v1.13-Colin27_Area-PGp_PM-v9.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-PGp_PM-v9.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -693,6 +733,7 @@ JBA_v1.13-Colin27_Area-TE-1.0_PM-v5.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-TE-1.0_PM-v5.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -710,6 +751,7 @@ JBA_v1.13-Colin27_Area-TE-1.1_PM-v5.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-TE-1.1_PM-v5.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -727,6 +769,7 @@ JBA_v1.13-Colin27_Area-TE-1.2_PM-v5.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-TE-1.2_PM-v5.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -744,6 +787,7 @@ JBA_v1.13-Colin27_Area-TE-3_PM-v5.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-TE-3_PM-v5.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -761,6 +805,7 @@ JBA_v1.13-Colin27_Area-hIP1_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hIP1_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -778,6 +823,7 @@ JBA_v1.13-Colin27_Area-hIP2_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hIP2_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -795,6 +841,7 @@ JBA_v1.13-Colin27_Area-hIP3_PM-v8.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hIP3_PM-v8.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -812,6 +859,7 @@ JBA_v1.13-Colin27_Area-hOc1_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc1_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -829,6 +877,7 @@ JBA_v1.13-Colin27_Area-hOc2_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc2_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -846,6 +895,7 @@ JBA_v1.13-Colin27_Area-hOc3d_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc3d_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -863,6 +913,7 @@ JBA_v1.13-Colin27_Area-hOc3v_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc3v_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -880,6 +931,7 @@ JBA_v1.13-Colin27_Area-hOc4d_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc4d_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -897,6 +949,7 @@ JBA_v1.13-Colin27_Area-hOc4la_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc4la_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -914,6 +967,7 @@ JBA_v1.13-Colin27_Area-hOc4lp_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc4lp_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -931,6 +985,7 @@ JBA_v1.13-Colin27_Area-hOc4v_PM-v3.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc4v_PM-v3.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -948,6 +1003,7 @@ JBA_v1.13-Colin27_Area-hOc5_PM-v2.2
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-hOc5_PM-v2.2
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -965,6 +1021,7 @@ JBA_v1.13-Colin27_Area-s24_PM-v16.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-s24_PM-v16.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -982,6 +1039,7 @@ JBA_v1.13-Colin27_Area-s32_PM-v16.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Area-s32_PM-v16.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -999,6 +1057,7 @@ JBA_v1.13-Colin27_CA1_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_CA1_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1016,6 +1075,7 @@ JBA_v1.13-Colin27_CA2_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_CA2_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1033,6 +1093,7 @@ JBA_v1.13-Colin27_CA3_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_CA3_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1050,6 +1111,7 @@ JBA_v1.13-Colin27_CM_PM-v6.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_CM_PM-v6.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1067,6 +1129,7 @@ JBA_v1.13-Colin27_Ch-123_PM-v4.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Ch-123_PM-v4.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1084,6 +1147,7 @@ JBA_v1.13-Colin27_Ch-4_PM-v4.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Ch-4_PM-v4.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1101,6 +1165,7 @@ JBA_v1.13-Colin27_DG_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_DG_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1118,6 +1183,7 @@ JBA_v1.13-Colin27_Dorsal-Dentate-Nucleus_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Dorsal-Dentate-Nucleus_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1135,6 +1201,7 @@ JBA_v1.13-Colin27_Entorhinal-Cortex_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Entorhinal-Cortex_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1152,6 +1219,7 @@ JBA_v1.13-Colin27_Fastigial-Nucleus_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Fastigial-Nucleus_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1169,6 +1237,7 @@ JBA_v1.13-Colin27_HATA_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_HATA_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1186,6 +1255,7 @@ JBA_v1.13-Colin27_IF_PM-v6.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_IF_PM-v6.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1203,6 +1273,7 @@ JBA_v1.13-Colin27_Interposed-Nucleus_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Interposed-Nucleus_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1220,6 +1291,7 @@ JBA_v1.13-Colin27_LB_PM-v6.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_LB_PM-v6.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1237,6 +1309,7 @@ JBA_v1.13-Colin27_MF_PM-v6.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_MF_PM-v6.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1254,6 +1327,7 @@ JBA_v1.13-Colin27_SF_PM-v6.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_SF_PM-v6.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1271,6 +1345,7 @@ JBA_v1.13-Colin27_Subiculum_PM-v11b.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Subiculum_PM-v11b.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1288,6 +1363,7 @@ JBA_v1.13-Colin27_VTM_PM-v6.1
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_VTM_PM-v6.1
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
@@ -1305,6 +1381,7 @@ JBA_v1.13-Colin27_Ventral-Dentate-Nucleus_PM-v6.0
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.ebrains.eu/vocab/>
    :@id: https://openminds.ebrains.eu/instances/parcellationEntityVersion/JBA_v1.13-Colin27_Ventral-Dentate-Nucleus_PM-v6.0
    :@type: https://openminds.ebrains.eu/sands/ParcellationEntityVersion
    :hasAnnotation: COMING SOON
