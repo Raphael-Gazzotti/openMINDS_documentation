@@ -17,7 +17,26 @@ Properties
 ##########
 
 :Required: `value <value_heading_>`_
-:Optional: `uncertainty <uncertainty_heading_>`_, `unit <unit_heading_>`_
+:Optional: `typeOfUncertainty <typeOfUncertainty_heading_>`_, `uncertainty <uncertainty_heading_>`_, `unit <unit_heading_>`_
+
+------------
+
+.. _typeOfUncertainty_heading:
+
+*****************
+typeOfUncertainty
+*****************
+
+Distinct technique used to quantify the uncertainty of a measurement.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/typeOfUncertainty
+   :value type: | linked object of type
+                | TypeOfUncertainty \[TYPE_ERROR\]
+   :instructions: Add the type of uncertainty used for this quantitative value.
+
+`BACK TO TOP <QuantitativeValue_>`_
 
 ------------
 

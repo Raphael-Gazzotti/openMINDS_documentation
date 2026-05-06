@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required:
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `pathology <pathology_heading_>`_, `weight <weight_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `weight <weight_heading_>`_
 
 ------------
 
@@ -54,6 +54,23 @@ Time of life or existence at which some particular qualification, capacity or ev
    :value type: | embedded object of type
                 | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Add the age of the specimen (set) in this state.
+
+`BACK TO TOP <TissueSampleState_>`_
+
+------------
+
+.. _lookupLabel_heading:
+
+***********
+lookupLabel
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a lookup label for this specimen (set) state that may help you to more easily find it again.
 
 `BACK TO TOP <TissueSampleState_>`_
 

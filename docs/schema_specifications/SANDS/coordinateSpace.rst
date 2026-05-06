@@ -90,7 +90,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/digitalIdentifier.html>`_
+                | DigitalIdentifier \[TYPE_ERROR\]
    :instructions: Add the globally unique and persistent digital identifier of this coordinate space.
 
 `BACK TO TOP <CoordinateSpace_>`_

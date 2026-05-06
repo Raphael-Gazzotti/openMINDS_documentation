@@ -17,26 +17,7 @@ Properties
 ##########
 
 :Required: `description <description_heading_>`_, `name <name_heading_>`_, `technique <technique_heading_>`_
-:Optional: `behavioralTask <behavioralTask_heading_>`_, `studyTarget <studyTarget_heading_>`_
-
-------------
-
-.. _behavioralTask_heading:
-
-**************
-behavioralTask
-**************
-
-Specific set of defined activities (or their absence) that should be performed (or avoided) by a subject.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/behavioralTask
-   :value type: | linked object array \(1-N\) of type
-                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/behavioralTask.html>`_
-   :instructions: Add all behavioral tasks that were executed as part of this protocol.
-
-`BACK TO TOP <Protocol_>`_
+:Optional: `studyOption <studyOption_heading_>`_
 
 ------------
 
@@ -78,20 +59,18 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 ------------
 
-.. _studyTarget_heading:
+.. _studyOption_heading:
 
 ***********
-studyTarget
+studyOption
 ***********
-
-Structure or function that was targeted within a study.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
+   :semantic name: https://openminds.ebrains.eu/vocab/studyOption
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/biologicalSex.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/disease.html>`_, `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/genotype.html>`_, `Phenotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/phenotype.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/species.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/termSuggestion.html>`_ or `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/SANDS/anatomicalEntity.html>`_
-   :instructions: Add all study targets of this model version.
+                | undefined
+   :instructions: Add all study options this protocol offers.
 
 `BACK TO TOP <Protocol_>`_
 

@@ -15,7 +15,7 @@ Properties
 ##########
 
 :Required: `ageCategory <ageCategory_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `handedness <handedness_heading_>`_, `pathology <pathology_heading_>`_, `weight <weight_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `handedness <handedness_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `weight <weight_heading_>`_
 
 ------------
 
@@ -88,8 +88,25 @@ Degree to which an organism prefers one hand or foot over the other hand or foot
 
    :semantic name: https://openminds.ebrains.eu/vocab/handedness
    :value type: | linked object array \(1-N\) of type
-                | `Laterality <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/laterality.html>`_
+                | Handedness \[TYPE_ERROR\]
    :instructions: Add the preferred hand of the subject in this state.
+
+`BACK TO TOP <SubjectGroupState_>`_
+
+------------
+
+.. _lookupLabel_heading:
+
+***********
+lookupLabel
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a lookup label for this specimen (set) state that may help you to more easily find it again.
 
 `BACK TO TOP <SubjectGroupState_>`_
 

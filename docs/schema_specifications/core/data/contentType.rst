@@ -16,40 +16,44 @@ Structured information on the content type of a file instance, bundle or reposit
 Properties
 ##########
 
-:Required: `associatedFileExtension <associatedFileExtension_heading_>`_, `category <category_heading_>`_, `name <name_heading_>`_
-:Optional: `relatedMediaType <relatedMediaType_heading_>`_, `synonym <synonym_heading_>`_
+:Required: `name <name_heading_>`_
+:Optional: `description <description_heading_>`_, `fileExtension <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
 
 ------------
 
-.. _associatedFileExtension_heading:
+.. _description_heading:
 
-***********************
-associatedFileExtension
-***********************
+***********
+description
+***********
+
+Longer statement or account giving the characteristics of someone or something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/associatedFileExtension
-   :value type: | string array \(1-N\)
-                | formatting: text/plain; singleline
-   :instructions: Enter one or several file extensions associated with this content type.
+   :semantic name: https://openminds.ebrains.eu/vocab/description
+   :value type: | string
+                | formatting: text/markdown; multiline
+   :instructions: Enter a description of the content type specification. May be left blank if a public specification can be linked in 'specification'.
 
 `BACK TO TOP <ContentType_>`_
 
 ------------
 
-.. _category_heading:
+.. _fileExtension_heading:
 
-********
-category
-********
+*************
+fileExtension
+*************
+
+String of characters attached as suffix to the names of files of a particular format.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/category
-   :value type: | string
+   :semantic name: https://openminds.ebrains.eu/vocab/fileExtension
+   :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter the category to which this content type belongs to.
+   :instructions: Enter one or several file extensions associated with this content type.
 
 `BACK TO TOP <ContentType_>`_
 
@@ -87,7 +91,26 @@ Reference to an official two-part identifier for file formats and format content
    :semantic name: https://openminds.ebrains.eu/vocab/relatedMediaType
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the iternationalized resource identifier (IRI) to a registered media type (e.g. on IANA.org) matching this content type.
+   :instructions: Enter the iternationalized resource identifier (IRI) of the official registered media type (e.g. on IANA.org) matching this content type.
+
+`BACK TO TOP <ContentType_>`_
+
+------------
+
+.. _specification_heading:
+
+*************
+specification
+*************
+
+Detailed and precise presentation of, or proposal for something.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/specification
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the iternationalized resource identifier (IRI) of the official specification of this content type. Leave blank and use 'description' to provide some specification if an official specification is not available.
 
 `BACK TO TOP <ContentType_>`_
 

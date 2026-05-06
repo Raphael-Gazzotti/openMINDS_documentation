@@ -17,7 +17,26 @@ Properties
 ##########
 
 :Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasResearchProducts <hasResearchProducts_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `homepage <homepage_heading_>`_, `projectLeader <projectLeader_heading_>`_
+:Optional: `coordinator <coordinator_heading_>`_, `homepage <homepage_heading_>`_
+
+------------
+
+.. _coordinator_heading:
+
+***********
+coordinator
+***********
+
+Legal person who organizes the collaborative work of people or groups.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/coordinator
+   :value type: | linked object array \(1-N\) of type
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/person.html>`_
+   :instructions: Add one or several project coordinators (person or organization).
+
+`BACK TO TOP <Project_>`_
 
 ------------
 
@@ -89,26 +108,9 @@ Main website of something or someone.
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this model version.
-
-`BACK TO TOP <Project_>`_
-
-------------
-
-.. _projectLeader_heading:
-
-*************
-projectLeader
-*************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/projectLeader
-   :value type: | linked object array \(1-N\) of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/person.html>`_
-   :instructions: Add one or several project leader (person or organization).
+   :value type: | linked object of type
+                | `URL <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/URL.html>`_
+   :instructions: Add the uniform resource locator (URL) to the homepage of this project.
 
 `BACK TO TOP <Project_>`_
 

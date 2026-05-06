@@ -16,8 +16,46 @@ Structured information on a computational model (concept level).
 Properties
 ##########
 
-:Required: `description <description_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `fullName <fullName_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `hasVersion <hasVersion_heading_>`_, `homepage <homepage_heading_>`_
+:Required: `abstractionLevel <abstractionLevel_heading_>`_, `description <description_heading_>`_, `developer <developer_heading_>`_, `fullName <fullName_heading_>`_, `hasVersion <hasVersion_heading_>`_, `scope <scope_heading_>`_, `shortName <shortName_heading_>`_, `studyTarget <studyTarget_heading_>`_
+:Optional: `custodian <custodian_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `homepage <homepage_heading_>`_, `howToCite <howToCite_heading_>`_
+
+------------
+
+.. _abstractionLevel_heading:
+
+****************
+abstractionLevel
+****************
+
+Extent of simplification of physical, spatial, or temporal details or attributes in the study of objects or systems.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/abstractionLevel
+   :value type: | linked object of type
+                | `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/modelAbstractionLevel.html>`_
+   :instructions: Add the abstraction level of this model version.
+
+`BACK TO TOP <Model_>`_
+
+------------
+
+.. _custodian_heading:
+
+*********
+custodian
+*********
+
+The 'custodian' is a legal person who is responsible for the content and quality of the data, metadata, and/or code of a research product.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/custodian
+   :value type: | linked object array \(1-N\) of type
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/person.html>`_
+   :instructions: Add one or several custodians (person or organization) that are responsible for this research product. Note that this custodian will be responsible for all attached research product versions.
+
+`BACK TO TOP <Model_>`_
 
 ------------
 
@@ -34,7 +72,26 @@ Longer statement or account giving the characteristics of someone or something.
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references).
+   :instructions: Enter a description (abstract) for this research product (max. 2000 characters, incl. spaces; no references). Note that this description should be fitting for all attached research product versions.
+
+`BACK TO TOP <Model_>`_
+
+------------
+
+.. _developer_heading:
+
+*********
+developer
+*********
+
+Legal person that creates or improves products or services (e.g., software, applications, etc.).
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/developer
+   :value type: | linked object array \(1-N\) of type
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/person.html>`_
+   :instructions: Add one or several developers (person or organization) that contributed to the code implementation of this model.
 
 `BACK TO TOP <Model_>`_
 
@@ -52,8 +109,8 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object of type
-                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/digitalIdentifier.html>`_
-   :instructions: Add the globally unique and persistent digital identifier of this research product.
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/DOI.html>`_ or `SWHID <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/SWHID.html>`_
+   :instructions: Add the globally unique and persistent digital identifier of this research product. Note that this digital identifier will be used to reference all attached research product versions.
 
 `BACK TO TOP <Model_>`_
 
@@ -72,7 +129,7 @@ Whole, non-abbreviated name of something or somebody.
    :semantic name: https://openminds.ebrains.eu/vocab/fullName
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a descriptive full name (title) for this research product.
+   :instructions: Enter a descriptive full name (title) for this research product.  Note that this full name should be fitting for all attached research product versions.
 
 `BACK TO TOP <Model_>`_
 
@@ -108,9 +165,47 @@ Main website of something or someone.
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
+   :value type: | linked object of type
+                | `URL <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/URL.html>`_
+   :instructions: Add the uniform resource locator (URL) to the homepage of this research product.
+
+`BACK TO TOP <Model_>`_
+
+------------
+
+.. _howToCite_heading:
+
+*********
+howToCite
+*********
+
+Preferred format for citing a particular object or legal person.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/howToCite
    :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this research product.
+                | formatting: text/markdown; multiline
+   :instructions: Enter the preferred citation text for this research product. Leave blank if citation text can be extracted from the assigned digital identifier.
+
+`BACK TO TOP <Model_>`_
+
+------------
+
+.. _scope_heading:
+
+*****
+scope
+*****
+
+Extent of something.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/scope
+   :value type: | linked object of type
+                | `ModelScope <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/modelScope.html>`_
+   :instructions: Add the scope of this model version.
 
 `BACK TO TOP <Model_>`_
 
@@ -130,6 +225,25 @@ Shortened or fully abbreviated name of something or somebody.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short name (alias) for this research product (max. 30 characters; no space).
+
+`BACK TO TOP <Model_>`_
+
+------------
+
+.. _studyTarget_heading:
+
+***********
+studyTarget
+***********
+
+Structure or function that was targeted within a study.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
+   :value type: | linked object array \(1-N\) of type
+                | undefined
+   :instructions: Add all study targets of this model version.
 
 `BACK TO TOP <Model_>`_
 

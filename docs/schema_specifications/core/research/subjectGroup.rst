@@ -15,7 +15,26 @@ Properties
 ##########
 
 :Required: `biologicalSex <biologicalSex_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
-:Optional: `genotype <genotype_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `phenotype <phenotype_heading_>`_, `quantity <quantity_heading_>`_, `strain <strain_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `phenotype <phenotype_heading_>`_, `quantity <quantity_heading_>`_, `strain <strain_heading_>`_
+
+------------
+
+.. _additionalRemarks_heading:
+
+*****************
+additionalRemarks
+*****************
+
+Mention of what deserves additional attention or notice.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/additionalRemarks
+   :value type: | string
+                | formatting: text/markdown; multiline
+   :instructions: Enter additional remarks about the specimen set.
+
+`BACK TO TOP <SubjectGroup_>`_
 
 ------------
 
@@ -38,25 +57,6 @@ Differentiation of individuals of most species (animals and plants) based on the
 
 ------------
 
-.. _genotype_heading:
-
-********
-genotype
-********
-
-Genetic constitution of an individual or group.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/genotype
-   :value type: | linked object array \(1-N\) of type
-                | `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/genotype.html>`_
-   :instructions: Add the genotype of all specimen in this set.
-
-`BACK TO TOP <SubjectGroup_>`_
-
-------------
-
 .. _internalIdentifier_heading:
 
 ******************
@@ -71,6 +71,23 @@ Term or code that identifies someone or something within a particular product.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier of this specimen set that is used within the corresponding data.
+
+`BACK TO TOP <SubjectGroup_>`_
+
+------------
+
+.. _lookupLabel_heading:
+
+***********
+lookupLabel
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a lookup label for this specimen set that may help you to more easily find it again.
 
 `BACK TO TOP <SubjectGroup_>`_
 

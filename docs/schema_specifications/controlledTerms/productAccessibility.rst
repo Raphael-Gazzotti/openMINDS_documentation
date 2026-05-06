@@ -2,7 +2,7 @@
 ProductAccessibility
 ####################
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/productAccessibility
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/ProductAccessibility
 
 :Display as: Product accessibility
 

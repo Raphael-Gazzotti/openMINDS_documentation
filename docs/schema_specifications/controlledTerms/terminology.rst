@@ -2,11 +2,9 @@
 Terminology
 ###########
 
-:Semantic name: https://openminds.ebrains.eu/controlledTerms/StudyTargetType
+:Semantic name: https://openminds.ebrains.eu/controlledTerms/Terminology
 
-:Display as: Study target type
-
-Structured information on the general type of the study target.
+:Display as: Terminology
 
 
 ------------

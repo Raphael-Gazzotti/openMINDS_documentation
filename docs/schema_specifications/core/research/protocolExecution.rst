@@ -16,8 +16,27 @@ Structured information on a protocol execution.
 Properties
 ##########
 
-:Required: `input <input_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_
-:Optional: `description <description_heading_>`_, `parameterSetting <parameterSetting_heading_>`_, `preparationType <preparationType_heading_>`_, `semanticallyAnchoredTo <semanticallyAnchoredTo_heading_>`_, `studyTarget <studyTarget_heading_>`_
+:Required: `input <input_heading_>`_, `isPartOf <isPartOf_heading_>`_, `output <output_heading_>`_, `protocol <protocol_heading_>`_
+:Optional: `behavioralTask <behavioralTask_heading_>`_, `description <description_heading_>`_, `endedAtTime <endedAtTime_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `parameterSet <parameterSet_heading_>`_, `preparationType <preparationType_heading_>`_, `startedAtTime <startedAtTime_heading_>`_, `studyTarget <studyTarget_heading_>`_
+
+------------
+
+.. _behavioralTask_heading:
+
+**************
+behavioralTask
+**************
+
+Specific set of defined activities (or their absence) that should be performed (or avoided) by a subject.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/behavioralTask
+   :value type: | linked object array \(1-N\) of type
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/behavioralTask.html>`_
+   :instructions: Add all behavioral tasks that were performed during this protocol execution.
+
+`BACK TO TOP <ProtocolExecution_>`_
 
 ------------
 
@@ -34,7 +53,24 @@ Longer statement or account giving the characteristics of someone or something.
    :semantic name: https://openminds.ebrains.eu/vocab/description
    :value type: | string
                 | formatting: text/markdown; multiline
-   :instructions: Enter a description of this protocol execution.
+   :instructions: Enter a description of this activity.
+
+`BACK TO TOP <ProtocolExecution_>`_
+
+------------
+
+.. _endedAtTime_heading:
+
+***********
+endedAtTime
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/endedAtTime
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the time (e.g., '20:20:39+00:00') or datetime (e.g., '2018-11-13T20:20:39+00:00') of when the activity ended.
 
 `BACK TO TOP <ProtocolExecution_>`_
 
@@ -52,8 +88,44 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.ebrains.eu/vocab/input
    :value type: | linked object array \(1-N\) of type
-                | `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileBundle.html>`_, `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleState.html>`_
-   :instructions: Add all inputs (subject state, tissue sample state, file instance or file bundle) used by this protocol execution.
+                | `File <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileBundle.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleState.html>`_
+   :instructions: Add all inputs used by this activity.
+
+`BACK TO TOP <ProtocolExecution_>`_
+
+------------
+
+.. _isPartOf_heading:
+
+********
+isPartOf
+********
+
+Reference to the ensemble of multiple things or beings.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :value type: | linked object of type
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/products/datasetVersion.html>`_
+   :instructions: Add the dataset version in which this protocol execution was conducted.
+
+`BACK TO TOP <ProtocolExecution_>`_
+
+------------
+
+.. _lookupLabel_heading:
+
+***********
+lookupLabel
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a lookup label for this activity that may help you to more easily find it again.
 
 `BACK TO TOP <ProtocolExecution_>`_
 
@@ -71,25 +143,27 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.ebrains.eu/vocab/output
    :value type: | linked object array \(1-N\) of type
-                | `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileBundle.html>`_, `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleState.html>`_
-   :instructions: Add all outputs (subject state, tissue sample state, file instance or file bundle) generated by this protocol execution.
+                | `File <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileBundle.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleState.html>`_
+   :instructions: Add all outputs generated by this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
 
 ------------
 
-.. _parameterSetting_heading:
+.. _parameterSet_heading:
 
-****************
-parameterSetting
-****************
+************
+parameterSet
+************
+
+Manner, position, or direction in which digital or physical properties are set to determine a particular function, characteristics or behavior of something.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/parameterSetting
-   :value type: | linked object array \(1-N\) of type
-                | `ParameterSetting <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/parameterSetting.html>`_
-   :instructions: Add all important parameter settings defining this protocol execution.
+   :semantic name: https://openminds.ebrains.eu/vocab/parameterSet
+   :value type: | embedded object array \(1-N\) of type
+                | `ParameterSet <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/parameterSet.html>`_
+   :instructions: Add all important parameters grouped in context-specific sets that were used in this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
 
@@ -125,28 +199,26 @@ Plan that describes the process of a scientific or medical experiment, treatment
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.ebrains.eu/vocab/protocol
-   :value type: | linked object of type
+   :value type: | linked object array \(1-N\) of type
                 | `Protocol <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/protocol.html>`_
-   :instructions: Add the protocol of this protocol execution.
+   :instructions: Add all protocols that were used in this protocol execution.
 
 `BACK TO TOP <ProtocolExecution_>`_
 
 ------------
 
-.. _semanticallyAnchoredTo_heading:
+.. _startedAtTime_heading:
 
-**********************
-semanticallyAnchoredTo
-**********************
-
-Reference to a related anatomical structure without providing a quantitative proof of the claimed relation.
+*************
+startedAtTime
+*************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/semanticallyAnchoredTo
-   :value type: | linked object array \(1-N\) of type
-                | `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/SANDS/anatomicalEntity.html>`_
-   :instructions: Add all anatomical entities to which the outputs of this protocol execution can be semantically anchored to.
+   :semantic name: https://openminds.ebrains.eu/vocab/startedAtTime
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the time (e.g., '20:20:39+00:00') or datetime (e.g., '2018-11-13T20:20:39+00:00') of when the activity started.
 
 `BACK TO TOP <ProtocolExecution_>`_
 
@@ -164,8 +236,8 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.ebrains.eu/vocab/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/biologicalSex.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/disease.html>`_, `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/genotype.html>`_, `Phenotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/phenotype.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/species.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/termSuggestion.html>`_ or `AnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/SANDS/anatomicalEntity.html>`_
-   :instructions: Add all study targets of this model version.
+                | undefined
+   :instructions: Add all study targets of this activity.
 
 `BACK TO TOP <ProtocolExecution_>`_
 

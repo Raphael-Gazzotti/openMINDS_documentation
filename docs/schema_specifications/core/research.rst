@@ -2,9 +2,12 @@
 Research
 ########
 
-- `ParameterSetting <research/parameterSetting.html>`_
+- `BehavioralTask <research/behavioralTask.html>`_
+- `NumericalParameter <research/numericalParameter.html>`_
+- `ParameterSet <research/parameterSet.html>`_
 - `Protocol <research/protocol.html>`_
 - `ProtocolExecution <research/protocolExecution.html>`_
+- `StringParameter <research/stringParameter.html>`_
 - `Subject <research/subject.html>`_
 - `SubjectGroup <research/subjectGroup.html>`_
 - `SubjectGroupState <research/subjectGroupState.html>`_
@@ -16,9 +19,12 @@ Research
 
 .. toctree::
 
-   research/parameterSetting
+   research/behavioralTask
+   research/numericalParameter
+   research/parameterSet
    research/protocol
    research/protocolExecution
+   research/stringParameter
    research/subject
    research/subjectGroup
    research/subjectGroupState

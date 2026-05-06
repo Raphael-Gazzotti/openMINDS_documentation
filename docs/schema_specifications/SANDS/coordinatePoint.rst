@@ -6,8 +6,6 @@ CoordinatePoint
 
 :Display as: Coordinate point
 
-Structured information on a coordinate point.
-
 
 ------------
 

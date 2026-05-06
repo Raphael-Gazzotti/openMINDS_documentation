@@ -17,7 +17,24 @@ Properties
 ##########
 
 :Required: `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `origin <origin_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_, `type <type_heading_>`_
-:Optional: `genotype <genotype_heading_>`_, `laterality <laterality_heading_>`_, `phenotype <phenotype_heading_>`_, `strain <strain_heading_>`_
+:Optional: `anatomicalLocation <anatomicalLocation_heading_>`_, `isPartOf <isPartOf_heading_>`_, `laterality <laterality_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `phenotype <phenotype_heading_>`_, `strain <strain_heading_>`_
+
+------------
+
+.. _anatomicalLocation_heading:
+
+******************
+anatomicalLocation
+******************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/anatomicalLocation
+   :value type: | linked object array \(1-N\) of type
+                | UBERONParcellation \[TYPE_ERROR\], CustomAnatomicalEntity \[TYPE_ERROR\] or ParcellationEntity \[TYPE_ERROR\]
+   :instructions: Add all anatomical entities to which this tissue sample belongs.
+
+`BACK TO TOP <TissueSample_>`_
 
 ------------
 
@@ -35,25 +52,6 @@ Differentiation of individuals of most species (animals and plants) based on the
    :value type: | linked object of type
                 | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of this specimen.
-
-`BACK TO TOP <TissueSample_>`_
-
-------------
-
-.. _genotype_heading:
-
-********
-genotype
-********
-
-Genetic constitution of an individual or group.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/genotype
-   :value type: | linked object of type
-                | `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/genotype.html>`_
-   :instructions: Add the genotype of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
 
@@ -78,6 +76,25 @@ Term or code that identifies someone or something within a particular product.
 
 ------------
 
+.. _isPartOf_heading:
+
+********
+isPartOf
+********
+
+Reference to the ensemble of multiple things or beings.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :value type: | linked object array \(1-N\) of type
+                | `TissueSampleCollection <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleCollection.html>`_
+   :instructions: Add all tissue sample collections of which this tissue sample is part of.
+
+`BACK TO TOP <TissueSample_>`_
+
+------------
+
 .. _laterality_heading:
 
 **********
@@ -92,6 +109,23 @@ Differentiation between a pair of lateral homologous parts of the body.
    :value type: | linked object array \(1-2\) of type
                 | `Laterality <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both hemisphere sides from which this tissue sample originates from.
+
+`BACK TO TOP <TissueSample_>`_
+
+------------
+
+.. _lookupLabel_heading:
+
+***********
+lookupLabel
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a lookup label for this specimen that may help you to more easily find it again.
 
 `BACK TO TOP <TissueSample_>`_
 

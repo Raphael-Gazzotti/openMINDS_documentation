@@ -8,8 +8,6 @@ Person
 
 Structured information on a person.
 
-:Semantic equivalents: https://schema.org/Person
-
 
 ------------
 
@@ -18,8 +16,46 @@ Structured information on a person.
 Properties
 ##########
 
-:Required: `email <email_heading_>`_, `givenName <givenName_heading_>`_
-:Optional: `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
+:Required: `givenName <givenName_heading_>`_
+:Optional: `affiliation <affiliation_heading_>`_, `contactInformation <contactInformation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `familyName <familyName_heading_>`_
+
+------------
+
+.. _affiliation_heading:
+
+***********
+affiliation
+***********
+
+Declaration of a person being closely associated to an organization.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/affiliation
+   :value type: | embedded object array \(1-N\) of type
+                | `Affiliation <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/affiliation.html>`_
+   :instructions: Add the current and, if necessary, past affiliations of this person
+
+`BACK TO TOP <Person_>`_
+
+------------
+
+.. _contactInformation_heading:
+
+******************
+contactInformation
+******************
+
+Any available way used to contact a person or business (e.g., address, phone number, email address, etc.).
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/contactInformation
+   :value type: | linked object of type
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/actors/contactInformation.html>`_
+   :instructions: Add the contact information of this person.
+
+`BACK TO TOP <Person_>`_
 
 ------------
 
@@ -35,27 +71,8 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/digitalIdentifier.html>`_
+                | `ORCID <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/ORCID.html>`_
    :instructions: Add one or several globally unique and persistent digital identifier for this person.
-
-`BACK TO TOP <Person_>`_
-
-------------
-
-.. _email_heading:
-
-*****
-email
-*****
-
-Address to which or from which an electronic mail can be sent.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/email
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the email address of this person.
 
 `BACK TO TOP <Person_>`_
 

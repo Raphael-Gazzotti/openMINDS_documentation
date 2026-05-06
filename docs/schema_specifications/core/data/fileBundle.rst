@@ -16,25 +16,42 @@ Structured information on a bundle of file instances.
 Properties
 ##########
 
-:Required: `IRI <IRI_heading_>`_, `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
-:Optional: `format <format_heading_>`_, `groupedBy <groupedBy_heading_>`_, `hash <hash_heading_>`_, `storageSize <storageSize_heading_>`_
+:Required: `isPartOf <isPartOf_heading_>`_, `name <name_heading_>`_
+:Optional: `content <content_heading_>`_, `descendedFrom <descendedFrom_heading_>`_, `format <format_heading_>`_, `groupedBy <groupedBy_heading_>`_, `hash <hash_heading_>`_, `patternOfFilenames <patternOfFilenames_heading_>`_, `storageSize <storageSize_heading_>`_
 
 ------------
 
-.. _IRI_heading:
+.. _content_heading:
 
-***
-IRI
-***
+*******
+content
+*******
 
-Stands for Internationalized Resource Identifier which is an internet protocol standard that builds on the URI protocol, extending the set of permitted characters to include Unicode/ISO 10646.
+Something that is contained.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.ebrains.eu/vocab/IRI
+   :semantic name: https://openminds.ebrains.eu/vocab/content
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) of this file bundle.
+   :instructions: Enter a short content description for this file bundle.
+
+`BACK TO TOP <FileBundle_>`_
+
+------------
+
+.. _descendedFrom_heading:
+
+*************
+descendedFrom
+*************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/descendedFrom
+   :value type: | linked object array \(1-N\) of type
+                | `BehavioralTask <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/behavioralTask.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileBundle.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/tissueSampleState.html>`_
+   :instructions: Add all entities that played a role in the production of this file bundle (must be true for all grouped files).
 
 `BACK TO TOP <FileBundle_>`_
 
@@ -53,7 +70,7 @@ Method of digitally organizing and structuring data or information.
    :semantic name: https://openminds.ebrains.eu/vocab/format
    :value type: | linked object of type
                 | `ContentType <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/contentType.html>`_
-   :instructions: Add the content type of this file bundle.
+   :instructions: If file instances within this bundle are organized and formatted according to a formal data structure use the appropriate contentType. Leave blank otherwise.
 
 `BACK TO TOP <FileBundle_>`_
 
@@ -89,7 +106,7 @@ Term used for the process of converting any data into a single value. Often also
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.ebrains.eu/vocab/hash
-   :value type: | linked object of type
+   :value type: | embedded object of type
                 | `Hash <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/hash.html>`_
    :instructions: Add the hash that was generated for this file bundle.
 
@@ -130,6 +147,25 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this file bundle.
+
+`BACK TO TOP <FileBundle_>`_
+
+------------
+
+.. _patternOfFilenames_heading:
+
+******************
+patternOfFilenames
+******************
+
+Reliable sample / structure of characters valid for all names in a particular collection of files.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/patternOfFilenames
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a regular expression (syntax: ECMA 262) which is valid for all filenames of the file instances that should be grouped into this file bundle.
 
 `BACK TO TOP <FileBundle_>`_
 

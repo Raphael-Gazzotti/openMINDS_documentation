@@ -14,8 +14,8 @@ TermSuggestion
 Properties
 ##########
 
-:Required: `name <name_heading_>`_, `relatedTerminology <relatedTerminology_heading_>`_
-:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `terminology <terminology_heading_>`_
+:Required: `name <name_heading_>`_, `terminology <terminology_heading_>`_
+:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_
 
 ------------
 

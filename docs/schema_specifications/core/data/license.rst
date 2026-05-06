@@ -17,24 +17,7 @@ Properties
 ##########
 
 :Required: `fullName <fullName_heading_>`_, `legalCode <legalCode_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `deed <deed_heading_>`_
-
-------------
-
-.. _deed_heading:
-
-****
-deed
-****
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/deed
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) pointing to the deed of this license.
-
-`BACK TO TOP <License_>`_
+:Optional: `webpage <webpage_heading_>`_
 
 ------------
 
@@ -90,6 +73,25 @@ Shortened or fully abbreviated name of something or somebody.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the short name of this license.
+
+`BACK TO TOP <License_>`_
+
+------------
+
+.. _webpage_heading:
+
+*******
+webpage
+*******
+
+Hypertext document (block of information) found on the World Wide Web.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/webpage
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter one or several webpages related to this license (e.g. homepage).
 
 `BACK TO TOP <License_>`_
 

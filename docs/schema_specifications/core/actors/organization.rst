@@ -33,7 +33,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.ebrains.eu/vocab/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `DigitalIdentifier <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/digitalIdentifier.html>`_
+                | `GRIDID <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/GRIDID.html>`_ or `RORID <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/RORID.html>`_
    :instructions: Add one or several globally unique and persistent digital identifier for this organization.
 
 `BACK TO TOP <Organization_>`_
@@ -89,9 +89,9 @@ Main website of something or someone.
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.ebrains.eu/vocab/homepage
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter a internationalized resource identifier (IRI) to the homepage of this organization.
+   :value type: | linked object of type
+                | `URL <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/miscellaneous/URL.html>`_
+   :instructions: Add the uniform resource locator (URL) to the homepage of this organization.
 
 `BACK TO TOP <Organization_>`_
 

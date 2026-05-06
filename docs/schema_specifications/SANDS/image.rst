@@ -52,7 +52,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object of type
-                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_
+                | FileInstance \[TYPE_ERROR\]
    :instructions: Add the file in which this image is stored in.
 
 `BACK TO TOP <Image_>`_

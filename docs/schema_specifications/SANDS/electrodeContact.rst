@@ -52,7 +52,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object array \(1-N\) of type
-                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_
+                | FileInstance \[TYPE_ERROR\]
    :instructions: Add one or several files in which the electrode contact is defined in.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -90,7 +90,7 @@ Reference to the written, stored evidence of something.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedRecording
    :value type: | linked object array \(1-N\) of type
-                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_
+                | FileInstance \[TYPE_ERROR\]
    :instructions: Add one or several files in which the recordings from this electrode contact were stored.
 
 `BACK TO TOP <ElectrodeContact_>`_
@@ -109,7 +109,7 @@ Reference to the written, stored function used as a physiological stimulus.
 
    :semantic name: https://openminds.ebrains.eu/vocab/relatedStimulation
    :value type: | linked object array \(1-N\) of type
-                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_
+                | FileInstance \[TYPE_ERROR\]
    :instructions: Add one or several files in which the stimulations applied via this electrode contact were stored.
 
 `BACK TO TOP <ElectrodeContact_>`_

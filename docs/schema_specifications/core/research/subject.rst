@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
-:Optional: `genotype <genotype_heading_>`_, `phenotype <phenotype_heading_>`_, `strain <strain_heading_>`_
+:Optional: `isPartOf <isPartOf_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `phenotype <phenotype_heading_>`_, `strain <strain_heading_>`_
 
 ------------
 
@@ -40,25 +40,6 @@ Differentiation of individuals of most species (animals and plants) based on the
 
 ------------
 
-.. _genotype_heading:
-
-********
-genotype
-********
-
-Genetic constitution of an individual or group.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.ebrains.eu/vocab/genotype
-   :value type: | linked object of type
-                | `Genotype <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/controlledTerms/genotype.html>`_
-   :instructions: Add the genotype of this specimen.
-
-`BACK TO TOP <Subject_>`_
-
-------------
-
 .. _internalIdentifier_heading:
 
 ******************
@@ -73,6 +54,42 @@ Term or code that identifies someone or something within a particular product.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier of this specimen that is used within the corresponding data.
+
+`BACK TO TOP <Subject_>`_
+
+------------
+
+.. _isPartOf_heading:
+
+********
+isPartOf
+********
+
+Reference to the ensemble of multiple things or beings.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/isPartOf
+   :value type: | linked object array \(1-N\) of type
+                | `SubjectGroup <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/research/subjectGroup.html>`_
+   :instructions: Add all subject groups of which this subject is a member.
+
+`BACK TO TOP <Subject_>`_
+
+------------
+
+.. _lookupLabel_heading:
+
+***********
+lookupLabel
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.ebrains.eu/vocab/lookupLabel
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a lookup label for this specimen that may help you to more easily find it again.
 
 `BACK TO TOP <Subject_>`_
 

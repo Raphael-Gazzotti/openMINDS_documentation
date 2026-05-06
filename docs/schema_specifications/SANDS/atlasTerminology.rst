@@ -50,7 +50,7 @@ Reference to a file instance in which something is stored.
 
    :semantic name: https://openminds.ebrains.eu/vocab/definedIn
    :value type: | linked object array \(1-N\) of type
-                | `FileInstance <https://openminds-documentation.readthedocs.io/en/v1.0/schema_specifications/core/data/fileInstance.html>`_
+                | FileInstance \[TYPE_ERROR\]
    :instructions: Add one or several files in which this atlas terminology is stored in.
 
 `BACK TO TOP <AtlasTerminology_>`_
