@@ -6,8 +6,6 @@ BrainAtlasVersion
 
 :Display as: Brain atlas version
 
-Structured information on a brain atlas (version level).
-
 
 ------------
 

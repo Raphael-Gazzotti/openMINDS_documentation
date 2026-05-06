@@ -6,8 +6,6 @@ BrainAtlas
 
 :Display as: Brain atlas
 
-Structured information on a brain atlas (concept level).
-
 
 ------------
 

@@ -8,8 +8,6 @@ Person
 
 Structured information on a person.
 
-:Semantic equivalents: https://schema.org/Person
-
 
 ------------
 
