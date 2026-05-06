@@ -2,7 +2,7 @@
 Terminologies: BreedingType library
 ###################################
 
-Related schema specification: `BreedingType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/breedingType.html>`_
+Related schema specification: `BreedingType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/breedingType.html>`_
 
 ------------
 

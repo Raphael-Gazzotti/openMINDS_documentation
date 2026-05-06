@@ -2,7 +2,7 @@
 Licenses library
 ################
 
-Related schema specification: `License <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/license.html>`_
+Related schema specification: `License <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/license.html>`_
 
 ------------
 

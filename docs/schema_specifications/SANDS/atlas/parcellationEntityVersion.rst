@@ -7,7 +7,7 @@ ParcellationEntityVersion
 :Display as: Parcellation entity version
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntityVersions.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions.html>`_.
 
 ------------
 
@@ -16,8 +16,8 @@ For this schema openMINDS provides a `library of instances <https://openminds-do
 Properties
 ##########
 
-:Required: `lookupLabel <lookupLabel_heading_>`_, `name <name_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
-:Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `isVersionOf <isVersionOf_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
+:Required: `name <name_heading_>`_, `versionIdentifier <versionIdentifier_heading_>`_
+:Optional: `abbreviation <abbreviation_heading_>`_, `additionalRemarks <additionalRemarks_heading_>`_, `alternateName <alternateName_heading_>`_, `correctedName <correctedName_heading_>`_, `hasAnnotation <hasAnnotation_heading_>`_, `hasParent <hasParent_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `ontologyIdentifier <ontologyIdentifier_heading_>`_, `relationAssessment <relationAssessment_heading_>`_, `versionInnovation <versionInnovation_heading_>`_
 
 ------------
 
@@ -101,7 +101,7 @@ hasAnnotation
 
    :semantic name: https://openminds.om-i.org/props/hasAnnotation
    :value type: | embedded object array \(1-N\) of type
-                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/atlasAnnotation.html>`_
+                | `AtlasAnnotation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/atlasAnnotation.html>`_
    :instructions: Add all atlas annotations which define this parcellation entity version.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
@@ -120,25 +120,8 @@ Reference to a parent object or legal person.
 
    :semantic name: https://openminds.om-i.org/props/hasParent
    :value type: | linked object array \(1-N\) of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all anatomical parent structures (or version of the structures) for this parcellation entity as defined within corresponding brain atlas version.
-
-`BACK TO TOP <ParcellationEntityVersion_>`_
-
-------------
-
-.. _isVersionOf_heading:
-
-***********
-isVersionOf
-***********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/isVersionOf
-   :value type: | linked object of type
-                | `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
-   :instructions: Add the version-independent information about this parcellation entity.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_
 
@@ -209,7 +192,7 @@ relationAssessment
 
    :semantic name: https://openminds.om-i.org/props/relationAssessment
    :value type: | embedded object array \(1-N\) of type
-                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
+                | `QualitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/miscellaneous/qualitativeRelationAssessment.html>`_ or `QuantitativeRelationAssessment <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/miscellaneous/quantitativeRelationAssessment.html>`_
    :instructions: Add all relations (qualitative or quantitative) of this parcellation entity version to other anatomical entities.
 
 `BACK TO TOP <ParcellationEntityVersion_>`_

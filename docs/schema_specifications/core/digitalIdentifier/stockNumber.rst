@@ -48,7 +48,7 @@ vendor
 
    :semantic name: https://openminds.om-i.org/props/vendor
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/organization.html>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_
    :instructions: Add the vendor that has the item with this identifier in stock.
 
 `BACK TO TOP <StockNumber_>`_

@@ -31,7 +31,7 @@ Piece of equipment or mechanism (hardware) designed to serve a special purpose o
 
    :semantic name: https://openminds.om-i.org/props/device
    :value type: | linked object of type
-                | `SlicingDevice <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/specimenPrep/device/slicingDevice.html>`_
+                | `SlicingDevice <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/specimenPrep/device/slicingDevice.html>`_
    :instructions: Add the slicing device used.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -65,7 +65,7 @@ metadataLocation
 
    :semantic name: https://openminds.om-i.org/props/metadataLocation
    :value type: | linked object array \(1-N\) of type
-                | `File <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/fileBundle.html>`_
+                | `File <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all files or file bundles containing additional information about the usage of this device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -82,7 +82,7 @@ oscillationAmplitude
 
    :semantic name: https://openminds.om-i.org/props/oscillationAmplitude
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the oscillation amplitude of the blade from the slicing device during its use.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -99,7 +99,7 @@ sliceThickness
 
    :semantic name: https://openminds.om-i.org/props/sliceThickness
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the defined slice thickness during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -116,7 +116,7 @@ slicingAngle
 
    :semantic name: https://openminds.om-i.org/props/slicingAngle
    :value type: | embedded object array \(1-2\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `NumericalProperty <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/numericalProperty.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `NumericalProperty <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/numericalProperty.html>`_
    :instructions: Enter all slicing angles (intentional or unintentional) in relation to the slicing plane used during this activity.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -133,7 +133,7 @@ slicingPlane
 
    :semantic name: https://openminds.om-i.org/props/slicingPlane
    :value type: | linked object of type
-                | `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/anatomicalPlane.html>`_
+                | `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/anatomicalPlane.html>`_
    :instructions: Add the anatomical plane that best describes the slicing direction of the tissue sample(s) during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -150,7 +150,7 @@ slicingSpeed
 
    :semantic name: https://openminds.om-i.org/props/slicingSpeed
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the defined slicing speed during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -167,7 +167,7 @@ usedSpecimen
 
    :semantic name: https://openminds.om-i.org/props/usedSpecimen
    :value type: | linked object of type
-                | `SubjectState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleState.html>`_
+                | `SubjectState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/subjectState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the tissue sample or subject that this device was used on.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_
@@ -184,7 +184,7 @@ vibrationFrequency
 
    :semantic name: https://openminds.om-i.org/props/vibrationFrequency
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the defined vibration frequency during the use of this slicing device.
 
 `BACK TO TOP <SlicingDeviceUsage_>`_

@@ -29,7 +29,7 @@ contentType
 
    :semantic name: https://openminds.om-i.org/props/contentType
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/contentType.html>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/contentType.html>`_
    :instructions: Add the content type that can be defined by the regular expression of this content type pattern (e.g., for file extensions).
 
 `BACK TO TOP <ContentTypePattern_>`_

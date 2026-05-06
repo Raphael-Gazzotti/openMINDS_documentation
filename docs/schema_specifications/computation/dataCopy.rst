@@ -29,7 +29,7 @@ customPropertySet
 
    :semantic name: https://openminds.om-i.org/props/customPropertySet
    :value type: | embedded object array \(1-N\) of type
-                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/customPropertySet.html>`_
+                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/customPropertySet.html>`_
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
 `BACK TO TOP <DataCopy_>`_
@@ -82,7 +82,7 @@ environment
 
    :semantic name: https://openminds.om-i.org/props/environment
    :value type: | linked object of type
-                | `Environment <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/environment.html>`_ or `Service <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/service.html>`_
+                | `Environment <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/environment.html>`_ or `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/webServiceVersion.html>`_
    :instructions: Add the computational environment in which this computation was executed.
 
 `BACK TO TOP <DataCopy_>`_
@@ -101,7 +101,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.om-i.org/props/input
    :value type: | linked object array \(1-N\) of type
-                | `LocalFile <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/localFile.html>`_, `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/validationTestVersion.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/datasetVersion.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/fileBundle.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/modelVersion.html>`_ or `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/softwareVersion.html>`_
+                | `LocalFile <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/localFile.html>`_, `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/validationTestVersion.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/datasetVersion.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/file.html>`_, `FileBundle <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/fileBundle.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/modelVersion.html>`_ or `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/softwareVersion.html>`_
    :instructions: Add all inputs used by this activity.
 
 `BACK TO TOP <DataCopy_>`_
@@ -118,7 +118,7 @@ launchConfiguration
 
    :semantic name: https://openminds.om-i.org/props/launchConfiguration
    :value type: | linked object of type
-                | `LaunchConfiguration <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/launchConfiguration.html>`_
+                | `LaunchConfiguration <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/launchConfiguration.html>`_
    :instructions: Add the launch configuration of this computation (e.g., command-line arguments).
 
 `BACK TO TOP <DataCopy_>`_
@@ -154,7 +154,7 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.om-i.org/props/output
    :value type: | linked object array \(1-N\) of type
-                | `LocalFile <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/localFile.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/fileBundle.html>`_
+                | `LocalFile <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/localFile.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/file.html>`_ or `FileBundle <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all outputs generated by this activity.
 
 `BACK TO TOP <DataCopy_>`_
@@ -171,7 +171,7 @@ performedBy
 
    :semantic name: https://openminds.om-i.org/props/performedBy
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/person.html>`_
+                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <DataCopy_>`_
@@ -188,7 +188,7 @@ recipe
 
    :semantic name: https://openminds.om-i.org/props/recipe
    :value type: | linked object of type
-                | `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/workflowRecipeVersion.html>`_
+                | `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/workflowRecipeVersion.html>`_
    :instructions: Add the workflow recipe version used for this computation.
 
 `BACK TO TOP <DataCopy_>`_
@@ -205,7 +205,7 @@ resourceUsage
 
    :semantic name: https://openminds.om-i.org/props/resourceUsage
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter all resources used during this computation (e.g., core-hours or energy).
 
 `BACK TO TOP <DataCopy_>`_
@@ -239,7 +239,7 @@ startedBy
 
    :semantic name: https://openminds.om-i.org/props/startedBy
    :value type: | linked object of type
-                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/person.html>`_
+                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add the agent that started this computation.
 
 `BACK TO TOP <DataCopy_>`_
@@ -256,7 +256,7 @@ status
 
    :semantic name: https://openminds.om-i.org/props/status
    :value type: | linked object of type
-                | `ActionStatusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/actionStatusType.html>`_
+                | `ActionStatusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/actionStatusType.html>`_
    :instructions: Enter the current status of this computation.
 
 `BACK TO TOP <DataCopy_>`_
@@ -275,7 +275,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.om-i.org/props/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `AnatomicalCavity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/anatomicalCavity.html>`_, `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellType.html>`_, `DeviceType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/deviceType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `ExternalBodyRegion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/externalBodyRegion.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/molecularEntity.html>`_, `MuscularStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/muscularStructure.html>`_, `NervousSystemStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/nervousSystemStructure.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organ.html>`_, `OrganSystemStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organSystemStructure.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSystem.html>`_, `SkeletalStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/skeletalStructure.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/termSuggestion.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueSampleType.html>`_, `TissueStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueStructure.html>`_, `VascularStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/vascularStructure.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/molecularEntity.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organismSystem.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/termSuggestion.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tissueSampleType.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all study targets of this activity.
 
 `BACK TO TOP <DataCopy_>`_
@@ -311,7 +311,7 @@ Method of accomplishing a desired aim.
 
    :semantic name: https://openminds.om-i.org/props/technique
    :value type: | linked object array \(1-N\) of type
-                | `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/analysisTechnique.html>`_
+                | `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/analysisTechnique.html>`_
    :instructions: Add all analysis techniques that were used in this computation.
 
 `BACK TO TOP <DataCopy_>`_
@@ -328,7 +328,7 @@ wasInformedBy
 
    :semantic name: https://openminds.om-i.org/props/wasInformedBy
    :value type: | linked object of type
-                | `DataAnalysis <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/dataAnalysis.html>`_, `DataCopy <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/dataCopy.html>`_, `GenericComputation <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/genericComputation.html>`_, `ModelValidation <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/modelValidation.html>`_, `Optimization <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/optimization.html>`_, `Simulation <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/simulation.html>`_ or `Visualization <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/visualization.html>`_
+                | `DataAnalysis <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/dataAnalysis.html>`_, `DataCopy <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/dataCopy.html>`_, `GenericComputation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/genericComputation.html>`_, `ModelValidation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/modelValidation.html>`_, `Optimization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/optimization.html>`_, `Simulation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/simulation.html>`_ or `Visualization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/visualization.html>`_
    :instructions: Add another computation that sent data to this one during runtime.
 
 `BACK TO TOP <DataCopy_>`_

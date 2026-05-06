@@ -67,7 +67,7 @@ dataType
 
    :semantic name: https://openminds.om-i.org/props/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/dataType.html>`_
+                | `DataType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/dataType.html>`_
    :instructions: Add all data types that are specifically represented in this file instance.
 
 `BACK TO TOP <File_>`_
@@ -84,7 +84,7 @@ fileRepository
 
    :semantic name: https://openminds.om-i.org/props/fileRepository
    :value type: | linked object of type
-                | `FileRepository <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/fileRepository.html>`_
+                | `FileRepository <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/fileRepository.html>`_
    :instructions: Add the overarching repository to which this file instance belongs.
 
 `BACK TO TOP <File_>`_
@@ -103,7 +103,7 @@ Method of digitally organizing and structuring data or information.
 
    :semantic name: https://openminds.om-i.org/props/format
    :value type: | linked object of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/contentType.html>`_
+                | `ContentType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/contentType.html>`_
    :instructions: Add the content type of this file instance.
 
 `BACK TO TOP <File_>`_
@@ -122,7 +122,7 @@ Term used for the process of converting any data into a single value. Often also
 
    :semantic name: https://openminds.om-i.org/props/hash
    :value type: | embedded object array \(1-N\) of type
-                | `Hash <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/hash.html>`_
+                | `Hash <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/hash.html>`_
    :instructions: Add all hashes that were generated for this file instance.
 
 `BACK TO TOP <File_>`_
@@ -141,7 +141,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | `FileBundle <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/fileBundle.html>`_
+                | `FileBundle <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/fileBundle.html>`_
    :instructions: Add all file bundles in which this file instance is grouped into.
 
 `BACK TO TOP <File_>`_
@@ -179,7 +179,7 @@ Particular function of something when it is used.
 
    :semantic name: https://openminds.om-i.org/props/specialUsageRole
    :value type: | linked object of type
-                | `FileUsageRole <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/fileUsageRole.html>`_
+                | `FileUsageRole <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/fileUsageRole.html>`_
    :instructions: Add the special usage role of this file instance.
 
 `BACK TO TOP <File_>`_
@@ -198,7 +198,7 @@ Quantitative value defining how much disk space is used by an object on a comput
 
    :semantic name: https://openminds.om-i.org/props/storageSize
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the storage size of this file instance.
 
 `BACK TO TOP <File_>`_

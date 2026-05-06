@@ -2,7 +2,7 @@
 Terminologies: ContributionType library
 #######################################
 
-Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/contributionType.html>`_
+Related schema specification: `ContributionType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/contributionType.html>`_
 
 ------------
 
@@ -143,6 +143,51 @@ custodianship
 
 ------------
 
+dataCollection
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/dataCollection
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by gathering or aggregating data.
+   :name: data collection
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+dataManagement
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/dataManagement
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by organizing, storing, maintaining, and governing data assets to ensure their accessibility, reliability, and usability throughout their lifecycle
+   :name: data management
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+dataProcessing
+--------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/dataProcessing
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by handling, cleaning, transforming, or preparing data for subsequent analysis or use.
+   :name: data processing
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
 deployment
 ----------
 
@@ -278,6 +323,21 @@ implementation
 
 ------------
 
+informationTechnologySupport
+----------------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/informationTechnologySupport
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by providing operational or technical assistance for computing infrastructure, systems, or digital tools.
+   :name: information technology support
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
 inspection
 ----------
 
@@ -303,6 +363,21 @@ integration
    :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by incorporating another living or non-living thing into a target entity so that it becomes part of and functions within a coherent whole.
    :name: integration
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+laboratoryAssistance
+--------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/laboratoryAssistance
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by supporting the operational execution of laboratory activities, procedures, or experiments.
+   :name: laboratory assistance
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 
@@ -348,6 +423,36 @@ manufacturing
    :@type: https://openminds.om-i.org/types/ContributionType
    :definition: A contribution type of a role-bearing entity realized by producing physical target entities, typically in a repeatable or systematic manner, for distribution, use, or sale.
    :name: manufacturing
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+marketing
+---------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/marketing
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by promoting, advertising, or commercializing a target entity.
+   :name: marketing
+
+`BACK TO TOP <Terminologies: ContributionType library_>`_
+
+------------
+
+metadataManagement
+------------------
+
+.. admonition:: metadata sheet
+
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/contributionType/metadataManagement
+   :@type: https://openminds.om-i.org/types/ContributionType
+   :definition: A contribution type of a role-bearing entity realized by overseeing the creation, curation, governance, and maintenance of metadata to ensure its quality, consistency, and fitness for use.
+   :name: metadata management
 
 `BACK TO TOP <Terminologies: ContributionType library_>`_
 

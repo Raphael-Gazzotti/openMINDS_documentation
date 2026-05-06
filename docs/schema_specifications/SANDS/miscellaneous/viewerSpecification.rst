@@ -48,7 +48,7 @@ anchorPoint
 
    :semantic name: https://openminds.om-i.org/props/anchorPoint
    :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
    :instructions: Enter the coordinates of the anchor point that a viewer should use. Either state the anchor point of the annotation again or state another coordinate point.
 
 `BACK TO TOP <ViewerSpecification_>`_
@@ -65,7 +65,7 @@ cameraPosition
 
    :semantic name: https://openminds.om-i.org/props/cameraPosition
    :value type: | embedded object of type
-                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/miscellaneous/coordinatePoint.html>`_
+                | `CoordinatePoint <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/miscellaneous/coordinatePoint.html>`_
    :instructions: Enter the camera position that a viewer should use.
 
 `BACK TO TOP <ViewerSpecification_>`_
@@ -82,7 +82,7 @@ preferredDisplayColor
 
    :semantic name: https://openminds.om-i.org/props/preferredDisplayColor
    :value type: | linked object of type
-                | `Colormap <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/colormap.html>`_ or `SingleColor <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/miscellaneous/singleColor.html>`_
+                | `Colormap <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/colormap.html>`_ or `SingleColor <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/miscellaneous/singleColor.html>`_
    :instructions: Add the preferred color that a viewer should display.
 
 `BACK TO TOP <ViewerSpecification_>`_

@@ -2,7 +2,7 @@
 Terminologies: MeasuredQuantity library
 #######################################
 
-Related schema specification: `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/measuredQuantity.html>`_
+Related schema specification: `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/measuredQuantity.html>`_
 
 ------------
 
@@ -92,6 +92,7 @@ membranePotential
    :@id: https://openminds.om-i.org/instances/measuredQuantity/membranePotential
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106774
    :name: membrane potential
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106774
 

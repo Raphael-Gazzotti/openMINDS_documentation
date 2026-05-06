@@ -2,7 +2,7 @@
 Terminologies: DiseaseModel library
 ###################################
 
-Related schema specification: `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/diseaseModel.html>`_
+Related schema specification: `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/diseaseModel.html>`_
 
 ------------
 

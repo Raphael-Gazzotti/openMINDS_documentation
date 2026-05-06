@@ -2,7 +2,7 @@
 Terminologies: AnatomicalIdentificationType library
 ###################################################
 
-Related schema specification: `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/anatomicalIdentificationType.html>`_
+Related schema specification: `AnatomicalIdentificationType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/anatomicalIdentificationType.html>`_
 
 ------------
 

@@ -15,7 +15,7 @@ Properties
 ##########
 
 :Required:
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `associatedProtocol <associatedProtocol_heading_>`_, `attribute <attribute_heading_>`_, `descendedFrom <descendedFrom_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `relativeTimeIndication <relativeTimeIndication_heading_>`_, `weight <weight_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `attribute <attribute_heading_>`_, `descendedFrom <descendedFrom_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `relativeTimeIndication <relativeTimeIndication_heading_>`_, `weight <weight_heading_>`_
 
 ------------
 
@@ -50,25 +50,8 @@ Time of life or existence at which some particular qualification, capacity or ev
 
    :semantic name: https://openminds.om-i.org/props/age
    :value type: | embedded object of type
-                | `SpecimenAge <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/specimenAge.html>`_
-   :instructions: Enter the age and age reference of the specimen (set) in this state.
-
-`BACK TO TOP <TissueSampleCollectionState_>`_
-
-------------
-
-.. _associatedProtocol_heading:
-
-******************
-associatedProtocol
-******************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/associatedProtocol
-   :value type: | linked object array \(1-N\) of type
-                | `Protocol <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/protocol.html>`_ or `BehavioralProtocol <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/behavioralProtocol.html>`_
-   :instructions: Add all technical and/or behavioral protocols associated with this specimen state.
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+   :instructions: Enter the age of the specimen (set) in this state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
 
@@ -84,7 +67,7 @@ attribute
 
    :semantic name: https://openminds.om-i.org/props/attribute
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueSampleAttribute.html>`_
+                | `TissueSampleAttribute <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tissueSampleAttribute.html>`_
    :instructions: Add all attributes that can be ascribed to this tissue sample collection state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -101,7 +84,7 @@ descendedFrom
 
    :semantic name: https://openminds.om-i.org/props/descendedFrom
    :value type: | linked object array \(1-N\) of type
-                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleState.html>`_
+                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/subjectGroupState.html>`_, `SubjectState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/subjectState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_ or `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add all specimen states used to produce or obtain this tissue sample collection state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -156,7 +139,7 @@ Structural and functional deviation from the normal that constitutes a disease o
 
    :semantic name: https://openminds.om-i.org/props/pathology
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/diseaseModel.html>`_
+                | `Disease <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/diseaseModel.html>`_
    :instructions: Add all (human) diseases and/or conditions that the specimen (set) in this state has and/or is a model for.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -173,7 +156,7 @@ relativeTimeIndication
 
    :semantic name: https://openminds.om-i.org/props/relativeTimeIndication
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: If there is a temporal relation between the states of a specimen (set), enter the relative time that has passed between this and the preceding specimen (set) state referenced under 'descendedFrom'.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
@@ -192,8 +175,8 @@ Amount that a thing or being weighs.
 
    :semantic name: https://openminds.om-i.org/props/weight
    :value type: | embedded object of type
-                | `SpecimenWeight <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/specimenWeight.html>`_
-   :instructions: Enter the weight and weight type of the specimen (set) in this state.
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+   :instructions: Enter the weight of the specimen (set) in this state.
 
 `BACK TO TOP <TissueSampleCollectionState_>`_
 

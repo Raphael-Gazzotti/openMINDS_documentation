@@ -31,7 +31,7 @@ anatomicalLocation
 
    :semantic name: https://openminds.om-i.org/props/anatomicalLocation
    :value type: | linked object array \(1-N\) of type
-                | `AnatomicalCavity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/anatomicalCavity.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellType.html>`_, `ExternalBodyRegion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/externalBodyRegion.html>`_, `MuscularStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/muscularStructure.html>`_, `NervousSystemStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/nervousSystemStructure.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organ.html>`_, `OrganSystemStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organSystemStructure.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSystem.html>`_, `SkeletalStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/skeletalStructure.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TissueStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueStructure.html>`_, `VascularStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/vascularStructure.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `CellType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organismSubstance.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/subcellularEntity.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all anatomical entities that describe the anatomical location of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_
@@ -50,7 +50,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.om-i.org/props/biologicalSex
    :value type: | linked object of type
-                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/biologicalSex.html>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -88,7 +88,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleCollection <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleCollection.html>`_
+                | `TissueSampleCollection <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleCollection.html>`_
    :instructions: Add all tissue sample collections this tissue sample is part of.
 
 `BACK TO TOP <TissueSample_>`_
@@ -107,7 +107,7 @@ Differentiation between a pair of lateral homologous parts of the body.
 
    :semantic name: https://openminds.om-i.org/props/laterality
    :value type: | linked object array \(1-2\) of type
-                | `Laterality <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/laterality.html>`_
+                | `Laterality <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/laterality.html>`_
    :instructions: Add one or both sides of the body, bilateral organ or bilateral organ part that this tissue sample originates from.
 
 `BACK TO TOP <TissueSample_>`_
@@ -143,7 +143,7 @@ Source at which something begins or rises, or from which something derives.
 
    :semantic name: https://openminds.om-i.org/props/origin
    :value type: | linked object of type
-                | `CellType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organ.html>`_ or `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSubstance.html>`_
+                | `CellType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organ.html>`_ or `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organismSubstance.html>`_
    :instructions: Add the biogical origin of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_
@@ -162,7 +162,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.om-i.org/props/species
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/strain.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/strain.html>`_
    :instructions: Add the species or strain (a sub-type of a genetic variant of species) of this specimen.
 
 `BACK TO TOP <TissueSample_>`_
@@ -181,7 +181,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.om-i.org/props/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleState.html>`_
+                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add all states in which this tissue sample was studied.
 
 `BACK TO TOP <TissueSample_>`_
@@ -200,7 +200,7 @@ Distinct class to which a group of entities or concepts with similar characteris
 
    :semantic name: https://openminds.om-i.org/props/type
    :value type: | linked object of type
-                | `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueSampleType.html>`_
+                | `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tissueSampleType.html>`_
    :instructions: Add the type of this tissue sample.
 
 `BACK TO TOP <TissueSample_>`_

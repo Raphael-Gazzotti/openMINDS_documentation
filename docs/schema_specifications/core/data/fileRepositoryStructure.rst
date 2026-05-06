@@ -29,7 +29,7 @@ filePathPattern
 
    :semantic name: https://openminds.om-i.org/props/filePathPattern
    :value type: | embedded object array \(1-N\) of type
-                | `FilePathPattern <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/filePathPattern.html>`_
+                | `FilePathPattern <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/filePathPattern.html>`_
    :instructions: Add all file path patterns that define this file repository structure.
 
 `BACK TO TOP <FileRepositoryStructure_>`_

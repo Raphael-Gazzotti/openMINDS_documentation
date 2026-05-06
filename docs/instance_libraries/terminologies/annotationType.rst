@@ -2,7 +2,7 @@
 Terminologies: AnnotationType library
 #####################################
 
-Related schema specification: `AnnotationType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/annotationType.html>`_
+Related schema specification: `AnnotationType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/annotationType.html>`_
 
 ------------
 

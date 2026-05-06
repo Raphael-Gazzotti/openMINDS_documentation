@@ -2,7 +2,7 @@
 ParcellationEntities: AsegAtlas library
 #######################################
 
-Related schema specification: `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
+Related schema specification: `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
 
 ------------
 
@@ -18,7 +18,7 @@ AsegAtlas_accumbensArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_accumbensArea
    :name: accumbens area
-   :relatedInterspeciesAnatomy: `nucleusAccumbens <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#nucleusaccumbens>`_
+   :relatedUBERONTerm: `nucleusAccumbens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#nucleusaccumbens>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -34,7 +34,7 @@ AsegAtlas_amygdala
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_amygdala
    :name: amygdala
-   :relatedInterspeciesAnatomy: `amygdala <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#amygdala>`_
+   :relatedUBERONTerm: `amygdala <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#amygdala>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -50,7 +50,7 @@ AsegAtlas_brainStem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_brainStem
    :name: brain stem
-   :relatedInterspeciesAnatomy: `brainstem <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#brainstem>`_
+   :relatedUBERONTerm: `brainstem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#brainstem>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -66,7 +66,7 @@ AsegAtlas_caudate
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_caudate
    :name: caudate
-   :relatedInterspeciesAnatomy: `caudateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#caudatenucleus>`_
+   :relatedUBERONTerm: `caudateNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#caudatenucleus>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -82,7 +82,7 @@ AsegAtlas_cerebellumCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebellumCortex
    :name: cerebellum cortex
-   :relatedInterspeciesAnatomy: `cerebellarCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#cerebellarcortex>`_
+   :relatedUBERONTerm: `cerebellarCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#cerebellarcortex>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -98,7 +98,7 @@ AsegAtlas_cerebellumWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebellumWhiteMatter
    :name: cerebellum white matter
-   :relatedInterspeciesAnatomy: `whiteMatterOfCerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#whitematterofcerebellum>`_
+   :relatedUBERONTerm: `whiteMatterOfCerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#whitematterofcerebellum>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -114,7 +114,7 @@ AsegAtlas_cerebralCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebralCortex
    :name: cerebral cortex
-   :relatedInterspeciesAnatomy: `cerebralCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#cerebralcortex>`_
+   :relatedUBERONTerm: `cerebralCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#cerebralcortex>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -130,7 +130,7 @@ AsegAtlas_cerebralWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebralWhiteMatter
    :name: cerebral white matter
-   :relatedInterspeciesAnatomy: `cerebralHemisphereWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#cerebralhemispherewhitematter>`_
+   :relatedUBERONTerm: `cerebralHemisphereWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#cerebralhemispherewhitematter>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -146,7 +146,7 @@ AsegAtlas_cerebrospinalFluid
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_cerebrospinalFluid
    :name: cerebrospinal fluid
-   :relatedInterspeciesAnatomy: `cerebrospinalFluid <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#cerebrospinalfluid>`_
+   :relatedUBERONTerm: `cerebrospinalFluid <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#cerebrospinalfluid>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -162,7 +162,7 @@ AsegAtlas_fourthVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_fourthVentricle
    :name: fourth ventricle
-   :relatedInterspeciesAnatomy: `fourthVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#fourthventricle>`_
+   :relatedUBERONTerm: `fourthVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#fourthventricle>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -178,7 +178,7 @@ AsegAtlas_hippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_hippocampus
    :name: hippocampus
-   :relatedInterspeciesAnatomy: `hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#hippocampalformation>`_
+   :relatedUBERONTerm: `hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#hippocampalformation>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -194,7 +194,7 @@ AsegAtlas_inferiorLateralVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_inferiorLateralVentricle
    :name: inferior lateral ventricle
-   :relatedInterspeciesAnatomy: `inferiorHornOfTheLateralVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#inferiorhornofthelateralventricle>`_
+   :relatedUBERONTerm: `inferiorHornOfTheLateralVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#inferiorhornofthelateralventricle>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -240,7 +240,7 @@ AsegAtlas_pallidum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_pallidum
    :name: pallidum
-   :relatedInterspeciesAnatomy: `pallidum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#pallidum>`_
+   :relatedUBERONTerm: `pallidum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#pallidum>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -256,7 +256,7 @@ AsegAtlas_putamen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_putamen
    :name: putamen
-   :relatedInterspeciesAnatomy: `putamen <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#putamen>`_
+   :relatedUBERONTerm: `putamen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#putamen>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -287,7 +287,7 @@ AsegAtlas_thirdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_thirdVentricle
    :name: third ventricle
-   :relatedInterspeciesAnatomy: `thirdVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#thirdventricle>`_
+   :relatedUBERONTerm: `thirdVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#thirdventricle>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 
@@ -333,7 +333,7 @@ AsegAtlas_vessel
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :lookupLabel: AsegAtlas_vessel
    :name: vessel
-   :relatedInterspeciesAnatomy: `vessel <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/nervousSystemStructure.html#vessel>`_
+   :relatedUBERONTerm: `vessel <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/UBERONParcellation.html#vessel>`_
 
 `BACK TO TOP <ParcellationEntities: AsegAtlas library_>`_
 

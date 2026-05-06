@@ -14,8 +14,8 @@ SubjectGroup
 Properties
 ##########
 
-:Required: `numberOfSubjects <numberOfSubjects_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `isPartOf <isPartOf_heading_>`_, `lookupLabel <lookupLabel_heading_>`_
+:Required: `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `numberOfSubjects <numberOfSubjects_heading_>`_
 
 ------------
 
@@ -50,7 +50,7 @@ Differentiation of individuals of most species (animals and plants) based on the
 
    :semantic name: https://openminds.om-i.org/props/biologicalSex
    :value type: | linked object array \(1-N\) of type
-                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/biologicalSex.html>`_
+                | `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/biologicalSex.html>`_
    :instructions: Add the biological sex of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -71,25 +71,6 @@ Term or code that identifies someone or something within a particular product.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this specimen set that is used within the corresponding data files to identify this specimen set.
-
-`BACK TO TOP <SubjectGroup_>`_
-
-------------
-
-.. _isPartOf_heading:
-
-********
-isPartOf
-********
-
-Reference to the ensemble of multiple things or beings.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/isPartOf
-   :value type: | linked object array \(1-N\) of type
-                | `SubjectGroup <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectGroup.html>`_
-   :instructions: Add all subject groups of which this subject group is a subgroup.
 
 `BACK TO TOP <SubjectGroup_>`_
 
@@ -140,7 +121,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.om-i.org/props/species
    :value type: | linked object array \(1-N\) of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/strain.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_ or `Strain <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/strain.html>`_
    :instructions: Add the species and/or strain (a sub-type of a genetic variant of species) of all specimen in this set.
 
 `BACK TO TOP <SubjectGroup_>`_
@@ -159,7 +140,7 @@ Reference to a point in time at which something or someone was studied in a part
 
    :semantic name: https://openminds.om-i.org/props/studiedState
    :value type: | linked object array \(1-N\) of type
-                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectGroupState.html>`_
+                | `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/subjectGroupState.html>`_
    :instructions: Add all states in which this subject group was studied.
 
 `BACK TO TOP <SubjectGroup_>`_

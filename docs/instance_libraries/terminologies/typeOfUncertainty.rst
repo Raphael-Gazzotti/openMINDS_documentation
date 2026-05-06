@@ -2,7 +2,7 @@
 Terminologies: TypeOfUncertainty library
 ########################################
 
-Related schema specification: `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
+Related schema specification: `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
 
 ------------
 

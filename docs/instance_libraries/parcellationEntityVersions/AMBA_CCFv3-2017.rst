@@ -2,7 +2,7 @@
 ParcellationEntityVersions: AMBA_CCFv3-2017 library
 ###################################################
 
-Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
 
 ------------
 

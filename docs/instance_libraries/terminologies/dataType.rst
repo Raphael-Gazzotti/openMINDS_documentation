@@ -2,7 +2,7 @@
 Terminologies: DataType library
 ###############################
 
-Related schema specification: `DataType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/dataType.html>`_
+Related schema specification: `DataType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/dataType.html>`_
 
 ------------
 
@@ -18,7 +18,7 @@ Related schema specification: `DataType <https://openminds-documentation.readthe
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A '3D computer graphic' is an associative array, defining points, lines, and/or curves in a three dimensional space, which can be rendered to raster graphic.
    :name: 3D computer graphic
-   :preferredCrossReference: https://www.wikidata.org/entity/Q189177
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q189177
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -34,7 +34,7 @@ associativeArray
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'associative array' is an abstract data type that associates keys (scalars) with values (scalars, lists or matrices).
    :name: associative array
-   :preferredCrossReference: https://www.wikidata.org/entity/Q80585
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q80585
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -65,7 +65,7 @@ list
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'list' is a series of ordered scalars and/or lists.
    :name: list
-   :preferredCrossReference: https://www.wikidata.org/entity/Q12139612
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q12139612
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -81,7 +81,7 @@ matrix
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'matrix' is a list of lists.
    :name: matrix
-   :preferredCrossReference: https://www.wikidata.org/entity/Q44337
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q44337
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -97,7 +97,7 @@ rasterGraphic
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'raster graphic' is a matrix, representing values (scalars, lists, matrices) on a grid in a two dimensional space, viewable via a monitor, paper, or other display medium.
    :name: raster graphic
-   :preferredCrossReference: https://www.wikidata.org/entity/Q182270
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q182270
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -113,7 +113,7 @@ scalar
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'scalar' represent a single value (e.g., integer, float, string, etc.).
    :name: scalar
-   :preferredCrossReference: https://www.wikidata.org/entity/Q1289248
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q1289248
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -129,7 +129,7 @@ table
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'table' is an arrangement of elements (scalars, lists and/or matrices) in specified/named rows and columns.
    :name: table
-   :preferredCrossReference: https://www.wikidata.org/entity/Q496946
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q496946
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -145,7 +145,7 @@ timeSeries
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'time series' is a list or matrix, where elements are ordered in equally spaced points in time.
    :name: time series
-   :preferredCrossReference: https://www.wikidata.org/entity/Q186588
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q186588
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 
@@ -161,7 +161,7 @@ vectorGraphic
    :@type: https://openminds.om-i.org/types/DataType
    :definition: A 'vector graphic' is an associative array defining points, lines and curves which can be rendered to a raster graphic.
    :name: vector graphic
-   :preferredCrossReference: https://www.wikidata.org/entity/Q170130
+   :preferredOntologyIdentifier: https://www.wikidata.org/entity/Q170130
 
 `BACK TO TOP <Terminologies: DataType library_>`_
 

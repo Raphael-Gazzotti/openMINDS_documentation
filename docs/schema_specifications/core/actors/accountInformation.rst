@@ -31,8 +31,8 @@ service
 
    :semantic name: https://openminds.om-i.org/props/service
    :value type: | linked object of type
-                | `Service <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/service.html>`_
-   :instructions: Add the service associated with this account.
+                | `WebService <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/webService.html>`_
+   :instructions: Add the web service of this account.
 
 `BACK TO TOP <AccountInformation_>`_
 

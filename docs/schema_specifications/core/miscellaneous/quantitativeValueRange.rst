@@ -49,7 +49,7 @@ maxValueUnit
 
    :semantic name: https://openminds.om-i.org/props/maxValueUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for the maximum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_
@@ -84,7 +84,7 @@ minValueUnit
 
    :semantic name: https://openminds.om-i.org/props/minValueUnit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement for the minimum value.
 
 `BACK TO TOP <QuantitativeValueRange_>`_

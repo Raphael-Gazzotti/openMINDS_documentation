@@ -2,7 +2,7 @@
 ContentTypes library
 ####################
 
-Related schema specification: `ContentType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/contentType.html>`_
+Related schema specification: `ContentType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/contentType.html>`_
 
 ------------
 
@@ -45,6 +45,7 @@ application_dicom
    :@id: https://openminds.om-i.org/instances/contentTypes/application_dicom
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/dicom
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/dicom
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -60,6 +61,7 @@ application_gzip
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A gzip (.gz) file is a compressed archive using the GNU zip algorithm. Unlike the ZIP format, which packages multiple files along with directory structure, gzip typically compresses a single file or data stream. It uses the DEFLATE compression method for efficient lossless compression and is commonly combined with tar (as .tar.gz or .tgz) when multiple files need compression.
    :name: application/gzip
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/gzip
    :specification: https://www.ietf.org/rfc/rfc1952.txt
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -75,6 +77,7 @@ application_json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -89,6 +92,7 @@ application_ld+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_ld+json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/ld+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/ld+json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -103,6 +107,7 @@ application_octet-stream
    :@id: https://openminds.om-i.org/instances/contentTypes/application_octet-stream
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/octet-stream
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/octet-stream
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -117,6 +122,7 @@ application_pdf
    :@id: https://openminds.om-i.org/instances/contentTypes/application_pdf
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/pdf
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/pdf
    :specification: https://www.pdfa.org/resource/iso-32000-2-pdf-2-0/
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -132,6 +138,7 @@ application_sbml+xml
    :@id: https://openminds.om-i.org/instances/contentTypes/application_sbml+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/sbml+xml
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/sbml+xml
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -146,6 +153,7 @@ application_schema+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_schema+json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/schema+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/schema+json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -1535,6 +1543,7 @@ application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.ge-healthcare-life-sciences.amersham-biosciences-gel
+   :synonym: GEL
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -1759,6 +1768,7 @@ application_vnd.ilastik.object-features+csv
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.ilastik.object-features+csv
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.ilastik.object-features+csv
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/csv
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -2266,6 +2276,7 @@ application_vnd.locare+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A text-based format for representing structured data based on JavaScript object syntax following the [LocareJSON schema specification](https://github.com/blixilla/LocareJSON).
    :name: application/vnd.locare+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
    :specification: https://github.com/blixilla/LocareJSON
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -2353,6 +2364,7 @@ application_vnd.meshview+json
    :@type: https://openminds.om-i.org/types/ContentType
    :description: Coordinate triplets for display of point clouds in MeshView (RRID:SCR_017222)
    :name: application/vnd.meshview+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -2593,6 +2605,7 @@ application_vnd.ms-excel
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.ms-excel
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.ms-excel
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/vnd.ms-excel
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -2651,6 +2664,7 @@ application_vnd.nest-desktop.model.v4+json
    :description: A JSON file containing a computational model specification (version 4) for NEST Desktop
    :displayLabel: NEST Desktop model (v4)
    :name: application/vnd.nest-desktop.model.v4+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -2667,6 +2681,7 @@ application_vnd.nest-desktop.project.v4+json
    :description: A JSON file containing a project configuration (version 4) for NEST Desktop
    :displayLabel: NEST Desktop project configuration (v4)
    :name: application/vnd.nest-desktop.project.v4+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3090,6 +3105,7 @@ application_vnd.nutil.quantifier+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.nutil.quantifier+json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.nutil.quantifier+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3274,6 +3290,7 @@ application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3288,6 +3305,7 @@ application_vnd.openxmlformats-officedocument.wordprocessingml.document
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.openxmlformats-officedocument.wordprocessingml.document
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.wordprocessingml.document
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3596,6 +3614,7 @@ application_vnd.qcalign+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.qcalign+json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.qcalign+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3624,6 +3643,7 @@ application_vnd.quicknii+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.quicknii+json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.quicknii+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -3638,6 +3658,7 @@ application_vnd.quicknii+xml
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.quicknii+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.quicknii+xml
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/xml
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -4006,6 +4027,7 @@ application_vnd.spikeinterface.probeinterface+json
    :description: Validatable JSON file describing one or more probes by encoding each probe’s geometry (2D/3D and units), contact positions and shapes (with size params), optional shanks/contour, device-channel mapping, and annotations like manufacturer/model and version.
    :displayLabel: probeinterface JSON
    :name: application/vnd.spikeinterface.probeinterface+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
    :specification: https://raw.githubusercontent.com/SpikeInterface/probeinterface/main/src/probeinterface/schema/probe.json.schema
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -4427,6 +4449,7 @@ application_vnd.visualign+json
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.visualign+json
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.visualign+json
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/json
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -4665,6 +4688,7 @@ application_vnd.wavefronttechnologies
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.wavefronttechnologies
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.wavefronttechnologies
+   :relatedMediaType: https://www.iana.org/assignments/media-types/model/obj
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -4679,6 +4703,7 @@ application_vnd.wavefronttechnologies.mtl
    :@id: https://openminds.om-i.org/instances/contentTypes/application_vnd.wavefronttechnologies.mtl
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/vnd.wavefronttechnologies.mtl
+   :relatedMediaType: https://www.iana.org/assignments/media-types/model/mtl
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5018,6 +5043,7 @@ application_xml
    :@id: https://openminds.om-i.org/instances/contentTypes/application_xml
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/xml
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/xml
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5046,6 +5072,7 @@ application_zip
    :@id: https://openminds.om-i.org/instances/contentTypes/application_zip
    :@type: https://openminds.om-i.org/types/ContentType
    :name: application/zip
+   :relatedMediaType: https://www.iana.org/assignments/media-types/application/zip
    :specification: https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -5078,6 +5105,7 @@ chemical_vnd.wwpdb.pdbml.v5+xml
    :@type: https://openminds.om-i.org/types/ContentType
    :description: A XML serialization of the wwPDB’s PDBx/mmCIF data model, using tags from the PDBx/mmCIF dictionary to represent and distribute macromolecular structure data.
    :name: chemical/vnd.wwpdb.pdbml.v5+xml
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/xml
    :specification: https://pdbml.wwpdb.org/
 
 `BACK TO TOP <ContentTypes library_>`_
@@ -5109,6 +5137,7 @@ image_bmp
    :@id: https://openminds.om-i.org/instances/contentTypes/image_bmp
    :@type: https://openminds.om-i.org/types/ContentType
    :name: image/bmp
+   :relatedMediaType: https://www.iana.org/assignments/media-types/image/bmp
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5165,6 +5194,7 @@ image_png
    :@id: https://openminds.om-i.org/instances/contentTypes/image_png
    :@type: https://openminds.om-i.org/types/ContentType
    :name: image/png
+   :relatedMediaType: https://www.iana.org/assignments/media-types/image/png
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5221,6 +5251,7 @@ image_tiff
    :@id: https://openminds.om-i.org/instances/contentTypes/image_tiff
    :@type: https://openminds.om-i.org/types/ContentType
    :name: image/tiff
+   :relatedMediaType: https://www.iana.org/assignments/media-types/image/tiff
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5627,6 +5658,7 @@ text_csv
    :@id: https://openminds.om-i.org/instances/contentTypes/text_csv
    :@type: https://openminds.om-i.org/types/ContentType
    :name: text/csv
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/csv
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5641,6 +5673,7 @@ text_html
    :@id: https://openminds.om-i.org/instances/contentTypes/text_html
    :@type: https://openminds.om-i.org/types/ContentType
    :name: text/html
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/html
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5655,6 +5688,7 @@ text_markdown
    :@id: https://openminds.om-i.org/instances/contentTypes/text_markdown
    :@type: https://openminds.om-i.org/types/ContentType
    :name: text/markdown
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/markdown
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5711,6 +5745,7 @@ text_tab-separated-values
    :@id: https://openminds.om-i.org/instances/contentTypes/text_tab-separated-values
    :@type: https://openminds.om-i.org/types/ContentType
    :name: text/tab-separated-values
+   :relatedMediaType: https://www.iana.org/assignments/media-types/text/tab-separated-values
 
 `BACK TO TOP <ContentTypes library_>`_
 
@@ -5956,6 +5991,7 @@ video_mp4
    :@id: https://openminds.om-i.org/instances/contentTypes/video_mp4
    :@type: https://openminds.om-i.org/types/ContentType
    :name: video/mp4
+   :relatedMediaType: https://www.iana.org/assignments/media-types/video/mp4
 
 `BACK TO TOP <ContentTypes library_>`_
 

@@ -31,7 +31,7 @@ configuration
 
    :semantic name: https://openminds.om-i.org/props/configuration
    :value type: | linked object of type
-                | `Configuration <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/configuration.html>`_
+                | `Configuration <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/configuration.html>`_
    :instructions: Add the configuration of this computational environment.
 
 `BACK TO TOP <Environment_>`_
@@ -67,7 +67,7 @@ hardware
 
    :semantic name: https://openminds.om-i.org/props/hardware
    :value type: | linked object of type
-                | `HardwareSystem <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/hardwareSystem.html>`_
+                | `HardwareSystem <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/hardwareSystem.html>`_
    :instructions: Add the hardware system on which this computational environment runs.
 
 `BACK TO TOP <Environment_>`_
@@ -103,7 +103,7 @@ software
 
    :semantic name: https://openminds.om-i.org/props/software
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/softwareVersion.html>`_
+                | `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/softwareVersion.html>`_
    :instructions: Add all software versions available in this computational environment.
 
 `BACK TO TOP <Environment_>`_

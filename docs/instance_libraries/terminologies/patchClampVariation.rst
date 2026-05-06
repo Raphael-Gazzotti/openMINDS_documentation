@@ -2,7 +2,7 @@
 Terminologies: PatchClampVariation library
 ##########################################
 
-Related schema specification: `PatchClampVariation <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/patchClampVariation.html>`_
+Related schema specification: `PatchClampVariation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/patchClampVariation.html>`_
 
 ------------
 

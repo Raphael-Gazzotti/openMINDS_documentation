@@ -2,7 +2,7 @@
 Terminologies: ModelAbstractionLevel library
 ############################################
 
-Related schema specification: `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/modelAbstractionLevel.html>`_
+Related schema specification: `ModelAbstractionLevel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/modelAbstractionLevel.html>`_
 
 ------------
 

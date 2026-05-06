@@ -2,7 +2,7 @@
 Terminologies: GeneticStrainType library
 ########################################
 
-Related schema specification: `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/geneticStrainType.html>`_
+Related schema specification: `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/geneticStrainType.html>`_
 
 ------------
 

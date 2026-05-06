@@ -50,8 +50,8 @@ Reference to an organization that provides facilities and services for something
 
    :semantic name: https://openminds.om-i.org/props/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/organization.html>`_, `Service <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/service.html>`_ or `Service <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/service.html>`_
-   :instructions: Add the web service or organization that hosts this live paper resource item.
+                | `Organization <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/organization.html>`_
+   :instructions: Add the host organization of this live paper resource item.
 
 `BACK TO TOP <LivePaperResourceItem_>`_
 
@@ -69,7 +69,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | `LivePaperSection <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/publications/livePaperSection.html>`_
+                | `LivePaperSection <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/publications/livePaperSection.html>`_
    :instructions: Add the live paper section this live paper resource item is part of.
 
 `BACK TO TOP <LivePaperResourceItem_>`_

@@ -2,7 +2,7 @@
 Terminologies: ChemicalMixtureType library
 ##########################################
 
-Related schema specification: `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/chemicalMixtureType.html>`_
+Related schema specification: `ChemicalMixtureType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/chemicalMixtureType.html>`_
 
 ------------
 

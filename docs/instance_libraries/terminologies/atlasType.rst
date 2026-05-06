@@ -2,7 +2,7 @@
 Terminologies: AtlasType library
 ################################
 
-Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/atlasType.html>`_
+Related schema specification: `AtlasType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/atlasType.html>`_
 
 ------------
 
@@ -32,9 +32,9 @@ parcellationScheme
    :@id: https://openminds.om-i.org/instances/atlasType/parcellationScheme
    :@type: https://openminds.om-i.org/types/AtlasType
    :definition: A 'parcellation scheme' is a set of parcels occupying a part or all of an anatomical entity that has been delineated or annotated using a common approach or set of criteria.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0108526
    :name: parcellation scheme
-   :preferredCrossReference: http://uri.neuinfo.org/nif/nifstd/nlx_144019
-   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0108526
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/nlx_144019
 
 `BACK TO TOP <Terminologies: AtlasType library_>`_
 

@@ -2,7 +2,7 @@
 Terminologies: CranialWindowConstructionType library
 ####################################################
 
-Related schema specification: `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cranialWindowConstructionType.html>`_
+Related schema specification: `CranialWindowConstructionType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cranialWindowConstructionType.html>`_
 
 ------------
 

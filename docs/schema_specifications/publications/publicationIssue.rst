@@ -31,7 +31,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | `PublicationVolume <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/publications/publicationVolume.html>`_
+                | `PublicationVolume <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/publications/publicationVolume.html>`_
    :instructions: Add the publication volume this publication issue is part of.
 
 `BACK TO TOP <PublicationIssue_>`_

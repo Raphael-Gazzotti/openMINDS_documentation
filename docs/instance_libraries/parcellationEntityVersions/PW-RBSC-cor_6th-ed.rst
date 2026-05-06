@@ -2,7 +2,7 @@
 ParcellationEntityVersions: PW-RBSC-cor_6th-ed library
 ######################################################
 
-Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
 
 ------------
 
@@ -18,7 +18,6 @@ PW-RBSC-cor_6th-ed_10thCerebellarLobuleNodule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 10Cb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_10thCerebellarLobuleNodule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-10thcerebellarlobulenodule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_10thCerebellarLobuleNodule
    :name: 10th cerebellar lobule (nodule)
    :versionIdentifier: 6th ed.
@@ -37,7 +36,6 @@ PW-RBSC-cor_6th-ed_1stCerebellarLobuleLingula
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 1Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_1stCerebellarLobuleLingula <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-1stcerebellarlobulelingula>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_1stCerebellarLobuleLingula
    :name: 1st cerebellar lobule (lingula)
    :versionIdentifier: 6th ed.
@@ -56,7 +54,6 @@ PW-RBSC-cor_6th-ed_2bCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 2bCb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_2bCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-2bcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_2bCerebellarLobule
    :name: 2b cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -75,7 +72,6 @@ PW-RBSC-cor_6th-ed_2ndAnd3rdCerebellarLobules
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 2/3Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_2ndAnd3rdCerebellarLobules <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-2ndand3rdcerebellarlobules>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_2ndAnd3rdCerebellarLobules
    :name: 2nd and 3rd cerebellar lobules
    :versionIdentifier: 6th ed.
@@ -94,7 +90,6 @@ PW-RBSC-cor_6th-ed_2ndCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 2Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_2ndCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-2ndcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_2ndCerebellarLobule
    :name: 2nd cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -113,7 +108,6 @@ PW-RBSC-cor_6th-ed_3rdAnd4thCerebellarLobules
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3/4Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_3rdAnd4thCerebellarLobules <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-3rdand4thcerebellarlobules>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_3rdAnd4thCerebellarLobules
    :name: 3rd and 4th cerebellar lobules
    :versionIdentifier: 6th ed.
@@ -132,7 +126,6 @@ PW-RBSC-cor_6th-ed_3rdCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3Cb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_3rdCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-3rdcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_3rdCerebellarLobule
    :name: 3rd cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -151,7 +144,6 @@ PW-RBSC-cor_6th-ed_3rdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3V
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_3rdVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-3rdventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_3rdVentricle
    :name: 3rd ventricle
    :versionIdentifier: 6th ed.
@@ -170,7 +162,6 @@ PW-RBSC-cor_6th-ed_4thAnd5thCerebellarLobules
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4/5Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_4thAnd5thCerebellarLobules <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-4thand5thcerebellarlobules>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_4thAnd5thCerebellarLobules
    :name: 4th and 5th cerebellar lobules
    :versionIdentifier: 6th ed.
@@ -189,7 +180,6 @@ PW-RBSC-cor_6th-ed_4thCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_4thCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-4thcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_4thCerebellarLobule
    :name: 4th cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -208,7 +198,6 @@ PW-RBSC-cor_6th-ed_4thVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4V
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_4thVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-4thventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_4thVentricle
    :name: 4th ventricle
    :versionIdentifier: 6th ed.
@@ -227,7 +216,6 @@ PW-RBSC-cor_6th-ed_5thCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_5thCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-5thcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_5thCerebellarLobule
    :name: 5th cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -246,7 +234,6 @@ PW-RBSC-cor_6th-ed_6aCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6aCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_6aCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-6acerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_6aCerebellarLobule
    :name: 6a cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -265,7 +252,6 @@ PW-RBSC-cor_6th-ed_6bCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6bCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_6bCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-6bcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_6bCerebellarLobule
    :name: 6b cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -284,7 +270,6 @@ PW-RBSC-cor_6th-ed_6cCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6cCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_6cCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-6ccerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_6cCerebellarLobule
    :name: 6c cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -303,7 +288,6 @@ PW-RBSC-cor_6th-ed_6thCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_6thCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-6thcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_6thCerebellarLobule
    :name: 6th cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -322,7 +306,6 @@ PW-RBSC-cor_6th-ed_7thCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_7thCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-7thcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_7thCerebellarLobule
    :name: 7th cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -341,7 +324,6 @@ PW-RBSC-cor_6th-ed_8thCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 8Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_8thCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-8thcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_8thCerebellarLobule
    :name: 8th cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -360,7 +342,6 @@ PW-RBSC-cor_6th-ed_9thCerebellarLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 9Cb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_9thCerebellarLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-9thcerebellarlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_9thCerebellarLobule
    :name: 9th cerebellar lobule
    :versionIdentifier: 6th ed.
@@ -379,7 +360,6 @@ PW-RBSC-cor_6th-ed_9thCerebellarLobuleA
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 9aCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_9thCerebellarLobuleA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-9thcerebellarlobulea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_9thCerebellarLobuleA
    :name: 9th cerebellar lobule, a
    :versionIdentifier: 6th ed.
@@ -398,7 +378,6 @@ PW-RBSC-cor_6th-ed_9thCerebellarLobuleAAndB
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 9a,bCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_9thCerebellarLobuleAAndB <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-9thcerebellarlobuleaandb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_9thCerebellarLobuleAAndB
    :name: 9th cerebellar lobule, a and b
    :versionIdentifier: 6th ed.
@@ -417,7 +396,6 @@ PW-RBSC-cor_6th-ed_9thCerebellarLobuleB
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 9bCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_9thCerebellarLobuleB <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-9thcerebellarlobuleb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_9thCerebellarLobuleB
    :name: 9th cerebellar lobule, b
    :versionIdentifier: 6th ed.
@@ -436,7 +414,6 @@ PW-RBSC-cor_6th-ed_9thCerebellarLobuleC
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 9cCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_9thCerebellarLobuleC <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-9thcerebellarlobulec>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_9thCerebellarLobuleC
    :name: 9th cerebellar lobule, c
    :versionIdentifier: 6th ed.
@@ -455,7 +432,6 @@ PW-RBSC-cor_6th-ed_A11dopamineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A11
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_A11dopamineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a11dopaminecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A11dopamineCells
    :name: A11dopamine cells
    :versionIdentifier: 6th ed.
@@ -474,7 +450,6 @@ PW-RBSC-cor_6th-ed_A13DopamineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A13
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_A13DopamineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a13dopaminecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A13DopamineCells
    :name: A13 dopamine cells
    :versionIdentifier: 6th ed.
@@ -493,7 +468,6 @@ PW-RBSC-cor_6th-ed_A1NoradrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A1
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_A1NoradrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a1noradrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A1NoradrenalineCells
    :name: A1 noradrenaline cells
    :versionIdentifier: 6th ed.
@@ -512,7 +486,6 @@ PW-RBSC-cor_6th-ed_A1NoradrenalineCellsC1AdrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A1/C1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_A1NoradrenalineCellsC1AdrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a1noradrenalinecellsc1adrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A1NoradrenalineCellsC1AdrenalineCells
    :name: A1 noradrenaline cells/C1 adrenaline cells
    :versionIdentifier: 6th ed.
@@ -531,7 +504,6 @@ PW-RBSC-cor_6th-ed_A2NoradrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A2
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_A2NoradrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a2noradrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A2NoradrenalineCells
    :name: A2 noradrenaline cells
    :versionIdentifier: 6th ed.
@@ -550,7 +522,6 @@ PW-RBSC-cor_6th-ed_A5NoradrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A5
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_A5NoradrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a5noradrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A5NoradrenalineCells
    :name: A5 noradrenaline cells
    :versionIdentifier: 6th ed.
@@ -569,7 +540,6 @@ PW-RBSC-cor_6th-ed_A7NoradrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: A7
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_A7NoradrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-a7noradrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_A7NoradrenalineCells
    :name: A7 noradrenaline cells
    :versionIdentifier: 6th ed.
@@ -588,7 +558,6 @@ PW-RBSC-cor_6th-ed_B9SerotoninCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: B9
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_B9SerotoninCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-b9serotonincells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_B9SerotoninCells
    :name: B9 serotonin cells
    :versionIdentifier: 6th ed.
@@ -607,7 +576,6 @@ PW-RBSC-cor_6th-ed_BarringtonsNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Bar
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_BarringtonsNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-barringtonsnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_BarringtonsNucleus
    :name: Barrington’s nucleus
    :versionIdentifier: 6th ed.
@@ -626,7 +594,6 @@ PW-RBSC-cor_6th-ed_BotzingerComplex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Bo
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_BotzingerComplex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-botzingercomplex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_BotzingerComplex
    :name: Botzinger complex
    :versionIdentifier: 6th ed.
@@ -645,7 +612,6 @@ PW-RBSC-cor_6th-ed_C1AdrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: C1
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_C1AdrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-c1adrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_C1AdrenalineCells
    :name: C1 adrenaline cells
    :versionIdentifier: 6th ed.
@@ -664,7 +630,6 @@ PW-RBSC-cor_6th-ed_C1AdrenalineCellsAndA1NoradrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: C1/A1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_C1AdrenalineCellsAndA1NoradrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-c1adrenalinecellsanda1noradrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_C1AdrenalineCellsAndA1NoradrenalineCells
    :name: C1 adrenaline cells and A1 noradrenaline cells
    :versionIdentifier: 6th ed.
@@ -683,7 +648,6 @@ PW-RBSC-cor_6th-ed_C2AdrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: C2
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_C2AdrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-c2adrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_C2AdrenalineCells
    :name: C2 adrenaline cells
    :versionIdentifier: 6th ed.
@@ -702,7 +666,6 @@ PW-RBSC-cor_6th-ed_C3AdrenalineCells
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: C3
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_C3AdrenalineCells <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-c3adrenalinecells>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_C3AdrenalineCells
    :name: C3 adrenaline cells
    :versionIdentifier: 6th ed.
@@ -721,7 +684,6 @@ PW-RBSC-cor_6th-ed_EdingerWestphalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EW
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_EdingerWestphalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-edingerwestphalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_EdingerWestphalNucleus
    :name: Edinger-Westphal nucleus
    :versionIdentifier: 6th ed.
@@ -740,7 +702,6 @@ PW-RBSC-cor_6th-ed_FCellGroupOfTheVestibularComplex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: FVe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_FCellGroupOfTheVestibularComplex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fcellgroupofthevestibularcomplex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_FCellGroupOfTheVestibularComplex
    :name: F cell group of the vestibular complex
    :versionIdentifier: 6th ed.
@@ -760,7 +721,6 @@ PW-RBSC-cor_6th-ed_KillikerFuseNucleus
    :abbreviation: KF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Structures'. In 'List of Abbreviations', region name has a spelling mistake ('Kˆlliker' instead of 'Kîlliker'). The original name 'Kˆlliker-Fuse nucleus' has been added under 'alternateName'. 'Kôlliker-Fuse nucleus' was additionally added under 'alternateName' since this appears to be the more common name of the brain region.
    :alternateName: Kôlliker-Fuse nucleus, Kˆlliker-Fuse nucleus
-   :isVersionOf: `PW-RBSC-cor_KillikerFuseNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-killikerfusenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_KillikerFuseNucleus
    :name: Kîlliker-Fuse nucleus
    :versionIdentifier: 6th ed.
@@ -779,7 +739,6 @@ PW-RBSC-cor_6th-ed_PurkinjeCellLayerOfTheCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pk
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_PurkinjeCellLayerOfTheCerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-purkinjecelllayerofthecerebellum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_PurkinjeCellLayerOfTheCerebellum
    :name: Purkinje cell layer of the cerebellum
    :versionIdentifier: 6th ed.
@@ -798,7 +757,6 @@ PW-RBSC-cor_6th-ed_abducensNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6N
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_abducensNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-abducensnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_abducensNucleus
    :name: abducens nucleus
    :versionIdentifier: 6th ed.
@@ -817,7 +775,6 @@ PW-RBSC-cor_6th-ed_abducensNucleusRetractorBulbiPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6RB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_abducensNucleusRetractorBulbiPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-abducensnucleusretractorbulbipart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_abducensNucleusRetractorBulbiPart
    :name: abducens nucleus, retractor bulbi part
    :versionIdentifier: 6th ed.
@@ -836,7 +793,6 @@ PW-RBSC-cor_6th-ed_accessoryAbducensFacialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Acs6/7
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_accessoryAbducensFacialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accessoryabducensfacialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accessoryAbducensFacialNucleus
    :name: accessory abducens/facial nucleus
    :versionIdentifier: 6th ed.
@@ -855,7 +811,6 @@ PW-RBSC-cor_6th-ed_accessoryNerveNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 11N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_accessoryNerveNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accessorynervenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accessoryNerveNucleus
    :name: accessory nerve nucleus
    :versionIdentifier: 6th ed.
@@ -874,7 +829,6 @@ PW-RBSC-cor_6th-ed_accessoryNeurosecretoryNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ANS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_accessoryNeurosecretoryNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accessoryneurosecretorynuclei>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accessoryNeurosecretoryNuclei
    :name: accessory neurosecretory nuclei
    :versionIdentifier: 6th ed.
@@ -893,7 +847,6 @@ PW-RBSC-cor_6th-ed_accessoryOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOB
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_accessoryOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accessoryolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accessoryOlfactoryBulb
    :name: accessory olfactory bulb
    :versionIdentifier: 6th ed.
@@ -912,7 +865,6 @@ PW-RBSC-cor_6th-ed_accessoryOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: aot
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_accessoryOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accessoryolfactorytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accessoryOlfactoryTract
    :name: accessory olfactory tract
    :versionIdentifier: 6th ed.
@@ -931,7 +883,6 @@ PW-RBSC-cor_6th-ed_accumbensNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Acb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_accumbensNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accumbensnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accumbensNucleus
    :name: accumbens nucleus
    :versionIdentifier: 6th ed.
@@ -950,7 +901,6 @@ PW-RBSC-cor_6th-ed_accumbensNucleusCore
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AcbC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_accumbensNucleusCore <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accumbensnucleuscore>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accumbensNucleusCore
    :name: accumbens nucleus, core
    :versionIdentifier: 6th ed.
@@ -969,7 +919,6 @@ PW-RBSC-cor_6th-ed_accumbensNucleusShell
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AcbSh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_accumbensNucleusShell <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-accumbensnucleusshell>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_accumbensNucleusShell
    :name: accumbens nucleus, shell
    :versionIdentifier: 6th ed.
@@ -988,7 +937,6 @@ PW-RBSC-cor_6th-ed_agranularInsularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_agranularInsularCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-agranularinsularcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_agranularInsularCortex
    :name: agranular insular cortex
    :versionIdentifier: 6th ed.
@@ -1007,7 +955,6 @@ PW-RBSC-cor_6th-ed_agranularInsularCortexDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AID
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_agranularInsularCortexDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-agranularinsularcortexdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_agranularInsularCortexDorsalPart
    :name: agranular insular cortex, dorsal part
    :versionIdentifier: 6th ed.
@@ -1026,7 +973,6 @@ PW-RBSC-cor_6th-ed_agranularInsularCortexPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AIP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_agranularInsularCortexPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-agranularinsularcortexposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_agranularInsularCortexPosteriorPart
    :name: agranular insular cortex, posterior part
    :versionIdentifier: 6th ed.
@@ -1045,7 +991,6 @@ PW-RBSC-cor_6th-ed_agranularInsularCortexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AIV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_agranularInsularCortexVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-agranularinsularcortexventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_agranularInsularCortexVentralPart
    :name: agranular insular cortex, ventral part
    :versionIdentifier: 6th ed.
@@ -1064,7 +1009,6 @@ PW-RBSC-cor_6th-ed_alarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Al
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_alarNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-alarnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_alarNucleus
    :name: alar nucleus
    :versionIdentifier: 6th ed.
@@ -1083,7 +1027,6 @@ PW-RBSC-cor_6th-ed_alveusOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: alv
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_alveusOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-alveusofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_alveusOfTheHippocampus
    :name: alveus of the hippocampus
    :versionIdentifier: 6th ed.
@@ -1102,7 +1045,6 @@ PW-RBSC-cor_6th-ed_ambiguusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Amb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ambiguusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ambiguusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ambiguusNucleus
    :name: ambiguus nucleus
    :versionIdentifier: 6th ed.
@@ -1121,7 +1063,6 @@ PW-RBSC-cor_6th-ed_ambiguusNucleusCompactPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AmbC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ambiguusNucleusCompactPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ambiguusnucleuscompactpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ambiguusNucleusCompactPart
    :name: ambiguus nucleus, compact part
    :versionIdentifier: 6th ed.
@@ -1140,7 +1081,6 @@ PW-RBSC-cor_6th-ed_ambiguusNucleusLoosePart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AmbL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ambiguusNucleusLoosePart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ambiguusnucleusloosepart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ambiguusNucleusLoosePart
    :name: ambiguus nucleus, loose part
    :versionIdentifier: 6th ed.
@@ -1159,7 +1099,6 @@ PW-RBSC-cor_6th-ed_ambiguusNucleusSubcompactPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AmbSC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ambiguusNucleusSubcompactPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ambiguusnucleussubcompactpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ambiguusNucleusSubcompactPart
    :name: ambiguus nucleus, subcompact part
    :versionIdentifier: 6th ed.
@@ -1178,7 +1117,6 @@ PW-RBSC-cor_6th-ed_amygdalohippocampalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AHi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_amygdalohippocampalArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdalohippocampalarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdalohippocampalArea
    :name: amygdalohippocampal area
    :versionIdentifier: 6th ed.
@@ -1197,7 +1135,6 @@ PW-RBSC-cor_6th-ed_amygdalohippocampalAreaAnterolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AHiAL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_amygdalohippocampalAreaAnterolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdalohippocampalareaanterolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdalohippocampalAreaAnterolateralPart
    :name: amygdalohippocampal area, anterolateral part
    :versionIdentifier: 6th ed.
@@ -1217,7 +1154,6 @@ PW-RBSC-cor_6th-ed_amygdalohippocampalAreaPosterolateralPart
    :abbreviation: AHiPL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. Region name was extended with 'part' in accordance with the name of other subregions from the same parent structure. The assumed correct name 'amygdalohippocampal area, posterolateral part' has been added under 'correctedName'.
    :correctedName: amygdalohippocampal area, posterolateral part
-   :isVersionOf: `PW-RBSC-cor_amygdalohippocampalAreaPosterolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdalohippocampalareaposterolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdalohippocampalAreaPosterolateralPart
    :name: amygdalohippocampal area, posterolateral
    :versionIdentifier: 6th ed.
@@ -1236,7 +1172,6 @@ PW-RBSC-cor_6th-ed_amygdalohippocampalAreaPosteromedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AHiPM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_amygdalohippocampalAreaPosteromedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdalohippocampalareaposteromedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdalohippocampalAreaPosteromedialPart
    :name: amygdalohippocampal area, posteromedial part
    :versionIdentifier: 6th ed.
@@ -1255,7 +1190,6 @@ PW-RBSC-cor_6th-ed_amygdaloidFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: af
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_amygdaloidFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdaloidfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdaloidFissure
    :name: amygdaloid fissure
    :versionIdentifier: 6th ed.
@@ -1274,7 +1208,6 @@ PW-RBSC-cor_6th-ed_amygdaloidIntramedullaryGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IMG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_amygdaloidIntramedullaryGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdaloidintramedullarygray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdaloidIntramedullaryGray
    :name: amygdaloid intramedullary gray
    :versionIdentifier: 6th ed.
@@ -1293,7 +1226,6 @@ PW-RBSC-cor_6th-ed_amygdalopiriformTransitionArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APir
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_amygdalopiriformTransitionArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdalopiriformtransitionarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdalopiriformTransitionArea
    :name: amygdalopiriform transition area
    :versionIdentifier: 6th ed.
@@ -1312,7 +1244,6 @@ PW-RBSC-cor_6th-ed_amygdalostriatalTransitionArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ASt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_amygdalostriatalTransitionArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-amygdalostriataltransitionarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_amygdalostriatalTransitionArea
    :name: amygdalostriatal transition area
    :versionIdentifier: 6th ed.
@@ -1331,7 +1262,6 @@ PW-RBSC-cor_6th-ed_angularThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AngT
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_angularThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-angularthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_angularThalamicNucleus
    :name: angular thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -1350,7 +1280,6 @@ PW-RBSC-cor_6th-ed_ansoparamedianFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: apmf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ansoparamedianFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ansoparamedianfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ansoparamedianFissure
    :name: ansoparamedian fissure
    :versionIdentifier: 6th ed.
@@ -1369,7 +1298,6 @@ PW-RBSC-cor_6th-ed_anteriorAmygdaloidArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorAmygdaloidArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anterioramygdaloidarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorAmygdaloidArea
    :name: anterior amygdaloid area
    :versionIdentifier: 6th ed.
@@ -1388,7 +1316,6 @@ PW-RBSC-cor_6th-ed_anteriorCerebralArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: acer
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorCerebralArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcerebralartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCerebralArtery
    :name: anterior cerebral artery
    :versionIdentifier: 6th ed.
@@ -1407,7 +1334,6 @@ PW-RBSC-cor_6th-ed_anteriorCommissuralNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorCommissuralNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcommissuralnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCommissuralNucleus
    :name: anterior commissural nucleus
    :versionIdentifier: 6th ed.
@@ -1426,7 +1352,6 @@ PW-RBSC-cor_6th-ed_anteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ac
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCommissure
    :name: anterior commissure
    :versionIdentifier: 6th ed.
@@ -1445,7 +1370,6 @@ PW-RBSC-cor_6th-ed_anteriorCommissureAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: aca
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorCommissureAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcommissureanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCommissureAnteriorPart
    :name: anterior commissure, anterior part
    :versionIdentifier: 6th ed.
@@ -1464,7 +1388,6 @@ PW-RBSC-cor_6th-ed_anteriorCommissureIntrabulbarPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: aci
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorCommissureIntrabulbarPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcommissureintrabulbarpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCommissureIntrabulbarPart
    :name: anterior commissure, intrabulbar part
    :versionIdentifier: 6th ed.
@@ -1483,7 +1406,6 @@ PW-RBSC-cor_6th-ed_anteriorCommissurePosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: acp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorCommissurePosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcommissureposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCommissurePosteriorPart
    :name: anterior commissure, posterior part
    :versionIdentifier: 6th ed.
@@ -1502,7 +1424,6 @@ PW-RBSC-cor_6th-ed_anteriorCorticalAmygdaloidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ACo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorCorticalAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorcorticalamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorCorticalAmygdaloidNucleus
    :name: anterior cortical amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -1521,7 +1442,6 @@ PW-RBSC-cor_6th-ed_anteriorHypothalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AH
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorHypothalamicArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorhypothalamicarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorHypothalamicArea
    :name: anterior hypothalamic area
    :versionIdentifier: 6th ed.
@@ -1540,7 +1460,6 @@ PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AHA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorHypothalamicAreaAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorhypothalamicareaanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaAnteriorPart
    :name: anterior hypothalamic area, anterior part
    :versionIdentifier: 6th ed.
@@ -1559,7 +1478,6 @@ PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AHC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorHypothalamicAreaCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorhypothalamicareacentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaCentralPart
    :name: anterior hypothalamic area, central part
    :versionIdentifier: 6th ed.
@@ -1578,7 +1496,6 @@ PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AHP
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorHypothalamicAreaPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorhypothalamicareaposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorHypothalamicAreaPosteriorPart
    :name: anterior hypothalamic area, posterior part
    :versionIdentifier: 6th ed.
@@ -1597,7 +1514,6 @@ PW-RBSC-cor_6th-ed_anteriorLobeOfPituitary
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APit
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorLobeOfPituitary <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorlobeofpituitary>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorLobeOfPituitary
    :name: anterior lobe of pituitary
    :versionIdentifier: 6th ed.
@@ -1616,7 +1532,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusDorsalPart
    :name: anterior olfactory nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -1635,7 +1550,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusExternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOE
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusExternalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleusexternalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusExternalPart
    :name: anterior olfactory nucleus, external part
    :versionIdentifier: 6th ed.
@@ -1654,7 +1568,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusLateralPart
    :name: anterior olfactory nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -1673,7 +1586,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusMedialPart
    :name: anterior olfactory nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -1692,7 +1604,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOP
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusPosteriorPart
    :name: anterior olfactory nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -1711,7 +1622,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusVentralPart
    :name: anterior olfactory nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -1730,7 +1640,6 @@ PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusVentroposteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AOVP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorOlfactoryNucleusVentroposteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorolfactorynucleusventroposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorOlfactoryNucleusVentroposteriorPart
    :name: anterior olfactory nucleus, ventroposterior part
    :versionIdentifier: 6th ed.
@@ -1749,7 +1658,6 @@ PW-RBSC-cor_6th-ed_anteriorPerifornicalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APF
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorPerifornicalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorperifornicalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorPerifornicalNucleus
    :name: anterior perifornical nucleus
    :versionIdentifier: 6th ed.
@@ -1768,7 +1676,6 @@ PW-RBSC-cor_6th-ed_anteriorPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorpretectalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorPretectalNucleus
    :name: anterior pretectal nucleus
    :versionIdentifier: 6th ed.
@@ -1787,7 +1694,6 @@ PW-RBSC-cor_6th-ed_anteriorPretectalNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APTD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorPretectalNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorpretectalnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorPretectalNucleusDorsalPart
    :name: anterior pretectal nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -1806,7 +1712,6 @@ PW-RBSC-cor_6th-ed_anteriorPretectalNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: APTV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorPretectalNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorpretectalnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorPretectalNucleusVentralPart
    :name: anterior pretectal nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -1825,7 +1730,6 @@ PW-RBSC-cor_6th-ed_anteriorSpinalArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: asp
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteriorSpinalArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriorspinalartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorSpinalArtery
    :name: anterior spinal artery
    :versionIdentifier: 6th ed.
@@ -1844,7 +1748,6 @@ PW-RBSC-cor_6th-ed_anteriorTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ATg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteriorTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteriortegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteriorTegmentalNucleus
    :name: anterior tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -1863,7 +1766,6 @@ PW-RBSC-cor_6th-ed_anterodorsalThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anterodorsalThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anterodorsalthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anterodorsalThalamicNucleus
    :name: anterodorsal thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -1882,7 +1784,6 @@ PW-RBSC-cor_6th-ed_anteromedialThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteromedialThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteromedialthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteromedialThalamicNucleus
    :name: anteromedial thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -1901,7 +1802,6 @@ PW-RBSC-cor_6th-ed_anteromedialThalamicNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AMV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteromedialThalamicNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteromedialthalamicnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteromedialThalamicNucleusVentralPart
    :name: anteromedial thalamic nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -1920,7 +1820,6 @@ PW-RBSC-cor_6th-ed_anteroventThalamicNucleusDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AVDM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_anteroventThalamicNucleusDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteroventthalamicnucleusdorsomedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteroventThalamicNucleusDorsomedialPart
    :name: anterovent thalamic nucleus, dorsomedial part
    :versionIdentifier: 6th ed.
@@ -1939,7 +1838,6 @@ PW-RBSC-cor_6th-ed_anteroventralPeriventricularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AVPe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteroventralPeriventricularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteroventralperiventricularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteroventralPeriventricularNucleus
    :name: anteroventral periventricular nucleus
    :versionIdentifier: 6th ed.
@@ -1958,7 +1856,6 @@ PW-RBSC-cor_6th-ed_anteroventralThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteroventralThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteroventralthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteroventralThalamicNucleus
    :name: anteroventral thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -1977,7 +1874,6 @@ PW-RBSC-cor_6th-ed_anteroventralThalamicNucleusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AVVL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_anteroventralThalamicNucleusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-anteroventralthalamicnucleusventrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_anteroventralThalamicNucleusVentrolateralPart
    :name: anteroventral thalamic nucleus, ventrolateral part
    :versionIdentifier: 6th ed.
@@ -1996,7 +1892,6 @@ PW-RBSC-cor_6th-ed_aqueduct
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Aq
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_aqueduct <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-aqueduct>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_aqueduct
    :name: aqueduct
    :versionIdentifier: 6th ed.
@@ -2015,7 +1910,6 @@ PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Arc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_arcuateHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-arcuatehypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleus
    :name: arcuate hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -2034,7 +1928,6 @@ PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ArcD
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_arcuateHypothalamicNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-arcuatehypothalamicnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusDorsalPart
    :name: arcuate hypothalamic nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -2053,7 +1946,6 @@ PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ArcL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_arcuateHypothalamicNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-arcuatehypothalamicnucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusLateralPart
    :name: arcuate hypothalamic nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -2072,7 +1964,6 @@ PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusLateroposteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ArcLP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_arcuateHypothalamicNucleusLateroposteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-arcuatehypothalamicnucleuslateroposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusLateroposteriorPart
    :name: arcuate hypothalamic nucleus, lateroposterior part
    :versionIdentifier: 6th ed.
@@ -2091,7 +1982,6 @@ PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ArcM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_arcuateHypothalamicNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-arcuatehypothalamicnucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusMedialPart
    :name: arcuate hypothalamic nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -2110,7 +2000,6 @@ PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusMedialPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ArcMP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_arcuateHypothalamicNucleusMedialPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-arcuatehypothalamicnucleusmedialposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_arcuateHypothalamicNucleusMedialPosteriorPart
    :name: arcuate hypothalamic nucleus, medial posterior part
    :versionIdentifier: 6th ed.
@@ -2129,7 +2018,6 @@ PW-RBSC-cor_6th-ed_areaPostrema
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_areaPostrema <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-areapostrema>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_areaPostrema
    :name: area postrema
    :versionIdentifier: 6th ed.
@@ -2148,7 +2036,6 @@ PW-RBSC-cor_6th-ed_artery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: a
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_artery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-artery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_artery
    :name: artery
    :versionIdentifier: 6th ed.
@@ -2167,7 +2054,6 @@ PW-RBSC-cor_6th-ed_ascendingFibersOfTheFacialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: asc7
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ascendingFibersOfTheFacialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ascendingfibersofthefacialnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ascendingFibersOfTheFacialNerve
    :name: ascending fibers of the facial nerve
    :versionIdentifier: 6th ed.
@@ -2186,7 +2072,6 @@ PW-RBSC-cor_6th-ed_azygousAnteriorCerebralArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: azac
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_azygousAnteriorCerebralArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-azygousanteriorcerebralartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_azygousAnteriorCerebralArtery
    :name: azygous anterior cerebral artery
    :versionIdentifier: 6th ed.
@@ -2205,7 +2090,6 @@ PW-RBSC-cor_6th-ed_azygousPericallosalArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: azp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_azygousPericallosalArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-azygouspericallosalartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_azygousPericallosalArtery
    :name: azygous pericallosal artery
    :versionIdentifier: 6th ed.
@@ -2224,7 +2108,6 @@ PW-RBSC-cor_6th-ed_basalNucleusCompactPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_basalNucleusCompactPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basalnucleuscompactpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basalNucleusCompactPart
    :name: basal nucleus, compact part
    :versionIdentifier: 6th ed.
@@ -2243,7 +2126,6 @@ PW-RBSC-cor_6th-ed_basalNucleusMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: B
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basalNucleusMeynert <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basalnucleusmeynert>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basalNucleusMeynert
    :name: basal nucleus (Meynert)
    :versionIdentifier: 6th ed.
@@ -2262,7 +2144,6 @@ PW-RBSC-cor_6th-ed_basilarArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: bas
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basilarArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basilarartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basilarArtery
    :name: basilar artery
    :versionIdentifier: 6th ed.
@@ -2281,7 +2162,6 @@ PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basolateralAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basolateralamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleus
    :name: basolateral amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -2300,7 +2180,6 @@ PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BLA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basolateralAmygdaloidNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basolateralamygdaloidnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusAnteriorPart
    :name: basolateral amygdaloid nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -2319,7 +2198,6 @@ PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BLP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basolateralAmygdaloidNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basolateralamygdaloidnucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusPosteriorPart
    :name: basolateral amygdaloid nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -2338,7 +2216,6 @@ PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BLV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basolateralAmygdaloidNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basolateralamygdaloidnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basolateralAmygdaloidNucleusVentralPart
    :name: basolateral amygdaloid nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -2357,7 +2234,6 @@ PW-RBSC-cor_6th-ed_basomedialAmygdaloidNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BMA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basomedialAmygdaloidNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basomedialamygdaloidnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basomedialAmygdaloidNucleusAnteriorPart
    :name: basomedial amygdaloid nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -2376,7 +2252,6 @@ PW-RBSC-cor_6th-ed_basomedialAmygdaloidNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BMP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_basomedialAmygdaloidNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-basomedialamygdaloidnucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_basomedialAmygdaloidNucleusPosteriorPart
    :name: basomedial amygdaloid nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -2395,7 +2270,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisFusiformPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Fu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfStriaTerminalisFusiformPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofstriaterminalisfusiformpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisFusiformPart
    :name: bed nucleus of stria terminalis, fusiform part
    :versionIdentifier: 6th ed.
@@ -2415,7 +2289,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivision
    :abbreviation: STS
    :additionalRemarks: Brain region name and abbreviation listed both in chapter 'List of Abbreviations' and twice in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. In 'List of Structures', one of the region names is an alternate version of the region name ('bed nucleus of the stria [...]' instead of 'bed nucleus of stria [...]'). The alternate name 'bed nucleus of the stria terminalis, supracapsular division' has been added under 'alternateName'.
    :alternateName: bed nucleus of the stria terminalis, supracapsular division
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofstriaterminalissupracapsulardivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivision
    :name: bed nucleus of stria terminalis, supracapsular division
    :versionIdentifier: 6th ed.
@@ -2436,7 +2309,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. Both the name of the region and its abbreviation have spelling mistakes (name: 'Lateralpart' instead of 'Lateral part'; abbreviation: 'STSL' instead of 'STSM'). The assumed correct name 'bed nucleus of stria terminalis, supracapsular division, lateral part' has been added under 'correctedName'. The assumed correct abbreviation 'STSL' has been added under 'abbreviation'. 'STSM' has been added under 'alternateName'.
    :alternateName: STSM
    :correctedName: bed nucleus of stria terminalis, supracapsular division, lateral part
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofstriaterminalissupracapsulardivisionlateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionLateralPart
    :name: bed nucleus of stria terminalis, supracapsular division, lateralpart
    :versionIdentifier: 6th ed.
@@ -2456,7 +2328,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart
    :abbreviation: STSM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. The abbreviation of the brain region has a spelling mistake ('STSL' instead of 'STSM'). The assumed correct abbreviation 'STSM' has been added under 'abbreviation'. 'STSL' has been added under 'alternateName'.
    :alternateName: STSL
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofstriaterminalissupracapsulardivisionmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfStriaTerminalisSupracapsularDivisionMedialPart
    :name: bed nucleus of stria terminalis, supracapsular division, medial part
    :versionIdentifier: 6th ed.
@@ -2475,7 +2346,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheAccessoryOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BAOT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheAccessoryOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusoftheaccessoryolfactorytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheAccessoryOlfactoryTract
    :name: bed nucleus of the accessory olfactory tract
    :versionIdentifier: 6th ed.
@@ -2494,7 +2364,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheAnteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BAC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheAnteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusoftheanteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheAnteriorCommissure
    :name: bed nucleus of the anterior commissure
    :versionIdentifier: 6th ed.
@@ -2513,7 +2382,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisIntermediateDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STI
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisIntermediateDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalisintermediatedivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisIntermediateDivision
    :name: bed nucleus of the stria terminalis, intermediate division
    :versionIdentifier: 6th ed.
@@ -2532,7 +2400,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisIntraamygdaloidDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STIA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisIntraamygdaloidDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalisintraamygdaloiddivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisIntraamygdaloidDivision
    :name: bed nucleus of the stria terminalis, intraamygdaloid division
    :versionIdentifier: 6th ed.
@@ -2551,7 +2418,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalislateraldivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivision
    :name: bed nucleus of the stria terminalis, lateral division
    :versionIdentifier: 6th ed.
@@ -2570,7 +2436,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STLD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalislateraldivisiondorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionDorsalPart
    :name: bed nucleus of the stria terminalis, lateral division, dorsal part
    :versionIdentifier: 6th ed.
@@ -2589,7 +2454,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STLI
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionIntermediatePart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalislateraldivisionintermediatepart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionIntermediatePart
    :name: bed nucleus of the stria terminalis, lateral division, intermediate part
    :versionIdentifier: 6th ed.
@@ -2608,7 +2472,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionJuxtacapsularPar
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STLJ
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionJuxtacapsularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalislateraldivisionjuxtacapsularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionJuxtacapsularPart
    :name: bed nucleus of the stria terminalis, lateral division, juxtacapsular part
    :versionIdentifier: 6th ed.
@@ -2627,7 +2490,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STLP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalislateraldivisionposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionPosteriorPart
    :name: bed nucleus of the stria terminalis, lateral division, posterior part
    :versionIdentifier: 6th ed.
@@ -2646,7 +2508,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STLV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisLateralDivisionVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalislateraldivisionventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisLateralDivisionVentralPart
    :name: bed nucleus of the stria terminalis, lateral division, ventral part
    :versionIdentifier: 6th ed.
@@ -2665,7 +2526,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivision
    :name: bed nucleus of the stria terminalis, medial division
    :versionIdentifier: 6th ed.
@@ -2684,7 +2544,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionAnteriorPart
    :name: bed nucleus of the stria terminalis, medial division, anterior part
    :versionIdentifier: 6th ed.
@@ -2703,7 +2562,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionAnterolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMAL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnterolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionanterolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionAnterolateralPart
    :name: bed nucleus of the stria terminalis, medial division, anterolateral part
    :versionIdentifier: 6th ed.
@@ -2722,7 +2580,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionAnteromedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMAM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionAnteromedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionanteromedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionAnteromedialPart
    :name: bed nucleus of the stria terminalis, medial division, anteromedial part
    :versionIdentifier: 6th ed.
@@ -2741,7 +2598,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosteriorPart
    :name: bed nucleus of the stria terminalis, medial division, posterior part
    :versionIdentifier: 6th ed.
@@ -2760,7 +2616,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosterointermedia
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMPI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterointermediatePart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionposterointermediatepart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosterointermediatePart
    :name: bed nucleus of the stria terminalis, medial division, posterointermediate part
    :versionIdentifier: 6th ed.
@@ -2779,7 +2634,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPar
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMPL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionposterolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosterolateralPart
    :name: bed nucleus of the stria terminalis, medial division, posterolateral part
    :versionIdentifier: 6th ed.
@@ -2798,7 +2652,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosteromedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMPM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionPosteromedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionposteromedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionPosteromedialPart
    :name: bed nucleus of the stria terminalis, medial division, posteromedial part
    :versionIdentifier: 6th ed.
@@ -2817,7 +2670,6 @@ PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STMV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_bedNucleusOfTheStriaTerminalisMedialDivisionVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-bednucleusofthestriaterminalismedialdivisionventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_bedNucleusOfTheStriaTerminalisMedialDivisionVentralPart
    :name: bed nucleus of the stria terminalis, medial division, ventral part
    :versionIdentifier: 6th ed.
@@ -2836,7 +2688,6 @@ PW-RBSC-cor_6th-ed_brachiumOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: bic
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_brachiumOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-brachiumoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_brachiumOfTheInferiorColliculus
    :name: brachium of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -2855,7 +2706,6 @@ PW-RBSC-cor_6th-ed_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: bsc
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_brachiumOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-brachiumofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_brachiumOfTheSuperiorColliculus
    :name: brachium of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -2874,7 +2724,6 @@ PW-RBSC-cor_6th-ed_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-caudalinterstitialnucleusofthemediallongitudinalfasciculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_caudalInterstitialNucleusOfTheMedialLongitudinalFasciculus
    :name: caudal interstitial nucleus of the medial longitudinal fasciculus
    :versionIdentifier: 6th ed.
@@ -2893,7 +2742,6 @@ PW-RBSC-cor_6th-ed_caudalLinearNucleusOfTheRaphe
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CLi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_caudalLinearNucleusOfTheRaphe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-caudallinearnucleusoftheraphe>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_caudalLinearNucleusOfTheRaphe
    :name: caudal linear nucleus of the raphe
    :versionIdentifier: 6th ed.
@@ -2912,7 +2760,6 @@ PW-RBSC-cor_6th-ed_caudalPeriolivaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_caudalPeriolivaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-caudalperiolivarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_caudalPeriolivaryNucleus
    :name: caudal periolivary nucleus
    :versionIdentifier: 6th ed.
@@ -2931,7 +2778,6 @@ PW-RBSC-cor_6th-ed_caudatePutamenStriatum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CPu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_caudatePutamenStriatum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-caudateputamenstriatum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_caudatePutamenStriatum
    :name: caudate putamen (striatum)
    :versionIdentifier: 6th ed.
@@ -2950,7 +2796,6 @@ PW-RBSC-cor_6th-ed_caudomedialEntothinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CEnt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_caudomedialEntothinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-caudomedialentothinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_caudomedialEntothinalCortex
    :name: caudomedial entothinal cortex
    :versionIdentifier: 6th ed.
@@ -2969,7 +2814,6 @@ PW-RBSC-cor_6th-ed_caudoventrolateralReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CVL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_caudoventrolateralReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-caudoventrolateralreticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_caudoventrolateralReticularNucleus
    :name: caudoventrolateral reticular nucleus
    :versionIdentifier: 6th ed.
@@ -2988,7 +2832,6 @@ PW-RBSC-cor_6th-ed_cellBridgesOfTheVentralStriatum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cellBridgesOfTheVentralStriatum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cellbridgesoftheventralstriatum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cellBridgesOfTheVentralStriatum
    :name: cell bridges of the ventral striatum
    :versionIdentifier: 6th ed.
@@ -3007,7 +2850,6 @@ PW-RBSC-cor_6th-ed_centralAmygdaloidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ce
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralAmygdaloidNucleus
    :name: central amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -3026,7 +2868,6 @@ PW-RBSC-cor_6th-ed_centralAmygdaloidNucleusCapsularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CeC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralAmygdaloidNucleusCapsularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralamygdaloidnucleuscapsularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralAmygdaloidNucleusCapsularPart
    :name: central amygdaloid nucleus, capsular part
    :versionIdentifier: 6th ed.
@@ -3045,7 +2886,6 @@ PW-RBSC-cor_6th-ed_centralAmygdaloidNucleusLateralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CeL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_centralAmygdaloidNucleusLateralDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralamygdaloidnucleuslateraldivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralAmygdaloidNucleusLateralDivision
    :name: central amygdaloid nucleus, lateral division
    :versionIdentifier: 6th ed.
@@ -3064,7 +2904,6 @@ PW-RBSC-cor_6th-ed_centralAmygdaloidNucleusMedialDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CeM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_centralAmygdaloidNucleusMedialDivision <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralamygdaloidnucleusmedialdivision>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralAmygdaloidNucleusMedialDivision
    :name: central amygdaloid nucleus, medial division
    :versionIdentifier: 6th ed.
@@ -3083,7 +2922,6 @@ PW-RBSC-cor_6th-ed_centralCanal
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralCanal <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralcanal>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralCanal
    :name: central canal
    :versionIdentifier: 6th ed.
@@ -3102,7 +2940,6 @@ PW-RBSC-cor_6th-ed_centralCervicalNucleusOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CeCv
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralCervicalNucleusOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralcervicalnucleusofthespinalcord>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralCervicalNucleusOfTheSpinalCord
    :name: central cervical nucleus of the spinal cord
    :versionIdentifier: 6th ed.
@@ -3121,7 +2958,6 @@ PW-RBSC-cor_6th-ed_centralGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralGray
    :name: central gray
    :versionIdentifier: 6th ed.
@@ -3140,7 +2976,6 @@ PW-RBSC-cor_6th-ed_centralGrayAlphaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CGA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralGrayAlphaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralgrayalphapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralGrayAlphaPart
    :name: central gray, alpha part
    :versionIdentifier: 6th ed.
@@ -3159,7 +2994,6 @@ PW-RBSC-cor_6th-ed_centralGrayBetaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CGB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralGrayBetaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralgraybetapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralGrayBetaPart
    :name: central gray, beta part
    :versionIdentifier: 6th ed.
@@ -3178,7 +3012,6 @@ PW-RBSC-cor_6th-ed_centralGrayGammaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CGG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_centralGrayGammaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralgraygammapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralGrayGammaPart
    :name: central gray, gamma part
    :versionIdentifier: 6th ed.
@@ -3197,7 +3030,6 @@ PW-RBSC-cor_6th-ed_centralGrayNucleusO
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CGO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralGrayNucleusO <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralgraynucleuso>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralGrayNucleusO
    :name: central gray, nucleus O
    :versionIdentifier: 6th ed.
@@ -3216,7 +3048,6 @@ PW-RBSC-cor_6th-ed_centralGrayOfThePons
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CGPn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralGrayOfThePons <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralgrayofthepons>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralGrayOfThePons
    :name: central gray of the pons
    :versionIdentifier: 6th ed.
@@ -3235,7 +3066,6 @@ PW-RBSC-cor_6th-ed_centralMedialThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralMedialThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralmedialthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralMedialThalamicNucleus
    :name: central medial thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -3254,7 +3084,6 @@ PW-RBSC-cor_6th-ed_centralNucleusOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CIC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centralNucleusOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centralnucleusoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centralNucleusOfTheInferiorColliculus
    :name: central nucleus of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -3273,7 +3102,6 @@ PW-RBSC-cor_6th-ed_centrolateralThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_centrolateralThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-centrolateralthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_centrolateralThalamicNucleus
    :name: centrolateral thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -3292,7 +3120,6 @@ PW-RBSC-cor_6th-ed_cerebellarCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cbx
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_cerebellarCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cerebellarcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cerebellarCommissure
    :name: cerebellar commissure
    :versionIdentifier: 6th ed.
@@ -3311,7 +3138,6 @@ PW-RBSC-cor_6th-ed_cerebellarWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cbw
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cerebellarwhitematter>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cerebellarWhiteMatter
    :name: cerebellar white matter
    :versionIdentifier: 6th ed.
@@ -3330,7 +3156,6 @@ PW-RBSC-cor_6th-ed_cerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_cerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cerebellum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cerebellum
    :name: cerebellum
    :versionIdentifier: 6th ed.
@@ -3349,7 +3174,6 @@ PW-RBSC-cor_6th-ed_cerebralCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cerebralcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cerebralCortex
    :name: cerebral cortex
    :versionIdentifier: 6th ed.
@@ -3368,7 +3192,6 @@ PW-RBSC-cor_6th-ed_cerebralPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cerebralPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cerebralpeduncle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cerebralPeduncle
    :name: cerebral peduncle
    :versionIdentifier: 6th ed.
@@ -3387,7 +3210,6 @@ PW-RBSC-cor_6th-ed_choroidPlexus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: chp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_choroidPlexus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-choroidplexus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_choroidPlexus
    :name: choroid plexus
    :versionIdentifier: 6th ed.
@@ -3406,7 +3228,6 @@ PW-RBSC-cor_6th-ed_cingulateCortexArea1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cg1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cingulateCortexArea1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cingulatecortexarea1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cingulateCortexArea1
    :name: cingulate cortex, area 1
    :versionIdentifier: 6th ed.
@@ -3425,7 +3246,6 @@ PW-RBSC-cor_6th-ed_cingulateCortexArea2
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cg2
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cingulateCortexArea2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cingulatecortexarea2>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cingulateCortexArea2
    :name: cingulate cortex, area 2
    :versionIdentifier: 6th ed.
@@ -3444,7 +3264,6 @@ PW-RBSC-cor_6th-ed_cingulum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cg
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_cingulum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cingulum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cingulum
    :name: cingulum
    :versionIdentifier: 6th ed.
@@ -3463,7 +3282,6 @@ PW-RBSC-cor_6th-ed_circularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cir
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_circularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-circularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_circularNucleus
    :name: circular nucleus
    :versionIdentifier: 6th ed.
@@ -3482,7 +3300,6 @@ PW-RBSC-cor_6th-ed_claustrum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cl
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_claustrum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-claustrum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_claustrum
    :name: claustrum
    :versionIdentifier: 6th ed.
@@ -3501,7 +3318,6 @@ PW-RBSC-cor_6th-ed_cochlearRootOfTheVestibulocochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 8cn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cochlearRootOfTheVestibulocochlearNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cochlearrootofthevestibulocochlearnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cochlearRootOfTheVestibulocochlearNerve
    :name: cochlear root of the vestibulocochlear nerve
    :versionIdentifier: 6th ed.
@@ -3520,7 +3336,6 @@ PW-RBSC-cor_6th-ed_commissuralNucleusOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Com
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_commissuralNucleusOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-commissuralnucleusoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_commissuralNucleusOfTheInferiorColliculus
    :name: commissural nucleus of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -3539,7 +3354,6 @@ PW-RBSC-cor_6th-ed_commissuralStriaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cst
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_commissuralStriaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-commissuralstriaterminalis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_commissuralStriaTerminalis
    :name: commissural stria terminalis
    :versionIdentifier: 6th ed.
@@ -3558,7 +3372,6 @@ PW-RBSC-cor_6th-ed_commissureOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cic
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_commissureOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-commissureoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_commissureOfTheInferiorColliculus
    :name: commissure of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -3577,7 +3390,6 @@ PW-RBSC-cor_6th-ed_commissureOfTheLateralLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cll
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_commissureOfTheLateralLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-commissureofthelaterallemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_commissureOfTheLateralLemniscus
    :name: commissure of the lateral lemniscus
    :versionIdentifier: 6th ed.
@@ -3596,7 +3408,6 @@ PW-RBSC-cor_6th-ed_commissureOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: csc
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_commissureOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-commissureofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_commissureOfTheSuperiorColliculus
    :name: commissure of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -3615,7 +3426,6 @@ PW-RBSC-cor_6th-ed_conterminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ct
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_conterminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-conterminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_conterminalNucleus
    :name: conterminal nucleus
    :versionIdentifier: 6th ed.
@@ -3634,7 +3444,6 @@ PW-RBSC-cor_6th-ed_copulaOfThePyramis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cop
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_copulaOfThePyramis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-copulaofthepyramis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_copulaOfThePyramis
    :name: copula of the pyramis
    :versionIdentifier: 6th ed.
@@ -3653,7 +3462,6 @@ PW-RBSC-cor_6th-ed_corpusCallosum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_corpusCallosum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-corpuscallosum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_corpusCallosum
    :name: corpus callosum
    :versionIdentifier: 6th ed.
@@ -3672,7 +3480,6 @@ PW-RBSC-cor_6th-ed_cortexAmygdalaTransitionZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CxA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cortexAmygdalaTransitionZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cortexamygdalatransitionzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cortexAmygdalaTransitionZone
    :name: cortex-amygdala transition zone
    :versionIdentifier: 6th ed.
@@ -3691,7 +3498,6 @@ PW-RBSC-cor_6th-ed_cortexAmygdalaTransitionZoneLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CxA1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cortexAmygdalaTransitionZoneLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cortexamygdalatransitionzonelayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cortexAmygdalaTransitionZoneLayer1
    :name: cortex-amygdala transition zone, layer 1
    :versionIdentifier: 6th ed.
@@ -3710,7 +3516,6 @@ PW-RBSC-cor_6th-ed_crus1OfTheAnsiformLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Crus1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_crus1OfTheAnsiformLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-crus1oftheansiformlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_crus1OfTheAnsiformLobule
    :name: crus 1 of the ansiform lobule
    :versionIdentifier: 6th ed.
@@ -3729,7 +3534,6 @@ PW-RBSC-cor_6th-ed_crus2OfTheAnsiformLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Crus2
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_crus2OfTheAnsiformLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-crus2oftheansiformlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_crus2OfTheAnsiformLobule
    :name: crus 2 of the ansiform lobule
    :versionIdentifier: 6th ed.
@@ -3748,7 +3552,6 @@ PW-RBSC-cor_6th-ed_cuneateFasciculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: cu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneateFasciculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneatefasciculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneateFasciculus
    :name: cuneate fasciculus
    :versionIdentifier: 6th ed.
@@ -3767,7 +3570,6 @@ PW-RBSC-cor_6th-ed_cuneateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Cu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneatenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneateNucleus
    :name: cuneate nucleus
    :versionIdentifier: 6th ed.
@@ -3786,7 +3588,6 @@ PW-RBSC-cor_6th-ed_cuneateNucleusRotundusPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CuR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneateNucleusRotundusPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneatenucleusrotunduspart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneateNucleusRotundusPart
    :name: cuneate nucleus, rotundus part
    :versionIdentifier: 6th ed.
@@ -3805,7 +3606,6 @@ PW-RBSC-cor_6th-ed_cuneiformNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CnF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneiformNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneiformnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneiformNucleus
    :name: cuneiform nucleus
    :versionIdentifier: 6th ed.
@@ -3824,7 +3624,6 @@ PW-RBSC-cor_6th-ed_cuneiformNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CnFD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneiformNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneiformnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneiformNucleusDorsalPart
    :name: cuneiform nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -3843,7 +3642,6 @@ PW-RBSC-cor_6th-ed_cuneiformNucleusIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CnFI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneiformNucleusIntermediatePart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneiformnucleusintermediatepart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneiformNucleusIntermediatePart
    :name: cuneiform nucleus, intermediate part
    :versionIdentifier: 6th ed.
@@ -3862,7 +3660,6 @@ PW-RBSC-cor_6th-ed_cuneiformNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CnFV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_cuneiformNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-cuneiformnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_cuneiformNucleusVentralPart
    :name: cuneiform nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -3881,7 +3678,6 @@ PW-RBSC-cor_6th-ed_decussationOfTheSuperiorCerebellarPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: xscp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_decussationOfTheSuperiorCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-decussationofthesuperiorcerebellarpeduncle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_decussationOfTheSuperiorCerebellarPeduncle
    :name: decussation of the superior cerebellar peduncle
    :versionIdentifier: 6th ed.
@@ -3900,7 +3696,6 @@ PW-RBSC-cor_6th-ed_decussationOfTheTrapezoidBody
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: tzx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_decussationOfTheTrapezoidBody <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-decussationofthetrapezoidbody>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_decussationOfTheTrapezoidBody
    :name: decussation of the trapezoid body
    :versionIdentifier: 6th ed.
@@ -3919,7 +3714,6 @@ PW-RBSC-cor_6th-ed_deepCerebralWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dcw
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_deepCerebralWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-deepcerebralwhitematter>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_deepCerebralWhiteMatter
    :name: deep cerebral white matter
    :versionIdentifier: 6th ed.
@@ -3938,7 +3732,6 @@ PW-RBSC-cor_6th-ed_deepGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DpG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_deepGrayLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-deepgraylayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_deepGrayLayerOfTheSuperiorColliculus
    :name: deep gray layer of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -3957,7 +3750,6 @@ PW-RBSC-cor_6th-ed_deepWhiteLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DpWh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_deepWhiteLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-deepwhitelayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_deepWhiteLayerOfTheSuperiorColliculus
    :name: deep white layer of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -3976,7 +3768,6 @@ PW-RBSC-cor_6th-ed_dentateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dentateGyrus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dentategyrus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dentateGyrus
    :name: dentate gyrus
    :versionIdentifier: 6th ed.
@@ -3995,7 +3786,6 @@ PW-RBSC-cor_6th-ed_dorsal3rdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: D3V
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsal3rdVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsal3rdventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsal3rdVentricle
    :name: dorsal 3rd ventricle
    :versionIdentifier: 6th ed.
@@ -4014,7 +3804,6 @@ PW-RBSC-cor_6th-ed_dorsalAcousticStria
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: das
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalAcousticStria <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalacousticstria>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalAcousticStria
    :name: dorsal acoustic stria
    :versionIdentifier: 6th ed.
@@ -4033,7 +3822,6 @@ PW-RBSC-cor_6th-ed_dorsalCochlearNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalCochlearNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcochlearnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCochlearNucleus
    :name: dorsal cochlear nucleus
    :versionIdentifier: 6th ed.
@@ -4052,7 +3840,6 @@ PW-RBSC-cor_6th-ed_dorsalCochlearNucleusDeepCore
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DCDp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalCochlearNucleusDeepCore <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcochlearnucleusdeepcore>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCochlearNucleusDeepCore
    :name: dorsal cochlear nucleus, deep core
    :versionIdentifier: 6th ed.
@@ -4071,7 +3858,6 @@ PW-RBSC-cor_6th-ed_dorsalCochlearNucleusFusiformLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DCFu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalCochlearNucleusFusiformLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcochlearnucleusfusiformlayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCochlearNucleusFusiformLayer
    :name: dorsal cochlear nucleus, fusiform layer
    :versionIdentifier: 6th ed.
@@ -4090,7 +3876,6 @@ PW-RBSC-cor_6th-ed_dorsalCochlearNucleusGranularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DCGr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalCochlearNucleusGranularLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcochlearnucleusgranularlayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCochlearNucleusGranularLayer
    :name: dorsal cochlear nucleus, granular layer
    :versionIdentifier: 6th ed.
@@ -4109,7 +3894,6 @@ PW-RBSC-cor_6th-ed_dorsalCochlearNucleusMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DCMo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalCochlearNucleusMolecularLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcochlearnucleusmolecularlayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCochlearNucleusMolecularLayer
    :name: dorsal cochlear nucleus, molecular layer
    :versionIdentifier: 6th ed.
@@ -4128,7 +3912,6 @@ PW-RBSC-cor_6th-ed_dorsalCortexOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DCIC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalCortexOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcortexoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCortexOfTheInferiorColliculus
    :name: dorsal cortex of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -4147,7 +3930,6 @@ PW-RBSC-cor_6th-ed_dorsalCorticospinalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dcs
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalCorticospinalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalcorticospinaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalCorticospinalTract
    :name: dorsal corticospinal tract
    :versionIdentifier: 6th ed.
@@ -4166,7 +3948,6 @@ PW-RBSC-cor_6th-ed_dorsalEndopiriformNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DEn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalEndopiriformNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalendopiriformnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalEndopiriformNucleus
    :name: dorsal endopiriform nucleus
    :versionIdentifier: 6th ed.
@@ -4185,7 +3966,6 @@ PW-RBSC-cor_6th-ed_dorsalFornix
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: df
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalFornix <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalfornix>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalFornix
    :name: dorsal fornix
    :versionIdentifier: 6th ed.
@@ -4204,7 +3984,6 @@ PW-RBSC-cor_6th-ed_dorsalHippocampalCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dhc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalHippocampalCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalhippocampalcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalHippocampalCommissure
    :name: dorsal hippocampal commissure
    :versionIdentifier: 6th ed.
@@ -4223,7 +4002,6 @@ PW-RBSC-cor_6th-ed_dorsalHypothalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalHypothalamicArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalhypothalamicarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalHypothalamicArea
    :name: dorsal hypothalamic area
    :versionIdentifier: 6th ed.
@@ -4242,7 +4020,6 @@ PW-RBSC-cor_6th-ed_dorsalIntermediateEntorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DIEnt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalIntermediateEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalintermediateentorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalIntermediateEntorhinalCortex
    :name: dorsal intermediate entorhinal cortex
    :versionIdentifier: 6th ed.
@@ -4261,7 +4038,6 @@ PW-RBSC-cor_6th-ed_dorsalLateralGeniculateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DLG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalLateralGeniculateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsallateralgeniculatenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalLateralGeniculateNucleus
    :name: dorsal lateral geniculate nucleus
    :versionIdentifier: 6th ed.
@@ -4280,7 +4056,6 @@ PW-RBSC-cor_6th-ed_dorsalLateralOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dlo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalLateralOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsallateralolfactorytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalLateralOlfactoryTract
    :name: dorsal lateral olfactory tract
    :versionIdentifier: 6th ed.
@@ -4299,7 +4074,6 @@ PW-RBSC-cor_6th-ed_dorsalMotorNucleusOfVagus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 10N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalMotorNucleusOfVagus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalmotornucleusofvagus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalMotorNucleusOfVagus
    :name: dorsal motor nucleus of vagus
    :versionIdentifier: 6th ed.
@@ -4318,7 +4092,6 @@ PW-RBSC-cor_6th-ed_dorsalNucleusOfTheLateralLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DLL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalNucleusOfTheLateralLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalnucleusofthelaterallemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalNucleusOfTheLateralLemniscus
    :name: dorsal nucleus of the lateral lemniscus
    :versionIdentifier: 6th ed.
@@ -4337,7 +4110,6 @@ PW-RBSC-cor_6th-ed_dorsalNucleusOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: D
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalNucleusOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalnucleusofthespinalcord>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalNucleusOfTheSpinalCord
    :name: dorsal nucleus of the spinal cord
    :versionIdentifier: 6th ed.
@@ -4356,7 +4128,6 @@ PW-RBSC-cor_6th-ed_dorsalParagigantocellularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DPGi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalParagigantocellularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalparagigantocellularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalParagigantocellularNucleus
    :name: dorsal paragigantocellular nucleus
    :versionIdentifier: 6th ed.
@@ -4375,7 +4146,6 @@ PW-RBSC-cor_6th-ed_dorsalPartOfClaustrum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DCl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalPartOfClaustrum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalpartofclaustrum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalPartOfClaustrum
    :name: dorsal part of claustrum
    :versionIdentifier: 6th ed.
@@ -4394,7 +4164,6 @@ PW-RBSC-cor_6th-ed_dorsalPeduncularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalPeduncularCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalpeduncularcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalPeduncularCortex
    :name: dorsal peduncular cortex
    :versionIdentifier: 6th ed.
@@ -4413,7 +4182,6 @@ PW-RBSC-cor_6th-ed_dorsalPeduncularPontineNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DPPn
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalPeduncularPontineNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalpeduncularpontinenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalPeduncularPontineNucleus
    :name: dorsal peduncular pontine nucleus
    :versionIdentifier: 6th ed.
@@ -4432,7 +4200,6 @@ PW-RBSC-cor_6th-ed_dorsalPeriolivaryRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DPO
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalPeriolivaryRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalperiolivaryregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalPeriolivaryRegion
    :name: dorsal periolivary region
    :versionIdentifier: 6th ed.
@@ -4451,7 +4218,6 @@ PW-RBSC-cor_6th-ed_dorsalRapheNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalRapheNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalraphenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalRapheNucleus
    :name: dorsal raphe nucleus
    :versionIdentifier: 6th ed.
@@ -4470,7 +4236,6 @@ PW-RBSC-cor_6th-ed_dorsalRapheNucleusCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DRC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalRapheNucleusCaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalraphenucleuscaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalRapheNucleusCaudalPart
    :name: dorsal raphe nucleus, caudal part
    :versionIdentifier: 6th ed.
@@ -4489,7 +4254,6 @@ PW-RBSC-cor_6th-ed_dorsalRapheNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DRD
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalRapheNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalraphenucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalRapheNucleusDorsalPart
    :name: dorsal raphe nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -4508,7 +4272,6 @@ PW-RBSC-cor_6th-ed_dorsalRapheNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DRL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalRapheNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalraphenucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalRapheNucleusLateralPart
    :name: dorsal raphe nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -4527,7 +4290,6 @@ PW-RBSC-cor_6th-ed_dorsalRapheNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DRV
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalRapheNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalraphenucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalRapheNucleusVentralPart
    :name: dorsal raphe nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -4546,7 +4308,6 @@ PW-RBSC-cor_6th-ed_dorsalSpinocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dsc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalSpinocerebellarTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalspinocerebellartract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalSpinocerebellarTract
    :name: dorsal spinocerebellar tract
    :versionIdentifier: 6th ed.
@@ -4565,7 +4326,6 @@ PW-RBSC-cor_6th-ed_dorsalSpinocerebellarTractAndOlivocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dsc/oc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalSpinocerebellarTractAndOlivocerebellarTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalspinocerebellartractandolivocerebellartract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalSpinocerebellarTractAndOlivocerebellarTract
    :name: dorsal spinocerebellar tract and olivocerebellar tract
    :versionIdentifier: 6th ed.
@@ -4584,7 +4344,6 @@ PW-RBSC-cor_6th-ed_dorsalSubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DS
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalSubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalsubiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalSubiculum
    :name: dorsal subiculum
    :versionIdentifier: 6th ed.
@@ -4603,7 +4362,6 @@ PW-RBSC-cor_6th-ed_dorsalTegmentalDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: dtgx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTegmentalDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsaltegmentaldecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTegmentalDecussation
    :name: dorsal tegmental decussation
    :versionIdentifier: 6th ed.
@@ -4622,7 +4380,6 @@ PW-RBSC-cor_6th-ed_dorsalTegmentalNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DTgC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTegmentalNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsaltegmentalnucleuscentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTegmentalNucleusCentralPart
    :name: dorsal tegmental nucleus, central part
    :versionIdentifier: 6th ed.
@@ -4641,7 +4398,6 @@ PW-RBSC-cor_6th-ed_dorsalTegmentalNucleusPericentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DTgP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTegmentalNucleusPericentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsaltegmentalnucleuspericentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTegmentalNucleusPericentralPart
    :name: dorsal tegmental nucleus, pericentral part
    :versionIdentifier: 6th ed.
@@ -4660,7 +4416,6 @@ PW-RBSC-cor_6th-ed_dorsalTeniaTecta
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DTT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTeniaTecta <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalteniatecta>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTeniaTecta
    :name: dorsal tenia tecta
    :versionIdentifier: 6th ed.
@@ -4679,7 +4434,6 @@ PW-RBSC-cor_6th-ed_dorsalTeniaTectaLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DTT1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTeniaTectaLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalteniatectalayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTeniaTectaLayer1
    :name: dorsal tenia tecta layer 1
    :versionIdentifier: 6th ed.
@@ -4698,7 +4452,6 @@ PW-RBSC-cor_6th-ed_dorsalTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTerminalNucleusOfTheAccessoryOpticTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsalterminalnucleusoftheaccessoryoptictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTerminalNucleusOfTheAccessoryOpticTract
    :name: dorsal terminal nucleus of the accessory optic tract
    :versionIdentifier: 6th ed.
@@ -4717,7 +4470,6 @@ PW-RBSC-cor_6th-ed_dorsalTransitionZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DTr
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsalTransitionZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsaltransitionzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTransitionZone
    :name: dorsal transition zone
    :versionIdentifier: 6th ed.
@@ -4736,7 +4488,6 @@ PW-RBSC-cor_6th-ed_dorsalTuberomammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DTM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsalTuberomammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsaltuberomammillarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsalTuberomammillaryNucleus
    :name: dorsal tuberomammillary nucleus
    :versionIdentifier: 6th ed.
@@ -4755,7 +4506,6 @@ PW-RBSC-cor_6th-ed_dorsolateralEntorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DLEnt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsolateralEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsolateralentorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsolateralEntorhinalCortex
    :name: dorsolateral entorhinal cortex
    :versionIdentifier: 6th ed.
@@ -4774,7 +4524,6 @@ PW-RBSC-cor_6th-ed_dorsolateralOrbitalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DLO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsolateralOrbitalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsolateralorbitalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsolateralOrbitalCortex
    :name: dorsolateral orbital cortex
    :versionIdentifier: 6th ed.
@@ -4793,7 +4542,6 @@ PW-RBSC-cor_6th-ed_dorsolateralPeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DLPAG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_dorsolateralPeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsolateralperiaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsolateralPeriaqueductalGray
    :name: dorsolateral periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -4812,7 +4560,6 @@ PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleus
    :name: dorsomedial hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -4831,7 +4578,6 @@ PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusCompactPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DMC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialHypothalamicNucleusCompactPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialhypothalamicnucleuscompactpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusCompactPart
    :name: dorsomedial hypothalamic nucleus, compact part
    :versionIdentifier: 6th ed.
@@ -4850,7 +4596,6 @@ PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DMD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialHypothalamicNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialhypothalamicnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusDorsalPart
    :name: dorsomedial hypothalamic nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -4869,7 +4614,6 @@ PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DMV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialHypothalamicNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialhypothalamicnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialHypothalamicNucleusVentralPart
    :name: dorsomedial hypothalamic nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -4888,7 +4632,6 @@ PW-RBSC-cor_6th-ed_dorsomedialPeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DMPAG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialPeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialperiaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialPeriaqueductalGray
    :name: dorsomedial periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -4907,7 +4650,6 @@ PW-RBSC-cor_6th-ed_dorsomedialSpinalTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DMSp5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialSpinalTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialspinaltrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialSpinalTrigeminalNucleus
    :name: dorsomedial spinal trigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -4926,7 +4668,6 @@ PW-RBSC-cor_6th-ed_dorsomedialTegmentalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DMTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dorsomedialTegmentalArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dorsomedialtegmentalarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dorsomedialTegmentalArea
    :name: dorsomedial tegmental area
    :versionIdentifier: 6th ed.
@@ -4945,7 +4686,6 @@ PW-RBSC-cor_6th-ed_dysgranularInsularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: DI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_dysgranularInsularCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-dysgranularinsularcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_dysgranularInsularCortex
    :name: dysgranular insular cortex
    :versionIdentifier: 6th ed.
@@ -4964,7 +4704,6 @@ PW-RBSC-cor_6th-ed_ectorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ect
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ectorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ectorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ectorhinalCortex
    :name: ectorhinal cortex
    :versionIdentifier: 6th ed.
@@ -4983,7 +4722,6 @@ PW-RBSC-cor_6th-ed_ectotrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: E5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ectotrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ectotrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ectotrigeminalNucleus
    :name: ectotrigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -5002,7 +4740,6 @@ PW-RBSC-cor_6th-ed_entopeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_entopeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-entopeduncularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_entopeduncularNucleus
    :name: entopeduncular nucleus
    :versionIdentifier: 6th ed.
@@ -5021,7 +4758,6 @@ PW-RBSC-cor_6th-ed_entorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ent
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_entorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-entorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_entorhinalCortex
    :name: entorhinal cortex
    :versionIdentifier: 6th ed.
@@ -5040,7 +4776,6 @@ PW-RBSC-cor_6th-ed_ependymaAndSubependymalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: E
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ependymaAndSubependymalLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ependymaandsubependymallayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ependymaAndSubependymalLayer
    :name: ependyma and subependymal layer
    :versionIdentifier: 6th ed.
@@ -5059,7 +4794,6 @@ PW-RBSC-cor_6th-ed_ependymalAndSubendymalLayerOlfactoryVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: E/OV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ependymalAndSubendymalLayerOlfactoryVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ependymalandsubendymallayerolfactoryventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ependymalAndSubendymalLayerOlfactoryVentricle
    :name: ependymal and subendymal layer/olfactory ventricle
    :versionIdentifier: 6th ed.
@@ -5078,7 +4812,6 @@ PW-RBSC-cor_6th-ed_epifascicularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_epifascicularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-epifascicularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_epifascicularNucleus
    :name: epifascicular nucleus
    :versionIdentifier: 6th ed.
@@ -5097,7 +4830,6 @@ PW-RBSC-cor_6th-ed_epilemniscalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ELm
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_epilemniscalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-epilemniscalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_epilemniscalNucleus
    :name: epilemniscal nucleus
    :versionIdentifier: 6th ed.
@@ -5116,7 +4848,6 @@ PW-RBSC-cor_6th-ed_epipeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EpP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_epipeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-epipeduncularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_epipeduncularNucleus
    :name: epipeduncular nucleus
    :versionIdentifier: 6th ed.
@@ -5135,7 +4866,6 @@ PW-RBSC-cor_6th-ed_epirubrospinalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ERS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_epirubrospinalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-epirubrospinalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_epirubrospinalNucleus
    :name: epirubrospinal nucleus
    :versionIdentifier: 6th ed.
@@ -5154,7 +4884,6 @@ PW-RBSC-cor_6th-ed_episupraopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ESO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_episupraopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-episupraopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_episupraopticNucleus
    :name: episupraoptic nucleus
    :versionIdentifier: 6th ed.
@@ -5173,7 +4902,6 @@ PW-RBSC-cor_6th-ed_ethmoidThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Eth
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ethmoidThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ethmoidthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ethmoidThalamicNucleus
    :name: ethmoid thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -5192,7 +4920,6 @@ PW-RBSC-cor_6th-ed_externalCapsule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ec
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_externalCapsule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalcapsule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalCapsule
    :name: external capsule
    :versionIdentifier: 6th ed.
@@ -5211,7 +4938,6 @@ PW-RBSC-cor_6th-ed_externalCortexOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ECIC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_externalCortexOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalcortexoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalCortexOfTheInferiorColliculus
    :name: external cortex of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -5230,7 +4956,6 @@ PW-RBSC-cor_6th-ed_externalCortexOfTheInferiorColliculusLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ECIC1
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_externalCortexOfTheInferiorColliculusLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalcortexoftheinferiorcolliculuslayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalCortexOfTheInferiorColliculusLayer1
    :name: external cortex of the inferior colliculus, layer 1
    :versionIdentifier: 6th ed.
@@ -5249,7 +4974,6 @@ PW-RBSC-cor_6th-ed_externalCuneateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ECu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_externalCuneateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalcuneatenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalCuneateNucleus
    :name: external cuneate nucleus
    :versionIdentifier: 6th ed.
@@ -5268,7 +4992,6 @@ PW-RBSC-cor_6th-ed_externalMedullaryLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: eml
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_externalMedullaryLamina <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalmedullarylamina>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalMedullaryLamina
    :name: external medullary lamina
    :versionIdentifier: 6th ed.
@@ -5287,7 +5010,6 @@ PW-RBSC-cor_6th-ed_externalPlexiformLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EPlA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_externalPlexiformLayerOfTheAccessoryOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalplexiformlayeroftheaccessoryolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalPlexiformLayerOfTheAccessoryOlfactoryBulb
    :name: external plexiform layer of the accessory olfactory bulb
    :versionIdentifier: 6th ed.
@@ -5306,7 +5028,6 @@ PW-RBSC-cor_6th-ed_externalPlexiformLayerOfTheOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EPl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_externalPlexiformLayerOfTheOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-externalplexiformlayeroftheolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_externalPlexiformLayerOfTheOlfactoryBulb
    :name: external plexiform layer of the olfactory bulb
    :versionIdentifier: 6th ed.
@@ -5325,7 +5046,6 @@ PW-RBSC-cor_6th-ed_facialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7n
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_facialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNerve
    :name: facial nerve
    :versionIdentifier: 6th ed.
@@ -5344,7 +5064,6 @@ PW-RBSC-cor_6th-ed_facialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleus
    :name: facial nucleus
    :versionIdentifier: 6th ed.
@@ -5363,7 +5082,6 @@ PW-RBSC-cor_6th-ed_facialNucleusDorsalIntermediateSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7DI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusDorsalIntermediateSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleusdorsalintermediatesubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusDorsalIntermediateSubnucleus
    :name: facial nucleus, dorsal intermediate subnucleus
    :versionIdentifier: 6th ed.
@@ -5382,7 +5100,6 @@ PW-RBSC-cor_6th-ed_facialNucleusDorsolateralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7DL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusDorsolateralSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleusdorsolateralsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusDorsolateralSubnucleus
    :name: facial nucleus, dorsolateral subnucleus
    :versionIdentifier: 6th ed.
@@ -5401,7 +5118,6 @@ PW-RBSC-cor_6th-ed_facialNucleusDorsomedialSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7DM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusDorsomedialSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleusdorsomedialsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusDorsomedialSubnucleus
    :name: facial nucleus, dorsomedial subnucleus
    :versionIdentifier: 6th ed.
@@ -5420,7 +5136,6 @@ PW-RBSC-cor_6th-ed_facialNucleusLateralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7L
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusLateralSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleuslateralsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusLateralSubnucleus
    :name: facial nucleus, lateral subnucleus
    :versionIdentifier: 6th ed.
@@ -5439,7 +5154,6 @@ PW-RBSC-cor_6th-ed_facialNucleusStylohyoidPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7SH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusStylohyoidPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleusstylohyoidpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusStylohyoidPart
    :name: facial nucleus, stylohyoid part
    :versionIdentifier: 6th ed.
@@ -5458,7 +5172,6 @@ PW-RBSC-cor_6th-ed_facialNucleusVentralIntermediateSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7VI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusVentralIntermediateSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleusventralintermediatesubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusVentralIntermediateSubnucleus
    :name: facial nucleus, ventral intermediate subnucleus
    :versionIdentifier: 6th ed.
@@ -5477,7 +5190,6 @@ PW-RBSC-cor_6th-ed_facialNucleusVentromedialSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7VM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_facialNucleusVentromedialSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-facialnucleusventromedialsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_facialNucleusVentromedialSubnucleus
    :name: facial nucleus, ventromedial subnucleus
    :versionIdentifier: 6th ed.
@@ -5496,7 +5208,6 @@ PW-RBSC-cor_6th-ed_fasciculusRetroflexus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: fr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_fasciculusRetroflexus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fasciculusretroflexus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fasciculusRetroflexus
    :name: fasciculus retroflexus
    :versionIdentifier: 6th ed.
@@ -5515,7 +5226,6 @@ PW-RBSC-cor_6th-ed_fasciolaCinereum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: FC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_fasciolaCinereum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fasciolacinereum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fasciolaCinereum
    :name: fasciola cinereum
    :versionIdentifier: 6th ed.
@@ -5534,7 +5244,6 @@ PW-RBSC-cor_6th-ed_fieldCA1OfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CA1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_fieldCA1OfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fieldca1ofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fieldCA1OfTheHippocampus
    :name: field CA1 of the hippocampus
    :versionIdentifier: 6th ed.
@@ -5553,7 +5262,6 @@ PW-RBSC-cor_6th-ed_fieldCA2OfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CA2
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_fieldCA2OfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fieldca2ofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fieldCA2OfTheHippocampus
    :name: field CA2 of the hippocampus
    :versionIdentifier: 6th ed.
@@ -5572,7 +5280,6 @@ PW-RBSC-cor_6th-ed_fieldCA3OfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CA3
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_fieldCA3OfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fieldca3ofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fieldCA3OfTheHippocampus
    :name: field CA3 of the hippocampus
    :versionIdentifier: 6th ed.
@@ -5591,7 +5298,6 @@ PW-RBSC-cor_6th-ed_fimbriaOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: fi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_fimbriaOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fimbriaofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fimbriaOfTheHippocampus
    :name: fimbria of the hippocampus
    :versionIdentifier: 6th ed.
@@ -5610,7 +5316,6 @@ PW-RBSC-cor_6th-ed_flocculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Fl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_flocculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-flocculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_flocculus
    :name: flocculus
    :versionIdentifier: 6th ed.
@@ -5629,7 +5334,6 @@ PW-RBSC-cor_6th-ed_forcepsMajorOfTheCorpusCallosum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: fmj
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_forcepsMajorOfTheCorpusCallosum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-forcepsmajorofthecorpuscallosum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_forcepsMajorOfTheCorpusCallosum
    :name: forceps major of the corpus callosum
    :versionIdentifier: 6th ed.
@@ -5648,7 +5352,6 @@ PW-RBSC-cor_6th-ed_forcepsMinorOfTheCorpusCallosum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: fmi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_forcepsMinorOfTheCorpusCallosum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-forcepsminorofthecorpuscallosum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_forcepsMinorOfTheCorpusCallosum
    :name: forceps minor of the corpus callosum
    :versionIdentifier: 6th ed.
@@ -5667,7 +5370,6 @@ PW-RBSC-cor_6th-ed_fornix
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: f
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_fornix <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-fornix>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_fornix
    :name: fornix
    :versionIdentifier: 6th ed.
@@ -5687,7 +5389,6 @@ PW-RBSC-cor_6th-ed_frontalAssociationCortex
    :abbreviation: FrA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter. Region name has a spelling mistake ('assocn' instead of 'association'). The assumed correct name 'frontal association cortex' has been added under 'correctedName'.
    :correctedName: frontal association cortex
-   :isVersionOf: `PW-RBSC-cor_frontalAssociationCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-frontalassociationcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_frontalAssociationCortex
    :name: frontal assocn cortex
    :versionIdentifier: 6th ed.
@@ -5706,7 +5407,6 @@ PW-RBSC-cor_6th-ed_frontalCortexArea3
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Fr3
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_frontalCortexArea3 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-frontalcortexarea3>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_frontalCortexArea3
    :name: frontal cortex, area 3
    :versionIdentifier: 6th ed.
@@ -5725,7 +5425,6 @@ PW-RBSC-cor_6th-ed_gelatinousLayerOfTheCaudalSpinalTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ge5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_gelatinousLayerOfTheCaudalSpinalTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-gelatinouslayerofthecaudalspinaltrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_gelatinousLayerOfTheCaudalSpinalTrigeminalNucleus
    :name: gelatinous layer of the caudal spinal trigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -5744,7 +5443,6 @@ PW-RBSC-cor_6th-ed_geminiHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Gem
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_geminiHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-geminihypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_geminiHypothalamicNucleus
    :name: gemini hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -5763,7 +5461,6 @@ PW-RBSC-cor_6th-ed_genuOfTheCorpusCallosum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: gcc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_genuOfTheCorpusCallosum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-genuofthecorpuscallosum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_genuOfTheCorpusCallosum
    :name: genu of the corpus callosum
    :versionIdentifier: 6th ed.
@@ -5782,7 +5479,6 @@ PW-RBSC-cor_6th-ed_genuOfTheFacialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: g7
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_genuOfTheFacialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-genuofthefacialnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_genuOfTheFacialNerve
    :name: genu of the facial nerve
    :versionIdentifier: 6th ed.
@@ -5801,7 +5497,6 @@ PW-RBSC-cor_6th-ed_gigantocellularReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Gi
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_gigantocellularReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-gigantocellularreticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_gigantocellularReticularNucleus
    :name: gigantocellular reticular nucleus
    :versionIdentifier: 6th ed.
@@ -5820,7 +5515,6 @@ PW-RBSC-cor_6th-ed_gigantocellularReticularNucleusAlphaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GiA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_gigantocellularReticularNucleusAlphaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-gigantocellularreticularnucleusalphapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_gigantocellularReticularNucleusAlphaPart
    :name: gigantocellular reticular nucleus, alpha part
    :versionIdentifier: 6th ed.
@@ -5839,7 +5533,6 @@ PW-RBSC-cor_6th-ed_gigantocellularReticularNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GiV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_gigantocellularReticularNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-gigantocellularreticularnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_gigantocellularReticularNucleusVentralPart
    :name: gigantocellular reticular nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -5858,7 +5551,6 @@ PW-RBSC-cor_6th-ed_globusPallidus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GP
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_globusPallidus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-globuspallidus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_globusPallidus
    :name: globus pallidus
    :versionIdentifier: 6th ed.
@@ -5877,7 +5569,6 @@ PW-RBSC-cor_6th-ed_glomerularLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GlA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_glomerularLayerOfTheAccessoryOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-glomerularlayeroftheaccessoryolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_glomerularLayerOfTheAccessoryOlfactoryBulb
    :name: glomerular layer of the accessory olfactory bulb
    :versionIdentifier: 6th ed.
@@ -5896,7 +5587,6 @@ PW-RBSC-cor_6th-ed_glomerularLayerOfTheOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Gl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_glomerularLayerOfTheOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-glomerularlayeroftheolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_glomerularLayerOfTheOlfactoryBulb
    :name: glomerular layer of the olfactory bulb
    :versionIdentifier: 6th ed.
@@ -5915,7 +5605,6 @@ PW-RBSC-cor_6th-ed_glossopharyngealNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 9n
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_glossopharyngealNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-glossopharyngealnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_glossopharyngealNerve
    :name: glossopharyngeal nerve
    :versionIdentifier: 6th ed.
@@ -5934,7 +5623,6 @@ PW-RBSC-cor_6th-ed_gracileFasciculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: gr
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_gracileFasciculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-gracilefasciculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_gracileFasciculus
    :name: gracile fasciculus
    :versionIdentifier: 6th ed.
@@ -5953,7 +5641,6 @@ PW-RBSC-cor_6th-ed_gracileNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Gr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_gracileNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-gracilenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_gracileNucleus
    :name: gracile nucleus
    :versionIdentifier: 6th ed.
@@ -5972,7 +5659,6 @@ PW-RBSC-cor_6th-ed_granularCellLayerOfTheOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GrO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_granularCellLayerOfTheOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-granularcelllayeroftheolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_granularCellLayerOfTheOlfactoryBulb
    :name: granular cell layer of the olfactory bulb
    :versionIdentifier: 6th ed.
@@ -5991,7 +5677,6 @@ PW-RBSC-cor_6th-ed_granularInsularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_granularInsularCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-granularinsularcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_granularInsularCortex
    :name: granular insular cortex
    :versionIdentifier: 6th ed.
@@ -6010,7 +5695,6 @@ PW-RBSC-cor_6th-ed_granularLayerOfTheDentateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GrDG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_granularLayerOfTheDentateGyrus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-granularlayerofthedentategyrus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_granularLayerOfTheDentateGyrus
    :name: granular layer of the dentate gyrus
    :versionIdentifier: 6th ed.
@@ -6029,7 +5713,6 @@ PW-RBSC-cor_6th-ed_granuleCellLayerOfCochlearNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GrC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_granuleCellLayerOfCochlearNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-granulecelllayerofcochlearnuclei>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_granuleCellLayerOfCochlearNuclei
    :name: granule cell layer of cochlear nuclei
    :versionIdentifier: 6th ed.
@@ -6048,7 +5731,6 @@ PW-RBSC-cor_6th-ed_granuleCellLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GrA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_granuleCellLayerOfTheAccessoryOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-granulecelllayeroftheaccessoryolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_granuleCellLayerOfTheAccessoryOlfactoryBulb
    :name: granule cell layer of the accessory olfactory bulb
    :versionIdentifier: 6th ed.
@@ -6067,7 +5749,6 @@ PW-RBSC-cor_6th-ed_granuleCellLayerOfTheCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: GrCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_granuleCellLayerOfTheCerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-granulecelllayerofthecerebellum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_granuleCellLayerOfTheCerebellum
    :name: granule cell layer of the cerebellum
    :versionIdentifier: 6th ed.
@@ -6086,7 +5767,6 @@ PW-RBSC-cor_6th-ed_habenularCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: hbc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_habenularCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-habenularcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_habenularCommissure
    :name: habenular commissure
    :versionIdentifier: 6th ed.
@@ -6105,7 +5785,6 @@ PW-RBSC-cor_6th-ed_hilusOfTheDentateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Hil
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_hilusOfTheDentateGyrus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-hilusofthedentategyrus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_hilusOfTheDentateGyrus
    :name: hilus of the dentate gyrus
    :versionIdentifier: 6th ed.
@@ -6124,7 +5803,6 @@ PW-RBSC-cor_6th-ed_hippocampalFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: hif
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_hippocampalFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-hippocampalfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_hippocampalFissure
    :name: hippocampal fissure
    :versionIdentifier: 6th ed.
@@ -6143,7 +5821,6 @@ PW-RBSC-cor_6th-ed_hypoglossalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 12N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_hypoglossalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-hypoglossalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_hypoglossalNucleus
    :name: hypoglossal nucleus
    :versionIdentifier: 6th ed.
@@ -6162,7 +5839,6 @@ PW-RBSC-cor_6th-ed_hypoglossalNucleusGeniohyoidPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 12GH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_hypoglossalNucleusGeniohyoidPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-hypoglossalnucleusgeniohyoidpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_hypoglossalNucleusGeniohyoidPart
    :name: hypoglossal nucleus, geniohyoid part
    :versionIdentifier: 6th ed.
@@ -6181,7 +5857,6 @@ PW-RBSC-cor_6th-ed_indusiumGriseum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_indusiumGriseum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-indusiumgriseum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_indusiumGriseum
    :name: indusium griseum
    :versionIdentifier: 6th ed.
@@ -6200,7 +5875,6 @@ PW-RBSC-cor_6th-ed_inferiorCerebellarPeduncleDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: icpx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorCerebellarPeduncleDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorcerebellarpeduncledecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorCerebellarPeduncleDecussation
    :name: inferior cerebellar peduncle decussation
    :versionIdentifier: 6th ed.
@@ -6219,7 +5893,6 @@ PW-RBSC-cor_6th-ed_inferiorCerebellarPeduncleRestiformBody
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: icp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorCerebellarPeduncleRestiformBody <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorcerebellarpedunclerestiformbody>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorCerebellarPeduncleRestiformBody
    :name: inferior cerebellar peduncle (restiform body)
    :versionIdentifier: 6th ed.
@@ -6238,7 +5911,6 @@ PW-RBSC-cor_6th-ed_inferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorColliculus
    :name: inferior colliculus
    :versionIdentifier: 6th ed.
@@ -6257,7 +5929,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveBetaSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOBe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveBetaSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivebetasubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveBetaSubnucleus
    :name: inferior olive, beta subnucleus
    :versionIdentifier: 6th ed.
@@ -6276,7 +5947,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveCapOfKooyOfTheMedialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOK
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveCapOfKooyOfTheMedialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivecapofkooyofthemedialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveCapOfKooyOfTheMedialNucleus
    :name: inferior olive, cap of Kooy of the medial nucleus
    :versionIdentifier: 6th ed.
@@ -6295,7 +5965,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveDorsalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveDorsalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivedorsalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveDorsalNucleus
    :name: inferior olive, dorsal nucleus
    :versionIdentifier: 6th ed.
@@ -6314,7 +5983,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveDorsomedialCellGroup
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IODM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveDorsomedialCellGroup <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivedorsomedialcellgroup>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveDorsomedialCellGroup
    :name: inferior olive, dorsomedial cell group
    :versionIdentifier: 6th ed.
@@ -6333,7 +6001,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveMedialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveMedialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivemedialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveMedialNucleus
    :name: inferior olive, medial nucleus
    :versionIdentifier: 6th ed.
@@ -6352,7 +6019,6 @@ PW-RBSC-cor_6th-ed_inferiorOlivePrincipalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOPr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOlivePrincipalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferioroliveprincipalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOlivePrincipalNucleus
    :name: inferior olive, principal nucleus
    :versionIdentifier: 6th ed.
@@ -6371,7 +6037,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusAOfMedialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveSubnucleusAOfMedialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivesubnucleusaofmedialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusAOfMedialNucleus
    :name: inferior olive, subnucleus A of medial nucleus
    :versionIdentifier: 6th ed.
@@ -6390,7 +6055,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusBOfMedialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveSubnucleusBOfMedialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivesubnucleusbofmedialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusBOfMedialNucleus
    :name: inferior olive, subnucleus B of medial nucleus
    :versionIdentifier: 6th ed.
@@ -6409,7 +6073,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusCOfMedialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveSubnucleusCOfMedialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorolivesubnucleuscofmedialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveSubnucleusCOfMedialNucleus
    :name: inferior olive, subnucleus C of medial nucleus
    :versionIdentifier: 6th ed.
@@ -6428,7 +6091,6 @@ PW-RBSC-cor_6th-ed_inferiorOliveVentrolateralProtrusion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IOVL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_inferiorOliveVentrolateralProtrusion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferioroliveventrolateralprotrusion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorOliveVentrolateralProtrusion
    :name: inferior olive, ventrolateral protrusion
    :versionIdentifier: 6th ed.
@@ -6447,7 +6109,6 @@ PW-RBSC-cor_6th-ed_inferiorSalivatoryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_inferiorSalivatoryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-inferiorsalivatorynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_inferiorSalivatoryNucleus
    :name: inferior salivatory nucleus
    :versionIdentifier: 6th ed.
@@ -6466,7 +6127,6 @@ PW-RBSC-cor_6th-ed_infralimbicCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_infralimbicCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-infralimbiccortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_infralimbicCortex
    :name: infralimbic cortex
    :versionIdentifier: 6th ed.
@@ -6485,7 +6145,6 @@ PW-RBSC-cor_6th-ed_infundibularRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IRe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_infundibularRecess <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-infundibularrecess>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_infundibularRecess
    :name: infundibular recess
    :versionIdentifier: 6th ed.
@@ -6504,7 +6163,6 @@ PW-RBSC-cor_6th-ed_infundibularStem
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: InfS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_infundibularStem <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-infundibularstem>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_infundibularStem
    :name: infundibular stem
    :versionIdentifier: 6th ed.
@@ -6523,7 +6181,6 @@ PW-RBSC-cor_6th-ed_interanterodorsalThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IAD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interanterodorsalThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interanterodorsalthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interanterodorsalThalamicNucleus
    :name: interanterodorsal thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -6542,7 +6199,6 @@ PW-RBSC-cor_6th-ed_interanteromedialThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IAM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_interanteromedialThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interanteromedialthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interanteromedialThalamicNucleus
    :name: interanteromedial thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -6561,7 +6217,6 @@ PW-RBSC-cor_6th-ed_intercalatedAmygdaloidNucleusMainPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intercalatedAmygdaloidNucleusMainPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intercalatedamygdaloidnucleusmainpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intercalatedAmygdaloidNucleusMainPart
    :name: intercalated amygdaloid nucleus, main part
    :versionIdentifier: 6th ed.
@@ -6580,7 +6235,6 @@ PW-RBSC-cor_6th-ed_intercalatedNucleiOfTheAmygdala
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: I
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intercalatedNucleiOfTheAmygdala <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intercalatednucleioftheamygdala>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intercalatedNucleiOfTheAmygdala
    :name: intercalated nuclei of the amygdala
    :versionIdentifier: 6th ed.
@@ -6599,7 +6253,6 @@ PW-RBSC-cor_6th-ed_intercalatedNucleusOfTheMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: In
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intercalatedNucleusOfTheMedulla <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intercalatednucleusofthemedulla>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intercalatedNucleusOfTheMedulla
    :name: intercalated nucleus of the medulla
    :versionIdentifier: 6th ed.
@@ -6618,7 +6271,6 @@ PW-RBSC-cor_6th-ed_intercruralFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: icf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intercruralFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intercruralfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intercruralFissure
    :name: intercrural fissure
    :versionIdentifier: 6th ed.
@@ -6637,7 +6289,6 @@ PW-RBSC-cor_6th-ed_interfascicularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interfascicularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interfascicularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interfascicularNucleus
    :name: interfascicular nucleus
    :versionIdentifier: 6th ed.
@@ -6656,7 +6307,6 @@ PW-RBSC-cor_6th-ed_intergeniculateLeaf
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IGL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intergeniculateLeaf <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intergeniculateleaf>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intergeniculateLeaf
    :name: intergeniculate leaf
    :versionIdentifier: 6th ed.
@@ -6675,7 +6325,6 @@ PW-RBSC-cor_6th-ed_intermediateEndopiriformNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IEn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediateEndopiriformNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediateendopiriformnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateEndopiriformNucleus
    :name: intermediate endopiriform nucleus
    :versionIdentifier: 6th ed.
@@ -6694,7 +6343,6 @@ PW-RBSC-cor_6th-ed_intermediateGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: InG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediateGrayLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediategraylayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateGrayLayerOfTheSuperiorColliculus
    :name: intermediate gray layer of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -6713,7 +6361,6 @@ PW-RBSC-cor_6th-ed_intermediateInterstitialNucleusOfTheMedialLongitudinalFascicu
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: II
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediateInterstitialNucleusOfTheMedialLongitudinalFasciculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediateinterstitialnucleusofthemediallongitudinalfasciculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateInterstitialNucleusOfTheMedialLongitudinalFasciculus
    :name: intermediate interstitial nucleus of the medial longitudinal fasciculus
    :versionIdentifier: 6th ed.
@@ -6732,7 +6379,6 @@ PW-RBSC-cor_6th-ed_intermediateLobeOfPituitary
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPit
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediateLobeOfPituitary <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediatelobeofpituitary>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateLobeOfPituitary
    :name: intermediate lobe of pituitary
    :versionIdentifier: 6th ed.
@@ -6751,7 +6397,6 @@ PW-RBSC-cor_6th-ed_intermediateNucleusOfTheLateralLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ILL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediateNucleusOfTheLateralLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediatenucleusofthelaterallemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateNucleusOfTheLateralLemniscus
    :name: intermediate nucleus of the lateral lemniscus
    :versionIdentifier: 6th ed.
@@ -6770,7 +6415,6 @@ PW-RBSC-cor_6th-ed_intermediateReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IRt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediateReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediatereticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateReticularNucleus
    :name: intermediate reticular nucleus
    :versionIdentifier: 6th ed.
@@ -6789,7 +6433,6 @@ PW-RBSC-cor_6th-ed_intermediateReticularNucleusAlphaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IRtA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_intermediateReticularNucleusAlphaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediatereticularnucleusalphapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateReticularNucleusAlphaPart
    :name: intermediate reticular nucleus, alpha part
    :versionIdentifier: 6th ed.
@@ -6808,7 +6451,6 @@ PW-RBSC-cor_6th-ed_intermediateWhiteLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: InWh
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_intermediateWhiteLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediatewhitelayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediateWhiteLayerOfTheSuperiorColliculus
    :name: intermediate white layer of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -6827,7 +6469,6 @@ PW-RBSC-cor_6th-ed_intermediodorsalThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IMD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediodorsalThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediodorsalthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediodorsalThalamicNucleus
    :name: intermediodorsal thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -6846,7 +6487,6 @@ PW-RBSC-cor_6th-ed_intermediolateralCellColumnOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IML
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_intermediolateralCellColumnOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediolateralcellcolumnofthespinalcord>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediolateralCellColumnOfTheSpinalCord
    :name: intermediolateral cell column of the spinal cord
    :versionIdentifier: 6th ed.
@@ -6865,7 +6505,6 @@ PW-RBSC-cor_6th-ed_intermedioventralThalamicCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: imvc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermedioventralThalamicCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermedioventralthalamiccommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermedioventralThalamicCommissure
    :name: intermedioventral thalamic commissure
    :versionIdentifier: 6th ed.
@@ -6884,7 +6523,6 @@ PW-RBSC-cor_6th-ed_intermediusNucleusOfTheMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: InM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intermediusNucleusOfTheMedulla <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intermediusnucleusofthemedulla>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intermediusNucleusOfTheMedulla
    :name: intermedius nucleus of the medulla
    :versionIdentifier: 6th ed.
@@ -6903,7 +6541,6 @@ PW-RBSC-cor_6th-ed_internalArcuateFibers
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ia
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_internalArcuateFibers <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-internalarcuatefibers>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_internalArcuateFibers
    :name: internal arcuate fibers
    :versionIdentifier: 6th ed.
@@ -6922,7 +6559,6 @@ PW-RBSC-cor_6th-ed_internalCapsule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ic
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_internalCapsule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-internalcapsule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_internalCapsule
    :name: internal capsule
    :versionIdentifier: 6th ed.
@@ -6941,7 +6577,6 @@ PW-RBSC-cor_6th-ed_internalCarotidArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ictd
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_internalCarotidArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-internalcarotidartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_internalCarotidArtery
    :name: internal carotid artery
    :versionIdentifier: 6th ed.
@@ -6960,7 +6595,6 @@ PW-RBSC-cor_6th-ed_internalMedullaryLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: iml
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_internalMedullaryLamina <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-internalmedullarylamina>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_internalMedullaryLamina
    :name: internal medullary lamina
    :versionIdentifier: 6th ed.
@@ -6979,7 +6613,6 @@ PW-RBSC-cor_6th-ed_internalPlexiformLayerOfTheOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_internalPlexiformLayerOfTheOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-internalplexiformlayeroftheolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_internalPlexiformLayerOfTheOlfactoryBulb
    :name: internal plexiform layer of the olfactory bulb
    :versionIdentifier: 6th ed.
@@ -6998,7 +6631,6 @@ PW-RBSC-cor_6th-ed_interpeduncularFossa
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularFossa <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularfossa>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularFossa
    :name: interpeduncular fossa
    :versionIdentifier: 6th ed.
@@ -7017,7 +6649,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleus
    :name: interpeduncular nucleus
    :versionIdentifier: 6th ed.
@@ -7036,7 +6667,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusApicalSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusApicalSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleusapicalsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusApicalSubnucleus
    :name: interpeduncular nucleus, apical subnucleus
    :versionIdentifier: 6th ed.
@@ -7055,7 +6685,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusCaudalSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusCaudalSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleuscaudalsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusCaudalSubnucleus
    :name: interpeduncular nucleus, caudal subnucleus
    :versionIdentifier: 6th ed.
@@ -7074,7 +6703,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusDorsolateralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPDL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusDorsolateralSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleusdorsolateralsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusDorsolateralSubnucleus
    :name: interpeduncular nucleus, dorsolateral subnucleus
    :versionIdentifier: 6th ed.
@@ -7093,7 +6721,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusDorsomedialSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPDM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusDorsomedialSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleusdorsomedialsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusDorsomedialSubnucleus
    :name: interpeduncular nucleus, dorsomedial subnucleus
    :versionIdentifier: 6th ed.
@@ -7112,7 +6739,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusIntermediateSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusIntermediateSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleusintermediatesubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusIntermediateSubnucleus
    :name: interpeduncular nucleus, intermediate subnucleus
    :versionIdentifier: 6th ed.
@@ -7131,7 +6757,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusLateralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusLateralSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleuslateralsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusLateralSubnucleus
    :name: interpeduncular nucleus, lateral subnucleus
    :versionIdentifier: 6th ed.
@@ -7150,7 +6775,6 @@ PW-RBSC-cor_6th-ed_interpeduncularNucleusRostralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interpeduncularNucleusRostralSubnucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interpeduncularnucleusrostralsubnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interpeduncularNucleusRostralSubnucleus
    :name: interpeduncular nucleus, rostral subnucleus
    :versionIdentifier: 6th ed.
@@ -7169,7 +6793,6 @@ PW-RBSC-cor_6th-ed_interposedCerebellarNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IntA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interposedCerebellarNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interposedcerebellarnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interposedCerebellarNucleusAnteriorPart
    :name: interposed cerebellar nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -7188,7 +6811,6 @@ PW-RBSC-cor_6th-ed_interposedCerebellarNucleusDorsolateralHump
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IntDL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_interposedCerebellarNucleusDorsolateralHump <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interposedcerebellarnucleusdorsolateralhump>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interposedCerebellarNucleusDorsolateralHump
    :name: interposed cerebellar nucleus, dorsolateral hump
    :versionIdentifier: 6th ed.
@@ -7207,7 +6829,6 @@ PW-RBSC-cor_6th-ed_interposedCerebellarNucleusDorsomedialCrest
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IntDM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interposedCerebellarNucleusDorsomedialCrest <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interposedcerebellarnucleusdorsomedialcrest>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interposedCerebellarNucleusDorsomedialCrest
    :name: interposed cerebellar nucleus, dorsomedial crest
    :versionIdentifier: 6th ed.
@@ -7226,7 +6847,6 @@ PW-RBSC-cor_6th-ed_interposedCerebellarNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IntP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interposedCerebellarNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interposedcerebellarnucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interposedCerebellarNucleusPosteriorPart
    :name: interposed cerebellar nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -7245,7 +6865,6 @@ PW-RBSC-cor_6th-ed_interposedCerebellarNucleusPosteriorParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IntPPC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_interposedCerebellarNucleusPosteriorParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interposedcerebellarnucleusposteriorparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interposedCerebellarNucleusPosteriorParvicellularPart
    :name: interposed cerebellar nucleus, posterior parvicellular part
    :versionIdentifier: 6th ed.
@@ -7264,7 +6883,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: InC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfCajal <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusofcajal>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfCajal
    :name: interstitial nucleus of Cajal
    :versionIdentifier: 6th ed.
@@ -7284,7 +6902,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfCajalShellRegion
    :abbreviation: InCSh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. Region name has a spelling mistake (dot instead of comma). The assumed correct name 'interstitial nucleus of Cajal, shell region' has been added under 'correctedName'.
    :correctedName: interstitial nucleus of Cajal, shell region
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfCajalShellRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusofcajalshellregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfCajalShellRegion
    :name: interstitial nucleus of Cajal. shell region
    :versionIdentifier: 6th ed.
@@ -7303,7 +6920,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPed
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ID
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusofthedecussationofthesuperiorcerebellarpeduncle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfTheDecussationOfTheSuperiorCerebellarPeduncle
    :name: interstitial nucleus of the decussation of the superior cerebellar peduncle
    :versionIdentifier: 6th ed.
@@ -7322,7 +6938,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfTheMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfTheMedulla <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusofthemedulla>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfTheMedulla
    :name: interstitial nucleus of the medulla
    :versionIdentifier: 6th ed.
@@ -7341,7 +6956,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPAC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusoftheposteriorlimboftheanteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissure
    :name: interstitial nucleus of the posterior limb of the anterior commissure
    :versionIdentifier: 6th ed.
@@ -7360,7 +6974,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureL
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPACL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusoftheposteriorlimboftheanteriorcommissurelateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureLateralPart
    :name: interstitial nucleus of the posterior limb of the anterior commissure, lateral part
    :versionIdentifier: 6th ed.
@@ -7379,7 +6992,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureM
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IPACM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusoftheposteriorlimboftheanteriorcommissuremedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfThePosteriorLimbOfTheAnteriorCommissureMedialPart
    :name: interstitial nucleus of the posterior limb of the anterior commissure, medial part
    :versionIdentifier: 6th ed.
@@ -7398,7 +7010,6 @@ PW-RBSC-cor_6th-ed_interstitialNucleusOfTheVestibulocochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: I8
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_interstitialNucleusOfTheVestibulocochlearNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interstitialnucleusofthevestibulocochlearnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interstitialNucleusOfTheVestibulocochlearNerve
    :name: interstitial nucleus of the vestibulocochlear nerve
    :versionIdentifier: 6th ed.
@@ -7417,7 +7028,6 @@ PW-RBSC-cor_6th-ed_interventricularForamen
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IVF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_interventricularForamen <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-interventricularforamen>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_interventricularForamen
    :name: interventricular foramen
    :versionIdentifier: 6th ed.
@@ -7436,7 +7046,6 @@ PW-RBSC-cor_6th-ed_intramedullaryThalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: IMA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_intramedullaryThalamicArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-intramedullarythalamicarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_intramedullaryThalamicArea
    :name: intramedullary thalamic area
    :versionIdentifier: 6th ed.
@@ -7455,7 +7064,6 @@ PW-RBSC-cor_6th-ed_islandsOfCalleja
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ICj
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_islandsOfCalleja <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-islandsofcalleja>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_islandsOfCalleja
    :name: islands of Calleja
    :versionIdentifier: 6th ed.
@@ -7474,7 +7082,6 @@ PW-RBSC-cor_6th-ed_islandsOfCallejaMajorIsland
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ICjM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_islandsOfCallejaMajorIsland <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-islandsofcallejamajorisland>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_islandsOfCallejaMajorIsland
    :name: islands of Calleja, major island
    :versionIdentifier: 6th ed.
@@ -7493,7 +7100,6 @@ PW-RBSC-cor_6th-ed_isthmicPeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: isPAG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_isthmicPeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-isthmicperiaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_isthmicPeriaqueductalGray
    :name: isthmic periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -7512,7 +7118,6 @@ PW-RBSC-cor_6th-ed_isthmicReticularFormation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: isRt
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_isthmicReticularFormation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-isthmicreticularformation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_isthmicReticularFormation
    :name: isthmic reticular formation
    :versionIdentifier: 6th ed.
@@ -7531,7 +7136,6 @@ PW-RBSC-cor_6th-ed_juxtaolivaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: JxO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_juxtaolivaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-juxtaolivarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_juxtaolivaryNucleus
    :name: juxtaolivary nucleus
    :versionIdentifier: 6th ed.
@@ -7550,7 +7154,6 @@ PW-RBSC-cor_6th-ed_juxtaparaventricularPartOfLateralHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: JPLH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_juxtaparaventricularPartOfLateralHypothalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-juxtaparaventricularpartoflateralhypothalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_juxtaparaventricularPartOfLateralHypothalamus
    :name: juxtaparaventricular part of lateral hypothalamus
    :versionIdentifier: 6th ed.
@@ -7569,7 +7172,6 @@ PW-RBSC-cor_6th-ed_lacunosumMoleculareLayerOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LMol
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lacunosumMoleculareLayerOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lacunosummolecularelayerofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lacunosumMoleculareLayerOfTheHippocampus
    :name: lacunosum moleculare layer of the hippocampus
    :versionIdentifier: 6th ed.
@@ -7588,7 +7190,6 @@ PW-RBSC-cor_6th-ed_lambdoidSeptalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ld
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lambdoidSeptalZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lambdoidseptalzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lambdoidSeptalZone
    :name: lambdoid septal zone
    :versionIdentifier: 6th ed.
@@ -7607,7 +7208,6 @@ PW-RBSC-cor_6th-ed_lateralAccumbensShell
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LAcbSh
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralAccumbensShell <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralaccumbensshell>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralAccumbensShell
    :name: lateral accumbens shell
    :versionIdentifier: 6th ed.
@@ -7627,7 +7227,6 @@ PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleus
    :abbreviation: La
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. Region name has a spelling mistake ('lat' instead of 'lateral'). The assumed correct name 'lateral amygdaloid nucleus' has been added under 'correctedName'.
    :correctedName: lateral amygdaloid nucleus
-   :isVersionOf: `PW-RBSC-cor_lateralAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleus
    :name: lat amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -7646,7 +7245,6 @@ PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleusDorsolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LaDL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralAmygdaloidNucleusDorsolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralamygdaloidnucleusdorsolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleusDorsolateralPart
    :name: lateral amygdaloid nucleus, dorsolateral part
    :versionIdentifier: 6th ed.
@@ -7665,7 +7263,6 @@ PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LaVL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralAmygdaloidNucleusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralamygdaloidnucleusventrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleusVentrolateralPart
    :name: lateral amygdaloid nucleus, ventrolateral part
    :versionIdentifier: 6th ed.
@@ -7684,7 +7281,6 @@ PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleusVentromedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LaVM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralAmygdaloidNucleusVentromedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralamygdaloidnucleusventromedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralAmygdaloidNucleusVentromedialPart
    :name: lateral amygdaloid nucleus, ventromedial part
    :versionIdentifier: 6th ed.
@@ -7703,7 +7299,6 @@ PW-RBSC-cor_6th-ed_lateralCerebellarNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LatPC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralCerebellarNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralcerebellarnucleusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralCerebellarNucleusParvicellularPart
    :name: lateral cerebellar nucleus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -7722,7 +7317,6 @@ PW-RBSC-cor_6th-ed_lateralCervicalNucleusOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LatC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralCervicalNucleusOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralcervicalnucleusofthespinalcord>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralCervicalNucleusOfTheSpinalCord
    :name: lateral cervical nucleus of the spinal cord
    :versionIdentifier: 6th ed.
@@ -7741,7 +7335,6 @@ PW-RBSC-cor_6th-ed_lateralDentateCerebellarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Lat
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralDentateCerebellarNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateraldentatecerebellarnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralDentateCerebellarNucleus
    :name: lateral (dentate) cerebellar nucleus
    :versionIdentifier: 6th ed.
@@ -7760,7 +7353,6 @@ PW-RBSC-cor_6th-ed_lateralEntorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LEnt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralentorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralEntorhinalCortex
    :name: lateral entorhinal cortex
    :versionIdentifier: 6th ed.
@@ -7779,7 +7371,6 @@ PW-RBSC-cor_6th-ed_lateralHabenularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LHb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralHabenularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralhabenularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralHabenularNucleus
    :name: lateral habenular nucleus
    :versionIdentifier: 6th ed.
@@ -7798,7 +7389,6 @@ PW-RBSC-cor_6th-ed_lateralHabenularNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LHbL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralHabenularNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralhabenularnucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralHabenularNucleusLateralPart
    :name: lateral habenular nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -7817,7 +7407,6 @@ PW-RBSC-cor_6th-ed_lateralHabenularNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LHbM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralHabenularNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralhabenularnucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralHabenularNucleusMedialPart
    :name: lateral habenular nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -7836,7 +7425,6 @@ PW-RBSC-cor_6th-ed_lateralHypothalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LH
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralHypothalamicArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralhypothalamicarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralHypothalamicArea
    :name: lateral hypothalamic area
    :versionIdentifier: 6th ed.
@@ -7855,7 +7443,6 @@ PW-RBSC-cor_6th-ed_lateralLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ll
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-laterallemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralLemniscus
    :name: lateral lemniscus
    :versionIdentifier: 6th ed.
@@ -7874,7 +7461,6 @@ PW-RBSC-cor_6th-ed_lateralMammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralMammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralmammillarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralMammillaryNucleus
    :name: lateral mammillary nucleus
    :versionIdentifier: 6th ed.
@@ -7893,7 +7479,6 @@ PW-RBSC-cor_6th-ed_lateralOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: lo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralolfactorytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralOlfactoryTract
    :name: lateral olfactory tract
    :versionIdentifier: 6th ed.
@@ -7912,7 +7497,6 @@ PW-RBSC-cor_6th-ed_lateralOrbitalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralOrbitalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralorbitalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralOrbitalCortex
    :name: lateral orbital cortex
    :versionIdentifier: 6th ed.
@@ -7931,7 +7515,6 @@ PW-RBSC-cor_6th-ed_lateralOrbitofrontalArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: lofr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralOrbitofrontalArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralorbitofrontalartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralOrbitofrontalArtery
    :name: lateral orbitofrontal artery
    :versionIdentifier: 6th ed.
@@ -7950,7 +7533,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleus
    :name: lateral parabrachial nucleus
    :versionIdentifier: 6th ed.
@@ -7969,7 +7551,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleuscentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusCentralPart
    :name: lateral parabrachial nucleus, central part
    :versionIdentifier: 6th ed.
@@ -7988,7 +7569,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusCrescentPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBCr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusCrescentPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleuscrescentpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusCrescentPart
    :name: lateral parabrachial nucleus, crescent part
    :versionIdentifier: 6th ed.
@@ -8007,7 +7587,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBD
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusDorsalPart
    :name: lateral parabrachial nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -8026,7 +7605,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusExternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBE
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusExternalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleusexternalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusExternalPart
    :name: lateral parabrachial nucleus, external part
    :versionIdentifier: 6th ed.
@@ -8045,7 +7623,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusInternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusInternalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleusinternalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusInternalPart
    :name: lateral parabrachial nucleus, internal part
    :versionIdentifier: 6th ed.
@@ -8064,7 +7641,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusMedialPart
    :name: lateral parabrachial nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -8083,7 +7659,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusSuperiorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusSuperiorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleussuperiorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusSuperiorPart
    :name: lateral parabrachial nucleus, superior part
    :versionIdentifier: 6th ed.
@@ -8102,7 +7677,6 @@ PW-RBSC-cor_6th-ed_lateralParabrachialNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPBV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParabrachialNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparabrachialnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParabrachialNucleusVentralPart
    :name: lateral parabrachial nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -8121,7 +7695,6 @@ PW-RBSC-cor_6th-ed_lateralParagigantocellularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPGi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParagigantocellularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparagigantocellularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParagigantocellularNucleus
    :name: lateral paragigantocellular nucleus
    :versionIdentifier: 6th ed.
@@ -8140,7 +7713,6 @@ PW-RBSC-cor_6th-ed_lateralParagigantocellularNucleusAlphaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPGiA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParagigantocellularNucleusAlphaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparagigantocellularnucleusalphapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParagigantocellularNucleusAlphaPart
    :name: lateral paragigantocellular nucleus, alpha part
    :versionIdentifier: 6th ed.
@@ -8159,7 +7731,6 @@ PW-RBSC-cor_6th-ed_lateralParagigantocellularNucleusExternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPGiE
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParagigantocellularNucleusExternalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparagigantocellularnucleusexternalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParagigantocellularNucleusExternalPart
    :name: lateral paragigantocellular nucleus, external part
    :versionIdentifier: 6th ed.
@@ -8178,7 +7749,6 @@ PW-RBSC-cor_6th-ed_lateralParietalAssociationCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPtA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralParietalAssociationCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralparietalassociationcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralParietalAssociationCortex
    :name: lateral parietal association cortex
    :versionIdentifier: 6th ed.
@@ -8197,7 +7767,6 @@ PW-RBSC-cor_6th-ed_lateralPeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPAG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralPeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralperiaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPeriaqueductalGray
    :name: lateral periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -8216,7 +7785,6 @@ PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralPosteriorThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralposteriorthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleus
    :name: lateral posterior thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -8235,7 +7803,6 @@ PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusLaterocaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPLC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterocaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralposteriorthalamicnucleuslaterocaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusLaterocaudalPart
    :name: lateral posterior thalamic nucleus, laterocaudal part
    :versionIdentifier: 6th ed.
@@ -8254,7 +7821,6 @@ PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusLaterorostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPLR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralPosteriorThalamicNucleusLaterorostralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralposteriorthalamicnucleuslaterorostralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusLaterorostralPart
    :name: lateral posterior thalamic nucleus, laterorostral part
    :versionIdentifier: 6th ed.
@@ -8273,7 +7839,6 @@ PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusMediocaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPMC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralPosteriorThalamicNucleusMediocaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralposteriorthalamicnucleusmediocaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusMediocaudalPart
    :name: lateral posterior thalamic nucleus, mediocaudal part
    :versionIdentifier: 6th ed.
@@ -8292,7 +7857,6 @@ PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusMediorostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPMR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralPosteriorThalamicNucleusMediorostralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralposteriorthalamicnucleusmediorostralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPosteriorThalamicNucleusMediorostralPart
    :name: lateral posterior thalamic nucleus, mediorostral part
    :versionIdentifier: 6th ed.
@@ -8311,7 +7875,6 @@ PW-RBSC-cor_6th-ed_lateralPreopticArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralPreopticArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralpreopticarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralPreopticArea
    :name: lateral preoptic area
    :versionIdentifier: 6th ed.
@@ -8330,7 +7893,6 @@ PW-RBSC-cor_6th-ed_lateralRecessOfThe4thVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LR4V
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralRecessOfThe4thVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralrecessofthe4thventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralRecessOfThe4thVentricle
    :name: lateral recess of the 4th ventricle
    :versionIdentifier: 6th ed.
@@ -8349,7 +7911,6 @@ PW-RBSC-cor_6th-ed_lateralReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LRt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralreticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralReticularNucleus
    :name: lateral reticular nucleus
    :versionIdentifier: 6th ed.
@@ -8368,7 +7929,6 @@ PW-RBSC-cor_6th-ed_lateralReticularNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LRtPC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralReticularNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralreticularnucleusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralReticularNucleusParvicellularPart
    :name: lateral reticular nucleus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -8387,7 +7947,6 @@ PW-RBSC-cor_6th-ed_lateralReticularNucleusSubtrigeminalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LRtS5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralReticularNucleusSubtrigeminalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralreticularnucleussubtrigeminalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralReticularNucleusSubtrigeminalPart
    :name: lateral reticular nucleus, subtrigeminal part
    :versionIdentifier: 6th ed.
@@ -8406,7 +7965,6 @@ PW-RBSC-cor_6th-ed_lateralSeptalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LS
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralSeptalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralseptalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralSeptalNucleus
    :name: lateral septal nucleus
    :versionIdentifier: 6th ed.
@@ -8425,7 +7983,6 @@ PW-RBSC-cor_6th-ed_lateralSeptalNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LSD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralSeptalNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralseptalnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralSeptalNucleusDorsalPart
    :name: lateral septal nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -8444,7 +8001,6 @@ PW-RBSC-cor_6th-ed_lateralSeptalNucleusIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LSI
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralSeptalNucleusIntermediatePart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralseptalnucleusintermediatepart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralSeptalNucleusIntermediatePart
    :name: lateral septal nucleus, intermediate part
    :versionIdentifier: 6th ed.
@@ -8463,7 +8019,6 @@ PW-RBSC-cor_6th-ed_lateralSeptalNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LSV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralSeptalNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralseptalnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralSeptalNucleusVentralPart
    :name: lateral septal nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -8482,7 +8037,6 @@ PW-RBSC-cor_6th-ed_lateralSpinalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LSp
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_lateralSpinalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralspinalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralSpinalNucleus
    :name: lateral spinal nucleus
    :versionIdentifier: 6th ed.
@@ -8501,7 +8055,6 @@ PW-RBSC-cor_6th-ed_lateralStripeOfTheStriatum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LSS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralStripeOfTheStriatum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralstripeofthestriatum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralStripeOfTheStriatum
    :name: lateral stripe of the striatum
    :versionIdentifier: 6th ed.
@@ -8520,7 +8073,6 @@ PW-RBSC-cor_6th-ed_lateralSuperiorOlive
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LSO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralSuperiorOlive <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralsuperiorolive>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralSuperiorOlive
    :name: lateral superior olive
    :versionIdentifier: 6th ed.
@@ -8539,7 +8091,6 @@ PW-RBSC-cor_6th-ed_lateralTerminalNucleusOfTheAccessoryOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralTerminalNucleusOfTheAccessoryOpticTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralterminalnucleusoftheaccessoryoptictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralTerminalNucleusOfTheAccessoryOpticTract
    :name: lateral terminal nucleus of the accessory optic tract
    :versionIdentifier: 6th ed.
@@ -8558,7 +8109,6 @@ PW-RBSC-cor_6th-ed_lateralVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralVentricle
    :name: lateral ventricle
    :versionIdentifier: 6th ed.
@@ -8577,7 +8127,6 @@ PW-RBSC-cor_6th-ed_lateralVestibularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LVe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateralVestibularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateralvestibularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateralVestibularNucleus
    :name: lateral vestibular nucleus
    :versionIdentifier: 6th ed.
@@ -8596,7 +8145,6 @@ PW-RBSC-cor_6th-ed_lateroanteriorHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateroanteriorHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateroanteriorhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateroanteriorHypothalamicNucleus
    :name: lateroanterior hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -8615,7 +8163,6 @@ PW-RBSC-cor_6th-ed_laterodorsalTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LDTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_laterodorsalTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-laterodorsaltegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_laterodorsalTegmentalNucleus
    :name: laterodorsal tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -8634,7 +8181,6 @@ PW-RBSC-cor_6th-ed_laterodorsalTegmentalNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LDTgV
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_laterodorsalTegmentalNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-laterodorsaltegmentalnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_laterodorsalTegmentalNucleusVentralPart
    :name: laterodorsal tegmental nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -8653,7 +8199,6 @@ PW-RBSC-cor_6th-ed_laterodorsalThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_laterodorsalThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-laterodorsalthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_laterodorsalThalamicNucleus
    :name: laterodorsal thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -8672,7 +8217,6 @@ PW-RBSC-cor_6th-ed_laterodorsalThalamicNucleusDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LDDM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_laterodorsalThalamicNucleusDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-laterodorsalthalamicnucleusdorsomedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_laterodorsalThalamicNucleusDorsomedialPart
    :name: laterodorsal thalamic nucleus, dorsomedial part
    :versionIdentifier: 6th ed.
@@ -8691,7 +8235,6 @@ PW-RBSC-cor_6th-ed_laterodorsalThalamicNucleusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LDVL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_laterodorsalThalamicNucleusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-laterodorsalthalamicnucleusventrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_laterodorsalThalamicNucleusVentrolateralPart
    :name: laterodorsal thalamic nucleus, ventrolateral part
    :versionIdentifier: 6th ed.
@@ -8710,7 +8253,6 @@ PW-RBSC-cor_6th-ed_lateroventralPeriolivaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LVPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lateroventralPeriolivaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lateroventralperiolivarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lateroventralPeriolivaryNucleus
    :name: lateroventral periolivary nucleus
    :versionIdentifier: 6th ed.
@@ -8729,7 +8271,6 @@ PW-RBSC-cor_6th-ed_layer1OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer1OfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer1ofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer1OfCortex
    :name: layer 1 of cortex
    :versionIdentifier: 6th ed.
@@ -8748,7 +8289,6 @@ PW-RBSC-cor_6th-ed_layer1bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 1b
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_layer1bOfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer1bofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer1bOfCortex
    :name: layer 1b of cortex
    :versionIdentifier: 6th ed.
@@ -8767,7 +8307,6 @@ PW-RBSC-cor_6th-ed_layer2OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 2
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_layer2OfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer2ofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer2OfCortex
    :name: layer 2 of cortex
    :versionIdentifier: 6th ed.
@@ -8786,7 +8325,6 @@ PW-RBSC-cor_6th-ed_layer3OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_layer3OfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer3ofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer3OfCortex
    :name: layer 3 of cortex
    :versionIdentifier: 6th ed.
@@ -8805,7 +8343,6 @@ PW-RBSC-cor_6th-ed_layer4OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer4OfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer4ofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer4OfCortex
    :name: layer 4 of cortex
    :versionIdentifier: 6th ed.
@@ -8824,7 +8361,6 @@ PW-RBSC-cor_6th-ed_layer5OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer5OfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer5ofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer5OfCortex
    :name: layer 5 of cortex
    :versionIdentifier: 6th ed.
@@ -8843,7 +8379,6 @@ PW-RBSC-cor_6th-ed_layer5aOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5a
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_layer5aOfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer5aofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer5aOfCortex
    :name: layer 5a of cortex
    :versionIdentifier: 6th ed.
@@ -8862,7 +8397,6 @@ PW-RBSC-cor_6th-ed_layer5bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5b
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer5bOfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer5bofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer5bOfCortex
    :name: layer 5b of cortex
    :versionIdentifier: 6th ed.
@@ -8881,7 +8415,6 @@ PW-RBSC-cor_6th-ed_layer6OfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer6OfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer6ofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer6OfCortex
    :name: layer 6 of cortex
    :versionIdentifier: 6th ed.
@@ -8900,7 +8433,6 @@ PW-RBSC-cor_6th-ed_layer6aOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6a
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer6aOfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer6aofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer6aOfCortex
    :name: layer 6a of cortex
    :versionIdentifier: 6th ed.
@@ -8919,7 +8451,6 @@ PW-RBSC-cor_6th-ed_layer6bOfCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6b
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_layer6bOfCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-layer6bofcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_layer6bOfCortex
    :name: layer 6b of cortex
    :versionIdentifier: 6th ed.
@@ -8938,7 +8469,6 @@ PW-RBSC-cor_6th-ed_leminaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LTer
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_leminaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-leminaterminalis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_leminaTerminalis
    :name: lemina terminalis
    :versionIdentifier: 6th ed.
@@ -8957,7 +8487,6 @@ PW-RBSC-cor_6th-ed_linearNucleusOfTheMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Li
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_linearNucleusOfTheMedulla <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-linearnucleusofthemedulla>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_linearNucleusOfTheMedulla
    :name: linear nucleus of the medulla
    :versionIdentifier: 6th ed.
@@ -8976,7 +8505,6 @@ PW-RBSC-cor_6th-ed_lithoidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Lth
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_lithoidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-lithoidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_lithoidNucleus
    :name: lithoid nucleus
    :versionIdentifier: 6th ed.
@@ -8995,7 +8523,6 @@ PW-RBSC-cor_6th-ed_locusCoeruleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_locusCoeruleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-locuscoeruleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_locusCoeruleus
    :name: locus coeruleus
    :versionIdentifier: 6th ed.
@@ -9014,7 +8541,6 @@ PW-RBSC-cor_6th-ed_longitudinalFasciculusOfThePons
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: lfp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_longitudinalFasciculusOfThePons <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-longitudinalfasciculusofthepons>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_longitudinalFasciculusOfThePons
    :name: longitudinal fasciculus of the pons
    :versionIdentifier: 6th ed.
@@ -9033,7 +8559,6 @@ PW-RBSC-cor_6th-ed_magnocellularNucleusOfTheLateralHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MCLH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_magnocellularNucleusOfTheLateralHypothalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-magnocellularnucleusofthelateralhypothalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_magnocellularNucleusOfTheLateralHypothalamus
    :name: magnocellular nucleus of the lateral hypothalamus
    :versionIdentifier: 6th ed.
@@ -9052,7 +8577,6 @@ PW-RBSC-cor_6th-ed_magnocellularNucleusOfThePosteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MCPC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_magnocellularNucleusOfThePosteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-magnocellularnucleusoftheposteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_magnocellularNucleusOfThePosteriorCommissure
    :name: magnocellular nucleus of the posterior commissure
    :versionIdentifier: 6th ed.
@@ -9071,7 +8595,6 @@ PW-RBSC-cor_6th-ed_magnocellularPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MCPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_magnocellularPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-magnocellularpreopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_magnocellularPreopticNucleus
    :name: magnocellular preoptic nucleus
    :versionIdentifier: 6th ed.
@@ -9090,7 +8613,6 @@ PW-RBSC-cor_6th-ed_mammillaryPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mammillaryPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mammillarypeduncle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mammillaryPeduncle
    :name: mammillary peduncle
    :versionIdentifier: 6th ed.
@@ -9109,7 +8631,6 @@ PW-RBSC-cor_6th-ed_mammillaryRecessOfThe3rdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MRe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mammillaryRecessOfThe3rdVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mammillaryrecessofthe3rdventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mammillaryRecessOfThe3rdVentricle
    :name: mammillary recess of the 3rd ventricle
    :versionIdentifier: 6th ed.
@@ -9128,7 +8649,6 @@ PW-RBSC-cor_6th-ed_mammillotegmentalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mtg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mammillotegmentalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mammillotegmentaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mammillotegmentalTract
    :name: mammillotegmental tract
    :versionIdentifier: 6th ed.
@@ -9147,7 +8667,6 @@ PW-RBSC-cor_6th-ed_mammillothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mt
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_mammillothalamicTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mammillothalamictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mammillothalamicTract
    :name: mammillothalamic tract
    :versionIdentifier: 6th ed.
@@ -9166,7 +8685,6 @@ PW-RBSC-cor_6th-ed_marginalZoneOfTheMedialGeniculate
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MZMG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_marginalZoneOfTheMedialGeniculate <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-marginalzoneofthemedialgeniculate>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_marginalZoneOfTheMedialGeniculate
    :name: marginal zone of the medial geniculate
    :versionIdentifier: 6th ed.
@@ -9185,7 +8703,6 @@ PW-RBSC-cor_6th-ed_matrixRegionOfTheMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Mx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_matrixRegionOfTheMedulla <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-matrixregionofthemedulla>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_matrixRegionOfTheMedulla
    :name: matrix region of the medulla
    :versionIdentifier: 6th ed.
@@ -9204,7 +8721,6 @@ PW-RBSC-cor_6th-ed_medialAccessoryOculomotorNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MA3
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialAccessoryOculomotorNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialaccessoryoculomotornucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAccessoryOculomotorNucleus
    :name: medial accessory oculomotor nucleus
    :versionIdentifier: 6th ed.
@@ -9223,7 +8739,6 @@ PW-RBSC-cor_6th-ed_medialAmygdaloidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Me
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAmygdaloidNucleus
    :name: medial amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -9242,7 +8757,6 @@ PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MeA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialAmygdaloidNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialamygdaloidnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnteriorPart
    :name: medial amygdaloid nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -9262,7 +8776,6 @@ PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnterodorsalPart
    :abbreviation: MeAD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. Region name has a spelling mistake ('ant dorsal' instead of 'anterodorsal part'). The assumed correct name 'medial amygdaloid nucleus, anterodorsal part' has been added under 'correctedName'.
    :correctedName: medial amygdaloid nucleus, anterodorsal part
-   :isVersionOf: `PW-RBSC-cor_medialAmygdaloidNucleusAnterodorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialamygdaloidnucleusanterodorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnterodorsalPart
    :name: medial amygdaloid nucleus, ant dorsal
    :versionIdentifier: 6th ed.
@@ -9281,7 +8794,6 @@ PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnteroventralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MeAV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialAmygdaloidNucleusAnteroventralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialamygdaloidnucleusanteroventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusAnteroventralPart
    :name: medial amygdaloid nucleus, anteroventral part
    :versionIdentifier: 6th ed.
@@ -9300,7 +8812,6 @@ PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusPosterodorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MePD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialAmygdaloidNucleusPosterodorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialamygdaloidnucleusposterodorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusPosterodorsalPart
    :name: medial amygdaloid nucleus, posterodorsal part
    :versionIdentifier: 6th ed.
@@ -9319,7 +8830,6 @@ PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusPosteroventralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MePV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialAmygdaloidNucleusPosteroventralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialamygdaloidnucleusposteroventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialAmygdaloidNucleusPosteroventralPart
    :name: medial amygdaloid nucleus, posteroventral part
    :versionIdentifier: 6th ed.
@@ -9338,7 +8848,6 @@ PW-RBSC-cor_6th-ed_medialCerebellarNucleusCaudomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MedCM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialCerebellarNucleusCaudomedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialcerebellarnucleuscaudomedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialCerebellarNucleusCaudomedialPart
    :name: medial cerebellar nucleus, caudomedial part
    :versionIdentifier: 6th ed.
@@ -9357,7 +8866,6 @@ PW-RBSC-cor_6th-ed_medialCerebellarNucleusDorsolateralProtuberance
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MedDL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialCerebellarNucleusDorsolateralProtuberance <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialcerebellarnucleusdorsolateralprotuberance>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialCerebellarNucleusDorsolateralProtuberance
    :name: medial cerebellar nucleus, dorsolateral protuberance
    :versionIdentifier: 6th ed.
@@ -9376,7 +8884,6 @@ PW-RBSC-cor_6th-ed_medialCerebellarNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MedL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialCerebellarNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialcerebellarnucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialCerebellarNucleusLateralPart
    :name: medial cerebellar nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -9395,7 +8902,6 @@ PW-RBSC-cor_6th-ed_medialCorticohypothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mch
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialCorticohypothalamicTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialcorticohypothalamictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialCorticohypothalamicTract
    :name: medial corticohypothalamic tract
    :versionIdentifier: 6th ed.
@@ -9414,7 +8920,6 @@ PW-RBSC-cor_6th-ed_medialEminenceExternalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MEE
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialEminenceExternalLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialeminenceexternallayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialEminenceExternalLayer
    :name: medial eminence, external layer
    :versionIdentifier: 6th ed.
@@ -9433,7 +8938,6 @@ PW-RBSC-cor_6th-ed_medialEminenceInternalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MEI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialEminenceInternalLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialeminenceinternallayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialEminenceInternalLayer
    :name: medial eminence, internal layer
    :versionIdentifier: 6th ed.
@@ -9452,7 +8956,6 @@ PW-RBSC-cor_6th-ed_medialEntorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MEnt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialentorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialEntorhinalCortex
    :name: medial entorhinal cortex
    :versionIdentifier: 6th ed.
@@ -9471,7 +8974,6 @@ PW-RBSC-cor_6th-ed_medialEntorhinalCortexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MEntV
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialEntorhinalCortexVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialentorhinalcortexventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialEntorhinalCortexVentralPart
    :name: medial entorhinal cortex, ventral part
    :versionIdentifier: 6th ed.
@@ -9490,7 +8992,6 @@ PW-RBSC-cor_6th-ed_medialFastigialCerebellarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Med
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialFastigialCerebellarNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialfastigialcerebellarnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialFastigialCerebellarNucleus
    :name: medial (fastigial) cerebellar nucleus
    :versionIdentifier: 6th ed.
@@ -9509,7 +9010,6 @@ PW-RBSC-cor_6th-ed_medialForebrainBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mfb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialForebrainBundle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialforebrainbundle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialForebrainBundle
    :name: medial forebrain bundle
    :versionIdentifier: 6th ed.
@@ -9528,7 +9028,6 @@ PW-RBSC-cor_6th-ed_medialForebrainBundleAComponent
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mfba
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialForebrainBundleAComponent <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialforebrainbundleacomponent>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialForebrainBundleAComponent
    :name: medial forebrain bundle, ‘a’ component
    :versionIdentifier: 6th ed.
@@ -9547,7 +9046,6 @@ PW-RBSC-cor_6th-ed_medialForebrainBundleBComponent
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mfbb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialForebrainBundleBComponent <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialforebrainbundlebcomponent>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialForebrainBundleBComponent
    :name: medial forebrain bundle, ‘b’ component
    :versionIdentifier: 6th ed.
@@ -9566,7 +9064,6 @@ PW-RBSC-cor_6th-ed_medialGeniculateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialGeniculateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialgeniculatenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialGeniculateNucleus
    :name: medial geniculate nucleus
    :versionIdentifier: 6th ed.
@@ -9585,7 +9082,6 @@ PW-RBSC-cor_6th-ed_medialGeniculateNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MGD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialGeniculateNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialgeniculatenucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialGeniculateNucleusDorsalPart
    :name: medial geniculate nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -9604,7 +9100,6 @@ PW-RBSC-cor_6th-ed_medialGeniculateNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MGM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialGeniculateNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialgeniculatenucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialGeniculateNucleusMedialPart
    :name: medial geniculate nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -9623,7 +9118,6 @@ PW-RBSC-cor_6th-ed_medialGeniculateNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MGV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialGeniculateNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialgeniculatenucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialGeniculateNucleusVentralPart
    :name: medial geniculate nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -9642,7 +9136,6 @@ PW-RBSC-cor_6th-ed_medialHabenularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MHb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialHabenularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialhabenularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialHabenularNucleus
    :name: medial habenular nucleus
    :versionIdentifier: 6th ed.
@@ -9661,7 +9154,6 @@ PW-RBSC-cor_6th-ed_medialLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ml
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediallemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialLemniscus
    :name: medial lemniscus
    :versionIdentifier: 6th ed.
@@ -9680,7 +9172,6 @@ PW-RBSC-cor_6th-ed_medialLemniscusDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mlx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialLemniscusDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediallemniscusdecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialLemniscusDecussation
    :name: medial lemniscus decussation
    :versionIdentifier: 6th ed.
@@ -9699,7 +9190,6 @@ PW-RBSC-cor_6th-ed_medialLongitudinalFasciculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mlf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialLongitudinalFasciculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediallongitudinalfasciculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialLongitudinalFasciculus
    :name: medial longitudinal fasciculus
    :versionIdentifier: 6th ed.
@@ -9718,7 +9208,6 @@ PW-RBSC-cor_6th-ed_medialMammillaryNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ML
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialMammillaryNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialmammillarynucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialMammillaryNucleusLateralPart
    :name: medial mammillary nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -9737,7 +9226,6 @@ PW-RBSC-cor_6th-ed_medialMammillaryNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialMammillaryNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialmammillarynucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialMammillaryNucleusMedialPart
    :name: medial mammillary nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -9756,7 +9244,6 @@ PW-RBSC-cor_6th-ed_medialMammillaryNucleusMedianPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MnM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialMammillaryNucleusMedianPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialmammillarynucleusmedianpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialMammillaryNucleusMedianPart
    :name: medial mammillary nucleus, median part
    :versionIdentifier: 6th ed.
@@ -9775,7 +9262,6 @@ PW-RBSC-cor_6th-ed_medialOrbitalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MO
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialOrbitalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialorbitalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialOrbitalCortex
    :name: medial orbital cortex
    :versionIdentifier: 6th ed.
@@ -9794,7 +9280,6 @@ PW-RBSC-cor_6th-ed_medialOrbitofrontalArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mofr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialOrbitofrontalArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialorbitofrontalartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialOrbitofrontalArtery
    :name: medial orbitofrontal artery
    :versionIdentifier: 6th ed.
@@ -9813,7 +9298,6 @@ PW-RBSC-cor_6th-ed_medialParabrachialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialParabrachialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialparabrachialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialParabrachialNucleus
    :name: medial parabrachial nucleus
    :versionIdentifier: 6th ed.
@@ -9832,7 +9316,6 @@ PW-RBSC-cor_6th-ed_medialParabrachialNucleusExternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPBE
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialParabrachialNucleusExternalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialparabrachialnucleusexternalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialParabrachialNucleusExternalPart
    :name: medial parabrachial nucleus external part
    :versionIdentifier: 6th ed.
@@ -9851,7 +9334,6 @@ PW-RBSC-cor_6th-ed_medialParalemniscialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialParalemniscialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialparalemniscialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialParalemniscialNucleus
    :name: medial paralemniscial nucleus
    :versionIdentifier: 6th ed.
@@ -9870,7 +9352,6 @@ PW-RBSC-cor_6th-ed_medialParietalAssociationCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPtA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialParietalAssociationCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialparietalassociationcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialParietalAssociationCortex
    :name: medial parietal association cortex
    :versionIdentifier: 6th ed.
@@ -9889,7 +9370,6 @@ PW-RBSC-cor_6th-ed_medialPreopticArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialPreopticArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialpreopticarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialPreopticArea
    :name: medial preoptic area
    :versionIdentifier: 6th ed.
@@ -9908,7 +9388,6 @@ PW-RBSC-cor_6th-ed_medialPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPO
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialpreopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialPreopticNucleus
    :name: medial preoptic nucleus
    :versionIdentifier: 6th ed.
@@ -9927,7 +9406,6 @@ PW-RBSC-cor_6th-ed_medialPreopticNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPOC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialPreopticNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialpreopticnucleuscentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialPreopticNucleusCentralPart
    :name: medial preoptic nucleus, central part
    :versionIdentifier: 6th ed.
@@ -9946,7 +9424,6 @@ PW-RBSC-cor_6th-ed_medialPreopticNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPOL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialPreopticNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialpreopticnucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialPreopticNucleusLateralPart
    :name: medial preoptic nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -9965,7 +9442,6 @@ PW-RBSC-cor_6th-ed_medialPreopticNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPOM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medialPreopticNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialpreopticnucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialPreopticNucleusMedialPart
    :name: medial preoptic nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -9984,7 +9460,6 @@ PW-RBSC-cor_6th-ed_medialPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MPT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialpretectalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialPretectalNucleus
    :name: medial pretectal nucleus
    :versionIdentifier: 6th ed.
@@ -10003,7 +9478,6 @@ PW-RBSC-cor_6th-ed_medialSeptalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialSeptalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialseptalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialSeptalNucleus
    :name: medial septal nucleus
    :versionIdentifier: 6th ed.
@@ -10022,7 +9496,6 @@ PW-RBSC-cor_6th-ed_medialSuperiorOlive
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MSO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialSuperiorOlive <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialsuperiorolive>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialSuperiorOlive
    :name: medial superior olive
    :versionIdentifier: 6th ed.
@@ -10042,7 +9515,6 @@ PW-RBSC-cor_6th-ed_medialTerminalNucleusOfTheAccessoryOpticTract
    :abbreviation: MT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. In 'List of Structures', region name has a spelling mistake ('optic trac' instead of 'optic tract'). The original name 'medial terminal nucleus of the accessory optic trac' has been added under 'alternateName'.
    :alternateName: medial terminal nucleus of the accessory optic trac
-   :isVersionOf: `PW-RBSC-cor_medialTerminalNucleusOfTheAccessoryOpticTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialterminalnucleusoftheaccessoryoptictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialTerminalNucleusOfTheAccessoryOpticTract
    :name: medial terminal nucleus of the accessory optic tract
    :versionIdentifier: 6th ed.
@@ -10061,7 +9533,6 @@ PW-RBSC-cor_6th-ed_medialTuberalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MTu
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialTuberalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialtuberalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialTuberalNucleus
    :name: medial tuberal nucleus
    :versionIdentifier: 6th ed.
@@ -10080,7 +9551,6 @@ PW-RBSC-cor_6th-ed_medialVestibularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MVe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialVestibularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialvestibularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialVestibularNucleus
    :name: medial vestibular nucleus
    :versionIdentifier: 6th ed.
@@ -10099,7 +9569,6 @@ PW-RBSC-cor_6th-ed_medialVestibularNucleusMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MVeMC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialVestibularNucleusMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialvestibularnucleusmagnocellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialVestibularNucleusMagnocellularPart
    :name: medial vestibular nucleus, magnocellular part
    :versionIdentifier: 6th ed.
@@ -10118,7 +9587,6 @@ PW-RBSC-cor_6th-ed_medialVestibularNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MVePC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medialVestibularNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medialvestibularnucleusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medialVestibularNucleusParvicellularPart
    :name: medial vestibular nucleus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -10137,7 +9605,6 @@ PW-RBSC-cor_6th-ed_medianAccessoryNucleusOfTheMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MnA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medianAccessoryNucleusOfTheMedulla <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medianaccessorynucleusofthemedulla>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medianAccessoryNucleusOfTheMedulla
    :name: median accessory nucleus of the medulla
    :versionIdentifier: 6th ed.
@@ -10156,7 +9623,6 @@ PW-RBSC-cor_6th-ed_medianEminence
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ME
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medianEminence <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medianeminence>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medianEminence
    :name: median eminence
    :versionIdentifier: 6th ed.
@@ -10175,7 +9641,6 @@ PW-RBSC-cor_6th-ed_medianPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MnPO
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medianPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medianpreopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medianPreopticNucleus
    :name: median preoptic nucleus
    :versionIdentifier: 6th ed.
@@ -10194,7 +9659,6 @@ PW-RBSC-cor_6th-ed_medianRapheNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MnR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medianRapheNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medianraphenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medianRapheNucleus
    :name: median raphe nucleus
    :versionIdentifier: 6th ed.
@@ -10213,7 +9677,6 @@ PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mediodorsalThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediodorsalthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleus
    :name: mediodorsal thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -10232,7 +9695,6 @@ PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MDC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mediodorsalThalamicNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediodorsalthalamicnucleuscentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleusCentralPart
    :name: mediodorsal thalamic nucleus, central part
    :versionIdentifier: 6th ed.
@@ -10251,7 +9713,6 @@ PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MDL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mediodorsalThalamicNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediodorsalthalamicnucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleusLateralPart
    :name: mediodorsal thalamic nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -10270,7 +9731,6 @@ PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MDM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mediodorsalThalamicNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mediodorsalthalamicnucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mediodorsalThalamicNucleusMedialPart
    :name: mediodorsal thalamic nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -10289,7 +9749,6 @@ PW-RBSC-cor_6th-ed_medioventralPeriolivaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MVPO
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medioventralPeriolivaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medioventralperiolivarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medioventralPeriolivaryNucleus
    :name: medioventral periolivary nucleus
    :versionIdentifier: 6th ed.
@@ -10308,7 +9767,6 @@ PW-RBSC-cor_6th-ed_medullaryReticularNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MdD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_medullaryReticularNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medullaryreticularnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medullaryReticularNucleusDorsalPart
    :name: medullary reticular nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -10327,7 +9785,6 @@ PW-RBSC-cor_6th-ed_medullaryReticularNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MdV
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_medullaryReticularNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-medullaryreticularnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_medullaryReticularNucleusVentralPart
    :name: medullary reticular nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -10346,7 +9803,6 @@ PW-RBSC-cor_6th-ed_mesencephalicReticularFormation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mRt
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_mesencephalicReticularFormation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mesencephalicreticularformation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mesencephalicReticularFormation
    :name: mesencephalic reticular formation
    :versionIdentifier: 6th ed.
@@ -10365,7 +9821,6 @@ PW-RBSC-cor_6th-ed_mesencephalicTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Me5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mesencephalicTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mesencephalictrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mesencephalicTrigeminalNucleus
    :name: mesencephalic trigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -10384,7 +9839,6 @@ PW-RBSC-cor_6th-ed_mesencephalicTrigeminalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: me5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mesencephalicTrigeminalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mesencephalictrigeminaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mesencephalicTrigeminalTract
    :name: mesencephalic trigeminal tract
    :versionIdentifier: 6th ed.
@@ -10403,7 +9857,6 @@ PW-RBSC-cor_6th-ed_microcellularTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MiTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_microcellularTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-microcellulartegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_microcellularTegmentalNucleus
    :name: microcellular tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -10422,7 +9875,6 @@ PW-RBSC-cor_6th-ed_middleCerebellarPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mcp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_middleCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-middlecerebellarpeduncle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_middleCerebellarPeduncle
    :name: middle cerebellar peduncle
    :versionIdentifier: 6th ed.
@@ -10441,7 +9893,6 @@ PW-RBSC-cor_6th-ed_middleCerebralArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: mcer
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_middleCerebralArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-middlecerebralartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_middleCerebralArtery
    :name: middle cerebral artery
    :versionIdentifier: 6th ed.
@@ -10460,7 +9911,6 @@ PW-RBSC-cor_6th-ed_mitralCellLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MiA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_mitralCellLayerOfTheAccessoryOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mitralcelllayeroftheaccessoryolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mitralCellLayerOfTheAccessoryOlfactoryBulb
    :name: mitral cell layer of the accessory olfactory bulb
    :versionIdentifier: 6th ed.
@@ -10479,7 +9929,6 @@ PW-RBSC-cor_6th-ed_mitralCellLayerOfTheOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Mi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_mitralCellLayerOfTheOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-mitralcelllayeroftheolfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_mitralCellLayerOfTheOlfactoryBulb
    :name: mitral cell layer of the olfactory bulb
    :versionIdentifier: 6th ed.
@@ -10498,7 +9947,6 @@ PW-RBSC-cor_6th-ed_molecularLayerOfTheCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MoCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_molecularLayerOfTheCerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-molecularlayerofthecerebellum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_molecularLayerOfTheCerebellum
    :name: molecular layer of the cerebellum
    :versionIdentifier: 6th ed.
@@ -10517,7 +9965,6 @@ PW-RBSC-cor_6th-ed_molecularLayerOfTheDentateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MoDG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_molecularLayerOfTheDentateGyrus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-molecularlayerofthedentategyrus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_molecularLayerOfTheDentateGyrus
    :name: molecular layer of the dentate gyrus
    :versionIdentifier: 6th ed.
@@ -10536,7 +9983,6 @@ PW-RBSC-cor_6th-ed_molecularLayerOfTheSubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: MoS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_molecularLayerOfTheSubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-molecularlayerofthesubiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_molecularLayerOfTheSubiculum
    :name: molecular layer of the subiculum
    :versionIdentifier: 6th ed.
@@ -10555,7 +10001,6 @@ PW-RBSC-cor_6th-ed_motorRootOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: m5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_motorRootOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motorrootofthetrigeminalnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorRootOfTheTrigeminalNerve
    :name: motor root of the trigeminal nerve
    :versionIdentifier: 6th ed.
@@ -10574,7 +10019,6 @@ PW-RBSC-cor_6th-ed_motorTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_motorTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motortrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorTrigeminalNucleus
    :name: motor trigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -10593,7 +10037,6 @@ PW-RBSC-cor_6th-ed_motorTrigeminalNucleusAnteriorDigastricPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5ADi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_motorTrigeminalNucleusAnteriorDigastricPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motortrigeminalnucleusanteriordigastricpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorTrigeminalNucleusAnteriorDigastricPart
    :name: motor trigeminal nucleus, anterior digastric part
    :versionIdentifier: 6th ed.
@@ -10612,7 +10055,6 @@ PW-RBSC-cor_6th-ed_motorTrigeminalNucleusMasseterPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5Ma
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_motorTrigeminalNucleusMasseterPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motortrigeminalnucleusmasseterpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorTrigeminalNucleusMasseterPart
    :name: motor trigeminal nucleus, masseter part
    :versionIdentifier: 6th ed.
@@ -10631,7 +10073,6 @@ PW-RBSC-cor_6th-ed_motorTrigeminalNucleusMylohyoidPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5MHy
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_motorTrigeminalNucleusMylohyoidPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motortrigeminalnucleusmylohyoidpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorTrigeminalNucleusMylohyoidPart
    :name: motor trigeminal nucleus, mylohyoid part
    :versionIdentifier: 6th ed.
@@ -10650,7 +10091,6 @@ PW-RBSC-cor_6th-ed_motorTrigeminalNucleusTemporalisPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5Te
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_motorTrigeminalNucleusTemporalisPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motortrigeminalnucleustemporalispart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorTrigeminalNucleusTemporalisPart
    :name: motor trigeminal nucleus, temporalis part
    :versionIdentifier: 6th ed.
@@ -10669,7 +10109,6 @@ PW-RBSC-cor_6th-ed_motorTrigeminalNucleusTensorTympaniPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5TT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_motorTrigeminalNucleusTensorTympaniPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-motortrigeminalnucleustensortympanipart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_motorTrigeminalNucleusTensorTympaniPart
    :name: motor trigeminal nucleus, tensor tympani part
    :versionIdentifier: 6th ed.
@@ -10688,7 +10127,6 @@ PW-RBSC-cor_6th-ed_navicularNucleusOfTheBasalForebrain
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Nv
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_navicularNucleusOfTheBasalForebrain <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-navicularnucleusofthebasalforebrain>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_navicularNucleusOfTheBasalForebrain
    :name: navicular nucleus of the basal forebrain
    :versionIdentifier: 6th ed.
@@ -10707,7 +10145,6 @@ PW-RBSC-cor_6th-ed_nervusIntermediusComponentOfTheFacialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 7ni
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_nervusIntermediusComponentOfTheFacialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nervusintermediuscomponentofthefacialnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nervusIntermediusComponentOfTheFacialNerve
    :name: nervus intermedius component of the facial nerve
    :versionIdentifier: 6th ed.
@@ -10726,7 +10163,6 @@ PW-RBSC-cor_6th-ed_nigrostriatalBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ns
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nigrostriatalBundle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nigrostriatalbundle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nigrostriatalBundle
    :name: nigrostriatal bundle
    :versionIdentifier: 6th ed.
@@ -10745,7 +10181,6 @@ PW-RBSC-cor_6th-ed_nucleusOfDarkschewitsch
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Dk
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfDarkschewitsch <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofdarkschewitsch>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfDarkschewitsch
    :name: nucleus of Darkschewitsch
    :versionIdentifier: 6th ed.
@@ -10764,7 +10199,6 @@ PW-RBSC-cor_6th-ed_nucleusOfOriginOfEfferentsOfTheVestibularNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EVe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfOriginOfEfferentsOfTheVestibularNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusoforiginofefferentsofthevestibularnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfOriginOfEfferentsOfTheVestibularNerve
    :name: nucleus of origin of efferents of the vestibular nerve
    :versionIdentifier: 6th ed.
@@ -10783,7 +10217,6 @@ PW-RBSC-cor_6th-ed_nucleusOfRoller
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Ro
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfRoller <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofroller>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfRoller
    :name: nucleus of Roller
    :versionIdentifier: 6th ed.
@@ -10802,7 +10235,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheAnsaLenticularis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheAnsaLenticularis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusoftheansalenticularis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheAnsaLenticularis
    :name: nucleus of the ansa lenticularis
    :versionIdentifier: 6th ed.
@@ -10821,7 +10253,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheBrachiumOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: BIC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheBrachiumOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthebrachiumoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheBrachiumOfTheInferiorColliculus
    :name: nucleus of the brachium of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -10840,7 +10271,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheCentralAcousticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CAT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheCentralAcousticTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthecentralacoustictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheCentralAcousticTract
    :name: nucleus of the central acoustic tract
    :versionIdentifier: 6th ed.
@@ -10859,7 +10289,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheCommissuralStriaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: CST
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheCommissuralStriaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthecommissuralstriaterminalis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheCommissuralStriaTerminalis
    :name: nucleus of the commissural stria terminalis
    :versionIdentifier: 6th ed.
@@ -10878,7 +10307,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheFieldsOfForel
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: F
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheFieldsOfForel <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthefieldsofforel>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheFieldsOfForel
    :name: nucleus of the fields of Forel
    :versionIdentifier: 6th ed.
@@ -10897,7 +10325,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheHorizontalLimbOfTheDiagonalBand
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: HDB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheHorizontalLimbOfTheDiagonalBand <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthehorizontallimbofthediagonalband>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheHorizontalLimbOfTheDiagonalBand
    :name: nucleus of the horizontal limb of the diagonal band
    :versionIdentifier: 6th ed.
@@ -10916,7 +10343,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheLateralOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LOT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheLateralOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthelateralolfactorytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheLateralOlfactoryTract
    :name: nucleus of the lateral olfactory tract
    :versionIdentifier: 6th ed.
@@ -10935,7 +10361,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheLateralOlfactoryTractLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: LOT1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheLateralOlfactoryTractLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthelateralolfactorytractlayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheLateralOlfactoryTractLayer1
    :name: nucleus of the lateral olfactory tract, layer 1
    :versionIdentifier: 6th ed.
@@ -10954,7 +10379,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheOpticTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusoftheoptictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheOpticTract
    :name: nucleus of the optic tract
    :versionIdentifier: 6th ed.
@@ -10973,7 +10397,6 @@ PW-RBSC-cor_6th-ed_nucleusOfThePosteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PCom
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfThePosteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusoftheposteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfThePosteriorCommissure
    :name: nucleus of the posterior commissure
    :versionIdentifier: 6th ed.
@@ -10992,7 +10415,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolCe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractcentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractCentralPart
    :name: nucleus of the solitary tract, central part
    :versionIdentifier: 6th ed.
@@ -11011,7 +10433,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractCommissuralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractCommissuralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractcommissuralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractCommissuralPart
    :name: nucleus of the solitary tract, commissural part
    :versionIdentifier: 6th ed.
@@ -11030,7 +10451,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolDM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractdorsomedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractDorsomedialPart
    :name: nucleus of the solitary tract, dorsomedial part
    :versionIdentifier: 6th ed.
@@ -11049,7 +10469,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractGelatinousPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractGelatinousPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractgelatinouspart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractGelatinousPart
    :name: nucleus of the solitary tract, gelatinous part
    :versionIdentifier: 6th ed.
@@ -11068,7 +10487,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolIM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractIntermediatePart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractintermediatepart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractIntermediatePart
    :name: nucleus of the solitary tract, intermediate part
    :versionIdentifier: 6th ed.
@@ -11087,7 +10505,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractInterstitialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolI
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractInterstitialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractinterstitialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractInterstitialPart
    :name: nucleus of the solitary tract, interstitial part
    :versionIdentifier: 6th ed.
@@ -11106,7 +10523,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractlateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractLateralPart
    :name: nucleus of the solitary tract, lateral part
    :versionIdentifier: 6th ed.
@@ -11125,7 +10541,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractMedialPart
    :name: nucleus of the solitary tract, medial part
    :versionIdentifier: 6th ed.
@@ -11144,7 +10559,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractRostrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolRL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractRostrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractrostrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractRostrolateralPart
    :name: nucleus of the solitary tract, rostrolateral part
    :versionIdentifier: 6th ed.
@@ -11163,7 +10577,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolVL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheSolitaryTractVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthesolitarytractventrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheSolitaryTractVentrolateralPart
    :name: nucleus of the solitary tract, ventrolateral part
    :versionIdentifier: 6th ed.
@@ -11182,7 +10595,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheStriaMedullaris
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheStriaMedullaris <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthestriamedullaris>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheStriaMedullaris
    :name: nucleus of the stria medullaris
    :versionIdentifier: 6th ed.
@@ -11201,7 +10613,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheTrapezoidBody
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Tz
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheTrapezoidBody <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusofthetrapezoidbody>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheTrapezoidBody
    :name: nucleus of the trapezoid body
    :versionIdentifier: 6th ed.
@@ -11220,7 +10631,6 @@ PW-RBSC-cor_6th-ed_nucleusOfTheVerticalLimbOfTheDiagonalBand
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VDB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusOfTheVerticalLimbOfTheDiagonalBand <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusoftheverticallimbofthediagonalband>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusOfTheVerticalLimbOfTheDiagonalBand
    :name: nucleus of the vertical limb of the diagonal band
    :versionIdentifier: 6th ed.
@@ -11239,7 +10649,6 @@ PW-RBSC-cor_6th-ed_nucleusX
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: X
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_nucleusX <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusx>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusX
    :name: nucleus X
    :versionIdentifier: 6th ed.
@@ -11258,7 +10667,6 @@ PW-RBSC-cor_6th-ed_nucleusY
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Y
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_nucleusY <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusy>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusY
    :name: nucleus Y
    :versionIdentifier: 6th ed.
@@ -11277,7 +10685,6 @@ PW-RBSC-cor_6th-ed_nucleusZ
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Z
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_nucleusZ <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-nucleusz>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_nucleusZ
    :name: nucleus Z
    :versionIdentifier: 6th ed.
@@ -11296,7 +10703,6 @@ PW-RBSC-cor_6th-ed_obex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Obex
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_obex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-obex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_obex
    :name: obex
    :versionIdentifier: 6th ed.
@@ -11315,7 +10721,6 @@ PW-RBSC-cor_6th-ed_oculomotorNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3n
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_oculomotorNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-oculomotornerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_oculomotorNerve
    :name: oculomotor nerve
    :versionIdentifier: 6th ed.
@@ -11334,7 +10739,6 @@ PW-RBSC-cor_6th-ed_oculomotorNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_oculomotorNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-oculomotornucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_oculomotorNucleus
    :name: oculomotor nucleus
    :versionIdentifier: 6th ed.
@@ -11353,7 +10757,6 @@ PW-RBSC-cor_6th-ed_oculomotorNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 3PC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_oculomotorNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-oculomotornucleusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_oculomotorNucleusParvicellularPart
    :name: oculomotor nucleus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -11372,7 +10775,6 @@ PW-RBSC-cor_6th-ed_olfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olfactorybulb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olfactoryBulb
    :name: olfactory bulb
    :versionIdentifier: 6th ed.
@@ -11391,7 +10793,6 @@ PW-RBSC-cor_6th-ed_olfactoryNerveLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ON
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_olfactoryNerveLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olfactorynervelayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olfactoryNerveLayer
    :name: olfactory nerve layer
    :versionIdentifier: 6th ed.
@@ -11410,7 +10811,6 @@ PW-RBSC-cor_6th-ed_olfactoryTubercle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Tu
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_olfactoryTubercle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olfactorytubercle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olfactoryTubercle
    :name: olfactory tubercle
    :versionIdentifier: 6th ed.
@@ -11429,7 +10829,6 @@ PW-RBSC-cor_6th-ed_olfactoryVentricleOlfactoryPartOfLateralVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_olfactoryVentricleOlfactoryPartOfLateralVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olfactoryventricleolfactorypartoflateralventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olfactoryVentricleOlfactoryPartOfLateralVentricle
    :name: olfactory ventricle (olfactory part of lateral ventricle)
    :versionIdentifier: 6th ed.
@@ -11448,7 +10847,6 @@ PW-RBSC-cor_6th-ed_olivaryPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OPT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_olivaryPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olivarypretectalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olivaryPretectalNucleus
    :name: olivary pretectal nucleus
    :versionIdentifier: 6th ed.
@@ -11467,7 +10865,6 @@ PW-RBSC-cor_6th-ed_olivocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: oc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_olivocerebellarTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olivocerebellartract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olivocerebellarTract
    :name: olivocerebellar tract
    :versionIdentifier: 6th ed.
@@ -11486,7 +10883,6 @@ PW-RBSC-cor_6th-ed_olivocochlearBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ocb
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_olivocochlearBundle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-olivocochlearbundle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_olivocochlearBundle
    :name: olivocochlear bundle
    :versionIdentifier: 6th ed.
@@ -11505,7 +10901,6 @@ PW-RBSC-cor_6th-ed_opticChiasm
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: och
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_opticChiasm <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-opticchiasm>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_opticChiasm
    :name: optic chiasm
    :versionIdentifier: 6th ed.
@@ -11524,7 +10919,6 @@ PW-RBSC-cor_6th-ed_opticNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 2n
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_opticNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-opticnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_opticNerve
    :name: optic nerve
    :versionIdentifier: 6th ed.
@@ -11543,7 +10937,6 @@ PW-RBSC-cor_6th-ed_opticNerveLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Op
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_opticNerveLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-opticnervelayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_opticNerveLayerOfTheSuperiorColliculus
    :name: optic nerve layer of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -11562,7 +10955,6 @@ PW-RBSC-cor_6th-ed_opticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: opt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_opticTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-optictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_opticTract
    :name: optic tract
    :versionIdentifier: 6th ed.
@@ -11581,7 +10973,6 @@ PW-RBSC-cor_6th-ed_oriensLayerOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Or
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_oriensLayerOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-orienslayerofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_oriensLayerOfTheHippocampus
    :name: oriens layer of the hippocampus
    :versionIdentifier: 6th ed.
@@ -11600,7 +10991,6 @@ PW-RBSC-cor_6th-ed_ovalParacentralThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: OPC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ovalParacentralThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ovalparacentralthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ovalParacentralThalamicNucleus
    :name: oval paracentral thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -11619,7 +11009,6 @@ PW-RBSC-cor_6th-ed_p1PeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: p1PAG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_p1PeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-p1periaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_p1PeriaqueductalGray
    :name: p1 periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -11638,7 +11027,6 @@ PW-RBSC-cor_6th-ed_paraabducensNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pa6
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraabducensNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraabducensnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraabducensNucleus
    :name: paraabducens nucleus
    :versionIdentifier: 6th ed.
@@ -11657,7 +11045,6 @@ PW-RBSC-cor_6th-ed_parabigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PBG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parabigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parabigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parabigeminalNucleus
    :name: parabigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -11676,7 +11063,6 @@ PW-RBSC-cor_6th-ed_parabrachialPigmentedNucleusOfTheVTA
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PBP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parabrachialPigmentedNucleusOfTheVTA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parabrachialpigmentednucleusofthevta>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parabrachialPigmentedNucleusOfTheVTA
    :name: parabrachial pigmented nucleus of the VTA
    :versionIdentifier: 6th ed.
@@ -11695,7 +11081,6 @@ PW-RBSC-cor_6th-ed_paracentralThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paracentralThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paracentralthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paracentralThalamicNucleus
    :name: paracentral thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -11714,7 +11099,6 @@ PW-RBSC-cor_6th-ed_paracochlearGlialSubstance
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PCGS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paracochlearGlialSubstance <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paracochlearglialsubstance>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paracochlearGlialSubstance
    :name: paracochlear glial substance
    :versionIdentifier: 6th ed.
@@ -11733,7 +11117,6 @@ PW-RBSC-cor_6th-ed_paracommissuralNucleusOfThePosteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paracommissuralNucleusOfThePosteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paracommissuralnucleusoftheposteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paracommissuralNucleusOfThePosteriorCommissure
    :name: paracommissural nucleus of the posterior commissure
    :versionIdentifier: 6th ed.
@@ -11752,7 +11135,6 @@ PW-RBSC-cor_6th-ed_parafascicularThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parafascicularThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parafascicularthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parafascicularThalamicNucleus
    :name: parafascicular thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -11771,7 +11153,6 @@ PW-RBSC-cor_6th-ed_parafloccularSulcus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pfs
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parafloccularSulcus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parafloccularsulcus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parafloccularSulcus
    :name: parafloccular sulcus
    :versionIdentifier: 6th ed.
@@ -11790,7 +11171,6 @@ PW-RBSC-cor_6th-ed_paraflocculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PFl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraflocculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraflocculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraflocculus
    :name: paraflocculus
    :versionIdentifier: 6th ed.
@@ -11809,7 +11189,6 @@ PW-RBSC-cor_6th-ed_parainterfascicularNucleusOfTheVTA
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PIF
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_parainterfascicularNucleusOfTheVTA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parainterfascicularnucleusofthevta>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parainterfascicularNucleusOfTheVTA
    :name: parainterfascicular nucleus of the VTA
    :versionIdentifier: 6th ed.
@@ -11828,7 +11207,6 @@ PW-RBSC-cor_6th-ed_paralambdoidSeptalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PLd
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_paralambdoidSeptalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paralambdoidseptalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paralambdoidSeptalNucleus
    :name: paralambdoid septal nucleus
    :versionIdentifier: 6th ed.
@@ -11847,7 +11225,6 @@ PW-RBSC-cor_6th-ed_paralemniscalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paralemniscalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paralemniscalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paralemniscalNucleus
    :name: paralemniscal nucleus
    :versionIdentifier: 6th ed.
@@ -11866,7 +11243,6 @@ PW-RBSC-cor_6th-ed_paramedianLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paramedianLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paramedianlobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paramedianLobule
    :name: paramedian lobule
    :versionIdentifier: 6th ed.
@@ -11885,7 +11261,6 @@ PW-RBSC-cor_6th-ed_paramedianRapheNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PMnR
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_paramedianRapheNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paramedianraphenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paramedianRapheNucleus
    :name: paramedian raphe nucleus
    :versionIdentifier: 6th ed.
@@ -11904,7 +11279,6 @@ PW-RBSC-cor_6th-ed_paramedianReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PMn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paramedianReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paramedianreticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paramedianReticularNucleus
    :name: paramedian reticular nucleus
    :versionIdentifier: 6th ed.
@@ -11923,7 +11297,6 @@ PW-RBSC-cor_6th-ed_paramedianSulcus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pms
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paramedianSulcus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paramediansulcus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paramedianSulcus
    :name: paramedian sulcus
    :versionIdentifier: 6th ed.
@@ -11942,7 +11315,6 @@ PW-RBSC-cor_6th-ed_paranigralNucleusOfTheVTA
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PN
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paranigralNucleusOfTheVTA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paranigralnucleusofthevta>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paranigralNucleusOfTheVTA
    :name: paranigral nucleus of the VTA
    :versionIdentifier: 6th ed.
@@ -11961,7 +11333,6 @@ PW-RBSC-cor_6th-ed_parapyramidalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PPy
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parapyramidalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parapyramidalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parapyramidalNucleus
    :name: parapyramidal nucleus
    :versionIdentifier: 6th ed.
@@ -11980,7 +11351,6 @@ PW-RBSC-cor_6th-ed_pararubralNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pararubralNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pararubralnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pararubralNucleus
    :name: pararubral nucleus
    :versionIdentifier: 6th ed.
@@ -11999,7 +11369,6 @@ PW-RBSC-cor_6th-ed_parasolitaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PSol
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parasolitaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parasolitarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parasolitaryNucleus
    :name: parasolitary nucleus
    :versionIdentifier: 6th ed.
@@ -12018,7 +11387,6 @@ PW-RBSC-cor_6th-ed_parastrialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parastrialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parastrialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parastrialNucleus
    :name: parastrial nucleus
    :versionIdentifier: 6th ed.
@@ -12037,7 +11405,6 @@ PW-RBSC-cor_6th-ed_parasubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parasubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parasubiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parasubiculum
    :name: parasubiculum
    :versionIdentifier: 6th ed.
@@ -12056,7 +11423,6 @@ PW-RBSC-cor_6th-ed_parasubthalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PSTh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parasubthalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parasubthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parasubthalamicNucleus
    :name: parasubthalamic nucleus
    :versionIdentifier: 6th ed.
@@ -12075,7 +11441,6 @@ PW-RBSC-cor_6th-ed_paratenialThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paratenialThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paratenialthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paratenialThalamicNucleus
    :name: paratenial thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -12094,7 +11459,6 @@ PW-RBSC-cor_6th-ed_paratereteNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PTe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paratereteNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parateretenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paratereteNucleus
    :name: paraterete nucleus
    :versionIdentifier: 6th ed.
@@ -12113,7 +11477,6 @@ PW-RBSC-cor_6th-ed_paratrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pa5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paratrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paratrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paratrigeminalNucleus
    :name: paratrigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -12132,7 +11495,6 @@ PW-RBSC-cor_6th-ed_paratrochlearNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pa4
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paratrochlearNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paratrochlearnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paratrochlearNucleus
    :name: paratrochlear nucleus
    :versionIdentifier: 6th ed.
@@ -12152,7 +11514,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleus
    :abbreviation: Pa
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter. Region name has a spelling mistake ('hypoth' instead of 'hypothalamic'). The assumed correct name 'paraventricular hypothalamic nucleus' has been added under 'correctedName'.
    :correctedName: paraventricular hypothalamic nucleus
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleus
    :name: paraventricular hypoth nucleus
    :versionIdentifier: 6th ed.
@@ -12171,7 +11532,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaAP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusAnteriorParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleusanteriorparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :name: paraventricular hypothalamic nucleus, anterior parvicellular part
    :versionIdentifier: 6th ed.
@@ -12190,7 +11550,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusDorsalCap
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaDC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusDorsalCap <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleusdorsalcap>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusDorsalCap
    :name: paraventricular hypothalamic nucleus, dorsal cap
    :versionIdentifier: 6th ed.
@@ -12209,7 +11568,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusLateralMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaLM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusLateralMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleuslateralmagnocellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusLateralMagnocellularPart
    :name: paraventricular hypothalamic nucleus, lateral magnocellular part
    :versionIdentifier: 6th ed.
@@ -12228,7 +11586,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaMM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusMedialMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleusmedialmagnocellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :name: paraventricular hypothalamic nucleus, medial magnocellular part
    :versionIdentifier: 6th ed.
@@ -12247,7 +11604,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusMedialParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaMP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusMedialParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleusmedialparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusMedialParvicellularPart
    :name: paraventricular hypothalamic nucleus, medial parvicellular part
    :versionIdentifier: 6th ed.
@@ -12266,7 +11622,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaPo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusPosteriorPart
    :name: paraventricular hypothalamic nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -12285,7 +11640,6 @@ PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularHypothalamicNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularhypothalamicnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularHypothalamicNucleusVentralPart
    :name: paraventricular hypothalamic nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -12304,7 +11658,6 @@ PW-RBSC-cor_6th-ed_paraventricularThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularThalamicNucleus
    :name: paraventricular thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -12323,7 +11676,6 @@ PW-RBSC-cor_6th-ed_paraventricularThalamicNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PVA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_paraventricularThalamicNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularthalamicnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularThalamicNucleusAnteriorPart
    :name: paraventricular thalamic nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -12342,7 +11694,6 @@ PW-RBSC-cor_6th-ed_paraventricularThalamicNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PVP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraventricularThalamicNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraventricularthalamicnucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraventricularThalamicNucleusPosteriorPart
    :name: paraventricular thalamic nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -12361,7 +11712,6 @@ PW-RBSC-cor_6th-ed_paraxiphoidNucleusOfThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PaXi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_paraxiphoidNucleusOfThalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-paraxiphoidnucleusofthalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_paraxiphoidNucleusOfThalamus
    :name: paraxiphoid nucleus of thalamus
    :versionIdentifier: 6th ed.
@@ -12380,7 +11730,6 @@ PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PtPC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_parietalCortexPosteriorAreaCaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parietalcortexposteriorareacaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaCaudalPart
    :name: parietal cortex, posterior area, caudal part
    :versionIdentifier: 6th ed.
@@ -12399,7 +11748,6 @@ PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PtPD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parietalCortexPosteriorAreaDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parietalcortexposteriorareadorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaDorsalPart
    :name: parietal cortex, posterior area, dorsal part
    :versionIdentifier: 6th ed.
@@ -12418,7 +11766,6 @@ PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaRostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PtPR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parietalCortexPosteriorAreaRostralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parietalcortexposteriorarearostralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parietalCortexPosteriorAreaRostralPart
    :name: parietal cortex, posterior area, rostral part
    :versionIdentifier: 6th ed.
@@ -12437,7 +11784,6 @@ PW-RBSC-cor_6th-ed_parvicellularReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PCRt
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_parvicellularReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parvicellularreticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parvicellularReticularNucleus
    :name: parvicellular reticular nucleus
    :versionIdentifier: 6th ed.
@@ -12456,7 +11802,6 @@ PW-RBSC-cor_6th-ed_parvicellularReticularNucleusAlphaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PCRtA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_parvicellularReticularNucleusAlphaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-parvicellularreticularnucleusalphapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_parvicellularReticularNucleusAlphaPart
    :name: parvicellular reticular nucleus, alpha part
    :versionIdentifier: 6th ed.
@@ -12475,7 +11820,6 @@ PW-RBSC-cor_6th-ed_peduncularPartOfLateralHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PLH
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_peduncularPartOfLateralHypothalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-peduncularpartoflateralhypothalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_peduncularPartOfLateralHypothalamus
    :name: peduncular part of lateral hypothalamus
    :versionIdentifier: 6th ed.
@@ -12494,7 +11838,6 @@ PW-RBSC-cor_6th-ed_pedunculopontineTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pedunculopontineTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pedunculopontinetegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pedunculopontineTegmentalNucleus
    :name: pedunculopontine tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -12513,7 +11856,6 @@ PW-RBSC-cor_6th-ed_periaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PAG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_periaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-periaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_periaqueductalGray
    :name: periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -12532,7 +11874,6 @@ PW-RBSC-cor_6th-ed_perifacialZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: P7
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_perifacialZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-perifacialzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_perifacialZone
    :name: perifacial zone
    :versionIdentifier: 6th ed.
@@ -12551,7 +11892,6 @@ PW-RBSC-cor_6th-ed_perifornicalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PeF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_perifornicalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-perifornicalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_perifornicalNucleus
    :name: perifornical nucleus
    :versionIdentifier: 6th ed.
@@ -12570,7 +11910,6 @@ PW-RBSC-cor_6th-ed_perifornicalPartOfLateralHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PeFLH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_perifornicalPartOfLateralHypothalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-perifornicalpartoflateralhypothalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_perifornicalPartOfLateralHypothalamus
    :name: perifornical part of lateral hypothalamus
    :versionIdentifier: 6th ed.
@@ -12589,7 +11928,6 @@ PW-RBSC-cor_6th-ed_perilemniscalNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PLV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_perilemniscalNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-perilemniscalnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_perilemniscalNucleusVentralPart
    :name: perilemniscal nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -12608,7 +11946,6 @@ PW-RBSC-cor_6th-ed_periolivaryHorn
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: POH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_periolivaryHorn <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-periolivaryhorn>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_periolivaryHorn
    :name: periolivary horn
    :versionIdentifier: 6th ed.
@@ -12627,7 +11964,6 @@ PW-RBSC-cor_6th-ed_peripeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_peripeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-peripeduncularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_peripeduncularNucleus
    :name: peripeduncular nucleus
    :versionIdentifier: 6th ed.
@@ -12646,7 +11982,6 @@ PW-RBSC-cor_6th-ed_perirhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PRh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_perirhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-perirhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_perirhinalCortex
    :name: perirhinal cortex
    :versionIdentifier: 6th ed.
@@ -12665,7 +12000,6 @@ PW-RBSC-cor_6th-ed_peritrigeminalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: P5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_peritrigeminalZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-peritrigeminalzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_peritrigeminalZone
    :name: peritrigeminal zone
    :versionIdentifier: 6th ed.
@@ -12684,7 +12018,6 @@ PW-RBSC-cor_6th-ed_periventricularGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PVG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_periventricularGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-periventriculargray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_periventricularGray
    :name: periventricular gray
    :versionIdentifier: 6th ed.
@@ -12703,7 +12036,6 @@ PW-RBSC-cor_6th-ed_periventricularHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_periventricularHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-periventricularhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_periventricularHypothalamicNucleus
    :name: periventricular hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -12722,7 +12054,6 @@ PW-RBSC-cor_6th-ed_periventricularHypothalamicNucleusAnteriorParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PeAP
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_periventricularHypothalamicNucleusAnteriorParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-periventricularhypothalamicnucleusanteriorparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_periventricularHypothalamicNucleusAnteriorParvicellularPart
    :name: periventricular hypothalamic nucleus, anterior parvicellular part
    :versionIdentifier: 6th ed.
@@ -12741,7 +12072,6 @@ PW-RBSC-cor_6th-ed_pinealGland
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pinealGland <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pinealgland>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pinealGland
    :name: pineal gland
    :versionIdentifier: 6th ed.
@@ -12760,7 +12090,6 @@ PW-RBSC-cor_6th-ed_pinealStalk
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PiSt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pinealStalk <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pinealstalk>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pinealStalk
    :name: pineal stalk
    :versionIdentifier: 6th ed.
@@ -12779,7 +12108,6 @@ PW-RBSC-cor_6th-ed_piriformCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pir
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_piriformCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-piriformcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_piriformCortex
    :name: piriform cortex
    :versionIdentifier: 6th ed.
@@ -12798,7 +12126,6 @@ PW-RBSC-cor_6th-ed_piriformCortexLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pir1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_piriformCortexLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-piriformcortexlayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_piriformCortexLayer1
    :name: piriform cortex, layer 1
    :versionIdentifier: 6th ed.
@@ -12817,7 +12144,6 @@ PW-RBSC-cor_6th-ed_pleomorphicPartOfPeriaqueductaiGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PlPAG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_pleomorphicPartOfPeriaqueductaiGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pleomorphicpartofperiaqueductaigray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pleomorphicPartOfPeriaqueductaiGray
    :name: pleomorphic part of periaqueductai gray
    :versionIdentifier: 6th ed.
@@ -12836,7 +12162,6 @@ PW-RBSC-cor_6th-ed_polymorphLayerOfTheDentateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PoDG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_polymorphLayerOfTheDentateGyrus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-polymorphlayerofthedentategyrus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_polymorphLayerOfTheDentateGyrus
    :name: polymorph layer of the dentate gyrus
    :versionIdentifier: 6th ed.
@@ -12855,7 +12180,6 @@ PW-RBSC-cor_6th-ed_pontineNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pontineNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pontinenuclei>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pontineNuclei
    :name: pontine nuclei
    :versionIdentifier: 6th ed.
@@ -12874,7 +12198,6 @@ PW-RBSC-cor_6th-ed_pontineRapheNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PnR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pontineRapheNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pontineraphenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pontineRapheNucleus
    :name: pontine raphe nucleus
    :versionIdentifier: 6th ed.
@@ -12893,7 +12216,6 @@ PW-RBSC-cor_6th-ed_pontineReticularNucleusCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PnC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pontineReticularNucleusCaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pontinereticularnucleuscaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pontineReticularNucleusCaudalPart
    :name: pontine reticular nucleus, caudal part
    :versionIdentifier: 6th ed.
@@ -12912,7 +12234,6 @@ PW-RBSC-cor_6th-ed_pontineReticularNucleusOralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PnO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pontineReticularNucleusOralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pontinereticularnucleusoralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pontineReticularNucleusOralPart
    :name: pontine reticular nucleus, oral part
    :versionIdentifier: 6th ed.
@@ -12931,7 +12252,6 @@ PW-RBSC-cor_6th-ed_pontineReticularNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PnV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pontineReticularNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pontinereticularnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pontineReticularNucleusVentralPart
    :name: pontine reticular nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -12950,7 +12270,6 @@ PW-RBSC-cor_6th-ed_posteriorCerebralArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pcer
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorCerebralArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorcerebralartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorCerebralArtery
    :name: posterior cerebral artery
    :versionIdentifier: 6th ed.
@@ -12969,7 +12288,6 @@ PW-RBSC-cor_6th-ed_posteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pc
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_posteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorCommissure
    :name: posterior commissure
    :versionIdentifier: 6th ed.
@@ -12988,7 +12306,6 @@ PW-RBSC-cor_6th-ed_posteriorHypothalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PHA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorHypothalamicArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorhypothalamicarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorHypothalamicArea
    :name: posterior hypothalamic area
    :versionIdentifier: 6th ed.
@@ -13007,7 +12324,6 @@ PW-RBSC-cor_6th-ed_posteriorHypothalamicAreaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PHD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorHypothalamicAreaDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorhypothalamicareadorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorHypothalamicAreaDorsalPart
    :name: posterior hypothalamic area, dorsal part
    :versionIdentifier: 6th ed.
@@ -13026,7 +12342,6 @@ PW-RBSC-cor_6th-ed_posteriorHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorHypothalamicNucleus
    :name: posterior hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -13045,7 +12360,6 @@ PW-RBSC-cor_6th-ed_posteriorIntralaminarThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PIL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorIntralaminarThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorintralaminarthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorIntralaminarThalamicNucleus
    :name: posterior intralaminar thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -13064,7 +12378,6 @@ PW-RBSC-cor_6th-ed_posteriorLimitansThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PLi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorLimitansThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorlimitansthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorLimitansThalamicNucleus
    :name: posterior limitans thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -13083,7 +12396,6 @@ PW-RBSC-cor_6th-ed_posteriorLobeOfPituitary
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PPit
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorLobeOfPituitary <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorlobeofpituitary>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorLobeOfPituitary
    :name: posterior lobe of pituitary
    :versionIdentifier: 6th ed.
@@ -13102,7 +12414,6 @@ PW-RBSC-cor_6th-ed_posteriorPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PPT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorpretectalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorPretectalNucleus
    :name: posterior pretectal nucleus
    :versionIdentifier: 6th ed.
@@ -13121,7 +12432,6 @@ PW-RBSC-cor_6th-ed_posteriorSuperiorFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: psf
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_posteriorSuperiorFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorsuperiorfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorSuperiorFissure
    :name: posterior superior fissure
    :versionIdentifier: 6th ed.
@@ -13140,7 +12450,6 @@ PW-RBSC-cor_6th-ed_posteriorThalamicNuclearGroup
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Po
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorThalamicNuclearGroup <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorthalamicnucleargroup>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorThalamicNuclearGroup
    :name: posterior thalamic nuclear group
    :versionIdentifier: 6th ed.
@@ -13159,7 +12468,6 @@ PW-RBSC-cor_6th-ed_posteriorThalamicNuclearGroupTriangularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PoT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteriorThalamicNuclearGroupTriangularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteriorthalamicnucleargrouptriangularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteriorThalamicNuclearGroupTriangularPart
    :name: posterior thalamic nuclear group, triangular part
    :versionIdentifier: 6th ed.
@@ -13178,7 +12486,6 @@ PW-RBSC-cor_6th-ed_posterodorsalPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PDPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posterodorsalPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posterodorsalpreopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posterodorsalPreopticNucleus
    :name: posterodorsal preoptic nucleus
    :versionIdentifier: 6th ed.
@@ -13197,7 +12504,6 @@ PW-RBSC-cor_6th-ed_posterodorsalRapheNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PDR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posterodorsalRapheNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posterodorsalraphenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posterodorsalRapheNucleus
    :name: posterodorsal raphe nucleus
    :versionIdentifier: 6th ed.
@@ -13216,7 +12522,6 @@ PW-RBSC-cor_6th-ed_posterodorsalTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PDTg
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_posterodorsalTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posterodorsaltegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posterodorsalTegmentalNucleus
    :name: posterodorsal tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -13235,7 +12540,6 @@ PW-RBSC-cor_6th-ed_posterolateralCorticalAmygdaloidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PLCo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posterolateralcorticalamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posterolateralCorticalAmygdaloidNucleus
    :name: posterolateral cortical amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -13254,7 +12558,6 @@ PW-RBSC-cor_6th-ed_posterolateralCorticalAmygdaloidNucleusLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PLCo1
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_posterolateralCorticalAmygdaloidNucleusLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posterolateralcorticalamygdaloidnucleuslayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posterolateralCorticalAmygdaloidNucleusLayer1
    :name: posterolateral cortical amygdaloid nucleus, layer 1
    :versionIdentifier: 6th ed.
@@ -13273,7 +12576,6 @@ PW-RBSC-cor_6th-ed_posterolateralFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: plf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posterolateralFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posterolateralfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posterolateralFissure
    :name: posterolateral fissure
    :versionIdentifier: 6th ed.
@@ -13292,7 +12594,6 @@ PW-RBSC-cor_6th-ed_posteromedialCorticalAmygdaloidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PMCo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteromedialCorticalAmygdaloidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteromedialcorticalamygdaloidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteromedialCorticalAmygdaloidNucleus
    :name: posteromedial cortical amygdaloid nucleus
    :versionIdentifier: 6th ed.
@@ -13311,7 +12612,6 @@ PW-RBSC-cor_6th-ed_posteromedianThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PoMn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_posteromedianThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-posteromedianthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_posteromedianThalamicNucleus
    :name: posteromedian thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -13330,7 +12630,6 @@ PW-RBSC-cor_6th-ed_postsubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Post
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_postsubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-postsubiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_postsubiculum
    :name: postsubiculum
    :versionIdentifier: 6th ed.
@@ -13349,7 +12648,6 @@ PW-RBSC-cor_6th-ed_preBotzingerComplex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PrBo
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_preBotzingerComplex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-prebotzingercomplex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_preBotzingerComplex
    :name: pre-Botzinger complex
    :versionIdentifier: 6th ed.
@@ -13368,7 +12666,6 @@ PW-RBSC-cor_6th-ed_preEdingerWestphalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PrEW
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_preEdingerWestphalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-preedingerwestphalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_preEdingerWestphalNucleus
    :name: pre-Edinger-Westphal nucleus
    :versionIdentifier: 6th ed.
@@ -13387,7 +12684,6 @@ PW-RBSC-cor_6th-ed_precommissuralNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PrC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_precommissuralNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-precommissuralnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_precommissuralNucleus
    :name: precommissural nucleus
    :versionIdentifier: 6th ed.
@@ -13406,7 +12702,6 @@ PW-RBSC-cor_6th-ed_preculminateFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pcuf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_preculminateFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-preculminatefissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_preculminateFissure
    :name: preculminate fissure
    :versionIdentifier: 6th ed.
@@ -13425,7 +12720,6 @@ PW-RBSC-cor_6th-ed_precuneiformArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PrCnF
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_precuneiformArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-precuneiformarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_precuneiformArea
    :name: precuneiform area
    :versionIdentifier: 6th ed.
@@ -13444,7 +12738,6 @@ PW-RBSC-cor_6th-ed_prelimbicCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PrL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_prelimbicCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-prelimbiccortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_prelimbicCortex
    :name: prelimbic cortex
    :versionIdentifier: 6th ed.
@@ -13463,7 +12756,6 @@ PW-RBSC-cor_6th-ed_premammillaryNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PMD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_premammillaryNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-premammillarynucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_premammillaryNucleusDorsalPart
    :name: premammillary nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -13482,7 +12774,6 @@ PW-RBSC-cor_6th-ed_premammillaryNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PMV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_premammillaryNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-premammillarynucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_premammillaryNucleusVentralPart
    :name: premammillary nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -13501,7 +12792,6 @@ PW-RBSC-cor_6th-ed_preopticRecessOfThe3rdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: P3V
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_preopticRecessOfThe3rdVentricle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-preopticrecessofthe3rdventricle>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_preopticRecessOfThe3rdVentricle
    :name: preoptic recess of the 3rd ventricle
    :versionIdentifier: 6th ed.
@@ -13520,7 +12810,6 @@ PW-RBSC-cor_6th-ed_prepositusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_prepositusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-prepositusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_prepositusNucleus
    :name: prepositus nucleus
    :versionIdentifier: 6th ed.
@@ -13539,7 +12828,6 @@ PW-RBSC-cor_6th-ed_prepyramidalFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ppf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_prepyramidalFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-prepyramidalfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_prepyramidalFissure
    :name: prepyramidal fissure
    :versionIdentifier: 6th ed.
@@ -13558,7 +12846,6 @@ PW-RBSC-cor_6th-ed_prerubralField
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_prerubralField <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-prerubralfield>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_prerubralField
    :name: prerubral field
    :versionIdentifier: 6th ed.
@@ -13577,7 +12864,6 @@ PW-RBSC-cor_6th-ed_presubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: PrS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_presubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-presubiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_presubiculum
    :name: presubiculum
    :versionIdentifier: 6th ed.
@@ -13596,7 +12882,6 @@ PW-RBSC-cor_6th-ed_primaryAuditoryCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Au1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primaryAuditoryCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primaryauditorycortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primaryAuditoryCortex
    :name: primary auditory cortex
    :versionIdentifier: 6th ed.
@@ -13615,7 +12900,6 @@ PW-RBSC-cor_6th-ed_primaryFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: prf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primaryFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primaryfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primaryFissure
    :name: primary fissure
    :versionIdentifier: 6th ed.
@@ -13634,7 +12918,6 @@ PW-RBSC-cor_6th-ed_primaryMotorCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: M1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primaryMotorCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarymotorcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primaryMotorCortex
    :name: primary motor cortex
    :versionIdentifier: 6th ed.
@@ -13653,7 +12936,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortex
    :name: primary somatosensory cortex
    :versionIdentifier: 6th ed.
@@ -13672,7 +12954,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexBarrelField
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1BF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexBarrelField <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexbarrelfield>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexBarrelField
    :name: primary somatosensory cortex, barrel field
    :versionIdentifier: 6th ed.
@@ -13691,7 +12972,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexDysgranularZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1DZ
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexDysgranularZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexdysgranularzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexDysgranularZone
    :name: primary somatosensory cortex, dysgranular zone
    :versionIdentifier: 6th ed.
@@ -13710,7 +12990,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexForelimbRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1FL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexForelimbRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexforelimbregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexForelimbRegion
    :name: primary somatosensory cortex, forelimb region
    :versionIdentifier: 6th ed.
@@ -13729,7 +13008,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexHindlimbRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1HL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexHindlimbRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexhindlimbregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexHindlimbRegion
    :name: primary somatosensory cortex, hindlimb region
    :versionIdentifier: 6th ed.
@@ -13748,7 +13026,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexJawRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1J
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexJawRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexjawregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexJawRegion
    :name: primary somatosensory cortex, jaw region
    :versionIdentifier: 6th ed.
@@ -13767,7 +13044,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexOralDysgranularZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1DZO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexOralDysgranularZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexoraldysgranularzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexOralDysgranularZone
    :name: primary somatosensory cortex, oral dysgranular zone
    :versionIdentifier: 6th ed.
@@ -13786,7 +13062,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexShoulderRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1Sh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexShoulderRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexshoulderregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexShoulderRegion
    :name: primary somatosensory cortex, shoulder region
    :versionIdentifier: 6th ed.
@@ -13805,7 +13080,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexTrunkRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1Tr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexTrunkRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortextrunkregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexTrunkRegion
    :name: primary somatosensory cortex, trunk region
    :versionIdentifier: 6th ed.
@@ -13824,7 +13098,6 @@ PW-RBSC-cor_6th-ed_primarySomatosensoryCortexUpperLipRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S1ULp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primarySomatosensoryCortexUpperLipRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primarysomatosensorycortexupperlipregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primarySomatosensoryCortexUpperLipRegion
    :name: primary somatosensory cortex, upper lip region
    :versionIdentifier: 6th ed.
@@ -13843,7 +13116,6 @@ PW-RBSC-cor_6th-ed_primaryVisualCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primaryVisualCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primaryvisualcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primaryVisualCortex
    :name: primary visual cortex
    :versionIdentifier: 6th ed.
@@ -13862,7 +13134,6 @@ PW-RBSC-cor_6th-ed_primaryVisualCortexBinocularArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V1B
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primaryVisualCortexBinocularArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primaryvisualcortexbinoculararea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primaryVisualCortexBinocularArea
    :name: primary visual cortex, binocular area
    :versionIdentifier: 6th ed.
@@ -13881,7 +13152,6 @@ PW-RBSC-cor_6th-ed_primaryVisualCortexMonocularArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V1M
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_primaryVisualCortexMonocularArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-primaryvisualcortexmonoculararea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_primaryVisualCortexMonocularArea
    :name: primary visual cortex, monocular area
    :versionIdentifier: 6th ed.
@@ -13900,7 +13170,6 @@ PW-RBSC-cor_6th-ed_principalMammillaryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pm
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_principalMammillaryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-principalmammillarytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_principalMammillaryTract
    :name: principal mammillary tract
    :versionIdentifier: 6th ed.
@@ -13919,7 +13188,6 @@ PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pr5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_principalSensoryTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-principalsensorytrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleus
    :name: principal sensory trigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -13938,7 +13206,6 @@ PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleusDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pr5DM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_principalSensoryTrigeminalNucleusDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-principalsensorytrigeminalnucleusdorsomedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleusDorsomedialPart
    :name: principal sensory trigeminal nucleus, dorsomedial part
    :versionIdentifier: 6th ed.
@@ -13957,7 +13224,6 @@ PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Pr5VL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_principalSensoryTrigeminalNucleusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-principalsensorytrigeminalnucleusventrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_principalSensoryTrigeminalNucleusVentrolateralPart
    :name: principal sensory trigeminal nucleus, ventrolateral part
    :versionIdentifier: 6th ed.
@@ -13976,7 +13242,6 @@ PW-RBSC-cor_6th-ed_pyramidalCellLayerOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Py
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pyramidalCellLayerOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pyramidalcelllayerofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pyramidalCellLayerOfTheHippocampus
    :name: pyramidal cell layer of the hippocampus
    :versionIdentifier: 6th ed.
@@ -13995,7 +13260,6 @@ PW-RBSC-cor_6th-ed_pyramidalDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: pyx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pyramidalDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pyramidaldecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pyramidalDecussation
    :name: pyramidal decussation
    :versionIdentifier: 6th ed.
@@ -14014,7 +13278,6 @@ PW-RBSC-cor_6th-ed_pyramidalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: py
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_pyramidalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-pyramidaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_pyramidalTract
    :name: pyramidal tract
    :versionIdentifier: 6th ed.
@@ -14033,7 +13296,6 @@ PW-RBSC-cor_6th-ed_r1ReticularFormation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: r1Rt
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_r1ReticularFormation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-r1reticularformation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_r1ReticularFormation
    :name: r1 reticular formation
    :versionIdentifier: 6th ed.
@@ -14052,7 +13314,6 @@ PW-RBSC-cor_6th-ed_r2ReticularFormation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: r2Rt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_r2ReticularFormation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-r2reticularformation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_r2ReticularFormation
    :name: r2 reticular formation
    :versionIdentifier: 6th ed.
@@ -14071,7 +13332,6 @@ PW-RBSC-cor_6th-ed_r3ReticularFormation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: r3Rt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_r3ReticularFormation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-r3reticularformation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_r3ReticularFormation
    :name: r3 reticular formation
    :versionIdentifier: 6th ed.
@@ -14090,7 +13350,6 @@ PW-RBSC-cor_6th-ed_radiatumLayerOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Rad
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_radiatumLayerOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-radiatumlayerofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_radiatumLayerOfTheHippocampus
    :name: radiatum layer of the hippocampus
    :versionIdentifier: 6th ed.
@@ -14109,7 +13368,6 @@ PW-RBSC-cor_6th-ed_rapheInterpositusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RIP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rapheInterpositusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rapheinterpositusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rapheInterpositusNucleus
    :name: raphe interpositus nucleus
    :versionIdentifier: 6th ed.
@@ -14128,7 +13386,6 @@ PW-RBSC-cor_6th-ed_rapheMagnusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RMg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rapheMagnusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-raphemagnusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rapheMagnusNucleus
    :name: raphe magnus nucleus
    :versionIdentifier: 6th ed.
@@ -14147,7 +13404,6 @@ PW-RBSC-cor_6th-ed_rapheObscurusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ROb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rapheObscurusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rapheobscurusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rapheObscurusNucleus
    :name: raphe obscurus nucleus
    :versionIdentifier: 6th ed.
@@ -14166,7 +13422,6 @@ PW-RBSC-cor_6th-ed_raphePallidusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RPa
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_raphePallidusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-raphepallidusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_raphePallidusNucleus
    :name: raphe pallidus nucleus
    :versionIdentifier: 6th ed.
@@ -14185,7 +13440,6 @@ PW-RBSC-cor_6th-ed_recessOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ReIC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_recessOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-recessoftheinferiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_recessOfTheInferiorColliculus
    :name: recess of the inferior colliculus
    :versionIdentifier: 6th ed.
@@ -14204,7 +13458,6 @@ PW-RBSC-cor_6th-ed_redNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: R
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_redNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rednucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_redNucleus
    :name: red nucleus
    :versionIdentifier: 6th ed.
@@ -14223,7 +13476,6 @@ PW-RBSC-cor_6th-ed_redNucleusMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RMC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_redNucleusMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rednucleusmagnocellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_redNucleusMagnocellularPart
    :name: red nucleus, magnocellular part
    :versionIdentifier: 6th ed.
@@ -14242,7 +13494,6 @@ PW-RBSC-cor_6th-ed_redNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RPC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_redNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rednucleusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_redNucleusParvicellularPart
    :name: red nucleus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -14261,7 +13512,6 @@ PW-RBSC-cor_6th-ed_regionWhereVAAndVLOverlap
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VA/VL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_regionWhereVAAndVLOverlap <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-regionwherevaandvloverlap>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_regionWhereVAAndVLOverlap
    :name: region where VA and VL overlap
    :versionIdentifier: 6th ed.
@@ -14280,7 +13530,6 @@ PW-RBSC-cor_6th-ed_reticluostrialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RtSt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_reticluostrialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-reticluostrialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_reticluostrialNucleus
    :name: reticluostrial nucleus
    :versionIdentifier: 6th ed.
@@ -14299,7 +13548,6 @@ PW-RBSC-cor_6th-ed_reticularThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Rt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_reticularThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-reticularthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_reticularThalamicNucleus
    :name: reticular thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -14318,7 +13566,6 @@ PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePons
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RtTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_reticulotegmentalNucleusOfThePons <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-reticulotegmentalnucleusofthepons>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePons
    :name: reticulotegmental nucleus of the pons
    :versionIdentifier: 6th ed.
@@ -14337,7 +13584,6 @@ PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePonsLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RtTgL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_reticulotegmentalNucleusOfThePonsLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-reticulotegmentalnucleusoftheponslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePonsLateralPart
    :name: reticulotegmental nucleus of the pons, lateral part
    :versionIdentifier: 6th ed.
@@ -14356,7 +13602,6 @@ PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePonsPericentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RtTgP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_reticulotegmentalNucleusOfThePonsPericentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-reticulotegmentalnucleusoftheponspericentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_reticulotegmentalNucleusOfThePonsPericentralPart
    :name: reticulotegmental nucleus of the pons, pericentral part
    :versionIdentifier: 6th ed.
@@ -14375,7 +13620,6 @@ PW-RBSC-cor_6th-ed_retroambiguusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RAmb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retroambiguusNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retroambiguusnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retroambiguusNucleus
    :name: retroambiguus nucleus
    :versionIdentifier: 6th ed.
@@ -14394,7 +13638,6 @@ PW-RBSC-cor_6th-ed_retrochiasmaticArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RCh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrochiasmaticArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrochiasmaticarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrochiasmaticArea
    :name: retrochiasmatic area
    :versionIdentifier: 6th ed.
@@ -14413,7 +13656,6 @@ PW-RBSC-cor_6th-ed_retrochiasmaticAreaLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RChL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrochiasmaticAreaLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrochiasmaticarealateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrochiasmaticAreaLateralPart
    :name: retrochiasmatic area, lateral part
    :versionIdentifier: 6th ed.
@@ -14432,7 +13674,6 @@ PW-RBSC-cor_6th-ed_retroendopiriformNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: REn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retroendopiriformNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retroendopiriformnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retroendopiriformNucleus
    :name: retroendopiriform nucleus
    :versionIdentifier: 6th ed.
@@ -14451,7 +13692,6 @@ PW-RBSC-cor_6th-ed_retroethmoidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: REth
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retroethmoidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retroethmoidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retroethmoidNucleus
    :name: retroethmoid nucleus
    :versionIdentifier: 6th ed.
@@ -14470,7 +13710,6 @@ PW-RBSC-cor_6th-ed_retrolemniscalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrolemniscalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrolemniscalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrolemniscalNucleus
    :name: retrolemniscal nucleus
    :versionIdentifier: 6th ed.
@@ -14489,7 +13728,6 @@ PW-RBSC-cor_6th-ed_retroparafascicularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RPF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retroparafascicularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retroparafascicularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retroparafascicularNucleus
    :name: retroparafascicular nucleus
    :versionIdentifier: 6th ed.
@@ -14508,7 +13746,6 @@ PW-RBSC-cor_6th-ed_retrorubralField
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RRF
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrorubralField <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrorubralfield>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrorubralField
    :name: retrorubral field
    :versionIdentifier: 6th ed.
@@ -14527,7 +13764,6 @@ PW-RBSC-cor_6th-ed_retrorubralNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrorubralNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrorubralnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrorubralNucleus
    :name: retrorubral nucleus
    :versionIdentifier: 6th ed.
@@ -14546,7 +13782,6 @@ PW-RBSC-cor_6th-ed_retrosplenialDysgranularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RSD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrosplenialDysgranularCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrosplenialdysgranularcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrosplenialDysgranularCortex
    :name: retrosplenial dysgranular cortex
    :versionIdentifier: 6th ed.
@@ -14565,7 +13800,6 @@ PW-RBSC-cor_6th-ed_retrosplenialGranularCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RSG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_retrosplenialGranularCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrosplenialgranularcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrosplenialGranularCortex
    :name: retrosplenial granular cortex
    :versionIdentifier: 6th ed.
@@ -14584,7 +13818,6 @@ PW-RBSC-cor_6th-ed_retrosplenialGranularCortexARegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RSGa
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrosplenialGranularCortexARegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrosplenialgranularcortexaregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrosplenialGranularCortexARegion
    :name: retrosplenial granular cortex, a region
    :versionIdentifier: 6th ed.
@@ -14603,7 +13836,6 @@ PW-RBSC-cor_6th-ed_retrosplenialGranularCortexBRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RSGb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrosplenialGranularCortexBRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrosplenialgranularcortexbregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrosplenialGranularCortexBRegion
    :name: retrosplenial granular cortex, b region
    :versionIdentifier: 6th ed.
@@ -14622,7 +13854,6 @@ PW-RBSC-cor_6th-ed_retrosplenialGranularCortexCRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RSGc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrosplenialGranularCortexCRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrosplenialgranularcortexcregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrosplenialGranularCortexCRegion
    :name: retrosplenial granular cortex, c region
    :versionIdentifier: 6th ed.
@@ -14641,7 +13872,6 @@ PW-RBSC-cor_6th-ed_retrouniensArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RRe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_retrouniensArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-retrouniensarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_retrouniensArea
    :name: retrouniens area
    :versionIdentifier: 6th ed.
@@ -14660,7 +13890,6 @@ PW-RBSC-cor_6th-ed_reuniensThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Re
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_reuniensThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-reuniensthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_reuniensThalamicNucleus
    :name: reuniens thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -14679,7 +13908,6 @@ PW-RBSC-cor_6th-ed_rhabdoidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Rbd
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rhabdoidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rhabdoidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rhabdoidNucleus
    :name: rhabdoid nucleus
    :versionIdentifier: 6th ed.
@@ -14698,7 +13926,6 @@ PW-RBSC-cor_6th-ed_rhinalFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: rf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rhinalFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rhinalfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rhinalFissure
    :name: rhinal fissure
    :versionIdentifier: 6th ed.
@@ -14717,7 +13944,6 @@ PW-RBSC-cor_6th-ed_rhinalIncisure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ri
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rhinalIncisure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rhinalincisure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rhinalIncisure
    :name: rhinal incisure
    :versionIdentifier: 6th ed.
@@ -14736,7 +13962,6 @@ PW-RBSC-cor_6th-ed_rhomboidThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Rh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rhomboidThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rhomboidthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rhomboidThalamicNucleus
    :name: rhomboid thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -14755,7 +13980,6 @@ PW-RBSC-cor_6th-ed_rootOfAbducensNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 6n
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rootOfAbducensNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rootofabducensnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rootOfAbducensNerve
    :name: root of abducens nerve
    :versionIdentifier: 6th ed.
@@ -14774,7 +13998,6 @@ PW-RBSC-cor_6th-ed_rootOfAccessoryNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 11n
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_rootOfAccessoryNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rootofaccessorynerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rootOfAccessoryNerve
    :name: root of accessory nerve
    :versionIdentifier: 6th ed.
@@ -14793,7 +14016,6 @@ PW-RBSC-cor_6th-ed_rootOfHypoglossalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 12n
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_rootOfHypoglossalNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rootofhypoglossalnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rootOfHypoglossalNerve
    :name: root of hypoglossal nerve
    :versionIdentifier: 6th ed.
@@ -14812,7 +14034,6 @@ PW-RBSC-cor_6th-ed_rostralAmygdalopiriformArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RAPir
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rostralAmygdalopiriformArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rostralamygdalopiriformarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rostralAmygdalopiriformArea
    :name: rostral amygdalopiriform area
    :versionIdentifier: 6th ed.
@@ -14831,7 +14052,6 @@ PW-RBSC-cor_6th-ed_rostralInterstitialNucleusOfMedialLongitudinalFasciculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rostralInterstitialNucleusOfMedialLongitudinalFasciculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rostralinterstitialnucleusofmediallongitudinalfasciculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rostralInterstitialNucleusOfMedialLongitudinalFasciculus
    :name: rostral interstitial nucleus of medial longitudinal fasciculus
    :versionIdentifier: 6th ed.
@@ -14850,7 +14070,6 @@ PW-RBSC-cor_6th-ed_rostralLinearNucleusOfTheRaphe
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RLi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rostralLinearNucleusOfTheRaphe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rostrallinearnucleusoftheraphe>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rostralLinearNucleusOfTheRaphe
    :name: rostral linear nucleus of the raphe
    :versionIdentifier: 6th ed.
@@ -14869,7 +14088,6 @@ PW-RBSC-cor_6th-ed_rostralVentralRespiratoryGroup
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RVRG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rostralVentralRespiratoryGroup <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rostralventralrespiratorygroup>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rostralVentralRespiratoryGroup
    :name: rostral ventral respiratory group
    :versionIdentifier: 6th ed.
@@ -14888,7 +14106,6 @@ PW-RBSC-cor_6th-ed_rostroventrolateralReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: RVL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_rostroventrolateralReticularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rostroventrolateralreticularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rostroventrolateralReticularNucleus
    :name: rostroventrolateral reticular nucleus
    :versionIdentifier: 6th ed.
@@ -14907,7 +14124,6 @@ PW-RBSC-cor_6th-ed_rostrumOfTheCorpusCallosum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: rcc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_rostrumOfTheCorpusCallosum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rostrumofthecorpuscallosum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rostrumOfTheCorpusCallosum
    :name: rostrum of the corpus callosum
    :versionIdentifier: 6th ed.
@@ -14926,7 +14142,6 @@ PW-RBSC-cor_6th-ed_rubrospinalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: rs
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_rubrospinalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-rubrospinaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_rubrospinalTract
    :name: rubrospinal tract
    :versionIdentifier: 6th ed.
@@ -14945,7 +14160,6 @@ PW-RBSC-cor_6th-ed_sagulumNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sag
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_sagulumNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-sagulumnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_sagulumNucleus
    :name: sagulum nucleus
    :versionIdentifier: 6th ed.
@@ -14964,7 +14178,6 @@ PW-RBSC-cor_6th-ed_scaphoidThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_scaphoidThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-scaphoidthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_scaphoidThalamicNucleus
    :name: scaphoid thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -14983,7 +14196,6 @@ PW-RBSC-cor_6th-ed_secondaryAuditoryCortexDorsalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryAuditoryCortexDorsalArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondaryauditorycortexdorsalarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryAuditoryCortexDorsalArea
    :name: secondary auditory cortex, dorsal area
    :versionIdentifier: 6th ed.
@@ -15002,7 +14214,6 @@ PW-RBSC-cor_6th-ed_secondaryAuditoryCortexVentralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: AuV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryAuditoryCortexVentralArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondaryauditorycortexventralarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryAuditoryCortexVentralArea
    :name: secondary auditory cortex, ventral area
    :versionIdentifier: 6th ed.
@@ -15021,7 +14232,6 @@ PW-RBSC-cor_6th-ed_secondaryFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: sf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondaryfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryFissure
    :name: secondary fissure
    :versionIdentifier: 6th ed.
@@ -15040,7 +14250,6 @@ PW-RBSC-cor_6th-ed_secondaryMotorCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: M2
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryMotorCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondarymotorcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryMotorCortex
    :name: secondary motor cortex
    :versionIdentifier: 6th ed.
@@ -15059,7 +14268,6 @@ PW-RBSC-cor_6th-ed_secondarySomatosensoryCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S2
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondarySomatosensoryCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondarysomatosensorycortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondarySomatosensoryCortex
    :name: secondary somatosensory cortex
    :versionIdentifier: 6th ed.
@@ -15078,7 +14286,6 @@ PW-RBSC-cor_6th-ed_secondaryVisualCortexLateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V2L
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryVisualCortexLateralArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondaryvisualcortexlateralarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryVisualCortexLateralArea
    :name: secondary visual cortex, lateral area
    :versionIdentifier: 6th ed.
@@ -15097,7 +14304,6 @@ PW-RBSC-cor_6th-ed_secondaryVisualCortexMediolateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V2ML
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryVisualCortexMediolateralArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondaryvisualcortexmediolateralarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryVisualCortexMediolateralArea
    :name: secondary visual cortex, mediolateral area
    :versionIdentifier: 6th ed.
@@ -15116,7 +14322,6 @@ PW-RBSC-cor_6th-ed_secondaryVisualCortexMediomedialArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: V2MM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_secondaryVisualCortexMediomedialArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-secondaryvisualcortexmediomedialarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_secondaryVisualCortexMediomedialArea
    :name: secondary visual cortex, mediomedial area
    :versionIdentifier: 6th ed.
@@ -15135,7 +14340,6 @@ PW-RBSC-cor_6th-ed_sensoryRootOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: s5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_sensoryRootOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-sensoryrootofthetrigeminalnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_sensoryRootOfTheTrigeminalNerve
    :name: sensory root of the trigeminal nerve
    :versionIdentifier: 6th ed.
@@ -15154,7 +14358,6 @@ PW-RBSC-cor_6th-ed_septofimbrialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SFi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_septofimbrialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-septofimbrialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_septofimbrialNucleus
    :name: septofimbrial nucleus
    :versionIdentifier: 6th ed.
@@ -15173,7 +14376,6 @@ PW-RBSC-cor_6th-ed_septohippocampalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SHi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_septohippocampalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-septohippocampalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_septohippocampalNucleus
    :name: septohippocampal nucleus
    :versionIdentifier: 6th ed.
@@ -15192,7 +14394,6 @@ PW-RBSC-cor_6th-ed_septohypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SHy
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_septohypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-septohypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_septohypothalamicNucleus
    :name: septohypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -15211,7 +14412,6 @@ PW-RBSC-cor_6th-ed_simpleLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sim
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_simpleLobule <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-simplelobule>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_simpleLobule
    :name: simple lobule
    :versionIdentifier: 6th ed.
@@ -15230,7 +14430,6 @@ PW-RBSC-cor_6th-ed_simpleLobuleA
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SimA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_simpleLobuleA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-simplelobulea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_simpleLobuleA
    :name: simple lobule A
    :versionIdentifier: 6th ed.
@@ -15249,7 +14448,6 @@ PW-RBSC-cor_6th-ed_simpleLobuleB
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SimB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_simpleLobuleB <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-simplelobuleb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_simpleLobuleB
    :name: simple lobule B
    :versionIdentifier: 6th ed.
@@ -15268,7 +14466,6 @@ PW-RBSC-cor_6th-ed_simplexFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: simf
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_simplexFissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-simplexfissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_simplexFissure
    :name: simplex fissure
    :versionIdentifier: 6th ed.
@@ -15287,7 +14484,6 @@ PW-RBSC-cor_6th-ed_solitaryNucleusDorsolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolDL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_solitaryNucleusDorsolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-solitarynucleusdorsolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_solitaryNucleusDorsolateralPart
    :name: solitary nucleus, dorsolateral part
    :versionIdentifier: 6th ed.
@@ -15306,7 +14502,6 @@ PW-RBSC-cor_6th-ed_solitaryNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SolV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_solitaryNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-solitarynucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_solitaryNucleusVentralPart
    :name: solitary nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -15325,7 +14520,6 @@ PW-RBSC-cor_6th-ed_solitaryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: sol
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_solitaryTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-solitarytract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_solitaryTract
    :name: solitary tract
    :versionIdentifier: 6th ed.
@@ -15344,7 +14538,6 @@ PW-RBSC-cor_6th-ed_sphenoidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sph
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_sphenoidNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-sphenoidnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_sphenoidNucleus
    :name: sphenoid nucleus
    :versionIdentifier: 6th ed.
@@ -15363,7 +14556,6 @@ PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sp5C
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_spinalTrigeminalNucleusCaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-spinaltrigeminalnucleuscaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusCaudalPart
    :name: spinal trigeminal nucleus, caudal part
    :versionIdentifier: 6th ed.
@@ -15382,7 +14574,6 @@ PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusInterpolarPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sp5I
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_spinalTrigeminalNucleusInterpolarPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-spinaltrigeminalnucleusinterpolarpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusInterpolarPart
    :name: spinal trigeminal nucleus, interpolar part
    :versionIdentifier: 6th ed.
@@ -15401,7 +14592,6 @@ PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusOralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sp5O
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_spinalTrigeminalNucleusOralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-spinaltrigeminalnucleusoralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_spinalTrigeminalNucleusOralPart
    :name: spinal trigeminal nucleus, oral part
    :versionIdentifier: 6th ed.
@@ -15420,7 +14610,6 @@ PW-RBSC-cor_6th-ed_spinalTrigeminalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: sp5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_spinalTrigeminalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-spinaltrigeminaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_spinalTrigeminalTract
    :name: spinal trigeminal tract
    :versionIdentifier: 6th ed.
@@ -15439,7 +14628,6 @@ PW-RBSC-cor_6th-ed_spinalVestibularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SpVe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_spinalVestibularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-spinalvestibularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_spinalVestibularNucleus
    :name: spinal vestibular nucleus
    :versionIdentifier: 6th ed.
@@ -15458,7 +14646,6 @@ PW-RBSC-cor_6th-ed_spleniumOfTheCorpusCallosum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: scc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_spleniumOfTheCorpusCallosum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-spleniumofthecorpuscallosum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_spleniumOfTheCorpusCallosum
    :name: splenium of the corpus callosum
    :versionIdentifier: 6th ed.
@@ -15477,7 +14664,6 @@ PW-RBSC-cor_6th-ed_stigmoidHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Stg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_stigmoidHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-stigmoidhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_stigmoidHypothalamicNucleus
    :name: stigmoid hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -15496,7 +14682,6 @@ PW-RBSC-cor_6th-ed_stratumLucidumOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SLu
    :additionalRemarks: Brain region name and abbreviation listed both in chapter 'List of Abbreviations' and twice in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_stratumLucidumOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-stratumlucidumofthehippocampus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_stratumLucidumOfTheHippocampus
    :name: stratum lucidum of the hippocampus
    :versionIdentifier: 6th ed.
@@ -15515,7 +14700,6 @@ PW-RBSC-cor_6th-ed_striaMedullarisOfTheThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: sm
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_striaMedullarisOfTheThalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-striamedullarisofthethalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_striaMedullarisOfTheThalamus
    :name: stria medullaris of the thalamus
    :versionIdentifier: 6th ed.
@@ -15534,7 +14718,6 @@ PW-RBSC-cor_6th-ed_striaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: st
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_striaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-striaterminalis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_striaTerminalis
    :name: stria terminalis
    :versionIdentifier: 6th ed.
@@ -15553,7 +14736,6 @@ PW-RBSC-cor_6th-ed_strialPartOfThePreopticArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: StA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_strialPartOfThePreopticArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-strialpartofthepreopticarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_strialPartOfThePreopticArea
    :name: strial part of the preoptic area
    :versionIdentifier: 6th ed.
@@ -15572,7 +14754,6 @@ PW-RBSC-cor_6th-ed_striohypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: StHy
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_striohypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-striohypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_striohypothalamicNucleus
    :name: striohypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -15591,7 +14772,6 @@ PW-RBSC-cor_6th-ed_subbrachialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subbrachialNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subbrachialnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subbrachialNucleus
    :name: subbrachial nucleus
    :versionIdentifier: 6th ed.
@@ -15610,7 +14790,6 @@ PW-RBSC-cor_6th-ed_subcoeruleusNucleusAlphaPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubCA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subcoeruleusNucleusAlphaPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subcoeruleusnucleusalphapart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subcoeruleusNucleusAlphaPart
    :name: subcoeruleus nucleus, alpha part
    :versionIdentifier: 6th ed.
@@ -15629,7 +14808,6 @@ PW-RBSC-cor_6th-ed_subcoeruleusNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubCD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subcoeruleusNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subcoeruleusnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subcoeruleusNucleusDorsalPart
    :name: subcoeruleus nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -15648,7 +14826,6 @@ PW-RBSC-cor_6th-ed_subcoeruleusNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubCV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subcoeruleusNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subcoeruleusnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subcoeruleusNucleusVentralPart
    :name: subcoeruleus nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -15667,7 +14844,6 @@ PW-RBSC-cor_6th-ed_subcommissuralOrgan
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SCO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subcommissuralOrgan <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subcommissuralorgan>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subcommissuralOrgan
    :name: subcommissural organ
    :versionIdentifier: 6th ed.
@@ -15686,7 +14862,6 @@ PW-RBSC-cor_6th-ed_subfornicalOrgan
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SFO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subfornicalOrgan <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subfornicalorgan>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subfornicalOrgan
    :name: subfornical organ
    :versionIdentifier: 6th ed.
@@ -15705,7 +14880,6 @@ PW-RBSC-cor_6th-ed_subgeniculateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubG
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_subgeniculateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subgeniculatenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subgeniculateNucleus
    :name: subgeniculate nucleus
    :versionIdentifier: 6th ed.
@@ -15724,7 +14898,6 @@ PW-RBSC-cor_6th-ed_subiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: S
    :additionalRemarks: Brain region name and abbreviation listed twice in chapter 'List of Structures', but not in chapter 'List of Abbreviations', of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_subiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subiculum
    :name: subiculum
    :versionIdentifier: 6th ed.
@@ -15743,7 +14916,6 @@ PW-RBSC-cor_6th-ed_subiculumTransitionArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subiculumTransitionArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subiculumtransitionarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subiculumTransitionArea
    :name: subiculum, transition area
    :versionIdentifier: 6th ed.
@@ -15762,7 +14934,6 @@ PW-RBSC-cor_6th-ed_subincertalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subincertalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subincertalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subincertalNucleus
    :name: subincertal nucleus
    :versionIdentifier: 6th ed.
@@ -15781,7 +14952,6 @@ PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdala
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_sublenticularExtendedAmygdala <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-sublenticularextendedamygdala>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdala
    :name: sublenticular extended amygdala
    :versionIdentifier: 6th ed.
@@ -15800,7 +14970,6 @@ PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdalaCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EAC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_sublenticularExtendedAmygdalaCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-sublenticularextendedamygdalacentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdalaCentralPart
    :name: sublenticular extended amygdala, central part
    :versionIdentifier: 6th ed.
@@ -15819,7 +14988,6 @@ PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdalaMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: EAM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_sublenticularExtendedAmygdalaMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-sublenticularextendedamygdalamedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_sublenticularExtendedAmygdalaMedialPart
    :name: sublenticular extended amygdala, medial part
    :versionIdentifier: 6th ed.
@@ -15838,7 +15006,6 @@ PW-RBSC-cor_6th-ed_submammillothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SMT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_submammillothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-submammillothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_submammillothalamicNucleus
    :name: submammillothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -15857,7 +15024,6 @@ PW-RBSC-cor_6th-ed_submediusThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Sub
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_submediusThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-submediusthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_submediusThalamicNucleus
    :name: submedius thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -15876,7 +15042,6 @@ PW-RBSC-cor_6th-ed_submediusThalamicNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_submediusThalamicNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-submediusthalamicnucleusdorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_submediusThalamicNucleusDorsalPart
    :name: submedius thalamic nucleus, dorsal part
    :versionIdentifier: 6th ed.
@@ -15895,7 +15060,6 @@ PW-RBSC-cor_6th-ed_submediusThalamicNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubV
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_submediusThalamicNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-submediusthalamicnucleusventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_submediusThalamicNucleusVentralPart
    :name: submedius thalamic nucleus, ventral part
    :versionIdentifier: 6th ed.
@@ -15914,7 +15078,6 @@ PW-RBSC-cor_6th-ed_subparafascicularThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SPF
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_subparafascicularThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subparafascicularthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subparafascicularThalamicNucleus
    :name: subparafascicular thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -15933,7 +15096,6 @@ PW-RBSC-cor_6th-ed_subparafascicularThalamicNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SPFPC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subparafascicularThalamicNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subparafascicularthalamicnucleusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subparafascicularThalamicNucleusParvicellularPart
    :name: subparafascicular thalamic nucleus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -15952,7 +15114,6 @@ PW-RBSC-cor_6th-ed_subparaventricularZoneOfTheHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SPa
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subparaventricularZoneOfTheHypothalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subparaventricularzoneofthehypothalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subparaventricularZoneOfTheHypothalamus
    :name: subparaventricular zone of the hypothalamus
    :versionIdentifier: 6th ed.
@@ -15971,7 +15132,6 @@ PW-RBSC-cor_6th-ed_subpeduncularTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SPTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subpeduncularTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subpedunculartegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subpeduncularTegmentalNucleus
    :name: subpeduncular tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -15990,7 +15150,6 @@ PW-RBSC-cor_6th-ed_subpostremaArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SubP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subpostremaArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subpostremaarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subpostremaArea
    :name: subpostrema area
    :versionIdentifier: 6th ed.
@@ -16009,7 +15168,6 @@ PW-RBSC-cor_6th-ed_substantiaInnominata
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SI
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_substantiaInnominata <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantiainnominata>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaInnominata
    :name: substantia innominata
    :versionIdentifier: 6th ed.
@@ -16028,7 +15186,6 @@ PW-RBSC-cor_6th-ed_substantiaInnominataBasalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SIB
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_substantiaInnominataBasalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantiainnominatabasalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaInnominataBasalPart
    :name: substantia innominata, basal part
    :versionIdentifier: 6th ed.
@@ -16047,7 +15204,6 @@ PW-RBSC-cor_6th-ed_substantiaNigraCompactPartDorsalTier
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SNCD
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_substantiaNigraCompactPartDorsalTier <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantianigracompactpartdorsaltier>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaNigraCompactPartDorsalTier
    :name: substantia nigra, compact part, dorsal tier
    :versionIdentifier: 6th ed.
@@ -16066,7 +15222,6 @@ PW-RBSC-cor_6th-ed_substantiaNigraCompactPartMedialTier
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SNCM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_substantiaNigraCompactPartMedialTier <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantianigracompactpartmedialtier>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaNigraCompactPartMedialTier
    :name: substantia nigra, compact part, medial tier
    :versionIdentifier: 6th ed.
@@ -16085,7 +15240,6 @@ PW-RBSC-cor_6th-ed_substantiaNigraCompactaPartVentralTier
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SNCV
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_substantiaNigraCompactaPartVentralTier <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantianigracompactapartventraltier>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaNigraCompactaPartVentralTier
    :name: substantia nigra, compacta part, ventral tier
    :versionIdentifier: 6th ed.
@@ -16104,7 +15258,6 @@ PW-RBSC-cor_6th-ed_substantiaNigraLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SNL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_substantiaNigraLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantianigralateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaNigraLateralPart
    :name: substantia nigra, lateral part
    :versionIdentifier: 6th ed.
@@ -16123,7 +15276,6 @@ PW-RBSC-cor_6th-ed_substantiaNigraReticularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SNR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_substantiaNigraReticularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-substantianigrareticularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_substantiaNigraReticularPart
    :name: substantia nigra, reticular part
    :versionIdentifier: 6th ed.
@@ -16142,7 +15294,6 @@ PW-RBSC-cor_6th-ed_subthalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: STh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_subthalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-subthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_subthalamicNucleus
    :name: subthalamic nucleus
    :versionIdentifier: 6th ed.
@@ -16161,7 +15312,6 @@ PW-RBSC-cor_6th-ed_superficialGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SuG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superficialGrayLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superficialgraylayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superficialGrayLayerOfTheSuperiorColliculus
    :name: superficial gray layer of the superior colliculus
    :versionIdentifier: 6th ed.
@@ -16180,7 +15330,6 @@ PW-RBSC-cor_6th-ed_superiorCerebellarPeduncleBrachiumConjunctivum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: scp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorCerebellarPeduncleBrachiumConjunctivum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiorcerebellarpedunclebrachiumconjunctivum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorCerebellarPeduncleBrachiumConjunctivum
    :name: superior cerebellar peduncle (brachium conjunctivum)
    :versionIdentifier: 6th ed.
@@ -16199,7 +15348,6 @@ PW-RBSC-cor_6th-ed_superiorCerebellarPeduncleDescendingLimb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: scpd
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorCerebellarPeduncleDescendingLimb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiorcerebellarpeduncledescendinglimb>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorCerebellarPeduncleDescendingLimb
    :name: superior cerebellar peduncle, descending limb
    :versionIdentifier: 6th ed.
@@ -16218,7 +15366,6 @@ PW-RBSC-cor_6th-ed_superiorMedullaryVelum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SMV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorMedullaryVelum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiormedullaryvelum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorMedullaryVelum
    :name: superior medullary velum
    :versionIdentifier: 6th ed.
@@ -16237,7 +15384,6 @@ PW-RBSC-cor_6th-ed_superiorParaolivaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorParaolivaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiorparaolivarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorParaolivaryNucleus
    :name: superior paraolivary nucleus
    :versionIdentifier: 6th ed.
@@ -16256,7 +15402,6 @@ PW-RBSC-cor_6th-ed_superiorSalivatoryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SuS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorSalivatoryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiorsalivatorynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorSalivatoryNucleus
    :name: superior salivatory nucleus
    :versionIdentifier: 6th ed.
@@ -16275,7 +15420,6 @@ PW-RBSC-cor_6th-ed_superiorThalamicRadiation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: str
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorThalamicRadiation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiorthalamicradiation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorThalamicRadiation
    :name: superior thalamic radiation
    :versionIdentifier: 6th ed.
@@ -16294,7 +15438,6 @@ PW-RBSC-cor_6th-ed_superiorVestibularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SuVe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_superiorVestibularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-superiorvestibularnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_superiorVestibularNucleus
    :name: superior vestibular nucleus
    :versionIdentifier: 6th ed.
@@ -16313,7 +15456,6 @@ PW-RBSC-cor_6th-ed_suprachiasmaticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SCh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_suprachiasmaticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-suprachiasmaticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_suprachiasmaticNucleus
    :name: suprachiasmatic nucleus
    :versionIdentifier: 6th ed.
@@ -16332,7 +15474,6 @@ PW-RBSC-cor_6th-ed_suprachiasmaticNucleusDorsolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SChDL
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_suprachiasmaticNucleusDorsolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-suprachiasmaticnucleusdorsolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_suprachiasmaticNucleusDorsolateralPart
    :name: suprachiasmatic nucleus, dorsolateral part
    :versionIdentifier: 6th ed.
@@ -16351,7 +15492,6 @@ PW-RBSC-cor_6th-ed_suprachiasmaticNucleusVentromedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SChVM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_suprachiasmaticNucleusVentromedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-suprachiasmaticnucleusventromedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_suprachiasmaticNucleusVentromedialPart
    :name: suprachiasmatic nucleus, ventromedial part
    :versionIdentifier: 6th ed.
@@ -16370,7 +15510,6 @@ PW-RBSC-cor_6th-ed_suprageniculateThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_suprageniculateThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-suprageniculatethalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_suprageniculateThalamicNucleus
    :name: suprageniculate thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -16389,7 +15528,6 @@ PW-RBSC-cor_6th-ed_supragenualNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SGe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supragenualNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supragenualnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supragenualNucleus
    :name: supragenual nucleus
    :versionIdentifier: 6th ed.
@@ -16408,7 +15546,6 @@ PW-RBSC-cor_6th-ed_supramammillaryDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: sumx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supramammillaryDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supramammillarydecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supramammillaryDecussation
    :name: supramammillary decussation
    :versionIdentifier: 6th ed.
@@ -16427,7 +15564,6 @@ PW-RBSC-cor_6th-ed_supramammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SuM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supramammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supramammillarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supramammillaryNucleus
    :name: supramammillary nucleus
    :versionIdentifier: 6th ed.
@@ -16446,7 +15582,6 @@ PW-RBSC-cor_6th-ed_supramammillaryNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SuML
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supramammillaryNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supramammillarynucleuslateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supramammillaryNucleusLateralPart
    :name: supramammillary nucleus, lateral part
    :versionIdentifier: 6th ed.
@@ -16465,7 +15600,6 @@ PW-RBSC-cor_6th-ed_supramammillaryNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SuMM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supramammillaryNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supramammillarynucleusmedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supramammillaryNucleusMedialPart
    :name: supramammillary nucleus, medial part
    :versionIdentifier: 6th ed.
@@ -16484,7 +15618,6 @@ PW-RBSC-cor_6th-ed_supraoculomotorCap
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Su3C
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supraoculomotorCap <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supraoculomotorcap>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supraoculomotorCap
    :name: supraoculomotor cap
    :versionIdentifier: 6th ed.
@@ -16503,7 +15636,6 @@ PW-RBSC-cor_6th-ed_supraoculomotorPeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Su3
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supraoculomotorPeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supraoculomotorperiaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supraoculomotorPeriaqueductalGray
    :name: supraoculomotor periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -16522,7 +15654,6 @@ PW-RBSC-cor_6th-ed_supraopticDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: sox
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supraopticDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supraopticdecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supraopticDecussation
    :name: supraoptic decussation
    :versionIdentifier: 6th ed.
@@ -16541,7 +15672,6 @@ PW-RBSC-cor_6th-ed_supraopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supraopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supraopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supraopticNucleus
    :name: supraoptic nucleus
    :versionIdentifier: 6th ed.
@@ -16560,7 +15690,6 @@ PW-RBSC-cor_6th-ed_supraopticNucleusRetrochiasmaticPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: SOR
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_supraopticNucleusRetrochiasmaticPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supraopticnucleusretrochiasmaticpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supraopticNucleusRetrochiasmaticPart
    :name: supraoptic nucleus, retrochiasmatic part
    :versionIdentifier: 6th ed.
@@ -16579,7 +15708,6 @@ PW-RBSC-cor_6th-ed_supratrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Su5
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_supratrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-supratrigeminalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_supratrigeminalNucleus
    :name: supratrigeminal nucleus
    :versionIdentifier: 6th ed.
@@ -16598,7 +15726,6 @@ PW-RBSC-cor_6th-ed_tectospinalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ts
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_tectospinalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-tectospinaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_tectospinalTract
    :name: tectospinal tract
    :versionIdentifier: 6th ed.
@@ -16618,7 +15745,6 @@ PW-RBSC-cor_6th-ed_temporalAssociationCortex
    :abbreviation: TeA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'. Region name has a spelling mistake ('associatin' instead of 'association'). The assumed correct name 'temporal association cortex' has been added under 'correctedName'.
    :correctedName: temporal association cortex
-   :isVersionOf: `PW-RBSC-cor_temporalAssociationCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-temporalassociationcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_temporalAssociationCortex
    :name: temporal associatin cortex
    :versionIdentifier: 6th ed.
@@ -16637,7 +15763,6 @@ PW-RBSC-cor_6th-ed_tereteHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Te
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_tereteHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-teretehypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_tereteHypothalamicNucleus
    :name: terete hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -16656,7 +15781,6 @@ PW-RBSC-cor_6th-ed_transverseFibersOfThePons
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: tfp
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_transverseFibersOfThePons <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-transversefibersofthepons>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_transverseFibersOfThePons
    :name: transverse fibers of the pons
    :versionIdentifier: 6th ed.
@@ -16675,7 +15799,6 @@ PW-RBSC-cor_6th-ed_trapezoidBody
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: tz
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trapezoidBody <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trapezoidbody>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trapezoidBody
    :name: trapezoid body
    :versionIdentifier: 6th ed.
@@ -16694,7 +15817,6 @@ PW-RBSC-cor_6th-ed_triangularNucleusLateralLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TrLL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_triangularNucleusLateralLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-triangularnucleuslaterallemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_triangularNucleusLateralLemniscus
    :name: triangular nucleus, lateral lemniscus
    :versionIdentifier: 6th ed.
@@ -16713,7 +15835,6 @@ PW-RBSC-cor_6th-ed_triangularSeptalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TS
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_triangularSeptalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-triangularseptalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_triangularSeptalNucleus
    :name: triangular septal nucleus
    :versionIdentifier: 6th ed.
@@ -16732,7 +15853,6 @@ PW-RBSC-cor_6th-ed_trigeminalGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5Gn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trigeminalGanglion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trigeminalganglion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trigeminalGanglion
    :name: trigeminal ganglion
    :versionIdentifier: 6th ed.
@@ -16751,7 +15871,6 @@ PW-RBSC-cor_6th-ed_trigeminalSolitaryTransitionZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5Sol
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_trigeminalSolitaryTransitionZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trigeminalsolitarytransitionzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trigeminalSolitaryTransitionZone
    :name: trigeminal-solitary transition zone
    :versionIdentifier: 6th ed.
@@ -16770,7 +15889,6 @@ PW-RBSC-cor_6th-ed_trigeminalTransitionZone
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 5Tr
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trigeminalTransitionZone <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trigeminaltransitionzone>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trigeminalTransitionZone
    :name: trigeminal transition zone
    :versionIdentifier: 6th ed.
@@ -16789,7 +15907,6 @@ PW-RBSC-cor_6th-ed_trigeminothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: tth
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trigeminothalamicTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trigeminothalamictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trigeminothalamicTract
    :name: trigeminothalamic tract
    :versionIdentifier: 6th ed.
@@ -16808,7 +15925,6 @@ PW-RBSC-cor_6th-ed_trochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4n
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trochlearNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trochlearnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trochlearNerve
    :name: trochlear nerve
    :versionIdentifier: 6th ed.
@@ -16827,7 +15943,6 @@ PW-RBSC-cor_6th-ed_trochlearNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4N
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trochlearNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trochlearnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trochlearNucleus
    :name: trochlear nucleus
    :versionIdentifier: 6th ed.
@@ -16846,7 +15961,6 @@ PW-RBSC-cor_6th-ed_trochlearNucluesShellRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 4Sh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_trochlearNucluesShellRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-trochlearnucluesshellregion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_trochlearNucluesShellRegion
    :name: trochlear nuclues shell region
    :versionIdentifier: 6th ed.
@@ -16865,7 +15979,6 @@ PW-RBSC-cor_6th-ed_tuberalRegionOfLateralHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: TuLH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_tuberalRegionOfLateralHypothalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-tuberalregionoflateralhypothalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_tuberalRegionOfLateralHypothalamus
    :name: tuberal region of lateral hypothalamus
    :versionIdentifier: 6th ed.
@@ -16884,7 +15997,6 @@ PW-RBSC-cor_6th-ed_uncinateFasciculusDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: unx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_uncinateFasciculusDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-uncinatefasciculusdecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_uncinateFasciculusDecussation
    :name: uncinate fasciculus decussation
    :versionIdentifier: 6th ed.
@@ -16903,7 +16015,6 @@ PW-RBSC-cor_6th-ed_uncinateFasciculusOfTheCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: un
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_uncinateFasciculusOfTheCerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-uncinatefasciculusofthecerebellum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_uncinateFasciculusOfTheCerebellum
    :name: uncinate fasciculus of the cerebellum
    :versionIdentifier: 6th ed.
@@ -16922,7 +16033,6 @@ PW-RBSC-cor_6th-ed_vagusNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 10n
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_vagusNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vagusnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vagusNerve
    :name: vagus nerve
    :versionIdentifier: 6th ed.
@@ -16941,7 +16051,6 @@ PW-RBSC-cor_6th-ed_vascularOrganOfTheLaminaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VOLT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vascularOrganOfTheLaminaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vascularorganofthelaminaterminalis>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vascularOrganOfTheLaminaTerminalis
    :name: vascular organ of the lamina terminalis
    :versionIdentifier: 6th ed.
@@ -16960,7 +16069,6 @@ PW-RBSC-cor_6th-ed_vein
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: v
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vein <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vein>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vein
    :name: vein
    :versionIdentifier: 6th ed.
@@ -16979,7 +16087,6 @@ PW-RBSC-cor_6th-ed_ventralAnteriorThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralAnteriorThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralanteriorthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralAnteriorThalamicNucleus
    :name: ventral anterior thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -16998,7 +16105,6 @@ PW-RBSC-cor_6th-ed_ventralCochlearNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VCA
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralCochlearNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralcochlearnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralCochlearNucleusAnteriorPart
    :name: ventral cochlear nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -17017,7 +16123,6 @@ PW-RBSC-cor_6th-ed_ventralCochlearNucleusCapsularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VCCap
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralCochlearNucleusCapsularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralcochlearnucleuscapsularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralCochlearNucleusCapsularPart
    :name: ventral cochlear nucleus, capsular part
    :versionIdentifier: 6th ed.
@@ -17036,7 +16141,6 @@ PW-RBSC-cor_6th-ed_ventralCochlearNucleusGranuleCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VCAGr
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralCochlearNucleusGranuleCellLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralcochlearnucleusgranulecelllayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralCochlearNucleusGranuleCellLayer
    :name: ventral cochlear nucleus, granule cell layer
    :versionIdentifier: 6th ed.
@@ -17055,7 +16159,6 @@ PW-RBSC-cor_6th-ed_ventralCochlearNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VCP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralCochlearNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralcochlearnucleusposteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralCochlearNucleusPosteriorPart
    :name: ventral cochlear nucleus, posterior part
    :versionIdentifier: 6th ed.
@@ -17074,7 +16177,6 @@ PW-RBSC-cor_6th-ed_ventralCochlearNucleusPosteriorPartOctopusCellArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VCPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralCochlearNucleusPosteriorPartOctopusCellArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralcochlearnucleusposteriorpartoctopuscellarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralCochlearNucleusPosteriorPartOctopusCellArea
    :name: ventral cochlear nucleus, posterior part, octopus cell area
    :versionIdentifier: 6th ed.
@@ -17093,7 +16195,6 @@ PW-RBSC-cor_6th-ed_ventralEndopiriformNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VEn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralEndopiriformNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralendopiriformnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralEndopiriformNucleus
    :name: ventral endopiriform nucleus
    :versionIdentifier: 6th ed.
@@ -17112,7 +16213,6 @@ PW-RBSC-cor_6th-ed_ventralGeniculateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralGeniculateNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralgeniculatenucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralGeniculateNucleus
    :name: ventral geniculate nucleus
    :versionIdentifier: 6th ed.
@@ -17131,7 +16231,6 @@ PW-RBSC-cor_6th-ed_ventralGeniculateNucleusLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VG1
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralGeniculateNucleusLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralgeniculatenucleuslayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralGeniculateNucleusLayer1
    :name: ventral geniculate nucleus, layer 1
    :versionIdentifier: 6th ed.
@@ -17150,7 +16249,6 @@ PW-RBSC-cor_6th-ed_ventralHippocampalCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vhc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralHippocampalCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralhippocampalcommissure>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralHippocampalCommissure
    :name: ventral hippocampal commissure
    :versionIdentifier: 6th ed.
@@ -17169,7 +16267,6 @@ PW-RBSC-cor_6th-ed_ventralIntermediateEntorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VIEnt
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralIntermediateEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralintermediateentorhinalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralIntermediateEntorhinalCortex
    :name: ventral intermediate entorhinal cortex
    :versionIdentifier: 6th ed.
@@ -17188,7 +16285,6 @@ PW-RBSC-cor_6th-ed_ventralLinearNucleusOfTheThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VLi
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralLinearNucleusOfTheThalamus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventrallinearnucleusofthethalamus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralLinearNucleusOfTheThalamus
    :name: ventral linear nucleus of the thalamus
    :versionIdentifier: 6th ed.
@@ -17207,7 +16303,6 @@ PW-RBSC-cor_6th-ed_ventralNucleusOfTheLatLemniscus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VLL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralNucleusOfTheLatLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralnucleusofthelatlemniscus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralNucleusOfTheLatLemniscus
    :name: ventral nucleus of the lat lemniscus
    :versionIdentifier: 6th ed.
@@ -17226,7 +16321,6 @@ PW-RBSC-cor_6th-ed_ventralOrbitalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralOrbitalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralorbitalcortex>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralOrbitalCortex
    :name: ventral orbital cortex
    :versionIdentifier: 6th ed.
@@ -17245,7 +16339,6 @@ PW-RBSC-cor_6th-ed_ventralPallidum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VP
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralPallidum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralpallidum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralPallidum
    :name: ventral pallidum
    :versionIdentifier: 6th ed.
@@ -17264,7 +16357,6 @@ PW-RBSC-cor_6th-ed_ventralPartOfClaustrum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VCl
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralPartOfClaustrum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralpartofclaustrum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralPartOfClaustrum
    :name: ventral part of claustrum
    :versionIdentifier: 6th ed.
@@ -17283,7 +16375,6 @@ PW-RBSC-cor_6th-ed_ventralPosteriorNucleusOfTheThalamusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VPPC
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralPosteriorNucleusOfTheThalamusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralposteriornucleusofthethalamusparvicellularpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralPosteriorNucleusOfTheThalamusParvicellularPart
    :name: ventral posterior nucleus of the thalamus, parvicellular part
    :versionIdentifier: 6th ed.
@@ -17302,7 +16393,6 @@ PW-RBSC-cor_6th-ed_ventralPosterolateralThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VPL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralPosterolateralThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralposterolateralthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralPosterolateralThalamicNucleus
    :name: ventral posterolateral thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17321,7 +16411,6 @@ PW-RBSC-cor_6th-ed_ventralPosteromedialThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VPM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralPosteromedialThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralposteromedialthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralPosteromedialThalamicNucleus
    :name: ventral posteromedial thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17340,7 +16429,6 @@ PW-RBSC-cor_6th-ed_ventralReuniensThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VRe
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralReuniensThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralreuniensthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralReuniensThalamicNucleus
    :name: ventral reuniens thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17359,7 +16447,6 @@ PW-RBSC-cor_6th-ed_ventralSpinocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vsc
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralSpinocerebellarTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralspinocerebellartract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralSpinocerebellarTract
    :name: ventral spinocerebellar tract
    :versionIdentifier: 6th ed.
@@ -17378,7 +16465,6 @@ PW-RBSC-cor_6th-ed_ventralSpinocerebellarTractDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vscx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralSpinocerebellarTractDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralspinocerebellartractdecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralSpinocerebellarTractDecussation
    :name: ventral spinocerebellar tract decussation
    :versionIdentifier: 6th ed.
@@ -17397,7 +16483,6 @@ PW-RBSC-cor_6th-ed_ventralSubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VS
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralSubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralsubiculum>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralSubiculum
    :name: ventral subiculum
    :versionIdentifier: 6th ed.
@@ -17416,7 +16501,6 @@ PW-RBSC-cor_6th-ed_ventralTegmentalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VTA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralTegmentalArea <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventraltegmentalarea>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTegmentalArea
    :name: ventral tegmental area
    :versionIdentifier: 6th ed.
@@ -17435,7 +16519,6 @@ PW-RBSC-cor_6th-ed_ventralTegmentalAreaRostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VTAR
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralTegmentalAreaRostralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventraltegmentalarearostralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTegmentalAreaRostralPart
    :name: ventral tegmental area, rostral part
    :versionIdentifier: 6th ed.
@@ -17454,7 +16537,6 @@ PW-RBSC-cor_6th-ed_ventralTegmentalDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vtgx
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralTegmentalDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventraltegmentaldecussation>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTegmentalDecussation
    :name: ventral tegmental decussation
    :versionIdentifier: 6th ed.
@@ -17473,7 +16555,6 @@ PW-RBSC-cor_6th-ed_ventralTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VTg
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventraltegmentalnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTegmentalNucleus
    :name: ventral tegmental nucleus
    :versionIdentifier: 6th ed.
@@ -17492,7 +16573,6 @@ PW-RBSC-cor_6th-ed_ventralTeniaTecta
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VTT
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralTeniaTecta <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralteniatecta>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTeniaTecta
    :name: ventral tenia tecta
    :versionIdentifier: 6th ed.
@@ -17511,7 +16591,6 @@ PW-RBSC-cor_6th-ed_ventralTeniaTectaLayer1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VTT1
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventralTeniaTectaLayer1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventralteniatectalayer1>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTeniaTectaLayer1
    :name: ventral tenia tecta, layer 1
    :versionIdentifier: 6th ed.
@@ -17530,7 +16609,6 @@ PW-RBSC-cor_6th-ed_ventralTuberomammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VTM
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventralTuberomammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventraltuberomammillarynucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventralTuberomammillaryNucleus
    :name: ventral tuberomammillary nucleus
    :versionIdentifier: 6th ed.
@@ -17549,7 +16627,6 @@ PW-RBSC-cor_6th-ed_ventrolateralHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VLH
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventrolateralHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventrolateralhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventrolateralHypothalamicNucleus
    :name: ventrolateral hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17568,7 +16645,6 @@ PW-RBSC-cor_6th-ed_ventrolateralHypothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vlh
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventrolateralHypothalamicTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventrolateralhypothalamictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventrolateralHypothalamicTract
    :name: ventrolateral hypothalamic tract
    :versionIdentifier: 6th ed.
@@ -17587,7 +16663,6 @@ PW-RBSC-cor_6th-ed_ventrolateralPeriaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VLPAG
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventrolateralPeriaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventrolateralperiaqueductalgray>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventrolateralPeriaqueductalGray
    :name: ventrolateral periaqueductal gray
    :versionIdentifier: 6th ed.
@@ -17606,7 +16681,6 @@ PW-RBSC-cor_6th-ed_ventrolateralPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VLPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventrolateralPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventrolateralpreopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventrolateralPreopticNucleus
    :name: ventrolateral preoptic nucleus
    :versionIdentifier: 6th ed.
@@ -17625,7 +16699,6 @@ PW-RBSC-cor_6th-ed_ventrolateralThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventrolateralThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventrolateralthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventrolateralThalamicNucleus
    :name: ventrolateral thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17644,7 +16717,6 @@ PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMH
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventromedialHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialhypothalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleus
    :name: ventromedial hypothalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17663,7 +16735,6 @@ PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMHA
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventromedialHypothalamicNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialhypothalamicnucleusanteriorpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusAnteriorPart
    :name: ventromedial hypothalamic nucleus, anterior part
    :versionIdentifier: 6th ed.
@@ -17682,7 +16753,6 @@ PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMHC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventromedialHypothalamicNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialhypothalamicnucleuscentralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusCentralPart
    :name: ventromedial hypothalamic nucleus, central part
    :versionIdentifier: 6th ed.
@@ -17701,7 +16771,6 @@ PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMHDM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventromedialHypothalamicNucleusDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialhypothalamicnucleusdorsomedialpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusDorsomedialPart
    :name: ventromedial hypothalamic nucleus, dorsomedial part
    :versionIdentifier: 6th ed.
@@ -17720,7 +16789,6 @@ PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMHVL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventromedialHypothalamicNucleusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialhypothalamicnucleusventrolateralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialHypothalamicNucleusVentrolateralPart
    :name: ventromedial hypothalamic nucleus, ventrolateral part
    :versionIdentifier: 6th ed.
@@ -17739,7 +16807,6 @@ PW-RBSC-cor_6th-ed_ventromedialNucleusOfTheHypothalamusShell
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMHSh
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_ventromedialNucleusOfTheHypothalamusShell <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialnucleusofthehypothalamusshell>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialNucleusOfTheHypothalamusShell
    :name: ventromedial nucleus of the hypothalamus shell
    :versionIdentifier: 6th ed.
@@ -17758,7 +16825,6 @@ PW-RBSC-cor_6th-ed_ventromedialPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VMPO
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventromedialPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialpreopticnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialPreopticNucleus
    :name: ventromedial preoptic nucleus
    :versionIdentifier: 6th ed.
@@ -17777,7 +16843,6 @@ PW-RBSC-cor_6th-ed_ventromedialThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VM
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_ventromedialThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-ventromedialthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_ventromedialThalamicNucleus
    :name: ventromedial thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17796,7 +16861,6 @@ PW-RBSC-cor_6th-ed_vertebralArtery
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vert
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vertebralArtery <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vertebralartery>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vertebralArtery
    :name: vertebral artery
    :versionIdentifier: 6th ed.
@@ -17815,7 +16879,6 @@ PW-RBSC-cor_6th-ed_vestibularRootOfTheVestibulocochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 8vn
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vestibularRootOfTheVestibulocochlearNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vestibularrootofthevestibulocochlearnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vestibularRootOfTheVestibulocochlearNerve
    :name: vestibular root of the vestibulocochlear nerve
    :versionIdentifier: 6th ed.
@@ -17834,7 +16897,6 @@ PW-RBSC-cor_6th-ed_vestibulocerebellarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VeCb
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vestibulocerebellarNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vestibulocerebellarnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vestibulocerebellarNucleus
    :name: vestibulocerebellar nucleus
    :versionIdentifier: 6th ed.
@@ -17853,7 +16915,6 @@ PW-RBSC-cor_6th-ed_vestibulocochlearGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 8Gn
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_vestibulocochlearGanglion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vestibulocochlearganglion>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vestibulocochlearGanglion
    :name: vestibulocochlear ganglion
    :versionIdentifier: 6th ed.
@@ -17872,7 +16933,6 @@ PW-RBSC-cor_6th-ed_vestibulocochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: 8n
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vestibulocochlearNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vestibulocochlearnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vestibulocochlearNerve
    :name: vestibulocochlear nerve
    :versionIdentifier: 6th ed.
@@ -17891,7 +16951,6 @@ PW-RBSC-cor_6th-ed_vestibulomesencephalicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: veme
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_vestibulomesencephalicTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vestibulomesencephalictract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vestibulomesencephalicTract
    :name: vestibulomesencephalic tract
    :versionIdentifier: 6th ed.
@@ -17910,7 +16969,6 @@ PW-RBSC-cor_6th-ed_vestibulospinalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vesp
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_vestibulospinalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vestibulospinaltract>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vestibulospinalTract
    :name: vestibulospinal tract
    :versionIdentifier: 6th ed.
@@ -17929,7 +16987,6 @@ PW-RBSC-cor_6th-ed_vomeronasalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: vn
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_vomeronasalNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vomeronasalnerve>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vomeronasalNerve
    :name: vomeronasal nerve
    :versionIdentifier: 6th ed.
@@ -17948,7 +17005,6 @@ PW-RBSC-cor_6th-ed_vomeronasalNerveLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: VN
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_vomeronasalNerveLayer <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-vomeronasalnervelayer>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_vomeronasalNerveLayer
    :name: vomeronasal nerve layer
    :versionIdentifier: 6th ed.
@@ -17967,7 +17023,6 @@ PW-RBSC-cor_6th-ed_xiphoidThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Xi
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_xiphoidThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-xiphoidthalamicnucleus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_xiphoidThalamicNucleus
    :name: xiphoid thalamic nucleus
    :versionIdentifier: 6th ed.
@@ -17986,7 +17041,6 @@ PW-RBSC-cor_6th-ed_zonaIncerta
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ZI
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_zonaIncerta <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonaincerta>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonaIncerta
    :name: zona incerta
    :versionIdentifier: 6th ed.
@@ -18005,7 +17059,6 @@ PW-RBSC-cor_6th-ed_zonaIncertaCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ZIC
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_zonaIncertaCaudalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonaincertacaudalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonaIncertaCaudalPart
    :name: zona incerta, caudal part
    :versionIdentifier: 6th ed.
@@ -18024,7 +17077,6 @@ PW-RBSC-cor_6th-ed_zonaIncertaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ZID
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_zonaIncertaDorsalPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonaincertadorsalpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonaIncertaDorsalPart
    :name: zona incerta, dorsal part
    :versionIdentifier: 6th ed.
@@ -18043,7 +17095,6 @@ PW-RBSC-cor_6th-ed_zonaIncertaRostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ZIR
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_zonaIncertaRostralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonaincertarostralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonaIncertaRostralPart
    :name: zona incerta, rostral part
    :versionIdentifier: 6th ed.
@@ -18062,7 +17113,6 @@ PW-RBSC-cor_6th-ed_zonaIncertaVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ZIV
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_zonaIncertaVentralPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonaincertaventralpart>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonaIncertaVentralPart
    :name: zona incerta, ventral part
    :versionIdentifier: 6th ed.
@@ -18081,7 +17131,6 @@ PW-RBSC-cor_6th-ed_zonaLimitans
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: ZL
    :additionalRemarks: Brain region name and abbreviation listed in both chapter 'List of Abbreviations' and chapter 'List of Structures' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from chapter 'List of Abbreviations'.
-   :isVersionOf: `PW-RBSC-cor_zonaLimitans <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonalimitans>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonaLimitans
    :name: zona limitans
    :versionIdentifier: 6th ed.
@@ -18100,7 +17149,6 @@ PW-RBSC-cor_6th-ed_zonalLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :abbreviation: Zo
    :additionalRemarks: Brain region name and abbreviation only listed in chapter 'List of Abbreviations' of the 6th edition of The Rat Brain in Stereotaxic Coordinates (ISBN: 0-12-547612-4). Brain region name and abbreviation were taken from this chapter.
-   :isVersionOf: `PW-RBSC-cor_zonalLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/PW-RBSC-cor.html#pw-rbsc-cor-zonallayerofthesuperiorcolliculus>`_
    :lookupLabel: PW-RBSC-cor_6th-ed_zonalLayerOfTheSuperiorColliculus
    :name: zonal layer of the superior colliculus
    :versionIdentifier: 6th ed.

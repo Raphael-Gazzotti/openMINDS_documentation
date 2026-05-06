@@ -32,9 +32,9 @@ Address to which or from which an electronic mail can be sent.
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.om-i.org/props/email
-   :value type: | string array \(1-N\)
+   :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter all relevant contact email addresses.
+   :instructions: Enter the email address of the party (e.g., of the person).
 
 `BACK TO TOP <ContactInformation_>`_
 

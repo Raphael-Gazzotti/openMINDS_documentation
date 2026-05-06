@@ -2,7 +2,7 @@
 Terminologies: LearningResourceType library
 ###########################################
 
-Related schema specification: `LearningResourceType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/learningResourceType.html>`_
+Related schema specification: `LearningResourceType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/learningResourceType.html>`_
 
 ------------
 

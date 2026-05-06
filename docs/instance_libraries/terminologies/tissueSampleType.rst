@@ -2,7 +2,7 @@
 Terminologies: TissueSampleType library
 #######################################
 
-Related schema specification: `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueSampleType.html>`_
+Related schema specification: `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tissueSampleType.html>`_
 
 ------------
 
@@ -17,6 +17,7 @@ biopsySample
    :@id: https://openminds.om-i.org/instances/tissueSampleType/biopsySample
    :@type: https://openminds.om-i.org/types/TissueSampleType
    :definition: Typically very small sample of tissue that was excised from a living or deceased multicellular organism body.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0782394
    :name: biopsy sample
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/OBI_0002650
 

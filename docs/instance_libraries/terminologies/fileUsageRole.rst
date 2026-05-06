@@ -2,7 +2,7 @@
 Terminologies: FileUsageRole library
 ####################################
 
-Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/fileUsageRole.html>`_
+Related schema specification: `FileUsageRole <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/fileUsageRole.html>`_
 
 ------------
 

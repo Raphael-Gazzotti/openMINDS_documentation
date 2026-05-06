@@ -2,7 +2,7 @@
 ParcellationEntities: SwansonBM library
 #######################################
 
-Related schema specification: `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
+Related schema specification: `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_
 
 ------------
 
@@ -17,6 +17,7 @@ SwansonBM_AmmonsHornNoguez
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_AmmonsHornNoguez
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA
+   :hasVersion: `SwansonBM_3rd-ed_AmmonsHornNoguez <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ammonshornnoguez>`_
    :lookupLabel: SwansonBM_AmmonsHornNoguez
    :name: Ammon’s horn [Noguez]
 
@@ -33,6 +34,7 @@ SwansonBM_BarringtonsNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_BarringtonsNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: B
+   :hasVersion: `SwansonBM_3rd-ed_BarringtonsNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-barringtonsnucleus>`_
    :lookupLabel: SwansonBM_BarringtonsNucleus
    :name: Barrington’s nucleus
 
@@ -49,6 +51,7 @@ SwansonBM_EdingerWestphalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_EdingerWestphalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: EW
+   :hasVersion: `SwansonBM_3rd-ed_EdingerWestphalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-edingerwestphalnucleus>`_
    :lookupLabel: SwansonBM_EdingerWestphalNucleus
    :name: Edinger-Westphal nucleus
 
@@ -65,6 +68,7 @@ SwansonBM_KollikerFuseSubnucleusOfPB
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_KollikerFuseSubnucleusOfPB
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: KF
+   :hasVersion: `SwansonBM_3rd-ed_KollikerFuseSubnucleusOfPB <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-kollikerfusesubnucleusofpb>`_
    :lookupLabel: SwansonBM_KollikerFuseSubnucleusOfPB
    :name: Kölliker-Fuse subnucleus (of PB)
 
@@ -81,6 +85,7 @@ SwansonBM_OnufsNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_OnufsNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ON
+   :hasVersion: `SwansonBM_3rd-ed_OnufsNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-onufsnucleus>`_
    :lookupLabel: SwansonBM_OnufsNucleus
    :name: Onuf’s nucleus
 
@@ -97,6 +102,7 @@ SwansonBM_abducensNerveEustachius
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_abducensNerveEustachius
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VIn
+   :hasVersion: `SwansonBM_3rd-ed_abducensNerveEustachius <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-abducensnerveeustachius>`_
    :lookupLabel: SwansonBM_abducensNerveEustachius
    :name: abducens nerve [Eustachius]
 
@@ -113,6 +119,7 @@ SwansonBM_abducensNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_abducensNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VI
+   :hasVersion: `SwansonBM_3rd-ed_abducensNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-abducensnucleus>`_
    :lookupLabel: SwansonBM_abducensNucleus
    :name: abducens nucleus
 
@@ -129,6 +136,7 @@ SwansonBM_accessoryAbducensNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryAbducensNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ACVI
+   :hasVersion: `SwansonBM_3rd-ed_accessoryAbducensNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryabducensnucleus>`_
    :lookupLabel: SwansonBM_accessoryAbducensNucleus
    :name: accessory abducens nucleus
 
@@ -145,6 +153,7 @@ SwansonBM_accessoryFacialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryFacialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ACVII
+   :hasVersion: `SwansonBM_3rd-ed_accessoryFacialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryfacialnucleus>`_
    :lookupLabel: SwansonBM_accessoryFacialNucleus
    :name: accessory facial nucleus
 
@@ -161,6 +170,7 @@ SwansonBM_accessoryOlfactoryBulbBalogh
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbBalogh
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AOB
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOlfactoryBulbBalogh <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryolfactorybulbbalogh>`_
    :lookupLabel: SwansonBM_accessoryOlfactoryBulbBalogh
    :name: accessory olfactory bulb [Balogh]
 
@@ -177,6 +187,7 @@ SwansonBM_accessoryOlfactoryBulbGlomerularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbGlomerularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AOBgl
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOlfactoryBulbGlomerularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryolfactorybulbglomerularlayer>`_
    :lookupLabel: SwansonBM_accessoryOlfactoryBulbGlomerularLayer
    :name: accessory olfactory bulb, glomerular layer
 
@@ -193,6 +204,7 @@ SwansonBM_accessoryOlfactoryBulbGranuleCellLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbGranuleCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AOBgr
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOlfactoryBulbGranuleCellLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryolfactorybulbgranulecelllayer>`_
    :lookupLabel: SwansonBM_accessoryOlfactoryBulbGranuleCellLayer
    :name: accessory olfactory bulb, granule cell layer
 
@@ -209,6 +221,7 @@ SwansonBM_accessoryOlfactoryBulbMitralLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryBulbMitralLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AOBmi
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOlfactoryBulbMitralLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryolfactorybulbmitrallayer>`_
    :lookupLabel: SwansonBM_accessoryOlfactoryBulbMitralLayer
    :name: accessory olfactory bulb, mitral layer
 
@@ -225,6 +238,7 @@ SwansonBM_accessoryOlfactoryNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: aIn
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOlfactoryNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryolfactorynerve>`_
    :lookupLabel: SwansonBM_accessoryOlfactoryNerve
    :name: accessory olfactory nerve
 
@@ -241,6 +255,7 @@ SwansonBM_accessoryOlfactoryTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: aolt
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryolfactorytract>`_
    :lookupLabel: SwansonBM_accessoryOlfactoryTract
    :name: accessory olfactory tract
 
@@ -257,6 +272,7 @@ SwansonBM_accessoryOpticTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessoryOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: aot
+   :hasVersion: `SwansonBM_3rd-ed_accessoryOpticTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryoptictract>`_
    :lookupLabel: SwansonBM_accessoryOpticTract
    :name: accessory optic tract
 
@@ -273,6 +289,7 @@ SwansonBM_accessorySpinalNerveWillis
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessorySpinalNerveWillis
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: XIn
+   :hasVersion: `SwansonBM_3rd-ed_accessorySpinalNerveWillis <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessoryspinalnervewillis>`_
    :lookupLabel: SwansonBM_accessorySpinalNerveWillis
    :name: accessory spinal nerve [Willis]
 
@@ -289,6 +306,7 @@ SwansonBM_accessorySupraopticGroup
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_accessorySupraopticGroup
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ASO
+   :hasVersion: `SwansonBM_3rd-ed_accessorySupraopticGroup <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-accessorysupraopticgroup>`_
    :lookupLabel: SwansonBM_accessorySupraopticGroup
    :name: accessory supraoptic group
 
@@ -305,6 +323,7 @@ SwansonBM_agranularInsularArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AI
+   :hasVersion: `SwansonBM_3rd-ed_agranularInsularArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-agranularinsulararea>`_
    :lookupLabel: SwansonBM_agranularInsularArea
    :name: agranular insular area
 
@@ -321,6 +340,7 @@ SwansonBM_agranularInsularAreaDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularAreaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AId
+   :hasVersion: `SwansonBM_3rd-ed_agranularInsularAreaDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-agranularinsularareadorsalpart>`_
    :lookupLabel: SwansonBM_agranularInsularAreaDorsalPart
    :name: agranular insular area, dorsal part
 
@@ -337,6 +357,7 @@ SwansonBM_agranularInsularAreaPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularAreaPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AIp
+   :hasVersion: `SwansonBM_3rd-ed_agranularInsularAreaPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-agranularinsularareaposteriorpart>`_
    :lookupLabel: SwansonBM_agranularInsularAreaPosteriorPart
    :name: agranular insular area, posterior part
 
@@ -353,6 +374,7 @@ SwansonBM_agranularInsularAreaVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_agranularInsularAreaVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AIv
+   :hasVersion: `SwansonBM_3rd-ed_agranularInsularAreaVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-agranularinsularareaventralpart>`_
    :lookupLabel: SwansonBM_agranularInsularAreaVentralPart
    :name: agranular insular area, ventral part
 
@@ -369,6 +391,7 @@ SwansonBM_alveusBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_alveusBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: alv
+   :hasVersion: `SwansonBM_3rd-ed_alveusBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-alveusburdach>`_
    :lookupLabel: SwansonBM_alveusBurdach
    :name: alveus [Burdach]
 
@@ -385,6 +408,7 @@ SwansonBM_amygdalaBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_amygdalaBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AMY
+   :hasVersion: `SwansonBM_3rd-ed_amygdalaBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-amygdalaburdach>`_
    :lookupLabel: SwansonBM_amygdalaBurdach
    :name: amygdala [Burdach]
 
@@ -401,6 +425,7 @@ SwansonBM_amygdalarCapsule
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_amygdalarCapsule
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: amc
+   :hasVersion: `SwansonBM_3rd-ed_amygdalarCapsule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-amygdalarcapsule>`_
    :lookupLabel: SwansonBM_amygdalarCapsule
    :name: amygdalar capsule
 
@@ -417,6 +442,7 @@ SwansonBM_angularBundle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_angularBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ab
+   :hasVersion: `SwansonBM_3rd-ed_angularBundle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-angularbundle>`_
    :lookupLabel: SwansonBM_angularBundle
    :name: angular bundle
 
@@ -433,6 +459,7 @@ SwansonBM_ansaPeduncularisGratiolet
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansaPeduncularisGratiolet
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: apd
+   :hasVersion: `SwansonBM_3rd-ed_ansaPeduncularisGratiolet <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ansapeduncularisgratiolet>`_
    :lookupLabel: SwansonBM_ansaPeduncularisGratiolet
    :name: ansa peduncularis [Gratiolet]
 
@@ -449,6 +476,7 @@ SwansonBM_ansiformLobule
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansiformLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AN
+   :hasVersion: `SwansonBM_3rd-ed_ansiformLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ansiformlobule>`_
    :lookupLabel: SwansonBM_ansiformLobule
    :name: ansiform lobule
 
@@ -465,6 +493,7 @@ SwansonBM_ansiformLobuleCrus1SublobulesAd
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansiformLobuleCrus1SublobulesAd
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANcr1a-d
+   :hasVersion: `SwansonBM_3rd-ed_ansiformLobuleCrus1SublobulesAd <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ansiformlobulecrus1sublobulesad>`_
    :lookupLabel: SwansonBM_ansiformLobuleCrus1SublobulesAd
    :name: ansiform lobule, crus 1, sublobules a-d
 
@@ -481,6 +510,7 @@ SwansonBM_ansiformLobuleCrus2SublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansiformLobuleCrus2SublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANcr2a,b
+   :hasVersion: `SwansonBM_3rd-ed_ansiformLobuleCrus2SublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ansiformlobulecrus2sublobulesab>`_
    :lookupLabel: SwansonBM_ansiformLobuleCrus2SublobulesAb
    :name: ansiform lobule, crus 2, sublobules a,b
 
@@ -497,6 +527,7 @@ SwansonBM_ansoparamedianFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ansoparamedianFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: apf
+   :hasVersion: `SwansonBM_3rd-ed_ansoparamedianFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ansoparamedianfissure>`_
    :lookupLabel: SwansonBM_ansoparamedianFissure
    :name: ansoparamedian fissure
 
@@ -513,6 +544,7 @@ SwansonBM_anteriorAmygdalarArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorAmygdalarArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AAA
+   :hasVersion: `SwansonBM_3rd-ed_anteriorAmygdalarArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anterioramygdalararea>`_
    :lookupLabel: SwansonBM_anteriorAmygdalarArea
    :name: anterior amygdalar area
 
@@ -529,6 +561,7 @@ SwansonBM_anteriorCingulateArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCingulateArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ACA
+   :hasVersion: `SwansonBM_3rd-ed_anteriorCingulateArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorcingulatearea>`_
    :lookupLabel: SwansonBM_anteriorCingulateArea
    :name: anterior cingulate area
 
@@ -545,6 +578,7 @@ SwansonBM_anteriorCingulateAreaDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCingulateAreaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ACAd
+   :hasVersion: `SwansonBM_3rd-ed_anteriorCingulateAreaDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorcingulateareadorsalpart>`_
    :lookupLabel: SwansonBM_anteriorCingulateAreaDorsalPart
    :name: anterior cingulate area, dorsal part
 
@@ -561,6 +595,7 @@ SwansonBM_anteriorCingulateAreaVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCingulateAreaVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ACAv
+   :hasVersion: `SwansonBM_3rd-ed_anteriorCingulateAreaVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorcingulateareaventralpart>`_
    :lookupLabel: SwansonBM_anteriorCingulateAreaVentralPart
    :name: anterior cingulate area, ventral part
 
@@ -577,6 +612,7 @@ SwansonBM_anteriorCommissureOlfactoryLimb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCommissureOlfactoryLimb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: aco
+   :hasVersion: `SwansonBM_3rd-ed_anteriorCommissureOlfactoryLimb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorcommissureolfactorylimb>`_
    :lookupLabel: SwansonBM_anteriorCommissureOlfactoryLimb
    :name: anterior commissure, olfactory limb
 
@@ -593,6 +629,7 @@ SwansonBM_anteriorCommissureRiolan
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCommissureRiolan
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ac
+   :hasVersion: `SwansonBM_3rd-ed_anteriorCommissureRiolan <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorcommissureriolan>`_
    :lookupLabel: SwansonBM_anteriorCommissureRiolan
    :name: anterior commissure [Riolan]
 
@@ -609,6 +646,7 @@ SwansonBM_anteriorCommissureTemporalLimb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorCommissureTemporalLimb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: act
+   :hasVersion: `SwansonBM_3rd-ed_anteriorCommissureTemporalLimb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorcommissuretemporallimb>`_
    :lookupLabel: SwansonBM_anteriorCommissureTemporalLimb
    :name: anterior commissure, temporal limb
 
@@ -625,6 +663,7 @@ SwansonBM_anteriorHypothalamicArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AHA
+   :hasVersion: `SwansonBM_3rd-ed_anteriorHypothalamicArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorhypothalamicarea>`_
    :lookupLabel: SwansonBM_anteriorHypothalamicArea
    :name: anterior hypothalamic area
 
@@ -641,6 +680,7 @@ SwansonBM_anteriorHypothalamicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AHN
+   :hasVersion: `SwansonBM_3rd-ed_anteriorHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorhypothalamicnucleus>`_
    :lookupLabel: SwansonBM_anteriorHypothalamicNucleus
    :name: anterior hypothalamic nucleus
 
@@ -657,6 +697,7 @@ SwansonBM_anteriorHypothalamicNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AHNa
+   :hasVersion: `SwansonBM_3rd-ed_anteriorHypothalamicNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorhypothalamicnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_anteriorHypothalamicNucleusAnteriorPart
    :name: anterior hypothalamic nucleus, anterior part
 
@@ -673,6 +714,7 @@ SwansonBM_anteriorHypothalamicNucleusCentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AHNc
+   :hasVersion: `SwansonBM_3rd-ed_anteriorHypothalamicNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorhypothalamicnucleuscentralpart>`_
    :lookupLabel: SwansonBM_anteriorHypothalamicNucleusCentralPart
    :name: anterior hypothalamic nucleus, central part
 
@@ -689,6 +731,7 @@ SwansonBM_anteriorHypothalamicNucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AHNd
+   :hasVersion: `SwansonBM_3rd-ed_anteriorHypothalamicNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorhypothalamicnucleusdorsalpart>`_
    :lookupLabel: SwansonBM_anteriorHypothalamicNucleusDorsalPart
    :name: anterior hypothalamic nucleus, dorsal part
 
@@ -705,6 +748,7 @@ SwansonBM_anteriorHypothalamicNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorHypothalamicNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AHNp
+   :hasVersion: `SwansonBM_3rd-ed_anteriorHypothalamicNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorhypothalamicnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_anteriorHypothalamicNucleusPosteriorPart
    :name: anterior hypothalamic nucleus, posterior part
 
@@ -721,6 +765,7 @@ SwansonBM_anteriorLaterolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorLaterolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISlla
+   :hasVersion: `SwansonBM_3rd-ed_anteriorLaterolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorlaterolateralvisualarea>`_
    :lookupLabel: SwansonBM_anteriorLaterolateralVisualArea
    :name: anterior laterolateral visual area
 
@@ -737,6 +782,7 @@ SwansonBM_anteriorLevelHypothalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorLevelHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANT
+   :hasVersion: `SwansonBM_3rd-ed_anteriorLevelHypothalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorlevelhypothalamus>`_
    :lookupLabel: SwansonBM_anteriorLevelHypothalamus
    :name: anterior level, hypothalamus
 
@@ -753,6 +799,7 @@ SwansonBM_anteriorLobeCerebellum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorLobeCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ALC
+   :hasVersion: `SwansonBM_3rd-ed_anteriorLobeCerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorlobecerebellum>`_
    :lookupLabel: SwansonBM_anteriorLobeCerebellum
    :name: anterior lobe cerebellum
 
@@ -769,6 +816,7 @@ SwansonBM_anteriorNucleiDorsalThalamusNissl
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorNucleiDorsalThalamusNissl
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ATN
+   :hasVersion: `SwansonBM_3rd-ed_anteriorNucleiDorsalThalamusNissl <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriornucleidorsalthalamusnissl>`_
    :lookupLabel: SwansonBM_anteriorNucleiDorsalThalamusNissl
    :name: anterior nuclei, dorsal thalamus [Nissl]
 
@@ -785,6 +833,7 @@ SwansonBM_anteriorOlfactoryNucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONd
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusdorsalpart>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusDorsalPart
    :name: anterior olfactory nucleus, dorsal part
 
@@ -801,6 +850,7 @@ SwansonBM_anteriorOlfactoryNucleusDorsalPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusDorsalPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONd1
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusdorsalpartmolecularlayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusDorsalPartMolecularLayer
    :name: anterior olfactory nucleus, dorsal part, molecular layer
 
@@ -817,6 +867,7 @@ SwansonBM_anteriorOlfactoryNucleusDorsalPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusDorsalPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONd2
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusDorsalPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusdorsalpartpyramidallayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusDorsalPartPyramidalLayer
    :name: anterior olfactory nucleus, dorsal part, pyramidal layer
 
@@ -833,6 +884,7 @@ SwansonBM_anteriorOlfactoryNucleusExternalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONe
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusexternalpart>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusExternalPart
    :name: anterior olfactory nucleus, external part
 
@@ -849,6 +901,7 @@ SwansonBM_anteriorOlfactoryNucleusExternalPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONe1
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusexternalpartmolecularlayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusExternalPartMolecularLayer
    :name: anterior olfactory nucleus, external part, molecular layer
 
@@ -865,6 +918,7 @@ SwansonBM_anteriorOlfactoryNucleusExternalPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusExternalPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONe2
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusExternalPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusexternalpartpyramidallayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusExternalPartPyramidalLayer
    :name: anterior olfactory nucleus, external part, pyramidal layer
 
@@ -881,6 +935,7 @@ SwansonBM_anteriorOlfactoryNucleusKolliker
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusKolliker
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AON
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusKolliker <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleuskolliker>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusKolliker
    :name: anterior olfactory nucleus [Kölliker]
 
@@ -897,6 +952,7 @@ SwansonBM_anteriorOlfactoryNucleusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONl
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleuslateralpart>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusLateralPart
    :name: anterior olfactory nucleus, lateral part
 
@@ -913,6 +969,7 @@ SwansonBM_anteriorOlfactoryNucleusLateralPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONl1
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleuslateralpartmolecularlayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusLateralPartMolecularLayer
    :name: anterior olfactory nucleus, lateral part, molecular layer
 
@@ -929,6 +986,7 @@ SwansonBM_anteriorOlfactoryNucleusLateralPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusLateralPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONl2
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusLateralPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleuslateralpartpyramidallayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusLateralPartPyramidalLayer
    :name: anterior olfactory nucleus, lateral part, pyramidal layer
 
@@ -945,6 +1003,7 @@ SwansonBM_anteriorOlfactoryNucleusMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONm
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusmedialpart>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusMedialPart
    :name: anterior olfactory nucleus, medial part
 
@@ -961,6 +1020,7 @@ SwansonBM_anteriorOlfactoryNucleusMedialPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusMedialPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONm1
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusmedialpartmolecularlayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusMedialPartMolecularLayer
    :name: anterior olfactory nucleus, medial part, molecular layer
 
@@ -977,6 +1037,7 @@ SwansonBM_anteriorOlfactoryNucleusMedialPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusMedialPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONm2
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusMedialPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusmedialpartpyramidallayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusMedialPartPyramidalLayer
    :name: anterior olfactory nucleus, medial part, pyramidal layer
 
@@ -993,6 +1054,7 @@ SwansonBM_anteriorOlfactoryNucleusPosteroventralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusPosteroventralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONpv
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusposteroventralpart>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusPosteroventralPart
    :name: anterior olfactory nucleus, posteroventral part
 
@@ -1009,6 +1071,7 @@ SwansonBM_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONpv1
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusposteroventralpartmolecularlayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusPosteroventralPartMolecularLayer
    :name: anterior olfactory nucleus, posteroventral part, molecular layer
 
@@ -1025,6 +1088,7 @@ SwansonBM_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AONpv2
+   :hasVersion: `SwansonBM_3rd-ed_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorolfactorynucleusposteroventralpartpyramidallayer>`_
    :lookupLabel: SwansonBM_anteriorOlfactoryNucleusPosteroventralPartPyramidalLayer
    :name: anterior olfactory nucleus, posteroventral part, pyramidal layer
 
@@ -1041,6 +1105,7 @@ SwansonBM_anteriorPretectalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: APN
+   :hasVersion: `SwansonBM_3rd-ed_anteriorPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriorpretectalnucleus>`_
    :lookupLabel: SwansonBM_anteriorPretectalNucleus
    :name: anterior pretectal nucleus
 
@@ -1057,6 +1122,7 @@ SwansonBM_anteriorTegmentalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteriorTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AT
+   :hasVersion: `SwansonBM_3rd-ed_anteriorTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteriortegmentalnucleus>`_
    :lookupLabel: SwansonBM_anteriorTegmentalNucleus
    :name: anterior tegmental nucleus
 
@@ -1073,6 +1139,7 @@ SwansonBM_anterodorsalNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anterodorsalNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AD
+   :hasVersion: `SwansonBM_3rd-ed_anterodorsalNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anterodorsalnucleusthalamus>`_
    :lookupLabel: SwansonBM_anterodorsalNucleusThalamus
    :name: anterodorsal nucleus thalamus
 
@@ -1089,6 +1156,7 @@ SwansonBM_anterodorsalPreopticNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anterodorsalPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ADP
+   :hasVersion: `SwansonBM_3rd-ed_anterodorsalPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anterodorsalpreopticnucleus>`_
    :lookupLabel: SwansonBM_anterodorsalPreopticNucleus
    :name: anterodorsal preoptic nucleus
 
@@ -1105,6 +1173,7 @@ SwansonBM_anterolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anterolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISal
+   :hasVersion: `SwansonBM_3rd-ed_anterolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anterolateralvisualarea>`_
    :lookupLabel: SwansonBM_anterolateralVisualArea
    :name: anterolateral visual area
 
@@ -1121,6 +1190,7 @@ SwansonBM_anteromedialNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AM
+   :hasVersion: `SwansonBM_3rd-ed_anteromedialNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteromedialnucleusthalamus>`_
    :lookupLabel: SwansonBM_anteromedialNucleusThalamus
    :name: anteromedial nucleus thalamus
 
@@ -1137,6 +1207,7 @@ SwansonBM_anteromedialNucleusThalamusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialNucleusThalamusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AMd
+   :hasVersion: `SwansonBM_3rd-ed_anteromedialNucleusThalamusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteromedialnucleusthalamusdorsalpart>`_
    :lookupLabel: SwansonBM_anteromedialNucleusThalamusDorsalPart
    :name: anteromedial nucleus thalamus, dorsal part
 
@@ -1153,6 +1224,7 @@ SwansonBM_anteromedialNucleusThalamusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialNucleusThalamusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AMv
+   :hasVersion: `SwansonBM_3rd-ed_anteromedialNucleusThalamusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteromedialnucleusthalamusventralpart>`_
    :lookupLabel: SwansonBM_anteromedialNucleusThalamusVentralPart
    :name: anteromedial nucleus thalamus, ventral part
 
@@ -1169,6 +1241,7 @@ SwansonBM_anteromedialVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteromedialVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISam
+   :hasVersion: `SwansonBM_3rd-ed_anteromedialVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteromedialvisualarea>`_
    :lookupLabel: SwansonBM_anteromedialVisualArea
    :name: anteromedial visual area
 
@@ -1185,6 +1258,7 @@ SwansonBM_anteroventralNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AV
+   :hasVersion: `SwansonBM_3rd-ed_anteroventralNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteroventralnucleusthalamus>`_
    :lookupLabel: SwansonBM_anteroventralNucleusThalamus
    :name: anteroventral nucleus thalamus
 
@@ -1201,6 +1275,7 @@ SwansonBM_anteroventralPeriventricularNucleusHypothalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralPeriventricularNucleusHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AVPV
+   :hasVersion: `SwansonBM_3rd-ed_anteroventralPeriventricularNucleusHypothalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteroventralperiventricularnucleushypothalamus>`_
    :lookupLabel: SwansonBM_anteroventralPeriventricularNucleusHypothalamus
    :name: anteroventral periventricular nucleus hypothalamus
 
@@ -1217,6 +1292,7 @@ SwansonBM_anteroventralPreopticNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_anteroventralPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AVP
+   :hasVersion: `SwansonBM_3rd-ed_anteroventralPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-anteroventralpreopticnucleus>`_
    :lookupLabel: SwansonBM_anteroventralPreopticNucleus
    :name: anteroventral preoptic nucleus
 
@@ -1233,6 +1309,7 @@ SwansonBM_arachnoid
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arachnoid
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: A
+   :hasVersion: `SwansonBM_3rd-ed_arachnoid <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-arachnoid>`_
    :lookupLabel: SwansonBM_arachnoid
    :name: arachnoid
 
@@ -1249,6 +1326,7 @@ SwansonBM_arborVitae
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arborVitae
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: arb
+   :hasVersion: `SwansonBM_3rd-ed_arborVitae <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-arborvitae>`_
    :lookupLabel: SwansonBM_arborVitae
    :name: arbor vitae
 
@@ -1265,6 +1343,7 @@ SwansonBM_arcuateHypothalamicNucleusClark
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_arcuateHypothalamicNucleusClark
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ARH
+   :hasVersion: `SwansonBM_3rd-ed_arcuateHypothalamicNucleusClark <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-arcuatehypothalamicnucleusclark>`_
    :lookupLabel: SwansonBM_arcuateHypothalamicNucleusClark
    :name: arcuate hypothalamic nucleus [Clark]
 
@@ -1281,6 +1360,7 @@ SwansonBM_areaPostrema
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_areaPostrema
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AP
+   :hasVersion: `SwansonBM_3rd-ed_areaPostrema <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-areapostrema>`_
    :lookupLabel: SwansonBM_areaPostrema
    :name: area postrema
 
@@ -1297,6 +1377,7 @@ SwansonBM_auditoryAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_auditoryAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AUD
+   :hasVersion: `SwansonBM_3rd-ed_auditoryAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-auditoryareas>`_
    :lookupLabel: SwansonBM_auditoryAreas
    :name: auditory areas
 
@@ -1313,6 +1394,7 @@ SwansonBM_autonomicGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_autonomicGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GA
+   :hasVersion: `SwansonBM_3rd-ed_autonomicGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-autonomicganglia>`_
    :lookupLabel: SwansonBM_autonomicGanglia
    :name: autonomic ganglia
 
@@ -1329,6 +1411,7 @@ SwansonBM_autonomicNervousSystemLangley
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_autonomicNervousSystemLangley
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANS
+   :hasVersion: `SwansonBM_3rd-ed_autonomicNervousSystemLangley <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-autonomicnervoussystemlangley>`_
    :lookupLabel: SwansonBM_autonomicNervousSystemLangley
    :name: autonomic nervous system [Langley]
 
@@ -1345,6 +1428,7 @@ SwansonBM_basalNucleusOfTheDorsalHorn
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basalNucleusOfTheDorsalHorn
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BN
+   :hasVersion: `SwansonBM_3rd-ed_basalNucleusOfTheDorsalHorn <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basalnucleusofthedorsalhorn>`_
    :lookupLabel: SwansonBM_basalNucleusOfTheDorsalHorn
    :name: basal nucleus of the dorsal horn
 
@@ -1361,6 +1445,7 @@ SwansonBM_basalNucleusOfTheDorsalHornGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basalNucleusOfTheDorsalHornGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BNg
+   :hasVersion: `SwansonBM_3rd-ed_basalNucleusOfTheDorsalHornGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basalnucleusofthedorsalhorngeneral>`_
    :lookupLabel: SwansonBM_basalNucleusOfTheDorsalHornGeneral
    :name: basal nucleus of the dorsal horn, general
 
@@ -1377,6 +1462,7 @@ SwansonBM_basolateralAmygdalarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basolateralAmygdalarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BLA
+   :hasVersion: `SwansonBM_3rd-ed_basolateralAmygdalarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basolateralamygdalarnucleus>`_
    :lookupLabel: SwansonBM_basolateralAmygdalarNucleus
    :name: basolateral amygdalar nucleus
 
@@ -1393,6 +1479,7 @@ SwansonBM_basolateralAmygdalarNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basolateralAmygdalarNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BLAa
+   :hasVersion: `SwansonBM_3rd-ed_basolateralAmygdalarNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basolateralamygdalarnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_basolateralAmygdalarNucleusAnteriorPart
    :name: basolateral amygdalar nucleus, anterior part
 
@@ -1409,6 +1496,7 @@ SwansonBM_basolateralAmygdalarNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basolateralAmygdalarNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BLAp
+   :hasVersion: `SwansonBM_3rd-ed_basolateralAmygdalarNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basolateralamygdalarnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_basolateralAmygdalarNucleusPosteriorPart
    :name: basolateral amygdalar nucleus, posterior part
 
@@ -1425,6 +1513,7 @@ SwansonBM_basomedialAmygdalarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BMA
+   :hasVersion: `SwansonBM_3rd-ed_basomedialAmygdalarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basomedialamygdalarnucleus>`_
    :lookupLabel: SwansonBM_basomedialAmygdalarNucleus
    :name: basomedial amygdalar nucleus
 
@@ -1441,6 +1530,7 @@ SwansonBM_basomedialAmygdalarNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BMAa
+   :hasVersion: `SwansonBM_3rd-ed_basomedialAmygdalarNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basomedialamygdalarnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_basomedialAmygdalarNucleusAnteriorPart
    :name: basomedial amygdalar nucleus, anterior part
 
@@ -1457,6 +1547,7 @@ SwansonBM_basomedialAmygdalarNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_basomedialAmygdalarNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BMAp
+   :hasVersion: `SwansonBM_3rd-ed_basomedialAmygdalarNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-basomedialamygdalarnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_basomedialAmygdalarNucleusPosteriorPart
    :name: basomedial amygdalar nucleus, posterior part
 
@@ -1473,6 +1564,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTa
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivision>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivision
    :name: bed nuclei stria terminalis, anterior division
 
@@ -1489,6 +1581,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTal
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionanterolateralarea>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnterolateralArea
    :name: bed nuclei stria terminalis, anterior division, anterolateral area
 
@@ -1505,6 +1598,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTam
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionanteromedialarea>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionAnteromedialArea
    :name: bed nuclei stria terminalis, anterior division, anteromedial area
 
@@ -1521,6 +1615,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTdm
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisiondorsomedialnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionDorsomedialNucleus
    :name: bed nuclei stria terminalis, anterior division, dorsomedial nucleus
 
@@ -1537,6 +1632,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTfu
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionfusiformnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionFusiformNucleus
    :name: bed nuclei stria terminalis, anterior division, fusiform nucleus
 
@@ -1553,6 +1649,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTju
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionjuxtacapsularnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionJuxtacapsularNucleus
    :name: bed nuclei stria terminalis, anterior division, juxtacapsular nucleus
 
@@ -1569,6 +1666,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTmg
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionmagnocellularnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionMagnocellularNucleus
    :name: bed nuclei stria terminalis, anterior division, magnocellular nucleus
 
@@ -1585,6 +1683,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTov
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionovalnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionOvalNucleus
    :name: bed nuclei stria terminalis, anterior division, oval nucleus
 
@@ -1601,6 +1700,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTrh
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionrhomboidnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionRhomboidNucleus
    :name: bed nuclei stria terminalis, anterior division, rhomboid nucleus
 
@@ -1617,6 +1717,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTsc
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionsubcommissuralzone>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionSubcommissuralZone
    :name: bed nuclei stria terminalis, anterior division, subcommissural zone
 
@@ -1633,6 +1734,7 @@ SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTv
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisanteriordivisionventralnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisAnteriorDivisionVentralNucleus
    :name: bed nuclei stria terminalis, anterior division, ventral nucleus
 
@@ -1649,6 +1751,7 @@ SwansonBM_bedNucleiStriaTerminalisJohnston
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisJohnston
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BST
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisJohnston <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisjohnston>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisJohnston
    :name: bed nuclei stria terminalis [Johnston]
 
@@ -1665,6 +1768,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTp
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivision>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivision
    :name: bed nuclei stria terminalis, posterior division
 
@@ -1681,6 +1785,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTsz
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisioncellsparsezone>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionCellsparseZone
    :name: bed nuclei stria terminalis, posterior division, cell-sparse zone
 
@@ -1697,6 +1802,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTd
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisiondorsalnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionDorsalNucleus
    :name: bed nuclei stria terminalis, posterior division, dorsal nucleus
 
@@ -1713,6 +1819,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTif
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisioninterfascicularnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionInterfascicularNucleus
    :name: bed nuclei stria terminalis, posterior division, interfascicular nucleus
 
@@ -1729,6 +1836,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTpm
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisionpremedullarynucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPremedullaryNucleus
    :name: bed nuclei stria terminalis, posterior division, premedullary nucleus
 
@@ -1745,6 +1853,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTpr
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisionprincipalnucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionPrincipalNucleus
    :name: bed nuclei stria terminalis, posterior division, principal nucleus
 
@@ -1761,6 +1870,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTse
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisionstrialextension>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionStrialExtension
    :name: bed nuclei stria terminalis, posterior division, strial extension
 
@@ -1777,6 +1887,7 @@ SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSTtr
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleistriaterminalisposteriordivisiontransversenucleus>`_
    :lookupLabel: SwansonBM_bedNucleiStriaTerminalisPosteriorDivisionTransverseNucleus
    :name: bed nuclei stria terminalis, posterior division, transverse nucleus
 
@@ -1793,6 +1904,7 @@ SwansonBM_bedNucleusAccessoryOlfactoryTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleusAccessoryOlfactoryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BA
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleusAccessoryOlfactoryTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleusaccessoryolfactorytract>`_
    :lookupLabel: SwansonBM_bedNucleusAccessoryOlfactoryTract
    :name: bed nucleus accessory olfactory tract
 
@@ -1809,6 +1921,7 @@ SwansonBM_bedNucleusAnteriorCommissureGurdjian
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleusAnteriorCommissureGurdjian
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BAC
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleusAnteriorCommissureGurdjian <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleusanteriorcommissuregurdjian>`_
    :lookupLabel: SwansonBM_bedNucleusAnteriorCommissureGurdjian
    :name: bed nucleus anterior commissure [Gurdjian]
 
@@ -1825,6 +1938,7 @@ SwansonBM_bedNucleusOfTheStriaMedullarisCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bedNucleusOfTheStriaMedullarisCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BSM
+   :hasVersion: `SwansonBM_3rd-ed_bedNucleusOfTheStriaMedullarisCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bednucleusofthestriamedullariscajal>`_
    :lookupLabel: SwansonBM_bedNucleusOfTheStriaMedullarisCajal
    :name: bed nucleus of the stria medullaris [Cajal]
 
@@ -1841,6 +1955,7 @@ SwansonBM_behaviorControlColumn
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_behaviorControlColumn
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BCC
+   :hasVersion: `SwansonBM_3rd-ed_behaviorControlColumn <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-behaviorcontrolcolumn>`_
    :lookupLabel: SwansonBM_behaviorControlColumn
    :name: behavior control column
 
@@ -1857,6 +1972,7 @@ SwansonBM_behavioralStateSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_behavioralStateSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: STA
+   :hasVersion: `SwansonBM_3rd-ed_behavioralStateSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-behavioralstatesystem>`_
    :lookupLabel: SwansonBM_behavioralStateSystem
    :name: behavioral state system
 
@@ -1873,6 +1989,7 @@ SwansonBM_brachialPlexus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brachialPlexus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: bp
+   :hasVersion: `SwansonBM_3rd-ed_brachialPlexus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-brachialplexus>`_
    :lookupLabel: SwansonBM_brachialPlexus
    :name: brachial plexus
 
@@ -1889,6 +2006,7 @@ SwansonBM_brachiumOfTheInferiorColliculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brachiumOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: bic
+   :hasVersion: `SwansonBM_3rd-ed_brachiumOfTheInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-brachiumoftheinferiorcolliculus>`_
    :lookupLabel: SwansonBM_brachiumOfTheInferiorColliculus
    :name: brachium of the inferior colliculus
 
@@ -1905,6 +2023,7 @@ SwansonBM_brachiumOfTheSuperiorColliculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: bsc
+   :hasVersion: `SwansonBM_3rd-ed_brachiumOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-brachiumofthesuperiorcolliculus>`_
    :lookupLabel: SwansonBM_brachiumOfTheSuperiorColliculus
    :name: brachium of the superior colliculus
 
@@ -1921,6 +2040,7 @@ SwansonBM_brain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BR
+   :hasVersion: `SwansonBM_3rd-ed_brain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-brain>`_
    :lookupLabel: SwansonBM_brain
    :name: brain
 
@@ -1937,6 +2057,7 @@ SwansonBM_brainstem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_brainstem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: BS
+   :hasVersion: `SwansonBM_3rd-ed_brainstem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-brainstem>`_
    :lookupLabel: SwansonBM_brainstem
    :name: brainstem
 
@@ -1953,6 +2074,7 @@ SwansonBM_bulbocerebellarTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_bulbocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: bct
+   :hasVersion: `SwansonBM_3rd-ed_bulbocerebellarTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-bulbocerebellartract>`_
    :lookupLabel: SwansonBM_bulbocerebellarTract
    :name: bulbocerebellar tract
 
@@ -1969,6 +2091,7 @@ SwansonBM_caudalIntracentralFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_caudalIntracentralFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: icec
+   :hasVersion: `SwansonBM_3rd-ed_caudalIntracentralFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-caudalintracentralfissure>`_
    :lookupLabel: SwansonBM_caudalIntracentralFissure
    :name: caudal intracentral fissure
 
@@ -1985,6 +2108,7 @@ SwansonBM_caudoputamen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_caudoputamen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CP
+   :hasVersion: `SwansonBM_3rd-ed_caudoputamen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-caudoputamen>`_
    :lookupLabel: SwansonBM_caudoputamen
    :name: caudoputamen
 
@@ -2001,6 +2125,7 @@ SwansonBM_celiacGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_celiacGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GCE
+   :hasVersion: `SwansonBM_3rd-ed_celiacGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-celiacganglion>`_
    :lookupLabel: SwansonBM_celiacGanglion
    :name: celiac ganglion
 
@@ -2017,6 +2142,7 @@ SwansonBM_centralAmygdalarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CEA
+   :hasVersion: `SwansonBM_3rd-ed_centralAmygdalarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralamygdalarnucleus>`_
    :lookupLabel: SwansonBM_centralAmygdalarNucleus
    :name: central amygdalar nucleus
 
@@ -2033,6 +2159,7 @@ SwansonBM_centralAmygdalarNucleusCapsularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusCapsularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CEAc
+   :hasVersion: `SwansonBM_3rd-ed_centralAmygdalarNucleusCapsularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralamygdalarnucleuscapsularpart>`_
    :lookupLabel: SwansonBM_centralAmygdalarNucleusCapsularPart
    :name: central amygdalar nucleus, capsular part
 
@@ -2049,6 +2176,7 @@ SwansonBM_centralAmygdalarNucleusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CEAl
+   :hasVersion: `SwansonBM_3rd-ed_centralAmygdalarNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralamygdalarnucleuslateralpart>`_
    :lookupLabel: SwansonBM_centralAmygdalarNucleusLateralPart
    :name: central amygdalar nucleus, lateral part
 
@@ -2065,6 +2193,7 @@ SwansonBM_centralAmygdalarNucleusMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralAmygdalarNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CEAm
+   :hasVersion: `SwansonBM_3rd-ed_centralAmygdalarNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralamygdalarnucleusmedialpart>`_
    :lookupLabel: SwansonBM_centralAmygdalarNucleusMedialPart
    :name: central amygdalar nucleus, medial part
 
@@ -2081,6 +2210,7 @@ SwansonBM_centralCanalSpinalCordmedulla
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralCanalSpinalCordmedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: C
+   :hasVersion: `SwansonBM_3rd-ed_centralCanalSpinalCordmedulla <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralcanalspinalcordmedulla>`_
    :lookupLabel: SwansonBM_centralCanalSpinalCordmedulla
    :name: central canal, spinal cord/medulla
 
@@ -2097,6 +2227,7 @@ SwansonBM_centralCervicalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralCervicalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CEC
+   :hasVersion: `SwansonBM_3rd-ed_centralCervicalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralcervicalnucleus>`_
    :lookupLabel: SwansonBM_centralCervicalNucleus
    :name: central cervical nucleus
 
@@ -2113,6 +2244,7 @@ SwansonBM_centralGray
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralGray
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CG
+   :hasVersion: `SwansonBM_3rd-ed_centralGray <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralgray>`_
    :lookupLabel: SwansonBM_centralGray
    :name: central gray
 
@@ -2129,6 +2261,7 @@ SwansonBM_centralGrayBrain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralGrayBrain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CGB
+   :hasVersion: `SwansonBM_3rd-ed_centralGrayBrain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralgraybrain>`_
    :lookupLabel: SwansonBM_centralGrayBrain
    :name: central gray brain
 
@@ -2145,6 +2278,7 @@ SwansonBM_centralLateralNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLateralNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CL
+   :hasVersion: `SwansonBM_3rd-ed_centralLateralNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centrallateralnucleusthalamus>`_
    :lookupLabel: SwansonBM_centralLateralNucleusThalamus
    :name: central lateral nucleus thalamus
 
@@ -2161,6 +2295,7 @@ SwansonBM_centralLinearNucleusRaphe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLinearNucleusRaphe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CLI
+   :hasVersion: `SwansonBM_3rd-ed_centralLinearNucleusRaphe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centrallinearnucleusraphe>`_
    :lookupLabel: SwansonBM_centralLinearNucleusRaphe
    :name: central linear nucleus raphé
 
@@ -2177,6 +2312,7 @@ SwansonBM_centralLobule
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CENT
+   :hasVersion: `SwansonBM_3rd-ed_centralLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centrallobule>`_
    :lookupLabel: SwansonBM_centralLobule
    :name: central lobule
 
@@ -2193,6 +2329,7 @@ SwansonBM_centralLobuleLobuleIIISublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLobuleLobuleIIISublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CENT3a,b
+   :hasVersion: `SwansonBM_3rd-ed_centralLobuleLobuleIIISublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centrallobulelobuleiiisublobulesab>`_
    :lookupLabel: SwansonBM_centralLobuleLobuleIIISublobulesAb
    :name: central lobule, lobule III, sublobules a,b
 
@@ -2209,6 +2346,7 @@ SwansonBM_centralLobuleLobuleIISublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralLobuleLobuleIISublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CENT2a,b
+   :hasVersion: `SwansonBM_3rd-ed_centralLobuleLobuleIISublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centrallobulelobuleiisublobulesab>`_
    :lookupLabel: SwansonBM_centralLobuleLobuleIISublobulesAb
    :name: central lobule, lobule II, sublobules a,b
 
@@ -2225,6 +2363,7 @@ SwansonBM_centralMedialNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralMedialNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CM
+   :hasVersion: `SwansonBM_3rd-ed_centralMedialNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralmedialnucleusthalamus>`_
    :lookupLabel: SwansonBM_centralMedialNucleusThalamus
    :name: central medial nucleus thalamus
 
@@ -2241,6 +2380,7 @@ SwansonBM_centralNervousSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralNervousSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CNS
+   :hasVersion: `SwansonBM_3rd-ed_centralNervousSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralnervoussystem>`_
    :lookupLabel: SwansonBM_centralNervousSystem
    :name: central nervous system
 
@@ -2257,6 +2397,7 @@ SwansonBM_centralNervousSystemGrayMatter
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralNervousSystemGrayMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CNSg
+   :hasVersion: `SwansonBM_3rd-ed_centralNervousSystemGrayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralnervoussystemgraymatter>`_
    :lookupLabel: SwansonBM_centralNervousSystemGrayMatter
    :name: central nervous system gray matter
 
@@ -2273,6 +2414,7 @@ SwansonBM_centralNervousSystemWhiteMatter
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralNervousSystemWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cnsw
+   :hasVersion: `SwansonBM_3rd-ed_centralNervousSystemWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centralnervoussystemwhitematter>`_
    :lookupLabel: SwansonBM_centralNervousSystemWhiteMatter
    :name: central nervous system white matter
 
@@ -2289,6 +2431,7 @@ SwansonBM_centralTegmentalBundleBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_centralTegmentalBundleBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ctb
+   :hasVersion: `SwansonBM_3rd-ed_centralTegmentalBundleBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-centraltegmentalbundlebechterew>`_
    :lookupLabel: SwansonBM_centralTegmentalBundleBechterew
    :name: central tegmental bundle [Bechterew]
 
@@ -2305,6 +2448,7 @@ SwansonBM_cerebellarCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cbc
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarcommissure>`_
    :lookupLabel: SwansonBM_cerebellarCommissure
    :name: cerebellar commissure
 
@@ -2321,6 +2465,7 @@ SwansonBM_cerebellarCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CBX
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarcortex>`_
    :lookupLabel: SwansonBM_cerebellarCortex
    :name: cerebellar cortex
 
@@ -2337,6 +2482,7 @@ SwansonBM_cerebellarCortexGranuleCellLayerInner
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexGranuleCellLayerInner
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CBXg
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarCortexGranuleCellLayerInner <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarcortexgranulecelllayerinner>`_
    :lookupLabel: SwansonBM_cerebellarCortexGranuleCellLayerInner
    :name: cerebellar cortex, granule cell layer (inner)
 
@@ -2353,6 +2499,7 @@ SwansonBM_cerebellarCortexGrooves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexGrooves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: grvcb
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarCortexGrooves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarcortexgrooves>`_
    :lookupLabel: SwansonBM_cerebellarCortexGrooves
    :name: cerebellar cortex grooves
 
@@ -2369,6 +2516,7 @@ SwansonBM_cerebellarCortexMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CBXm
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarCortexMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarcortexmolecularlayer>`_
    :lookupLabel: SwansonBM_cerebellarCortexMolecularLayer
    :name: cerebellar cortex, molecular layer
 
@@ -2385,6 +2533,7 @@ SwansonBM_cerebellarCortexPurkinjeLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarCortexPurkinjeLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CBXp
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarCortexPurkinjeLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarcortexpurkinjelayer>`_
    :lookupLabel: SwansonBM_cerebellarCortexPurkinjeLayer
    :name: cerebellar cortex, Purkinje layer
 
@@ -2401,6 +2550,7 @@ SwansonBM_cerebellarNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CBN
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarnuclei>`_
    :lookupLabel: SwansonBM_cerebellarNuclei
    :name: cerebellar nuclei
 
@@ -2417,6 +2567,7 @@ SwansonBM_cerebellarPeduncles
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellarPeduncles
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cbp
+   :hasVersion: `SwansonBM_3rd-ed_cerebellarPeduncles <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellarpeduncles>`_
    :lookupLabel: SwansonBM_cerebellarPeduncles
    :name: cerebellar peduncles
 
@@ -2433,6 +2584,7 @@ SwansonBM_cerebellumHerophilusErasistratus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellumHerophilusErasistratus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CB
+   :hasVersion: `SwansonBM_3rd-ed_cerebellumHerophilusErasistratus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellumherophiluserasistratus>`_
    :lookupLabel: SwansonBM_cerebellumHerophilusErasistratus
    :name: cerebellum [Herophilus, Erasistratus]
 
@@ -2449,6 +2601,7 @@ SwansonBM_cerebellumRelatedFiberTracts
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebellumRelatedFiberTracts
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cbf
+   :hasVersion: `SwansonBM_3rd-ed_cerebellumRelatedFiberTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebellumrelatedfibertracts>`_
    :lookupLabel: SwansonBM_cerebellumRelatedFiberTracts
    :name: cerebellum related fiber tracts
 
@@ -2465,6 +2618,7 @@ SwansonBM_cerebralAqueductCollicularRecess
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralAqueductCollicularRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AQc
+   :hasVersion: `SwansonBM_3rd-ed_cerebralAqueductCollicularRecess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralaqueductcollicularrecess>`_
    :lookupLabel: SwansonBM_cerebralAqueductCollicularRecess
    :name: cerebral aqueduct, collicular recess
 
@@ -2481,6 +2635,7 @@ SwansonBM_cerebralAqueductGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralAqueductGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AQg
+   :hasVersion: `SwansonBM_3rd-ed_cerebralAqueductGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralaqueductgeneral>`_
    :lookupLabel: SwansonBM_cerebralAqueductGeneral
    :name: cerebral aqueduct, general
 
@@ -2497,6 +2652,7 @@ SwansonBM_cerebralAqueductProperSylvius
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralAqueductProperSylvius
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AQ
+   :hasVersion: `SwansonBM_3rd-ed_cerebralAqueductProperSylvius <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralaqueductpropersylvius>`_
    :lookupLabel: SwansonBM_cerebralAqueductProperSylvius
    :name: cerebral aqueduct proper [Sylvius]
 
@@ -2513,6 +2669,7 @@ SwansonBM_cerebralCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CTX
+   :hasVersion: `SwansonBM_3rd-ed_cerebralCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralcortex>`_
    :lookupLabel: SwansonBM_cerebralCortex
    :name: cerebral cortex
 
@@ -2529,6 +2686,7 @@ SwansonBM_cerebralCortexCorticalPlate
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexCorticalPlate
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CTXpl
+   :hasVersion: `SwansonBM_3rd-ed_cerebralCortexCorticalPlate <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralcortexcorticalplate>`_
    :lookupLabel: SwansonBM_cerebralCortexCorticalPlate
    :name: cerebral cortex, cortical plate
 
@@ -2545,6 +2703,7 @@ SwansonBM_cerebralCortexGrooves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexGrooves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: grvc
+   :hasVersion: `SwansonBM_3rd-ed_cerebralCortexGrooves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralcortexgrooves>`_
    :lookupLabel: SwansonBM_cerebralCortexGrooves
    :name: cerebral cortex grooves
 
@@ -2561,6 +2720,7 @@ SwansonBM_cerebralCortexPolymodalAssociationCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexPolymodalAssociationCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CTXpm
+   :hasVersion: `SwansonBM_3rd-ed_cerebralCortexPolymodalAssociationCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralcortexpolymodalassociationcortex>`_
    :lookupLabel: SwansonBM_cerebralCortexPolymodalAssociationCortex
    :name: cerebral cortex, polymodal association cortex
 
@@ -2577,6 +2737,7 @@ SwansonBM_cerebralCortexSensorymotorCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexSensorymotorCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CTXsm
+   :hasVersion: `SwansonBM_3rd-ed_cerebralCortexSensorymotorCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralcortexsensorymotorcortex>`_
    :lookupLabel: SwansonBM_cerebralCortexSensorymotorCortex
    :name: cerebral cortex, sensory-motor cortex
 
@@ -2593,6 +2754,7 @@ SwansonBM_cerebralCortexSubplateRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralCortexSubplateRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CTXsp
+   :hasVersion: `SwansonBM_3rd-ed_cerebralCortexSubplateRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralcortexsubplateregion>`_
    :lookupLabel: SwansonBM_cerebralCortexSubplateRegion
    :name: cerebral cortex, subplate region
 
@@ -2609,6 +2771,7 @@ SwansonBM_cerebralNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CNU
+   :hasVersion: `SwansonBM_3rd-ed_cerebralNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralnuclei>`_
    :lookupLabel: SwansonBM_cerebralNuclei
    :name: cerebral nuclei
 
@@ -2625,6 +2788,7 @@ SwansonBM_cerebralPeduncle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebralPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cpd
+   :hasVersion: `SwansonBM_3rd-ed_cerebralPeduncle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebralpeduncle>`_
    :lookupLabel: SwansonBM_cerebralPeduncle
    :name: cerebral peduncle
 
@@ -2641,6 +2805,7 @@ SwansonBM_cerebrospinalFluid
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebrospinalFluid
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CSF
+   :hasVersion: `SwansonBM_3rd-ed_cerebrospinalFluid <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebrospinalfluid>`_
    :lookupLabel: SwansonBM_cerebrospinalFluid
    :name: cerebrospinal fluid
 
@@ -2657,6 +2822,7 @@ SwansonBM_cerebrospinalTrunk
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebrospinalTrunk
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TK
+   :hasVersion: `SwansonBM_3rd-ed_cerebrospinalTrunk <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebrospinaltrunk>`_
    :lookupLabel: SwansonBM_cerebrospinalTrunk
    :name: cerebrospinal trunk
 
@@ -2673,6 +2839,7 @@ SwansonBM_cerebrumCerebralHemispheresEndbrainTelencephalon
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cerebrumCerebralHemispheresEndbrainTelencephalon
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CH
+   :hasVersion: `SwansonBM_3rd-ed_cerebrumCerebralHemispheresEndbrainTelencephalon <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cerebrumcerebralhemispheresendbraintelencephalon>`_
    :lookupLabel: SwansonBM_cerebrumCerebralHemispheresEndbrainTelencephalon
    :name: cerebrum (cerebral hemispheres, endbrain, telencephalon)
 
@@ -2689,6 +2856,7 @@ SwansonBM_cervicalPlexus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicalPlexus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cep
+   :hasVersion: `SwansonBM_3rd-ed_cervicalPlexus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cervicalplexus>`_
    :lookupLabel: SwansonBM_cervicalPlexus
    :name: cervical plexus
 
@@ -2705,6 +2873,7 @@ SwansonBM_cervicalSpinalGanglia18
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicalSpinalGanglia18
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: G-C1-8
+   :hasVersion: `SwansonBM_3rd-ed_cervicalSpinalGanglia18 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cervicalspinalganglia18>`_
    :lookupLabel: SwansonBM_cervicalSpinalGanglia18
    :name: cervical spinal ganglia, 1-8
 
@@ -2721,6 +2890,7 @@ SwansonBM_cervicothalamicTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cervicothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cett
+   :hasVersion: `SwansonBM_3rd-ed_cervicothalamicTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cervicothalamictract>`_
    :lookupLabel: SwansonBM_cervicothalamicTract
    :name: cervicothalamic tract
 
@@ -2737,6 +2907,7 @@ SwansonBM_choroidFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chf
+   :hasVersion: `SwansonBM_3rd-ed_choroidFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidfissure>`_
    :lookupLabel: SwansonBM_choroidFissure
    :name: choroid fissure
 
@@ -2753,6 +2924,7 @@ SwansonBM_choroidFissureFourthVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureFourthVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chf4
+   :hasVersion: `SwansonBM_3rd-ed_choroidFissureFourthVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidfissurefourthventricle>`_
    :lookupLabel: SwansonBM_choroidFissureFourthVentricle
    :name: choroid fissure, fourth ventricle
 
@@ -2769,6 +2941,7 @@ SwansonBM_choroidFissureLateralVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureLateralVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chfl
+   :hasVersion: `SwansonBM_3rd-ed_choroidFissureLateralVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidfissurelateralventricle>`_
    :lookupLabel: SwansonBM_choroidFissureLateralVentricle
    :name: choroid fissure, lateral ventricle
 
@@ -2785,6 +2958,7 @@ SwansonBM_choroidFissureThirdVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidFissureThirdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chf3
+   :hasVersion: `SwansonBM_3rd-ed_choroidFissureThirdVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidfissurethirdventricle>`_
    :lookupLabel: SwansonBM_choroidFissureThirdVentricle
    :name: choroid fissure, third ventricle
 
@@ -2801,6 +2975,7 @@ SwansonBM_choroidPlexus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chp
+   :hasVersion: `SwansonBM_3rd-ed_choroidPlexus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidplexus>`_
    :lookupLabel: SwansonBM_choroidPlexus
    :name: choroid plexus
 
@@ -2817,6 +2992,7 @@ SwansonBM_choroidPlexusFourthVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexusFourthVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chp4
+   :hasVersion: `SwansonBM_3rd-ed_choroidPlexusFourthVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidplexusfourthventricle>`_
    :lookupLabel: SwansonBM_choroidPlexusFourthVentricle
    :name: choroid plexus, fourth ventricle
 
@@ -2833,6 +3009,7 @@ SwansonBM_choroidPlexusLateralVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexusLateralVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chpl
+   :hasVersion: `SwansonBM_3rd-ed_choroidPlexusLateralVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidplexuslateralventricle>`_
    :lookupLabel: SwansonBM_choroidPlexusLateralVentricle
    :name: choroid plexus, lateral ventricle
 
@@ -2849,6 +3026,7 @@ SwansonBM_choroidPlexusThirdVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidPlexusThirdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: chp3
+   :hasVersion: `SwansonBM_3rd-ed_choroidPlexusThirdVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidplexusthirdventricle>`_
    :lookupLabel: SwansonBM_choroidPlexusThirdVentricle
    :name: choroid plexus, third ventricle
 
@@ -2865,6 +3043,7 @@ SwansonBM_choroidalFissureEye
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_choroidalFissureEye
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cho
+   :hasVersion: `SwansonBM_3rd-ed_choroidalFissureEye <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-choroidalfissureeye>`_
    :lookupLabel: SwansonBM_choroidalFissureEye
    :name: choroidal fissure (eye)
 
@@ -2881,6 +3060,7 @@ SwansonBM_ciliaryGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ciliaryGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GcIII
+   :hasVersion: `SwansonBM_3rd-ed_ciliaryGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ciliaryganglion>`_
    :lookupLabel: SwansonBM_ciliaryGanglion
    :name: ciliary ganglion
 
@@ -2897,6 +3077,7 @@ SwansonBM_ciliaryNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ciliaryNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cin
+   :hasVersion: `SwansonBM_3rd-ed_ciliaryNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ciliarynerve>`_
    :lookupLabel: SwansonBM_ciliaryNerve
    :name: ciliary nerve
 
@@ -2913,6 +3094,7 @@ SwansonBM_cingulateRegionBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cingulateRegionBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CNG
+   :hasVersion: `SwansonBM_3rd-ed_cingulateRegionBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cingulateregionburdach>`_
    :lookupLabel: SwansonBM_cingulateRegionBurdach
    :name: cingulate region [Burdach]
 
@@ -2929,6 +3111,7 @@ SwansonBM_cingulumBundleReil
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cingulumBundleReil
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cing
+   :hasVersion: `SwansonBM_3rd-ed_cingulumBundleReil <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cingulumbundlereil>`_
    :lookupLabel: SwansonBM_cingulumBundleReil
    :name: cingulum bundle [Reil]
 
@@ -2945,6 +3128,7 @@ SwansonBM_claustrumBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_claustrumBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CLA
+   :hasVersion: `SwansonBM_3rd-ed_claustrumBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-claustrumburdach>`_
    :lookupLabel: SwansonBM_claustrumBurdach
    :name: claustrum [Burdach]
 
@@ -2961,6 +3145,7 @@ SwansonBM_coccygealSpinalGanglia13
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_coccygealSpinalGanglia13
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: G-Co1-3
+   :hasVersion: `SwansonBM_3rd-ed_coccygealSpinalGanglia13 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-coccygealspinalganglia13>`_
    :lookupLabel: SwansonBM_coccygealSpinalGanglia13
    :name: coccygeal spinal ganglia, 1-3
 
@@ -2977,6 +3162,7 @@ SwansonBM_coccygealSympatheticGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_coccygealSympatheticGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Gs-C
+   :hasVersion: `SwansonBM_3rd-ed_coccygealSympatheticGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-coccygealsympatheticganglion>`_
    :lookupLabel: SwansonBM_coccygealSympatheticGanglion
    :name: coccygeal sympathetic ganglion
 
@@ -2993,6 +3179,7 @@ SwansonBM_cochlearNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cVIIIn
+   :hasVersion: `SwansonBM_3rd-ed_cochlearNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cochlearnerve>`_
    :lookupLabel: SwansonBM_cochlearNerve
    :name: cochlear nerve
 
@@ -3009,6 +3196,7 @@ SwansonBM_cochlearNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CN
+   :hasVersion: `SwansonBM_3rd-ed_cochlearNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cochlearnuclei>`_
    :lookupLabel: SwansonBM_cochlearNuclei
    :name: cochlear nuclei
 
@@ -3025,6 +3213,7 @@ SwansonBM_cochlearNucleiGranularLamina
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNucleiGranularLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CNlam
+   :hasVersion: `SwansonBM_3rd-ed_cochlearNucleiGranularLamina <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cochlearnucleigranularlamina>`_
    :lookupLabel: SwansonBM_cochlearNucleiGranularLamina
    :name: cochlear nuclei, granular lamina
 
@@ -3041,6 +3230,7 @@ SwansonBM_cochlearNucleiSubpeduncularGranularRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cochlearNucleiSubpeduncularGranularRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CNspg
+   :hasVersion: `SwansonBM_3rd-ed_cochlearNucleiSubpeduncularGranularRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cochlearnucleisubpedunculargranularregion>`_
    :lookupLabel: SwansonBM_cochlearNucleiSubpeduncularGranularRegion
    :name: cochlear nuclei, subpeduncular granular region
 
@@ -3057,6 +3247,7 @@ SwansonBM_columnsOfTheFornix
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_columnsOfTheFornix
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fx
+   :hasVersion: `SwansonBM_3rd-ed_columnsOfTheFornix <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-columnsofthefornix>`_
    :lookupLabel: SwansonBM_columnsOfTheFornix
    :name: columns of the fornix
 
@@ -3073,6 +3264,7 @@ SwansonBM_commissuralNucleusPeriaqueductalGrayPaxinosWatson
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_commissuralNucleusPeriaqueductalGrayPaxinosWatson
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COM
+   :hasVersion: `SwansonBM_3rd-ed_commissuralNucleusPeriaqueductalGrayPaxinosWatson <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-commissuralnucleusperiaqueductalgraypaxinoswatson>`_
    :lookupLabel: SwansonBM_commissuralNucleusPeriaqueductalGrayPaxinosWatson
    :name: commissural nucleus, periaqueductal gray [Paxinos-Watson]
 
@@ -3089,6 +3281,7 @@ SwansonBM_copulaPyramidisSublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_copulaPyramidisSublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COPYa,b
+   :hasVersion: `SwansonBM_3rd-ed_copulaPyramidisSublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-copulapyramidissublobulesab>`_
    :lookupLabel: SwansonBM_copulaPyramidisSublobulesAb
    :name: copula pyramidis, sublobules a,b
 
@@ -3105,6 +3298,7 @@ SwansonBM_corpusCallosumAnteriorForcepsArnold
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumAnteriorForcepsArnold
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fa
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumAnteriorForcepsArnold <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumanteriorforcepsarnold>`_
    :lookupLabel: SwansonBM_corpusCallosumAnteriorForcepsArnold
    :name: corpus callosum, anterior forceps [Arnold]
 
@@ -3121,6 +3315,7 @@ SwansonBM_corpusCallosumBody
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumBody
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ccb
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumBody <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumbody>`_
    :lookupLabel: SwansonBM_corpusCallosumBody
    :name: corpus callosum, body
 
@@ -3137,6 +3332,7 @@ SwansonBM_corpusCallosumGalen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumGalen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cc
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumGalen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumgalen>`_
    :lookupLabel: SwansonBM_corpusCallosumGalen
    :name: corpus callosum [Galen]
 
@@ -3153,6 +3349,7 @@ SwansonBM_corpusCallosumGenu
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumGenu
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ccg
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumGenu <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumgenu>`_
    :lookupLabel: SwansonBM_corpusCallosumGenu
    :name: corpus callosum, genu
 
@@ -3169,6 +3366,7 @@ SwansonBM_corpusCallosumPosteriorForcepsArnold
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumPosteriorForcepsArnold
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fp
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumPosteriorForcepsArnold <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumposteriorforcepsarnold>`_
    :lookupLabel: SwansonBM_corpusCallosumPosteriorForcepsArnold
    :name: corpus callosum, posterior forceps [Arnold]
 
@@ -3185,6 +3383,7 @@ SwansonBM_corpusCallosumRostrum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumRostrum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ccr
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumRostrum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumrostrum>`_
    :lookupLabel: SwansonBM_corpusCallosumRostrum
    :name: corpus callosum, rostrum
 
@@ -3201,6 +3400,7 @@ SwansonBM_corpusCallosumSpleniumBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corpusCallosumSpleniumBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ccs
+   :hasVersion: `SwansonBM_3rd-ed_corpusCallosumSpleniumBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corpuscallosumspleniumburdach>`_
    :lookupLabel: SwansonBM_corpusCallosumSpleniumBurdach
    :name: corpus callosum, splenium [Burdach]
 
@@ -3217,6 +3417,7 @@ SwansonBM_corticalAmygdalarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COA
+   :hasVersion: `SwansonBM_3rd-ed_corticalAmygdalarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticalamygdalarnucleus>`_
    :lookupLabel: SwansonBM_corticalAmygdalarNucleus
    :name: cortical amygdalar nucleus
 
@@ -3233,6 +3434,7 @@ SwansonBM_corticalAmygdalarNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COAa
+   :hasVersion: `SwansonBM_3rd-ed_corticalAmygdalarNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticalamygdalarnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_corticalAmygdalarNucleusAnteriorPart
    :name: cortical amygdalar nucleus, anterior part
 
@@ -3249,6 +3451,7 @@ SwansonBM_corticalAmygdalarNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COAp
+   :hasVersion: `SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticalamygdalarnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_corticalAmygdalarNucleusPosteriorPart
    :name: cortical amygdalar nucleus, posterior part
 
@@ -3265,6 +3468,7 @@ SwansonBM_corticalAmygdalarNucleusPosteriorPartLateralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPartLateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COApl
+   :hasVersion: `SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartLateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticalamygdalarnucleusposteriorpartlateralzone>`_
    :lookupLabel: SwansonBM_corticalAmygdalarNucleusPosteriorPartLateralZone
    :name: cortical amygdalar nucleus, posterior part, lateral zone
 
@@ -3281,6 +3485,7 @@ SwansonBM_corticalAmygdalarNucleusPosteriorPartMedialZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticalAmygdalarNucleusPosteriorPartMedialZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: COApm
+   :hasVersion: `SwansonBM_3rd-ed_corticalAmygdalarNucleusPosteriorPartMedialZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticalamygdalarnucleusposteriorpartmedialzone>`_
    :lookupLabel: SwansonBM_corticalAmygdalarNucleusPosteriorPartMedialZone
    :name: cortical amygdalar nucleus, posterior part, medial zone
 
@@ -3297,6 +3502,7 @@ SwansonBM_corticobulbarTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticobulbarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cbt
+   :hasVersion: `SwansonBM_3rd-ed_corticobulbarTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticobulbartract>`_
    :lookupLabel: SwansonBM_corticobulbarTract
    :name: corticobulbar tract
 
@@ -3313,6 +3519,7 @@ SwansonBM_corticopontineTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticopontineTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cpt
+   :hasVersion: `SwansonBM_3rd-ed_corticopontineTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticopontinetract>`_
    :lookupLabel: SwansonBM_corticopontineTract
    :name: corticopontine tract
 
@@ -3329,6 +3536,7 @@ SwansonBM_corticorubralTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticorubralTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: crt
+   :hasVersion: `SwansonBM_3rd-ed_corticorubralTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticorubraltract>`_
    :lookupLabel: SwansonBM_corticorubralTract
    :name: corticorubral tract
 
@@ -3345,6 +3553,7 @@ SwansonBM_corticospinalTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticospinalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cst
+   :hasVersion: `SwansonBM_3rd-ed_corticospinalTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticospinaltract>`_
    :lookupLabel: SwansonBM_corticospinalTract
    :name: corticospinal tract
 
@@ -3361,6 +3570,7 @@ SwansonBM_corticospinalTractUncrossedBurdachTurck
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticospinalTractUncrossedBurdachTurck
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cstu
+   :hasVersion: `SwansonBM_3rd-ed_corticospinalTractUncrossedBurdachTurck <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticospinaltractuncrossedburdachturck>`_
    :lookupLabel: SwansonBM_corticospinalTractUncrossedBurdachTurck
    :name: corticospinal tract, uncrossed [Burdach, Türck]
 
@@ -3377,6 +3587,7 @@ SwansonBM_corticotectalTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_corticotectalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cte
+   :hasVersion: `SwansonBM_3rd-ed_corticotectalTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-corticotectaltract>`_
    :lookupLabel: SwansonBM_corticotectalTract
    :name: corticotectal tract
 
@@ -3393,6 +3604,7 @@ SwansonBM_cranialNerves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialNerves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cran
+   :hasVersion: `SwansonBM_3rd-ed_cranialNerves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cranialnerves>`_
    :lookupLabel: SwansonBM_cranialNerves
    :name: cranial nerves
 
@@ -3409,6 +3621,7 @@ SwansonBM_cranialParasympatheticGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialParasympatheticGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPC
+   :hasVersion: `SwansonBM_3rd-ed_cranialParasympatheticGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cranialparasympatheticganglia>`_
    :lookupLabel: SwansonBM_cranialParasympatheticGanglia
    :name: cranial parasympathetic ganglia
 
@@ -3425,6 +3638,7 @@ SwansonBM_cranialPlexuses
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialPlexuses
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: plxc
+   :hasVersion: `SwansonBM_3rd-ed_cranialPlexuses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cranialplexuses>`_
    :lookupLabel: SwansonBM_cranialPlexuses
    :name: cranial plexuses
 
@@ -3441,6 +3655,7 @@ SwansonBM_cranialSensoryGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cranialSensoryGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GCR
+   :hasVersion: `SwansonBM_3rd-ed_cranialSensoryGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cranialsensoryganglia>`_
    :lookupLabel: SwansonBM_cranialSensoryGanglia
    :name: cranial sensory ganglia
 
@@ -3457,6 +3672,7 @@ SwansonBM_crus1Fissures13
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_crus1Fissures13
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cr1f1-3
+   :hasVersion: `SwansonBM_3rd-ed_crus1Fissures13 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-crus1fissures13>`_
    :lookupLabel: SwansonBM_crus1Fissures13
    :name: crus 1, fissures 1-3
 
@@ -3473,6 +3689,7 @@ SwansonBM_crus2Fissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_crus2Fissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cr2f
+   :hasVersion: `SwansonBM_3rd-ed_crus2Fissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-crus2fissure>`_
    :lookupLabel: SwansonBM_crus2Fissure
    :name: crus 2 fissure
 
@@ -3489,6 +3706,7 @@ SwansonBM_culmen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_culmen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CUL
+   :hasVersion: `SwansonBM_3rd-ed_culmen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-culmen>`_
    :lookupLabel: SwansonBM_culmen
    :name: culmen
 
@@ -3505,6 +3723,7 @@ SwansonBM_culmenLobulesIVV
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_culmenLobulesIVV
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CUL4,5
+   :hasVersion: `SwansonBM_3rd-ed_culmenLobulesIVV <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-culmenlobulesivv>`_
    :lookupLabel: SwansonBM_culmenLobulesIVV
    :name: culmen, lobules IV,V
 
@@ -3521,6 +3740,7 @@ SwansonBM_cuneateFascicleBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneateFascicleBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cuf
+   :hasVersion: `SwansonBM_3rd-ed_cuneateFascicleBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cuneatefascicleburdach>`_
    :lookupLabel: SwansonBM_cuneateFascicleBurdach
    :name: cuneate fascicle [Burdach]
 
@@ -3537,6 +3757,7 @@ SwansonBM_cuneateNucleusBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneateNucleusBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CU
+   :hasVersion: `SwansonBM_3rd-ed_cuneateNucleusBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cuneatenucleusburdach>`_
    :lookupLabel: SwansonBM_cuneateNucleusBurdach
    :name: cuneate nucleus [Burdach]
 
@@ -3553,6 +3774,7 @@ SwansonBM_cuneiformNucleusCastaldi
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneiformNucleusCastaldi
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CUN
+   :hasVersion: `SwansonBM_3rd-ed_cuneiformNucleusCastaldi <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cuneiformnucleuscastaldi>`_
    :lookupLabel: SwansonBM_cuneiformNucleusCastaldi
    :name: cuneiform nucleus [Castaldi]
 
@@ -3569,6 +3791,7 @@ SwansonBM_cuneocerebellarTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_cuneocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cct
+   :hasVersion: `SwansonBM_3rd-ed_cuneocerebellarTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-cuneocerebellartract>`_
    :lookupLabel: SwansonBM_cuneocerebellarTract
    :name: cuneocerebellar tract
 
@@ -3585,6 +3808,7 @@ SwansonBM_declivalFissure2
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_declivalFissure2
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: def2
+   :hasVersion: `SwansonBM_3rd-ed_declivalFissure2 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-declivalfissure2>`_
    :lookupLabel: SwansonBM_declivalFissure2
    :name: declival fissure 2
 
@@ -3601,6 +3825,7 @@ SwansonBM_decliveVISublobulesAd
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_decliveVISublobulesAd
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DECa-d
+   :hasVersion: `SwansonBM_3rd-ed_decliveVISublobulesAd <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-declivevisublobulesad>`_
    :lookupLabel: SwansonBM_decliveVISublobulesAd
    :name: declive (VI), sublobules a-d
 
@@ -3617,6 +3842,7 @@ SwansonBM_decussationOfTheTrochlearNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_decussationOfTheTrochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IVd
+   :hasVersion: `SwansonBM_3rd-ed_decussationOfTheTrochlearNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-decussationofthetrochlearnerve>`_
    :lookupLabel: SwansonBM_decussationOfTheTrochlearNerve
    :name: decussation of the trochlear nerve
 
@@ -3633,6 +3859,7 @@ SwansonBM_deepCerebellarNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_deepCerebellarNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DNC
+   :hasVersion: `SwansonBM_3rd-ed_deepCerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-deepcerebellarnuclei>`_
    :lookupLabel: SwansonBM_deepCerebellarNuclei
    :name: deep cerebellar nuclei
 
@@ -3649,6 +3876,7 @@ SwansonBM_dentateGyrusCrest
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrest
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGcr
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusCrest <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruscrest>`_
    :lookupLabel: SwansonBM_dentateGyrusCrest
    :name: dentate gyrus, crest
 
@@ -3665,6 +3893,7 @@ SwansonBM_dentateGyrusCrestgranuleCellLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrestgranuleCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGcr-sg
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusCrestgranuleCellLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruscrestgranulecelllayer>`_
    :lookupLabel: SwansonBM_dentateGyrusCrestgranuleCellLayer
    :name: dentate gyrus, crest-granule cell layer
 
@@ -3681,6 +3910,7 @@ SwansonBM_dentateGyrusCrestmolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrestmolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGcr-mo
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusCrestmolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruscrestmolecularlayer>`_
    :lookupLabel: SwansonBM_dentateGyrusCrestmolecularLayer
    :name: dentate gyrus, crest-molecular layer
 
@@ -3697,6 +3927,7 @@ SwansonBM_dentateGyrusCrestpolymorphLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusCrestpolymorphLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGcr-po
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusCrestpolymorphLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruscrestpolymorphlayer>`_
    :lookupLabel: SwansonBM_dentateGyrusCrestpolymorphLayer
    :name: dentate gyrus, crest-polymorph layer
 
@@ -3713,6 +3944,7 @@ SwansonBM_dentateGyrusLateralBlade
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBlade
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGlb
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusLateralBlade <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruslateralblade>`_
    :lookupLabel: SwansonBM_dentateGyrusLateralBlade
    :name: dentate gyrus, lateral blade
 
@@ -3729,6 +3961,7 @@ SwansonBM_dentateGyrusLateralBladegranuleCellLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBladegranuleCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGlb-sg
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusLateralBladegranuleCellLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruslateralbladegranulecelllayer>`_
    :lookupLabel: SwansonBM_dentateGyrusLateralBladegranuleCellLayer
    :name: dentate gyrus, lateral blade-granule cell layer
 
@@ -3745,6 +3978,7 @@ SwansonBM_dentateGyrusLateralBlademolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBlademolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGlb-mo
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusLateralBlademolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruslateralblademolecularlayer>`_
    :lookupLabel: SwansonBM_dentateGyrusLateralBlademolecularLayer
    :name: dentate gyrus, lateral blade-molecular layer
 
@@ -3761,6 +3995,7 @@ SwansonBM_dentateGyrusLateralBladepolymorphLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusLateralBladepolymorphLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGlb-po
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusLateralBladepolymorphLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyruslateralbladepolymorphlayer>`_
    :lookupLabel: SwansonBM_dentateGyrusLateralBladepolymorphLayer
    :name: dentate gyrus, lateral blade-polymorph layer
 
@@ -3777,6 +4012,7 @@ SwansonBM_dentateGyrusMedialBlade
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBlade
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGmb
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusMedialBlade <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyrusmedialblade>`_
    :lookupLabel: SwansonBM_dentateGyrusMedialBlade
    :name: dentate gyrus, medial blade
 
@@ -3793,6 +4029,7 @@ SwansonBM_dentateGyrusMedialBladegranuleCellLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBladegranuleCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGmb-sg
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusMedialBladegranuleCellLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyrusmedialbladegranulecelllayer>`_
    :lookupLabel: SwansonBM_dentateGyrusMedialBladegranuleCellLayer
    :name: dentate gyrus, medial blade-granule cell layer
 
@@ -3809,6 +4046,7 @@ SwansonBM_dentateGyrusMedialBlademolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBlademolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGmb-mo
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusMedialBlademolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyrusmedialblademolecularlayer>`_
    :lookupLabel: SwansonBM_dentateGyrusMedialBlademolecularLayer
    :name: dentate gyrus, medial blade-molecular layer
 
@@ -3825,6 +4063,7 @@ SwansonBM_dentateGyrusMedialBladepolymorphLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusMedialBladepolymorphLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DGmb-po
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusMedialBladepolymorphLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyrusmedialbladepolymorphlayer>`_
    :lookupLabel: SwansonBM_dentateGyrusMedialBladepolymorphLayer
    :name: dentate gyrus, medial blade-polymorph layer
 
@@ -3841,6 +4080,7 @@ SwansonBM_dentateGyrusTarin
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateGyrusTarin
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DG
+   :hasVersion: `SwansonBM_3rd-ed_dentateGyrusTarin <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentategyrustarin>`_
    :lookupLabel: SwansonBM_dentateGyrusTarin
    :name: dentate gyrus [Tarin]
 
@@ -3857,6 +4097,7 @@ SwansonBM_dentateNucleusMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateNucleusMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DNm
+   :hasVersion: `SwansonBM_3rd-ed_dentateNucleusMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentatenucleusmagnocellularpart>`_
    :lookupLabel: SwansonBM_dentateNucleusMagnocellularPart
    :name: dentate nucleus, magnocellular part
 
@@ -3873,6 +4114,7 @@ SwansonBM_dentateNucleusParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DNp
+   :hasVersion: `SwansonBM_3rd-ed_dentateNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentatenucleusparvicellularpart>`_
    :lookupLabel: SwansonBM_dentateNucleusParvicellularPart
    :name: dentate nucleus, parvicellular part
 
@@ -3889,6 +4131,7 @@ SwansonBM_dentateNucleusVicqDAzyr
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dentateNucleusVicqDAzyr
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DN
+   :hasVersion: `SwansonBM_3rd-ed_dentateNucleusVicqDAzyr <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dentatenucleusvicqdazyr>`_
    :lookupLabel: SwansonBM_dentateNucleusVicqDAzyr
    :name: dentate nucleus [Vicq d’Azyr]
 
@@ -3905,6 +4148,7 @@ SwansonBM_diagonalBandBroca
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_diagonalBandBroca
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: db
+   :hasVersion: `SwansonBM_3rd-ed_diagonalBandBroca <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-diagonalbandbroca>`_
    :lookupLabel: SwansonBM_diagonalBandBroca
    :name: diagonal band [Broca]
 
@@ -3921,6 +4165,7 @@ SwansonBM_diagonalBandNucleusBroca
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_diagonalBandNucleusBroca
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NDB
+   :hasVersion: `SwansonBM_3rd-ed_diagonalBandNucleusBroca <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-diagonalbandnucleusbroca>`_
    :lookupLabel: SwansonBM_diagonalBandNucleusBroca
    :name: diagonal band nucleus [Broca]
 
@@ -3937,6 +4182,7 @@ SwansonBM_diencephalon
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_diencephalon
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DI
+   :hasVersion: `SwansonBM_3rd-ed_diencephalon <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-diencephalon>`_
    :lookupLabel: SwansonBM_diencephalon
    :name: diencephalon
 
@@ -3953,6 +4199,7 @@ SwansonBM_distalGlossopharyngealGanglionAndersch
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_distalGlossopharyngealGanglionAndersch
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GdIX
+   :hasVersion: `SwansonBM_3rd-ed_distalGlossopharyngealGanglionAndersch <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-distalglossopharyngealganglionandersch>`_
    :lookupLabel: SwansonBM_distalGlossopharyngealGanglionAndersch
    :name: distal glossopharyngeal ganglion [Andersch]
 
@@ -3969,6 +4216,7 @@ SwansonBM_distalGlossopharyngeovagalPlacode
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_distalGlossopharyngeovagalPlacode
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IX/Xpd
+   :hasVersion: `SwansonBM_3rd-ed_distalGlossopharyngeovagalPlacode <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-distalglossopharyngeovagalplacode>`_
    :lookupLabel: SwansonBM_distalGlossopharyngeovagalPlacode
    :name: distal glossopharyngeovagal placode
 
@@ -3985,6 +4233,7 @@ SwansonBM_distalVagalGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_distalVagalGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GdX
+   :hasVersion: `SwansonBM_3rd-ed_distalVagalGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-distalvagalganglion>`_
    :lookupLabel: SwansonBM_distalVagalGanglion
    :name: distal vagal ganglion
 
@@ -4001,6 +4250,7 @@ SwansonBM_dorsalAcousticStriaMonakow
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalAcousticStriaMonakow
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: das
+   :hasVersion: `SwansonBM_3rd-ed_dorsalAcousticStriaMonakow <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalacousticstriamonakow>`_
    :lookupLabel: SwansonBM_dorsalAcousticStriaMonakow
    :name: dorsal acoustic stria [Monakow]
 
@@ -4017,6 +4267,7 @@ SwansonBM_dorsalAuditoryAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalAuditoryAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AUDd
+   :hasVersion: `SwansonBM_3rd-ed_dorsalAuditoryAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalauditoryareas>`_
    :lookupLabel: SwansonBM_dorsalAuditoryAreas
    :name: dorsal auditory areas
 
@@ -4033,6 +4284,7 @@ SwansonBM_dorsalCochlearNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalCochlearNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DCO
+   :hasVersion: `SwansonBM_3rd-ed_dorsalCochlearNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalcochlearnucleus>`_
    :lookupLabel: SwansonBM_dorsalCochlearNucleus
    :name: dorsal cochlear nucleus
 
@@ -4049,6 +4301,7 @@ SwansonBM_dorsalColumnNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalColumnNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DCN
+   :hasVersion: `SwansonBM_3rd-ed_dorsalColumnNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalcolumnnuclei>`_
    :lookupLabel: SwansonBM_dorsalColumnNuclei
    :name: dorsal column nuclei
 
@@ -4065,6 +4318,7 @@ SwansonBM_dorsalColumns
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalColumns
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dc
+   :hasVersion: `SwansonBM_3rd-ed_dorsalColumns <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalcolumns>`_
    :lookupLabel: SwansonBM_dorsalColumns
    :name: dorsal columns
 
@@ -4081,6 +4335,7 @@ SwansonBM_dorsalCommissuralNucleusOfTheSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalCommissuralNucleusOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DOC
+   :hasVersion: `SwansonBM_3rd-ed_dorsalCommissuralNucleusOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalcommissuralnucleusofthespinalcord>`_
    :lookupLabel: SwansonBM_dorsalCommissuralNucleusOfTheSpinalCord
    :name: dorsal commissural nucleus of the spinal cord
 
@@ -4097,6 +4352,7 @@ SwansonBM_dorsalCommissureSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalCommissureSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dcm
+   :hasVersion: `SwansonBM_3rd-ed_dorsalCommissureSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalcommissurespinalcord>`_
    :lookupLabel: SwansonBM_dorsalCommissureSpinalCord
    :name: dorsal commissure, spinal cord
 
@@ -4113,6 +4369,7 @@ SwansonBM_dorsalFornix
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalFornix
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: df
+   :hasVersion: `SwansonBM_3rd-ed_dorsalFornix <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalfornix>`_
    :lookupLabel: SwansonBM_dorsalFornix
    :name: dorsal fornix
 
@@ -4129,6 +4386,7 @@ SwansonBM_dorsalHippocampalCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalHippocampalCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dhc
+   :hasVersion: `SwansonBM_3rd-ed_dorsalHippocampalCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalhippocampalcommissure>`_
    :lookupLabel: SwansonBM_dorsalHippocampalCommissure
    :name: dorsal hippocampal commissure
 
@@ -4145,6 +4403,7 @@ SwansonBM_dorsalHornSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalHornSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DH
+   :hasVersion: `SwansonBM_3rd-ed_dorsalHornSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalhornspinalcord>`_
    :lookupLabel: SwansonBM_dorsalHornSpinalCord
    :name: dorsal horn, spinal cord
 
@@ -4161,6 +4420,7 @@ SwansonBM_dorsalLongitudinalFascicleSchutz
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalLongitudinalFascicleSchutz
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dlf
+   :hasVersion: `SwansonBM_3rd-ed_dorsalLongitudinalFascicleSchutz <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsallongitudinalfascicleschutz>`_
    :lookupLabel: SwansonBM_dorsalLongitudinalFascicleSchutz
    :name: dorsal longitudinal fascicle [Schütz]
 
@@ -4177,6 +4437,7 @@ SwansonBM_dorsalMedianSeptum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalMedianSeptum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dms
+   :hasVersion: `SwansonBM_3rd-ed_dorsalMedianSeptum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalmedianseptum>`_
    :lookupLabel: SwansonBM_dorsalMedianSeptum
    :name: dorsal median septum
 
@@ -4193,6 +4454,7 @@ SwansonBM_dorsalMotorNucleusVagusNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalMotorNucleusVagusNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DMX
+   :hasVersion: `SwansonBM_3rd-ed_dorsalMotorNucleusVagusNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalmotornucleusvagusnerve>`_
    :lookupLabel: SwansonBM_dorsalMotorNucleusVagusNerve
    :name: dorsal motor nucleus vagus nerve
 
@@ -4209,6 +4471,7 @@ SwansonBM_dorsalNucleusRaphe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusRaphe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DR
+   :hasVersion: `SwansonBM_3rd-ed_dorsalNucleusRaphe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalnucleusraphe>`_
    :lookupLabel: SwansonBM_dorsalNucleusRaphe
    :name: dorsal nucleus raphé
 
@@ -4225,6 +4488,7 @@ SwansonBM_dorsalNucleusSpinalCordCaudalPartStilling
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordCaudalPartStilling
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DSNc
+   :hasVersion: `SwansonBM_3rd-ed_dorsalNucleusSpinalCordCaudalPartStilling <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalnucleusspinalcordcaudalpartstilling>`_
    :lookupLabel: SwansonBM_dorsalNucleusSpinalCordCaudalPartStilling
    :name: dorsal nucleus spinal cord, caudal part [Stilling]
 
@@ -4241,6 +4505,7 @@ SwansonBM_dorsalNucleusSpinalCordGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DSNg
+   :hasVersion: `SwansonBM_3rd-ed_dorsalNucleusSpinalCordGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalnucleusspinalcordgeneral>`_
    :lookupLabel: SwansonBM_dorsalNucleusSpinalCordGeneral
    :name: dorsal nucleus spinal cord, general
 
@@ -4257,6 +4522,7 @@ SwansonBM_dorsalNucleusSpinalCordStillingClarke
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalNucleusSpinalCordStillingClarke
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DSN
+   :hasVersion: `SwansonBM_3rd-ed_dorsalNucleusSpinalCordStillingClarke <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalnucleusspinalcordstillingclarke>`_
    :lookupLabel: SwansonBM_dorsalNucleusSpinalCordStillingClarke
    :name: dorsal nucleus spinal cord [Stilling, Clarke]
 
@@ -4273,6 +4539,7 @@ SwansonBM_dorsalPremammillaryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalPremammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PMd
+   :hasVersion: `SwansonBM_3rd-ed_dorsalPremammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalpremammillarynucleus>`_
    :lookupLabel: SwansonBM_dorsalPremammillaryNucleus
    :name: dorsal premammillary nucleus
 
@@ -4289,6 +4556,7 @@ SwansonBM_dorsalPropriohypothalamicPathways
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalPropriohypothalamicPathways
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: phpd
+   :hasVersion: `SwansonBM_3rd-ed_dorsalPropriohypothalamicPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalpropriohypothalamicpathways>`_
    :lookupLabel: SwansonBM_dorsalPropriohypothalamicPathways
    :name: dorsal propriohypothalamic pathways
 
@@ -4305,6 +4573,7 @@ SwansonBM_dorsalRootsCoiter
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalRootsCoiter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: drt
+   :hasVersion: `SwansonBM_3rd-ed_dorsalRootsCoiter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalrootscoiter>`_
    :lookupLabel: SwansonBM_dorsalRootsCoiter
    :name: dorsal roots [Coiter]
 
@@ -4321,6 +4590,7 @@ SwansonBM_dorsalSpinocerebellarTractFlechsig
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalSpinocerebellarTractFlechsig
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sctd
+   :hasVersion: `SwansonBM_3rd-ed_dorsalSpinocerebellarTractFlechsig <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalspinocerebellartractflechsig>`_
    :lookupLabel: SwansonBM_dorsalSpinocerebellarTractFlechsig
    :name: dorsal spinocerebellar tract [Flechsig]
 
@@ -4337,6 +4607,7 @@ SwansonBM_dorsalTegmentalDecussationMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTegmentalDecussationMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dtd
+   :hasVersion: `SwansonBM_3rd-ed_dorsalTegmentalDecussationMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsaltegmentaldecussationmeynert>`_
    :lookupLabel: SwansonBM_dorsalTegmentalDecussationMeynert
    :name: dorsal tegmental decussation [Meynert]
 
@@ -4353,6 +4624,7 @@ SwansonBM_dorsalTegmentalNucleusGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTegmentalNucleusGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DTN
+   :hasVersion: `SwansonBM_3rd-ed_dorsalTegmentalNucleusGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsaltegmentalnucleusgudden>`_
    :lookupLabel: SwansonBM_dorsalTegmentalNucleusGudden
    :name: dorsal tegmental nucleus [Gudden]
 
@@ -4369,6 +4641,7 @@ SwansonBM_dorsalTegmentalTractLindvallBjorklund
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTegmentalTractLindvallBjorklund
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dtt
+   :hasVersion: `SwansonBM_3rd-ed_dorsalTegmentalTractLindvallBjorklund <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsaltegmentaltractlindvallbjorklund>`_
    :lookupLabel: SwansonBM_dorsalTegmentalTractLindvallBjorklund
    :name: dorsal tegmental tract [Lindvall-Björklund]
 
@@ -4385,6 +4658,7 @@ SwansonBM_dorsalTerminalNucleusAccessoryOpticTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalTerminalNucleusAccessoryOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DT
+   :hasVersion: `SwansonBM_3rd-ed_dorsalTerminalNucleusAccessoryOpticTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalterminalnucleusaccessoryoptictract>`_
    :lookupLabel: SwansonBM_dorsalTerminalNucleusAccessoryOpticTract
    :name: dorsal terminal nucleus accessory optic tract
 
@@ -4401,6 +4675,7 @@ SwansonBM_dorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DOR
+   :hasVersion: `SwansonBM_3rd-ed_dorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalthalamus>`_
    :lookupLabel: SwansonBM_dorsalThalamus
    :name: dorsal thalamus
 
@@ -4417,6 +4692,7 @@ SwansonBM_dorsalThalamusPolymodalAssociationCortexRelate
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalThalamusPolymodalAssociationCortexRelate
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DORpm
+   :hasVersion: `SwansonBM_3rd-ed_dorsalThalamusPolymodalAssociationCortexRelate <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalthalamuspolymodalassociationcortexrelate>`_
    :lookupLabel: SwansonBM_dorsalThalamusPolymodalAssociationCortexRelate
    :name: dorsal thalamus, polymodal association cortex relate
 
@@ -4433,6 +4709,7 @@ SwansonBM_dorsalThalamusSensorymotorCortexRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsalThalamusSensorymotorCortexRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DORsm
+   :hasVersion: `SwansonBM_3rd-ed_dorsalThalamusSensorymotorCortexRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsalthalamussensorymotorcortexrelated>`_
    :lookupLabel: SwansonBM_dorsalThalamusSensorymotorCortexRelated
    :name: dorsal thalamus, sensory-motor cortex related
 
@@ -4449,6 +4726,7 @@ SwansonBM_dorsolateralFascicleLissauer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsolateralFascicleLissauer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dl
+   :hasVersion: `SwansonBM_3rd-ed_dorsolateralFascicleLissauer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsolateralfasciclelissauer>`_
    :lookupLabel: SwansonBM_dorsolateralFascicleLissauer
    :name: dorsolateral fascicle [Lissauer]
 
@@ -4465,6 +4743,7 @@ SwansonBM_dorsomedialHypothalamicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DMH
+   :hasVersion: `SwansonBM_3rd-ed_dorsomedialHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsomedialhypothalamicnucleus>`_
    :lookupLabel: SwansonBM_dorsomedialHypothalamicNucleus
    :name: dorsomedial hypothalamic nucleus
 
@@ -4481,6 +4760,7 @@ SwansonBM_dorsomedialHypothalamicNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DMHa
+   :hasVersion: `SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsomedialhypothalamicnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_dorsomedialHypothalamicNucleusAnteriorPart
    :name: dorsomedial hypothalamic nucleus, anterior part
 
@@ -4497,6 +4777,7 @@ SwansonBM_dorsomedialHypothalamicNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DMHp
+   :hasVersion: `SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsomedialhypothalamicnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_dorsomedialHypothalamicNucleusPosteriorPart
    :name: dorsomedial hypothalamic nucleus, posterior part
 
@@ -4513,6 +4794,7 @@ SwansonBM_dorsomedialHypothalamicNucleusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dorsomedialHypothalamicNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: DMHv
+   :hasVersion: `SwansonBM_3rd-ed_dorsomedialHypothalamicNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dorsomedialhypothalamicnucleusventralpart>`_
    :lookupLabel: SwansonBM_dorsomedialHypothalamicNucleusVentralPart
    :name: dorsomedial hypothalamic nucleus, ventral part
 
@@ -4529,6 +4811,7 @@ SwansonBM_dura
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_dura
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: D
+   :hasVersion: `SwansonBM_3rd-ed_dura <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-dura>`_
    :lookupLabel: SwansonBM_dura
    :name: dura
 
@@ -4545,6 +4828,7 @@ SwansonBM_ectorhinalArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ectorhinalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ECT
+   :hasVersion: `SwansonBM_3rd-ed_ectorhinalArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ectorhinalarea>`_
    :lookupLabel: SwansonBM_ectorhinalArea
    :name: ectorhinal area
 
@@ -4561,6 +4845,7 @@ SwansonBM_efferentCochlearGroup
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_efferentCochlearGroup
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ECO
+   :hasVersion: `SwansonBM_3rd-ed_efferentCochlearGroup <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-efferentcochleargroup>`_
    :lookupLabel: SwansonBM_efferentCochlearGroup
    :name: efferent cochlear group
 
@@ -4577,6 +4862,7 @@ SwansonBM_efferentCochleovestibularBundle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_efferentCochleovestibularBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cvb
+   :hasVersion: `SwansonBM_3rd-ed_efferentCochleovestibularBundle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-efferentcochleovestibularbundle>`_
    :lookupLabel: SwansonBM_efferentCochleovestibularBundle
    :name: efferent cochleovestibular bundle
 
@@ -4593,6 +4879,7 @@ SwansonBM_efferentVestibularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_efferentVestibularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: EV
+   :hasVersion: `SwansonBM_3rd-ed_efferentVestibularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-efferentvestibularnucleus>`_
    :lookupLabel: SwansonBM_efferentVestibularNucleus
    :name: efferent vestibular nucleus
 
@@ -4609,6 +4896,7 @@ SwansonBM_endopiriformNucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: EPd
+   :hasVersion: `SwansonBM_3rd-ed_endopiriformNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-endopiriformnucleusdorsalpart>`_
    :lookupLabel: SwansonBM_endopiriformNucleusDorsalPart
    :name: endopiriform nucleus, dorsal part
 
@@ -4625,6 +4913,7 @@ SwansonBM_endopiriformNucleusLoo
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusLoo
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: EP
+   :hasVersion: `SwansonBM_3rd-ed_endopiriformNucleusLoo <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-endopiriformnucleusloo>`_
    :lookupLabel: SwansonBM_endopiriformNucleusLoo
    :name: endopiriform nucleus [Loo]
 
@@ -4641,6 +4930,7 @@ SwansonBM_endopiriformNucleusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endopiriformNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: EPv
+   :hasVersion: `SwansonBM_3rd-ed_endopiriformNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-endopiriformnucleusventralpart>`_
    :lookupLabel: SwansonBM_endopiriformNucleusVentralPart
    :name: endopiriform nucleus, ventral part
 
@@ -4657,6 +4947,7 @@ SwansonBM_endorhinalGroove
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_endorhinalGroove
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: eg
+   :hasVersion: `SwansonBM_3rd-ed_endorhinalGroove <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-endorhinalgroove>`_
    :lookupLabel: SwansonBM_endorhinalGroove
    :name: endorhinal groove
 
@@ -4673,6 +4964,7 @@ SwansonBM_entericNervousSystemLangley
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entericNervousSystemLangley
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ENS
+   :hasVersion: `SwansonBM_3rd-ed_entericNervousSystemLangley <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-entericnervoussystemlangley>`_
    :lookupLabel: SwansonBM_entericNervousSystemLangley
    :name: enteric nervous system [Langley]
 
@@ -4689,6 +4981,7 @@ SwansonBM_entorhinalArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ENT
+   :hasVersion: `SwansonBM_3rd-ed_entorhinalArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-entorhinalarea>`_
    :lookupLabel: SwansonBM_entorhinalArea
    :name: entorhinal area
 
@@ -4705,6 +4998,7 @@ SwansonBM_entorhinalAreaLateralPartLayers16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalAreaLateralPartLayers16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ENTl1-6
+   :hasVersion: `SwansonBM_3rd-ed_entorhinalAreaLateralPartLayers16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-entorhinalarealateralpartlayers16>`_
    :lookupLabel: SwansonBM_entorhinalAreaLateralPartLayers16
    :name: entorhinal area, lateral part, layers 1-6
 
@@ -4721,6 +5015,7 @@ SwansonBM_entorhinalAreaMedialPartDorsalZoneLayers16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalAreaMedialPartDorsalZoneLayers16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ENTm1-6
+   :hasVersion: `SwansonBM_3rd-ed_entorhinalAreaMedialPartDorsalZoneLayers16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-entorhinalareamedialpartdorsalzonelayers16>`_
    :lookupLabel: SwansonBM_entorhinalAreaMedialPartDorsalZoneLayers16
    :name: entorhinal area, medial part, dorsal zone, layers 1-6
 
@@ -4737,6 +5032,7 @@ SwansonBM_entorhinalAreaMedialPartVentralZoneHaug
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_entorhinalAreaMedialPartVentralZoneHaug
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ENTmv
+   :hasVersion: `SwansonBM_3rd-ed_entorhinalAreaMedialPartVentralZoneHaug <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-entorhinalareamedialpartventralzonehaug>`_
    :lookupLabel: SwansonBM_entorhinalAreaMedialPartVentralZoneHaug
    :name: entorhinal area, medial part, ventral zone [Haug]
 
@@ -4753,6 +5049,7 @@ SwansonBM_epithalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_epithalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: EPI
+   :hasVersion: `SwansonBM_3rd-ed_epithalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-epithalamus>`_
    :lookupLabel: SwansonBM_epithalamus
    :name: epithalamus
 
@@ -4769,6 +5066,7 @@ SwansonBM_externalCapsuleBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_externalCapsuleBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ec
+   :hasVersion: `SwansonBM_3rd-ed_externalCapsuleBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-externalcapsuleburdach>`_
    :lookupLabel: SwansonBM_externalCapsuleBurdach
    :name: external capsule [Burdach]
 
@@ -4785,6 +5083,7 @@ SwansonBM_externalCuneateNucleusMonakowBlumenau
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_externalCuneateNucleusMonakowBlumenau
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ECU
+   :hasVersion: `SwansonBM_3rd-ed_externalCuneateNucleusMonakowBlumenau <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-externalcuneatenucleusmonakowblumenau>`_
    :lookupLabel: SwansonBM_externalCuneateNucleusMonakowBlumenau
    :name: external cuneate nucleus [Monakow, Blumenau]
 
@@ -4801,6 +5100,7 @@ SwansonBM_externalMedullaryLaminaThalamusBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_externalMedullaryLaminaThalamusBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: em
+   :hasVersion: `SwansonBM_3rd-ed_externalMedullaryLaminaThalamusBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-externalmedullarylaminathalamusburdach>`_
    :lookupLabel: SwansonBM_externalMedullaryLaminaThalamusBurdach
    :name: external medullary lamina thalamus [Burdach]
 
@@ -4817,6 +5117,7 @@ SwansonBM_extrapyramidalFiberSystems
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extrapyramidalFiberSystems
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: eps
+   :hasVersion: `SwansonBM_3rd-ed_extrapyramidalFiberSystems <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-extrapyramidalfibersystems>`_
    :lookupLabel: SwansonBM_extrapyramidalFiberSystems
    :name: extrapyramidal fiber systems
 
@@ -4833,6 +5134,7 @@ SwansonBM_extrapyramidalFiberSystemsCerebralNucleiRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extrapyramidalFiberSystemsCerebralNucleiRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: epsc
+   :hasVersion: `SwansonBM_3rd-ed_extrapyramidalFiberSystemsCerebralNucleiRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-extrapyramidalfibersystemscerebralnucleirelated>`_
    :lookupLabel: SwansonBM_extrapyramidalFiberSystemsCerebralNucleiRelated
    :name: extrapyramidal fiber systems, cerebral nuclei related
 
@@ -4849,6 +5151,7 @@ SwansonBM_extremeCapsule
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_extremeCapsule
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ee
+   :hasVersion: `SwansonBM_3rd-ed_extremeCapsule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-extremecapsule>`_
    :lookupLabel: SwansonBM_extremeCapsule
    :name: extreme capsule
 
@@ -4865,6 +5168,7 @@ SwansonBM_facialNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_facialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VIIn
+   :hasVersion: `SwansonBM_3rd-ed_facialNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-facialnerve>`_
    :lookupLabel: SwansonBM_facialNerve
    :name: facial nerve
 
@@ -4881,6 +5185,7 @@ SwansonBM_facialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_facialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VII
+   :hasVersion: `SwansonBM_3rd-ed_facialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-facialnucleus>`_
    :lookupLabel: SwansonBM_facialNucleus
    :name: facial nucleus
 
@@ -4897,6 +5202,7 @@ SwansonBM_fasciculusProprius
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciculusProprius
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fpr
+   :hasVersion: `SwansonBM_3rd-ed_fasciculusProprius <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fasciculusproprius>`_
    :lookupLabel: SwansonBM_fasciculusProprius
    :name: fasciculus proprius
 
@@ -4913,6 +5219,7 @@ SwansonBM_fasciculusRetroflexusMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciculusRetroflexusMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fr
+   :hasVersion: `SwansonBM_3rd-ed_fasciculusRetroflexusMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fasciculusretroflexusmeynert>`_
    :lookupLabel: SwansonBM_fasciculusRetroflexusMeynert
    :name: fasciculus retroflexus [Meynert]
 
@@ -4929,6 +5236,7 @@ SwansonBM_fasciolaCinereaReilArnold
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fasciolaCinereaReilArnold
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FC
+   :hasVersion: `SwansonBM_3rd-ed_fasciolaCinereaReilArnold <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fasciolacinereareilarnold>`_
    :lookupLabel: SwansonBM_fasciolaCinereaReilArnold
    :name: fasciola cinerea [Reil, Arnold]
 
@@ -4945,6 +5253,7 @@ SwansonBM_fastigialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fastigialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FN
+   :hasVersion: `SwansonBM_3rd-ed_fastigialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fastigialnucleus>`_
    :lookupLabel: SwansonBM_fastigialNucleus
    :name: fastigial nucleus
 
@@ -4961,6 +5270,7 @@ SwansonBM_fieldCA1AmmonsHornLorenteDeNo
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1AmmonsHornLorenteDeNo
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1AmmonsHornLorenteDeNo <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1ammonshornlorentedeno>`_
    :lookupLabel: SwansonBM_fieldCA1AmmonsHornLorenteDeNo
    :name: field CA1, Ammon’s horn [Lorente de Nó]
 
@@ -4977,6 +5287,7 @@ SwansonBM_fieldCA1PyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1sp
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1PyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1pyramidallayer>`_
    :lookupLabel: SwansonBM_fieldCA1PyramidalLayer
    :name: field CA1, pyramidal layer
 
@@ -4993,6 +5304,7 @@ SwansonBM_fieldCA1PyramidalLayerDeep
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayerDeep
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1spd
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1PyramidalLayerDeep <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1pyramidallayerdeep>`_
    :lookupLabel: SwansonBM_fieldCA1PyramidalLayerDeep
    :name: field CA1, pyramidal layer, deep
 
@@ -5009,6 +5321,7 @@ SwansonBM_fieldCA1PyramidalLayerSuperficial
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1PyramidalLayerSuperficial
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1sps
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1PyramidalLayerSuperficial <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1pyramidallayersuperficial>`_
    :lookupLabel: SwansonBM_fieldCA1PyramidalLayerSuperficial
    :name: field CA1, pyramidal layer, superficial
 
@@ -5025,6 +5338,7 @@ SwansonBM_fieldCA1StratumLacunosummoleculareMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1StratumLacunosummoleculareMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1slm
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1StratumLacunosummoleculareMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1stratumlacunosummolecularemeynert>`_
    :lookupLabel: SwansonBM_fieldCA1StratumLacunosummoleculareMeynert
    :name: field CA1, stratum lacunosum-moleculare [Meynert]
 
@@ -5041,6 +5355,7 @@ SwansonBM_fieldCA1StratumOriensSala
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1StratumOriensSala
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1so
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1StratumOriensSala <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1stratumorienssala>`_
    :lookupLabel: SwansonBM_fieldCA1StratumOriensSala
    :name: field CA1, stratum oriens [Sala]
 
@@ -5057,6 +5372,7 @@ SwansonBM_fieldCA1StratumRadiatumMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA1StratumRadiatumMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA1sr
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA1StratumRadiatumMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca1stratumradiatummeynert>`_
    :lookupLabel: SwansonBM_fieldCA1StratumRadiatumMeynert
    :name: field CA1, stratum radiatum [Meynert]
 
@@ -5073,6 +5389,7 @@ SwansonBM_fieldCA2AmmonsHornLorenteDeNo
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2AmmonsHornLorenteDeNo
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA2
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA2AmmonsHornLorenteDeNo <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca2ammonshornlorentedeno>`_
    :lookupLabel: SwansonBM_fieldCA2AmmonsHornLorenteDeNo
    :name: field CA2, Ammon’s horn [Lorente de Nó]
 
@@ -5089,6 +5406,7 @@ SwansonBM_fieldCA2PyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2PyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA2sp
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA2PyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca2pyramidallayer>`_
    :lookupLabel: SwansonBM_fieldCA2PyramidalLayer
    :name: field CA2, pyramidal layer
 
@@ -5105,6 +5423,7 @@ SwansonBM_fieldCA2StratumLacunosummoleculare
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2StratumLacunosummoleculare
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA2slm
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA2StratumLacunosummoleculare <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca2stratumlacunosummoleculare>`_
    :lookupLabel: SwansonBM_fieldCA2StratumLacunosummoleculare
    :name: field CA2, stratum lacunosum-moleculare
 
@@ -5121,6 +5440,7 @@ SwansonBM_fieldCA2StratumOriens
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2StratumOriens
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA2so
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA2StratumOriens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca2stratumoriens>`_
    :lookupLabel: SwansonBM_fieldCA2StratumOriens
    :name: field CA2, stratum oriens
 
@@ -5137,6 +5457,7 @@ SwansonBM_fieldCA2StratumRadiatum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA2StratumRadiatum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA2sr
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA2StratumRadiatum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca2stratumradiatum>`_
    :lookupLabel: SwansonBM_fieldCA2StratumRadiatum
    :name: field CA2, stratum radiatum
 
@@ -5153,6 +5474,7 @@ SwansonBM_fieldCA3AmmonsHornLorenteDeNo
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3AmmonsHornLorenteDeNo
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA3
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA3AmmonsHornLorenteDeNo <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca3ammonshornlorentedeno>`_
    :lookupLabel: SwansonBM_fieldCA3AmmonsHornLorenteDeNo
    :name: field CA3, Ammon’s horn [Lorente de Nó]
 
@@ -5169,6 +5491,7 @@ SwansonBM_fieldCA3PyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3PyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA3sp
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA3PyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca3pyramidallayer>`_
    :lookupLabel: SwansonBM_fieldCA3PyramidalLayer
    :name: field CA3, pyramidal layer
 
@@ -5185,6 +5508,7 @@ SwansonBM_fieldCA3StratumLacunosummoleculare
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumLacunosummoleculare
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA3slm
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA3StratumLacunosummoleculare <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca3stratumlacunosummoleculare>`_
    :lookupLabel: SwansonBM_fieldCA3StratumLacunosummoleculare
    :name: field CA3, stratum lacunosum-moleculare
 
@@ -5201,6 +5525,7 @@ SwansonBM_fieldCA3StratumLucidumHonegger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumLucidumHonegger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA3slu
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA3StratumLucidumHonegger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca3stratumlucidumhonegger>`_
    :lookupLabel: SwansonBM_fieldCA3StratumLucidumHonegger
    :name: field CA3, stratum lucidum [Honegger]
 
@@ -5217,6 +5542,7 @@ SwansonBM_fieldCA3StratumOriens
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumOriens
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA3so
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA3StratumOriens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca3stratumoriens>`_
    :lookupLabel: SwansonBM_fieldCA3StratumOriens
    :name: field CA3, stratum oriens
 
@@ -5233,6 +5559,7 @@ SwansonBM_fieldCA3StratumRadiatum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldCA3StratumRadiatum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CA3sr
+   :hasVersion: `SwansonBM_3rd-ed_fieldCA3StratumRadiatum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldca3stratumradiatum>`_
    :lookupLabel: SwansonBM_fieldCA3StratumRadiatum
    :name: field CA3, stratum radiatum
 
@@ -5249,6 +5576,7 @@ SwansonBM_fieldsOfForel
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fieldsOfForel
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FF
+   :hasVersion: `SwansonBM_3rd-ed_fieldsOfForel <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fieldsofforel>`_
    :lookupLabel: SwansonBM_fieldsOfForel
    :name: fields of Forel
 
@@ -5265,6 +5593,7 @@ SwansonBM_filumTerminale
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_filumTerminale
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ft
+   :hasVersion: `SwansonBM_3rd-ed_filumTerminale <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-filumterminale>`_
    :lookupLabel: SwansonBM_filumTerminale
    :name: filum terminale
 
@@ -5281,6 +5610,7 @@ SwansonBM_fimbriaVieussens
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fimbriaVieussens
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fi
+   :hasVersion: `SwansonBM_3rd-ed_fimbriaVieussens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fimbriavieussens>`_
    :lookupLabel: SwansonBM_fimbriaVieussens
    :name: fimbria [Vieussens]
 
@@ -5297,6 +5627,7 @@ SwansonBM_flocculonodularLobeCerebellum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_flocculonodularLobeCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FNL
+   :hasVersion: `SwansonBM_3rd-ed_flocculonodularLobeCerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-flocculonodularlobecerebellum>`_
    :lookupLabel: SwansonBM_flocculonodularLobeCerebellum
    :name: flocculonodular lobe cerebellum
 
@@ -5313,6 +5644,7 @@ SwansonBM_flocculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_flocculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FL
+   :hasVersion: `SwansonBM_3rd-ed_flocculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-flocculus>`_
    :lookupLabel: SwansonBM_flocculus
    :name: flocculus
 
@@ -5329,6 +5661,7 @@ SwansonBM_foliumtuberVermisVII
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_foliumtuberVermisVII
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FOTU
+   :hasVersion: `SwansonBM_3rd-ed_foliumtuberVermisVII <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-foliumtubervermisvii>`_
    :lookupLabel: SwansonBM_foliumtuberVermisVII
    :name: folium-tuber vermis (VII)
 
@@ -5345,6 +5678,7 @@ SwansonBM_forebrain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_forebrain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FB
+   :hasVersion: `SwansonBM_3rd-ed_forebrain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-forebrain>`_
    :lookupLabel: SwansonBM_forebrain
    :name: forebrain
 
@@ -5361,6 +5695,7 @@ SwansonBM_fornixSystemGalen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fornixSystemGalen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fxs
+   :hasVersion: `SwansonBM_3rd-ed_fornixSystemGalen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fornixsystemgalen>`_
    :lookupLabel: SwansonBM_fornixSystemGalen
    :name: fornix system [Galen]
 
@@ -5377,6 +5712,7 @@ SwansonBM_fourthVentricleGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V4g
+   :hasVersion: `SwansonBM_3rd-ed_fourthVentricleGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fourthventriclegeneral>`_
    :lookupLabel: SwansonBM_fourthVentricleGeneral
    :name: fourth ventricle, general
 
@@ -5393,6 +5729,7 @@ SwansonBM_fourthVentricleLateralRecess
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleLateralRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V4r
+   :hasVersion: `SwansonBM_3rd-ed_fourthVentricleLateralRecess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fourthventriclelateralrecess>`_
    :lookupLabel: SwansonBM_fourthVentricleLateralRecess
    :name: fourth ventricle, lateral recess
 
@@ -5409,6 +5746,7 @@ SwansonBM_fourthVentricleProper
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_fourthVentricleProper
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V4
+   :hasVersion: `SwansonBM_3rd-ed_fourthVentricleProper <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-fourthventricleproper>`_
    :lookupLabel: SwansonBM_fourthVentricleProper
    :name: fourth ventricle proper
 
@@ -5425,6 +5763,7 @@ SwansonBM_frontalPoleCerebralCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_frontalPoleCerebralCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FRP
+   :hasVersion: `SwansonBM_3rd-ed_frontalPoleCerebralCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-frontalpolecerebralcortex>`_
    :lookupLabel: SwansonBM_frontalPoleCerebralCortex
    :name: frontal pole, cerebral cortex
 
@@ -5441,6 +5780,7 @@ SwansonBM_frontalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_frontalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FRO
+   :hasVersion: `SwansonBM_3rd-ed_frontalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-frontalregion>`_
    :lookupLabel: SwansonBM_frontalRegion
    :name: frontal region
 
@@ -5457,6 +5797,7 @@ SwansonBM_ganglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ganglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: G
+   :hasVersion: `SwansonBM_3rd-ed_ganglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ganglia>`_
    :lookupLabel: SwansonBM_ganglia
    :name: ganglia
 
@@ -5473,6 +5814,7 @@ SwansonBM_geniculateGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_geniculateGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GgVII
+   :hasVersion: `SwansonBM_3rd-ed_geniculateGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-geniculateganglion>`_
    :lookupLabel: SwansonBM_geniculateGanglion
    :name: geniculate ganglion
 
@@ -5489,6 +5831,7 @@ SwansonBM_geniculateGroupOfTheDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_geniculateGroupOfTheDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GENd
+   :hasVersion: `SwansonBM_3rd-ed_geniculateGroupOfTheDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-geniculategroupofthedorsalthalamus>`_
    :lookupLabel: SwansonBM_geniculateGroupOfTheDorsalThalamus
    :name: geniculate group of the dorsal thalamus
 
@@ -5505,6 +5848,7 @@ SwansonBM_geniculateGroupOfTheVentralThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_geniculateGroupOfTheVentralThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GENv
+   :hasVersion: `SwansonBM_3rd-ed_geniculateGroupOfTheVentralThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-geniculategroupoftheventralthalamus>`_
    :lookupLabel: SwansonBM_geniculateGroupOfTheVentralThalamus
    :name: geniculate group of the ventral thalamus
 
@@ -5521,6 +5865,7 @@ SwansonBM_genuOfTheFacialNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_genuOfTheFacialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: gVIIn
+   :hasVersion: `SwansonBM_3rd-ed_genuOfTheFacialNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-genuofthefacialnerve>`_
    :lookupLabel: SwansonBM_genuOfTheFacialNerve
    :name: genu of the facial nerve
 
@@ -5537,6 +5882,7 @@ SwansonBM_gigantocellularReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gigantocellularReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GRN
+   :hasVersion: `SwansonBM_3rd-ed_gigantocellularReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-gigantocellularreticularnucleus>`_
    :lookupLabel: SwansonBM_gigantocellularReticularNucleus
    :name: gigantocellular reticular nucleus
 
@@ -5553,6 +5899,7 @@ SwansonBM_globusPallidusBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_globusPallidusBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GP
+   :hasVersion: `SwansonBM_3rd-ed_globusPallidusBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-globuspallidusburdach>`_
    :lookupLabel: SwansonBM_globusPallidusBurdach
    :name: globus pallidus [Burdach]
 
@@ -5569,6 +5916,7 @@ SwansonBM_globusPallidusExternalSegment
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_globusPallidusExternalSegment
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPe
+   :hasVersion: `SwansonBM_3rd-ed_globusPallidusExternalSegment <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-globuspallidusexternalsegment>`_
    :lookupLabel: SwansonBM_globusPallidusExternalSegment
    :name: globus pallidus, external segment
 
@@ -5585,6 +5933,7 @@ SwansonBM_globusPallidusInternalSegment
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_globusPallidusInternalSegment
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPi
+   :hasVersion: `SwansonBM_3rd-ed_globusPallidusInternalSegment <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-globuspallidusinternalsegment>`_
    :lookupLabel: SwansonBM_globusPallidusInternalSegment
    :name: globus pallidus, internal segment
 
@@ -5601,6 +5950,7 @@ SwansonBM_glossopharyngealNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_glossopharyngealNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IXn
+   :hasVersion: `SwansonBM_3rd-ed_glossopharyngealNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-glossopharyngealnerve>`_
    :lookupLabel: SwansonBM_glossopharyngealNerve
    :name: glossopharyngeal nerve
 
@@ -5617,6 +5967,7 @@ SwansonBM_gracileFascicleGoll
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileFascicleGoll
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: grf
+   :hasVersion: `SwansonBM_3rd-ed_gracileFascicleGoll <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-gracilefasciclegoll>`_
    :lookupLabel: SwansonBM_gracileFascicleGoll
    :name: gracile fascicle [Goll]
 
@@ -5633,6 +5984,7 @@ SwansonBM_gracileNucleusGeneralGoll
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusGeneralGoll
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GRg
+   :hasVersion: `SwansonBM_3rd-ed_gracileNucleusGeneralGoll <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-gracilenucleusgeneralgoll>`_
    :lookupLabel: SwansonBM_gracileNucleusGeneralGoll
    :name: gracile nucleus, general [Goll]
 
@@ -5649,6 +6001,7 @@ SwansonBM_gracileNucleusMedianPartBischoff
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusMedianPartBischoff
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GRm
+   :hasVersion: `SwansonBM_3rd-ed_gracileNucleusMedianPartBischoff <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-gracilenucleusmedianpartbischoff>`_
    :lookupLabel: SwansonBM_gracileNucleusMedianPartBischoff
    :name: gracile nucleus, median part [Bischoff]
 
@@ -5665,6 +6018,7 @@ SwansonBM_gracileNucleusPrincipalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gracileNucleusPrincipalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GR
+   :hasVersion: `SwansonBM_3rd-ed_gracileNucleusPrincipalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-gracilenucleusprincipalpart>`_
    :lookupLabel: SwansonBM_gracileNucleusPrincipalPart
    :name: gracile nucleus, principal part
 
@@ -5681,6 +6035,7 @@ SwansonBM_grooves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_grooves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: grv
+   :hasVersion: `SwansonBM_3rd-ed_grooves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-grooves>`_
    :lookupLabel: SwansonBM_grooves
    :name: grooves
 
@@ -5697,6 +6052,7 @@ SwansonBM_gustatoryArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_gustatoryArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GU
+   :hasVersion: `SwansonBM_3rd-ed_gustatoryArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-gustatoryarea>`_
    :lookupLabel: SwansonBM_gustatoryArea
    :name: gustatory area
 
@@ -5713,6 +6069,7 @@ SwansonBM_habenularCommissureHaller
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_habenularCommissureHaller
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: hbc
+   :hasVersion: `SwansonBM_3rd-ed_habenularCommissureHaller <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-habenularcommissurehaller>`_
    :lookupLabel: SwansonBM_habenularCommissureHaller
    :name: habenular commissure [Haller]
 
@@ -5729,6 +6086,7 @@ SwansonBM_hemisphericRegionCerebellum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hemisphericRegionCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: HEM
+   :hasVersion: `SwansonBM_3rd-ed_hemisphericRegionCerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hemisphericregioncerebellum>`_
    :lookupLabel: SwansonBM_hemisphericRegionCerebellum
    :name: hemispheric region, cerebellum
 
@@ -5745,6 +6103,7 @@ SwansonBM_hindbrain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hindbrain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: HB
+   :hasVersion: `SwansonBM_3rd-ed_hindbrain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hindbrain>`_
    :lookupLabel: SwansonBM_hindbrain
    :name: hindbrain
 
@@ -5761,6 +6120,7 @@ SwansonBM_hippocampalCommissuresDavid
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalCommissuresDavid
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: hc
+   :hasVersion: `SwansonBM_3rd-ed_hippocampalCommissuresDavid <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hippocampalcommissuresdavid>`_
    :lookupLabel: SwansonBM_hippocampalCommissuresDavid
    :name: hippocampal commissures [David]
 
@@ -5777,6 +6137,7 @@ SwansonBM_hippocampalFissureGratiolet
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalFissureGratiolet
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: hf
+   :hasVersion: `SwansonBM_3rd-ed_hippocampalFissureGratiolet <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hippocampalfissuregratiolet>`_
    :lookupLabel: SwansonBM_hippocampalFissureGratiolet
    :name: hippocampal fissure [Gratiolet]
 
@@ -5793,6 +6154,7 @@ SwansonBM_hippocampalFormation
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalFormation
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: HPF
+   :hasVersion: `SwansonBM_3rd-ed_hippocampalFormation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hippocampalformation>`_
    :lookupLabel: SwansonBM_hippocampalFormation
    :name: hippocampal formation
 
@@ -5809,6 +6171,7 @@ SwansonBM_hippocampalRegionAranzi
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hippocampalRegionAranzi
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: HIP
+   :hasVersion: `SwansonBM_3rd-ed_hippocampalRegionAranzi <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hippocampalregionaranzi>`_
    :lookupLabel: SwansonBM_hippocampalRegionAranzi
    :name: hippocampal region [Aranzi]
 
@@ -5825,6 +6188,7 @@ SwansonBM_hypoglossalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypoglossalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: XIIn
+   :hasVersion: `SwansonBM_3rd-ed_hypoglossalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypoglossalnerve>`_
    :lookupLabel: SwansonBM_hypoglossalNerve
    :name: hypoglossal nerve
 
@@ -5841,6 +6205,7 @@ SwansonBM_hypoglossalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypoglossalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: XII
+   :hasVersion: `SwansonBM_3rd-ed_hypoglossalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypoglossalnucleus>`_
    :lookupLabel: SwansonBM_hypoglossalNucleus
    :name: hypoglossal nucleus
 
@@ -5857,6 +6222,7 @@ SwansonBM_hypothalamicLateralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicLateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LZ
+   :hasVersion: `SwansonBM_3rd-ed_hypothalamicLateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypothalamiclateralzone>`_
    :lookupLabel: SwansonBM_hypothalamicLateralZone
    :name: hypothalamic lateral zone
 
@@ -5873,6 +6239,7 @@ SwansonBM_hypothalamicLateralZoneMotorRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicLateralZoneMotorRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LZm
+   :hasVersion: `SwansonBM_3rd-ed_hypothalamicLateralZoneMotorRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypothalamiclateralzonemotorrelated>`_
    :lookupLabel: SwansonBM_hypothalamicLateralZoneMotorRelated
    :name: hypothalamic lateral zone, motor related
 
@@ -5889,6 +6256,7 @@ SwansonBM_hypothalamicLateralZoneStateRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicLateralZoneStateRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LZs
+   :hasVersion: `SwansonBM_3rd-ed_hypothalamicLateralZoneStateRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypothalamiclateralzonestaterelated>`_
    :lookupLabel: SwansonBM_hypothalamicLateralZoneStateRelated
    :name: hypothalamic lateral zone, state related
 
@@ -5905,6 +6273,7 @@ SwansonBM_hypothalamicPeriventricularRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamicPeriventricularRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVR
+   :hasVersion: `SwansonBM_3rd-ed_hypothalamicPeriventricularRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypothalamicperiventricularregion>`_
    :lookupLabel: SwansonBM_hypothalamicPeriventricularRegion
    :name: hypothalamic periventricular region
 
@@ -5921,6 +6290,7 @@ SwansonBM_hypothalamohypophysialTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamohypophysialTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: hht
+   :hasVersion: `SwansonBM_3rd-ed_hypothalamohypophysialTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypothalamohypophysialtract>`_
    :lookupLabel: SwansonBM_hypothalamohypophysialTract
    :name: hypothalamohypophysial tract
 
@@ -5937,6 +6307,7 @@ SwansonBM_hypothalamusHis
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_hypothalamusHis
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: HY
+   :hasVersion: `SwansonBM_3rd-ed_hypothalamusHis <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-hypothalamushis>`_
    :lookupLabel: SwansonBM_hypothalamusHis
    :name: hypothalamus [His]
 
@@ -5953,6 +6324,7 @@ SwansonBM_induseumGriseumValentin
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_induseumGriseumValentin
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IG
+   :hasVersion: `SwansonBM_3rd-ed_induseumGriseumValentin <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-induseumgriseumvalentin>`_
    :lookupLabel: SwansonBM_induseumGriseumValentin
    :name: induseum griseum [Valentin]
 
@@ -5969,6 +6341,7 @@ SwansonBM_inferiorCerebellarPeduncleRidley
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorCerebellarPeduncleRidley
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: icp
+   :hasVersion: `SwansonBM_3rd-ed_inferiorCerebellarPeduncleRidley <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorcerebellarpeduncleridley>`_
    :lookupLabel: SwansonBM_inferiorCerebellarPeduncleRidley
    :name: inferior cerebellar peduncle [Ridley]
 
@@ -5985,6 +6358,7 @@ SwansonBM_inferiorColliculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IC
+   :hasVersion: `SwansonBM_3rd-ed_inferiorColliculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorcolliculus>`_
    :lookupLabel: SwansonBM_inferiorColliculus
    :name: inferior colliculus
 
@@ -6001,6 +6375,7 @@ SwansonBM_inferiorColliculusCentralNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusCentralNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ICc
+   :hasVersion: `SwansonBM_3rd-ed_inferiorColliculusCentralNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorcolliculuscentralnucleus>`_
    :lookupLabel: SwansonBM_inferiorColliculusCentralNucleus
    :name: inferior colliculus, central nucleus
 
@@ -6017,6 +6392,7 @@ SwansonBM_inferiorColliculusCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: cic
+   :hasVersion: `SwansonBM_3rd-ed_inferiorColliculusCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorcolliculuscommissure>`_
    :lookupLabel: SwansonBM_inferiorColliculusCommissure
    :name: inferior colliculus commissure
 
@@ -6033,6 +6409,7 @@ SwansonBM_inferiorColliculusDorsalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusDorsalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ICd
+   :hasVersion: `SwansonBM_3rd-ed_inferiorColliculusDorsalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorcolliculusdorsalnucleus>`_
    :lookupLabel: SwansonBM_inferiorColliculusDorsalNucleus
    :name: inferior colliculus, dorsal nucleus
 
@@ -6049,6 +6426,7 @@ SwansonBM_inferiorColliculusExternalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorColliculusExternalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ICe
+   :hasVersion: `SwansonBM_3rd-ed_inferiorColliculusExternalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorcolliculusexternalnucleus>`_
    :lookupLabel: SwansonBM_inferiorColliculusExternalNucleus
    :name: inferior colliculus, external nucleus
 
@@ -6065,6 +6443,7 @@ SwansonBM_inferiorMesentericGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorMesentericGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GIM
+   :hasVersion: `SwansonBM_3rd-ed_inferiorMesentericGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiormesentericganglia>`_
    :lookupLabel: SwansonBM_inferiorMesentericGanglia
    :name: inferior mesenteric ganglia
 
@@ -6081,6 +6460,7 @@ SwansonBM_inferiorOlivaryComplexDorsalAccessoryOlive
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexDorsalAccessoryOlive
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IOda
+   :hasVersion: `SwansonBM_3rd-ed_inferiorOlivaryComplexDorsalAccessoryOlive <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorolivarycomplexdorsalaccessoryolive>`_
    :lookupLabel: SwansonBM_inferiorOlivaryComplexDorsalAccessoryOlive
    :name: inferior olivary complex, dorsal accessory olive
 
@@ -6097,6 +6477,7 @@ SwansonBM_inferiorOlivaryComplexMedialAccessoryOlive
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexMedialAccessoryOlive
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IOma
+   :hasVersion: `SwansonBM_3rd-ed_inferiorOlivaryComplexMedialAccessoryOlive <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorolivarycomplexmedialaccessoryolive>`_
    :lookupLabel: SwansonBM_inferiorOlivaryComplexMedialAccessoryOlive
    :name: inferior olivary complex, medial accessory olive
 
@@ -6113,6 +6494,7 @@ SwansonBM_inferiorOlivaryComplexPrincipalOlive
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexPrincipalOlive
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IOpr
+   :hasVersion: `SwansonBM_3rd-ed_inferiorOlivaryComplexPrincipalOlive <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorolivarycomplexprincipalolive>`_
    :lookupLabel: SwansonBM_inferiorOlivaryComplexPrincipalOlive
    :name: inferior olivary complex, principal olive
 
@@ -6129,6 +6511,7 @@ SwansonBM_inferiorOlivaryComplexVieussens
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorOlivaryComplexVieussens
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IO
+   :hasVersion: `SwansonBM_3rd-ed_inferiorOlivaryComplexVieussens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorolivarycomplexvieussens>`_
    :lookupLabel: SwansonBM_inferiorOlivaryComplexVieussens
    :name: inferior olivary complex [Vieussens]
 
@@ -6145,6 +6528,7 @@ SwansonBM_inferiorSalivatoryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_inferiorSalivatoryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISN
+   :hasVersion: `SwansonBM_3rd-ed_inferiorSalivatoryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-inferiorsalivatorynucleus>`_
    :lookupLabel: SwansonBM_inferiorSalivatoryNucleus
    :name: inferior salivatory nucleus
 
@@ -6161,6 +6545,7 @@ SwansonBM_infracerebellarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infracerebellarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ICB
+   :hasVersion: `SwansonBM_3rd-ed_infracerebellarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-infracerebellarnucleus>`_
    :lookupLabel: SwansonBM_infracerebellarNucleus
    :name: infracerebellar nucleus
 
@@ -6177,6 +6562,7 @@ SwansonBM_infralimbicArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infralimbicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ILA
+   :hasVersion: `SwansonBM_3rd-ed_infralimbicArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-infralimbicarea>`_
    :lookupLabel: SwansonBM_infralimbicArea
    :name: infralimbic area
 
@@ -6193,6 +6579,7 @@ SwansonBM_infundibulumExternalLamina
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumExternalLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: INFex
+   :hasVersion: `SwansonBM_3rd-ed_infundibulumExternalLamina <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-infundibulumexternallamina>`_
    :lookupLabel: SwansonBM_infundibulumExternalLamina
    :name: infundibulum, external lamina
 
@@ -6209,6 +6596,7 @@ SwansonBM_infundibulumGalen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumGalen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: INF
+   :hasVersion: `SwansonBM_3rd-ed_infundibulumGalen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-infundibulumgalen>`_
    :lookupLabel: SwansonBM_infundibulumGalen
    :name: infundibulum [Galen]
 
@@ -6225,6 +6613,7 @@ SwansonBM_infundibulumInternalLamina
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_infundibulumInternalLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: INFin
+   :hasVersion: `SwansonBM_3rd-ed_infundibulumInternalLamina <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-infundibuluminternallamina>`_
    :lookupLabel: SwansonBM_infundibulumInternalLamina
    :name: infundibulum, internal lamina
 
@@ -6241,6 +6630,7 @@ SwansonBM_insularRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_insularRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: INS
+   :hasVersion: `SwansonBM_3rd-ed_insularRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-insularregion>`_
    :lookupLabel: SwansonBM_insularRegion
    :name: insular region
 
@@ -6257,6 +6647,7 @@ SwansonBM_interanterodorsalNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interanterodorsalNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IAD
+   :hasVersion: `SwansonBM_3rd-ed_interanterodorsalNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interanterodorsalnucleusthalamus>`_
    :lookupLabel: SwansonBM_interanterodorsalNucleusThalamus
    :name: interanterodorsal nucleus thalamus
 
@@ -6273,6 +6664,7 @@ SwansonBM_interanteromedialNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interanteromedialNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IAM
+   :hasVersion: `SwansonBM_3rd-ed_interanteromedialNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interanteromedialnucleusthalamus>`_
    :lookupLabel: SwansonBM_interanteromedialNucleusThalamus
    :name: interanteromedial nucleus thalamus
 
@@ -6289,6 +6681,7 @@ SwansonBM_interbrain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interbrain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IB
+   :hasVersion: `SwansonBM_3rd-ed_interbrain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interbrain>`_
    :lookupLabel: SwansonBM_interbrain
    :name: interbrain
 
@@ -6305,6 +6698,7 @@ SwansonBM_intercalatedAmygdalarNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intercalatedAmygdalarNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IA
+   :hasVersion: `SwansonBM_3rd-ed_intercalatedAmygdalarNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intercalatedamygdalarnuclei>`_
    :lookupLabel: SwansonBM_intercalatedAmygdalarNuclei
    :name: intercalated amygdalar nuclei
 
@@ -6321,6 +6715,7 @@ SwansonBM_intercalatedNucleusOfTheSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intercalatedNucleusOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ICS
+   :hasVersion: `SwansonBM_3rd-ed_intercalatedNucleusOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intercalatednucleusofthespinalcord>`_
    :lookupLabel: SwansonBM_intercalatedNucleusOfTheSpinalCord
    :name: intercalated nucleus of the spinal cord
 
@@ -6337,6 +6732,7 @@ SwansonBM_intercruralFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intercruralFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: icf
+   :hasVersion: `SwansonBM_3rd-ed_intercruralFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intercruralfissure>`_
    :lookupLabel: SwansonBM_intercruralFissure
    :name: intercrural fissure
 
@@ -6353,6 +6749,7 @@ SwansonBM_interfascicularNucleusRaphe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interfascicularNucleusRaphe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IF
+   :hasVersion: `SwansonBM_3rd-ed_interfascicularNucleusRaphe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interfascicularnucleusraphe>`_
    :lookupLabel: SwansonBM_interfascicularNucleusRaphe
    :name: interfascicular nucleus raphé
 
@@ -6369,6 +6766,7 @@ SwansonBM_intermediateAcousticStriaHeld
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateAcousticStriaHeld
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ias
+   :hasVersion: `SwansonBM_3rd-ed_intermediateAcousticStriaHeld <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediateacousticstriaheld>`_
    :lookupLabel: SwansonBM_intermediateAcousticStriaHeld
    :name: intermediate acoustic stria [Held]
 
@@ -6385,6 +6783,7 @@ SwansonBM_intermediateGraySpinalCordGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateGraySpinalCordGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IHg
+   :hasVersion: `SwansonBM_3rd-ed_intermediateGraySpinalCordGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediategrayspinalcordgeneral>`_
    :lookupLabel: SwansonBM_intermediateGraySpinalCordGeneral
    :name: intermediate gray spinal cord, general
 
@@ -6401,6 +6800,7 @@ SwansonBM_intermediateGraySpinalCordProper
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateGraySpinalCordProper
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IH
+   :hasVersion: `SwansonBM_3rd-ed_intermediateGraySpinalCordProper <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediategrayspinalcordproper>`_
    :lookupLabel: SwansonBM_intermediateGraySpinalCordProper
    :name: intermediate gray spinal cord proper
 
@@ -6417,6 +6817,7 @@ SwansonBM_intermediateNerveWrisberg
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediateNerveWrisberg
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: iVIIn
+   :hasVersion: `SwansonBM_3rd-ed_intermediateNerveWrisberg <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediatenervewrisberg>`_
    :lookupLabel: SwansonBM_intermediateNerveWrisberg
    :name: intermediate nerve [Wrisberg]
 
@@ -6433,6 +6834,7 @@ SwansonBM_intermediodorsalNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediodorsalNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IMD
+   :hasVersion: `SwansonBM_3rd-ed_intermediodorsalNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediodorsalnucleusthalamus>`_
    :lookupLabel: SwansonBM_intermediodorsalNucleusThalamus
    :name: intermediodorsal nucleus thalamus
 
@@ -6449,6 +6851,7 @@ SwansonBM_intermediolateralSpinalColumn
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumn
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IML
+   :hasVersion: `SwansonBM_3rd-ed_intermediolateralSpinalColumn <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediolateralspinalcolumn>`_
    :lookupLabel: SwansonBM_intermediolateralSpinalColumn
    :name: intermediolateral spinal column
 
@@ -6465,6 +6868,7 @@ SwansonBM_intermediolateralSpinalColumnSacralDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumnSacralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IMLp
+   :hasVersion: `SwansonBM_3rd-ed_intermediolateralSpinalColumnSacralDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediolateralspinalcolumnsacraldivision>`_
    :lookupLabel: SwansonBM_intermediolateralSpinalColumnSacralDivision
    :name: intermediolateral spinal column, sacral division
 
@@ -6481,6 +6885,7 @@ SwansonBM_intermediolateralSpinalColumnThoracolumbarDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralSpinalColumnThoracolumbarDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IMLs
+   :hasVersion: `SwansonBM_3rd-ed_intermediolateralSpinalColumnThoracolumbarDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediolateralspinalcolumnthoracolumbardivision>`_
    :lookupLabel: SwansonBM_intermediolateralSpinalColumnThoracolumbarDivision
    :name: intermediolateral spinal column, thoracolumbar division
 
@@ -6497,6 +6902,7 @@ SwansonBM_intermediolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISli
+   :hasVersion: `SwansonBM_3rd-ed_intermediolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediolateralvisualarea>`_
    :lookupLabel: SwansonBM_intermediolateralVisualArea
    :name: intermediolateral visual area
 
@@ -6513,6 +6919,7 @@ SwansonBM_intermediomedialSpinalColumn
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intermediomedialSpinalColumn
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IMM
+   :hasVersion: `SwansonBM_3rd-ed_intermediomedialSpinalColumn <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intermediomedialspinalcolumn>`_
    :lookupLabel: SwansonBM_intermediomedialSpinalColumn
    :name: intermediomedial spinal column
 
@@ -6529,6 +6936,7 @@ SwansonBM_internalArcuateFibers
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalArcuateFibers
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: iaf
+   :hasVersion: `SwansonBM_3rd-ed_internalArcuateFibers <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-internalarcuatefibers>`_
    :lookupLabel: SwansonBM_internalArcuateFibers
    :name: internal arcuate fibers
 
@@ -6545,6 +6953,7 @@ SwansonBM_internalCapsuleBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalCapsuleBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: int
+   :hasVersion: `SwansonBM_3rd-ed_internalCapsuleBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-internalcapsuleburdach>`_
    :lookupLabel: SwansonBM_internalCapsuleBurdach
    :name: internal capsule [Burdach]
 
@@ -6561,6 +6970,7 @@ SwansonBM_internalMedullaryLaminaThalamusBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internalMedullaryLaminaThalamusBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: im
+   :hasVersion: `SwansonBM_3rd-ed_internalMedullaryLaminaThalamusBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-internalmedullarylaminathalamusburdach>`_
    :lookupLabel: SwansonBM_internalMedullaryLaminaThalamusBurdach
    :name: internal medullary lamina thalamus [Burdach]
 
@@ -6577,6 +6987,7 @@ SwansonBM_internuclearAreaHypothalamicPeriventricularRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_internuclearAreaHypothalamicPeriventricularRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: I
+   :hasVersion: `SwansonBM_3rd-ed_internuclearAreaHypothalamicPeriventricularRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-internuclearareahypothalamicperiventricularregion>`_
    :lookupLabel: SwansonBM_internuclearAreaHypothalamicPeriventricularRegion
    :name: internuclear area, hypothalamic periventricular region
 
@@ -6593,6 +7004,7 @@ SwansonBM_interpeduncularNucleusApicalSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusApicalSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNa
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusApicalSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleusapicalsubnucleus>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusApicalSubnucleus
    :name: interpeduncular nucleus, apical subnucleus
 
@@ -6609,6 +7021,7 @@ SwansonBM_interpeduncularNucleusCentralSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusCentralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNc
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusCentralSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleuscentralsubnucleus>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusCentralSubnucleus
    :name: interpeduncular nucleus, central subnucleus
 
@@ -6625,6 +7038,7 @@ SwansonBM_interpeduncularNucleusDorsomedialSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusDorsomedialSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNd
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusDorsomedialSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleusdorsomedialsubnucleus>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusDorsomedialSubnucleus
    :name: interpeduncular nucleus, dorsomedial subnucleus
 
@@ -6641,6 +7055,7 @@ SwansonBM_interpeduncularNucleusGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPN
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleusgudden>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusGudden
    :name: interpeduncular nucleus [Gudden]
 
@@ -6657,6 +7072,7 @@ SwansonBM_interpeduncularNucleusIntermediateSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusIntermediateSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNi
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusIntermediateSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleusintermediatesubnucleus>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusIntermediateSubnucleus
    :name: interpeduncular nucleus, intermediate subnucleus
 
@@ -6673,6 +7089,7 @@ SwansonBM_interpeduncularNucleusLateralSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNl
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleuslateralsubnucleus>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusLateralSubnucleus
    :name: interpeduncular nucleus, lateral subnucleus
 
@@ -6689,6 +7106,7 @@ SwansonBM_interpeduncularNucleusLateralSubnucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNld
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleuslateralsubnucleusdorsalpart>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusLateralSubnucleusDorsalPart
    :name: interpeduncular nucleus, lateral subnucleus, dorsal part
 
@@ -6705,6 +7123,7 @@ SwansonBM_interpeduncularNucleusLateralSubnucleusIntermediatePart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNli
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusIntermediatePart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleuslateralsubnucleusintermediatepart>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusLateralSubnucleusIntermediatePart
    :name: interpeduncular nucleus, lateral subnucleus, intermediate part
 
@@ -6721,6 +7140,7 @@ SwansonBM_interpeduncularNucleusLateralSubnucleusRostralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusRostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNlr
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusRostralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleuslateralsubnucleusrostralpart>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusLateralSubnucleusRostralPart
    :name: interpeduncular nucleus, lateral subnucleus, rostral part
 
@@ -6737,6 +7157,7 @@ SwansonBM_interpeduncularNucleusLateralSubnucleusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusLateralSubnucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNlv
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusLateralSubnucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleuslateralsubnucleusventralpart>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusLateralSubnucleusVentralPart
    :name: interpeduncular nucleus, lateral subnucleus, ventral part
 
@@ -6753,6 +7174,7 @@ SwansonBM_interpeduncularNucleusRostralSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interpeduncularNucleusRostralSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPNr
+   :hasVersion: `SwansonBM_3rd-ed_interpeduncularNucleusRostralSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interpeduncularnucleusrostralsubnucleus>`_
    :lookupLabel: SwansonBM_interpeduncularNucleusRostralSubnucleus
    :name: interpeduncular nucleus, rostral subnucleus
 
@@ -6769,6 +7191,7 @@ SwansonBM_interposedNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IP
+   :hasVersion: `SwansonBM_3rd-ed_interposedNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interposednucleus>`_
    :lookupLabel: SwansonBM_interposedNucleus
    :name: interposed nucleus
 
@@ -6785,6 +7208,7 @@ SwansonBM_interposedNucleusMainPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleusMainPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPm
+   :hasVersion: `SwansonBM_3rd-ed_interposedNucleusMainPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interposednucleusmainpart>`_
    :lookupLabel: SwansonBM_interposedNucleusMainPart
    :name: interposed nucleus, main part
 
@@ -6801,6 +7225,7 @@ SwansonBM_interposedNucleusParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interposedNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IPp
+   :hasVersion: `SwansonBM_3rd-ed_interposedNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interposednucleusparvicellularpart>`_
    :lookupLabel: SwansonBM_interposedNucleusParvicellularPart
    :name: interposed nucleus, parvicellular part
 
@@ -6817,6 +7242,7 @@ SwansonBM_interstitialNucleusAuditoryNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusAuditoryNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IAN
+   :hasVersion: `SwansonBM_3rd-ed_interstitialNucleusAuditoryNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interstitialnucleusauditorynerve>`_
    :lookupLabel: SwansonBM_interstitialNucleusAuditoryNerve
    :name: interstitial nucleus auditory nerve
 
@@ -6833,6 +7259,7 @@ SwansonBM_interstitialNucleusOfCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusOfCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: INC
+   :hasVersion: `SwansonBM_3rd-ed_interstitialNucleusOfCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interstitialnucleusofcajal>`_
    :lookupLabel: SwansonBM_interstitialNucleusOfCajal
    :name: interstitial nucleus of Cajal
 
@@ -6849,6 +7276,7 @@ SwansonBM_interstitialNucleusVestibularNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interstitialNucleusVestibularNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: INV
+   :hasVersion: `SwansonBM_3rd-ed_interstitialNucleusVestibularNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interstitialnucleusvestibularnerve>`_
    :lookupLabel: SwansonBM_interstitialNucleusVestibularNerve
    :name: interstitial nucleus vestibular nerve
 
@@ -6865,6 +7293,7 @@ SwansonBM_interventricularForamenMonro
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_interventricularForamenMonro
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IVF
+   :hasVersion: `SwansonBM_3rd-ed_interventricularForamenMonro <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-interventricularforamenmonro>`_
    :lookupLabel: SwansonBM_interventricularForamenMonro
    :name: interventricular foramen [Monro]
 
@@ -6881,6 +7310,7 @@ SwansonBM_intracentralFissure2
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intracentralFissure2
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ice2
+   :hasVersion: `SwansonBM_3rd-ed_intracentralFissure2 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intracentralfissure2>`_
    :lookupLabel: SwansonBM_intracentralFissure2
    :name: intracentral fissure 2
 
@@ -6897,6 +7327,7 @@ SwansonBM_intraculminateFissure1
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intraculminateFissure1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: icu1
+   :hasVersion: `SwansonBM_3rd-ed_intraculminateFissure1 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intraculminatefissure1>`_
    :lookupLabel: SwansonBM_intraculminateFissure1
    :name: intraculminate fissure 1
 
@@ -6913,6 +7344,7 @@ SwansonBM_intralaminarNucleiDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intralaminarNucleiDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ILM
+   :hasVersion: `SwansonBM_3rd-ed_intralaminarNucleiDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intralaminarnucleidorsalthalamus>`_
    :lookupLabel: SwansonBM_intralaminarNucleiDorsalThalamus
    :name: intralaminar nuclei, dorsal thalamus
 
@@ -6929,6 +7361,7 @@ SwansonBM_intraparafloccularFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_intraparafloccularFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ipf
+   :hasVersion: `SwansonBM_3rd-ed_intraparafloccularFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-intraparafloccularfissure>`_
    :lookupLabel: SwansonBM_intraparafloccularFissure
    :name: intraparafloccular fissure
 
@@ -6945,6 +7378,7 @@ SwansonBM_islandsOfCallejaOlfactoryTubercle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_islandsOfCallejaOlfactoryTubercle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: isl
+   :hasVersion: `SwansonBM_3rd-ed_islandsOfCallejaOlfactoryTubercle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-islandsofcallejaolfactorytubercle>`_
    :lookupLabel: SwansonBM_islandsOfCallejaOlfactoryTubercle
    :name: islands of Calleja (olfactory tubercle)
 
@@ -6961,6 +7395,7 @@ SwansonBM_isocortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO
+   :hasVersion: `SwansonBM_3rd-ed_isocortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortex>`_
    :lookupLabel: SwansonBM_isocortex
    :name: isocortex
 
@@ -6977,6 +7412,7 @@ SwansonBM_isocortexDeepSupragranularPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexDeepSupragranularPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO3
+   :hasVersion: `SwansonBM_3rd-ed_isocortexDeepSupragranularPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortexdeepsupragranularpyramidallayer>`_
    :lookupLabel: SwansonBM_isocortexDeepSupragranularPyramidalLayer
    :name: isocortex, deep supragranular pyramidal layer
 
@@ -6993,6 +7429,7 @@ SwansonBM_isocortexGranularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexGranularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO4
+   :hasVersion: `SwansonBM_3rd-ed_isocortexGranularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortexgranularlayer>`_
    :lookupLabel: SwansonBM_isocortexGranularLayer
    :name: isocortex, granular layer
 
@@ -7009,6 +7446,7 @@ SwansonBM_isocortexInfragranularPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexInfragranularPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO5
+   :hasVersion: `SwansonBM_3rd-ed_isocortexInfragranularPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortexinfragranularpyramidallayer>`_
    :lookupLabel: SwansonBM_isocortexInfragranularPyramidalLayer
    :name: isocortex, infragranular pyramidal layer
 
@@ -7025,6 +7463,7 @@ SwansonBM_isocortexMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO1
+   :hasVersion: `SwansonBM_3rd-ed_isocortexMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortexmolecularlayer>`_
    :lookupLabel: SwansonBM_isocortexMolecularLayer
    :name: isocortex, molecular layer
 
@@ -7041,6 +7480,7 @@ SwansonBM_isocortexPolymorphLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexPolymorphLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO6
+   :hasVersion: `SwansonBM_3rd-ed_isocortexPolymorphLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortexpolymorphlayer>`_
    :lookupLabel: SwansonBM_isocortexPolymorphLayer
    :name: isocortex, polymorph layer
 
@@ -7057,6 +7497,7 @@ SwansonBM_isocortexSuperficialSupragranularPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_isocortexSuperficialSupragranularPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ISO2
+   :hasVersion: `SwansonBM_3rd-ed_isocortexSuperficialSupragranularPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-isocortexsuperficialsupragranularpyramidallayer>`_
    :lookupLabel: SwansonBM_isocortexSuperficialSupragranularPyramidalLayer
    :name: isocortex, superficial supragranular pyramidal layer
 
@@ -7073,6 +7514,7 @@ SwansonBM_juxtarestiformBody
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_juxtarestiformBody
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: jrb
+   :hasVersion: `SwansonBM_3rd-ed_juxtarestiformBody <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-juxtarestiformbody>`_
    :lookupLabel: SwansonBM_juxtarestiformBody
    :name: juxtarestiform body
 
@@ -7089,6 +7531,7 @@ SwansonBM_lateralAmygdalarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralAmygdalarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LA
+   :hasVersion: `SwansonBM_3rd-ed_lateralAmygdalarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralamygdalarnucleus>`_
    :lookupLabel: SwansonBM_lateralAmygdalarNucleus
    :name: lateral amygdalar nucleus
 
@@ -7105,6 +7548,7 @@ SwansonBM_lateralApertureFourthVentricleLuschka
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralApertureFourthVentricleLuschka
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LAP
+   :hasVersion: `SwansonBM_3rd-ed_lateralApertureFourthVentricleLuschka <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralaperturefourthventricleluschka>`_
    :lookupLabel: SwansonBM_lateralApertureFourthVentricleLuschka
    :name: lateral aperture, fourth ventricle [Luschka]
 
@@ -7121,6 +7565,7 @@ SwansonBM_lateralCervicalNucleusRexedBrodal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralCervicalNucleusRexedBrodal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LCN
+   :hasVersion: `SwansonBM_3rd-ed_lateralCervicalNucleusRexedBrodal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralcervicalnucleusrexedbrodal>`_
    :lookupLabel: SwansonBM_lateralCervicalNucleusRexedBrodal
    :name: lateral cervical nucleus [Rexed-Brodal]
 
@@ -7137,6 +7582,7 @@ SwansonBM_lateralDorsalNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralDorsalNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LD
+   :hasVersion: `SwansonBM_3rd-ed_lateralDorsalNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateraldorsalnucleusthalamus>`_
    :lookupLabel: SwansonBM_lateralDorsalNucleusThalamus
    :name: lateral dorsal nucleus thalamus
 
@@ -7153,6 +7599,7 @@ SwansonBM_lateralForebrainBundle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralForebrainBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lfb
+   :hasVersion: `SwansonBM_3rd-ed_lateralForebrainBundle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralforebrainbundle>`_
    :lookupLabel: SwansonBM_lateralForebrainBundle
    :name: lateral forebrain bundle
 
@@ -7169,6 +7616,7 @@ SwansonBM_lateralForebrainBundleSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralForebrainBundleSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lfbs
+   :hasVersion: `SwansonBM_3rd-ed_lateralForebrainBundleSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralforebrainbundlesystem>`_
    :lookupLabel: SwansonBM_lateralForebrainBundleSystem
    :name: lateral forebrain bundle system
 
@@ -7185,6 +7633,7 @@ SwansonBM_lateralForebrainBundleSystemThalamusRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralForebrainBundleSystemThalamusRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lfbst
+   :hasVersion: `SwansonBM_3rd-ed_lateralForebrainBundleSystemThalamusRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralforebrainbundlesystemthalamusrelated>`_
    :lookupLabel: SwansonBM_lateralForebrainBundleSystemThalamusRelated
    :name: lateral forebrain bundle system, thalamus related
 
@@ -7201,6 +7650,7 @@ SwansonBM_lateralFuniculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralFuniculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lf
+   :hasVersion: `SwansonBM_3rd-ed_lateralFuniculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralfuniculus>`_
    :lookupLabel: SwansonBM_lateralFuniculus
    :name: lateral funiculus
 
@@ -7217,6 +7667,7 @@ SwansonBM_lateralGeniculateComplexDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LGd
+   :hasVersion: `SwansonBM_3rd-ed_lateralGeniculateComplexDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralgeniculatecomplexdorsalpart>`_
    :lookupLabel: SwansonBM_lateralGeniculateComplexDorsalPart
    :name: lateral geniculate complex, dorsal part
 
@@ -7233,6 +7684,7 @@ SwansonBM_lateralGeniculateComplexIntergeniculateLeaflet
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexIntergeniculateLeaflet
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IGL
+   :hasVersion: `SwansonBM_3rd-ed_lateralGeniculateComplexIntergeniculateLeaflet <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralgeniculatecomplexintergeniculateleaflet>`_
    :lookupLabel: SwansonBM_lateralGeniculateComplexIntergeniculateLeaflet
    :name: lateral geniculate complex, intergeniculate leaflet
 
@@ -7249,6 +7701,7 @@ SwansonBM_lateralGeniculateComplexSantorini
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexSantorini
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LG
+   :hasVersion: `SwansonBM_3rd-ed_lateralGeniculateComplexSantorini <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralgeniculatecomplexsantorini>`_
    :lookupLabel: SwansonBM_lateralGeniculateComplexSantorini
    :name: lateral geniculate complex [Santorini]
 
@@ -7265,6 +7718,7 @@ SwansonBM_lateralGeniculateComplexVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LGv
+   :hasVersion: `SwansonBM_3rd-ed_lateralGeniculateComplexVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralgeniculatecomplexventralpart>`_
    :lookupLabel: SwansonBM_lateralGeniculateComplexVentralPart
    :name: lateral geniculate complex, ventral part
 
@@ -7281,6 +7735,7 @@ SwansonBM_lateralGeniculateComplexVentralPartLateralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexVentralPartLateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LGvl
+   :hasVersion: `SwansonBM_3rd-ed_lateralGeniculateComplexVentralPartLateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralgeniculatecomplexventralpartlateralzone>`_
    :lookupLabel: SwansonBM_lateralGeniculateComplexVentralPartLateralZone
    :name: lateral geniculate complex, ventral part, lateral zone
 
@@ -7297,6 +7752,7 @@ SwansonBM_lateralGeniculateComplexVentralPartMedialZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralGeniculateComplexVentralPartMedialZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LGvm
+   :hasVersion: `SwansonBM_3rd-ed_lateralGeniculateComplexVentralPartMedialZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralgeniculatecomplexventralpartmedialzone>`_
    :lookupLabel: SwansonBM_lateralGeniculateComplexVentralPartMedialZone
    :name: lateral geniculate complex, ventral part, medial zone
 
@@ -7313,6 +7769,7 @@ SwansonBM_lateralHabenulaNissl
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHabenulaNissl
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LH
+   :hasVersion: `SwansonBM_3rd-ed_lateralHabenulaNissl <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhabenulanissl>`_
    :lookupLabel: SwansonBM_lateralHabenulaNissl
    :name: lateral habenula [Nissl]
 
@@ -7329,6 +7786,7 @@ SwansonBM_lateralHypothalamicAreaAnteriorRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAa
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaanteriorregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaAnteriorRegion
    :name: lateral hypothalamic area, anterior region
 
@@ -7345,6 +7803,7 @@ SwansonBM_lateralHypothalamicAreaAnteriorRegionDorsalZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionDorsalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAad
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionDorsalZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaanteriorregiondorsalzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaAnteriorRegionDorsalZone
    :name: lateral hypothalamic area, anterior region, dorsal zone
 
@@ -7361,6 +7820,7 @@ SwansonBM_lateralHypothalamicAreaAnteriorRegionIntermediateZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionIntermediateZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAai
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionIntermediateZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaanteriorregionintermediatezone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaAnteriorRegionIntermediateZone
    :name: lateral hypothalamic area, anterior region, intermediate zone
 
@@ -7377,6 +7837,7 @@ SwansonBM_lateralHypothalamicAreaAnteriorRegionVentralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaAnteriorRegionVentralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAav
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaAnteriorRegionVentralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaanteriorregionventralzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaAnteriorRegionVentralZone
    :name: lateral hypothalamic area, anterior region, ventral zone
 
@@ -7393,6 +7854,7 @@ SwansonBM_lateralHypothalamicAreaDorsalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaDorsalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAd
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaDorsalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareadorsalregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaDorsalRegion
    :name: lateral hypothalamic area, dorsal region
 
@@ -7409,6 +7871,7 @@ SwansonBM_lateralHypothalamicAreaJuxtadorsomedialRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtadorsomedialRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAjd
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtadorsomedialRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareajuxtadorsomedialregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaJuxtadorsomedialRegion
    :name: lateral hypothalamic area, juxtadorsomedial region
 
@@ -7425,6 +7888,7 @@ SwansonBM_lateralHypothalamicAreaJuxtaparaventricularRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaparaventricularRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAjp
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaparaventricularRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareajuxtaparaventricularregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaJuxtaparaventricularRegion
    :name: lateral hypothalamic area, juxtaparaventricular region
 
@@ -7441,6 +7905,7 @@ SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAjv
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareajuxtaventromedialregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegion
    :name: lateral hypothalamic area, juxtaventromedial region
 
@@ -7457,6 +7922,7 @@ SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAjvd
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareajuxtaventromedialregiondorsalzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionDorsalZone
    :name: lateral hypothalamic area, juxtaventromedial region, dorsal zone
 
@@ -7473,6 +7939,7 @@ SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAjvv
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareajuxtaventromedialregionventralzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaJuxtaventromedialRegionVentralZone
    :name: lateral hypothalamic area, juxtaventromedial region, ventral zone
 
@@ -7489,6 +7956,7 @@ SwansonBM_lateralHypothalamicAreaMagnocellularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaMagnocellularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAm
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaMagnocellularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareamagnocellularnucleus>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaMagnocellularNucleus
    :name: lateral hypothalamic area, magnocellular nucleus
 
@@ -7505,6 +7973,7 @@ SwansonBM_lateralHypothalamicAreaMotorRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaMotorRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAmo
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaMotorRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareamotorrelated>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaMotorRelated
    :name: lateral hypothalamic area, motor related
 
@@ -7521,6 +7990,7 @@ SwansonBM_lateralHypothalamicAreaNissl
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaNissl
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHA
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaNissl <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareanissl>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaNissl
    :name: lateral hypothalamic area [Nissl]
 
@@ -7537,6 +8007,7 @@ SwansonBM_lateralHypothalamicAreaParvicellularRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaParvicellularRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHApc
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaParvicellularRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaparvicellularregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaParvicellularRegion
    :name: lateral hypothalamic area, parvicellular region
 
@@ -7553,6 +8024,7 @@ SwansonBM_lateralHypothalamicAreaPosteriorRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaPosteriorRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAp
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaPosteriorRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaposteriorregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaPosteriorRegion
    :name: lateral hypothalamic area, posterior region
 
@@ -7569,6 +8041,7 @@ SwansonBM_lateralHypothalamicAreaSubfornicalRegionAnteriorZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionAnteriorZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAsfa
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionAnteriorZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareasubfornicalregionanteriorzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaSubfornicalRegionAnteriorZone
    :name: lateral hypothalamic area, subfornical region, anterior zone
 
@@ -7585,6 +8058,7 @@ SwansonBM_lateralHypothalamicAreaSubfornicalRegionPosteriorZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionPosteriorZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAsfp
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPosteriorZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareasubfornicalregionposteriorzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaSubfornicalRegionPosteriorZone
    :name: lateral hypothalamic area, subfornical region, posterior zone
 
@@ -7601,6 +8075,7 @@ SwansonBM_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAsfpm
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareasubfornicalregionpremammillaryzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaSubfornicalRegionPremammillaryZone
    :name: lateral hypothalamic area, subfornical region, premammillary zone
 
@@ -7617,6 +8092,7 @@ SwansonBM_lateralHypothalamicAreaSuprafornicalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaSuprafornicalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAs
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaSuprafornicalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareasuprafornicalregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaSuprafornicalRegion
    :name: lateral hypothalamic area, suprafornical region
 
@@ -7633,6 +8109,7 @@ SwansonBM_lateralHypothalamicAreaVentralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaVentralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAv
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaventralregion>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaVentralRegion
    :name: lateral hypothalamic area, ventral region
 
@@ -7649,6 +8126,7 @@ SwansonBM_lateralHypothalamicAreaVentralRegionLateralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaVentralRegionLateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAvl
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegionLateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaventralregionlateralzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaVentralRegionLateralZone
    :name: lateral hypothalamic area, ventral region, lateral zone
 
@@ -7665,6 +8143,7 @@ SwansonBM_lateralHypothalamicAreaVentralRegionMedialZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralHypothalamicAreaVentralRegionMedialZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LHAvm
+   :hasVersion: `SwansonBM_3rd-ed_lateralHypothalamicAreaVentralRegionMedialZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralhypothalamicareaventralregionmedialzone>`_
    :lookupLabel: SwansonBM_lateralHypothalamicAreaVentralRegionMedialZone
    :name: lateral hypothalamic area, ventral region, medial zone
 
@@ -7681,6 +8160,7 @@ SwansonBM_lateralLemniscusReil
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralLemniscusReil
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ll
+   :hasVersion: `SwansonBM_3rd-ed_lateralLemniscusReil <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-laterallemniscusreil>`_
    :lookupLabel: SwansonBM_lateralLemniscusReil
    :name: lateral lemniscus [Reil]
 
@@ -7697,6 +8177,7 @@ SwansonBM_lateralMammillaryNucleusGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralMammillaryNucleusGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LM
+   :hasVersion: `SwansonBM_3rd-ed_lateralMammillaryNucleusGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralmammillarynucleusgudden>`_
    :lookupLabel: SwansonBM_lateralMammillaryNucleusGudden
    :name: lateral mammillary nucleus [Gudden]
 
@@ -7713,6 +8194,7 @@ SwansonBM_lateralNucleiDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralNucleiDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LAT
+   :hasVersion: `SwansonBM_3rd-ed_lateralNucleiDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralnucleidorsalthalamus>`_
    :lookupLabel: SwansonBM_lateralNucleiDorsalThalamus
    :name: lateral nuclei, dorsal thalamus
 
@@ -7729,6 +8211,7 @@ SwansonBM_lateralOlfactoryTractBody
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralOlfactoryTractBody
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lot
+   :hasVersion: `SwansonBM_3rd-ed_lateralOlfactoryTractBody <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralolfactorytractbody>`_
    :lookupLabel: SwansonBM_lateralOlfactoryTractBody
    :name: lateral olfactory tract, body
 
@@ -7745,6 +8228,7 @@ SwansonBM_lateralOlfactoryTractDorsalLimb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralOlfactoryTractDorsalLimb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lotd
+   :hasVersion: `SwansonBM_3rd-ed_lateralOlfactoryTractDorsalLimb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralolfactorytractdorsallimb>`_
    :lookupLabel: SwansonBM_lateralOlfactoryTractDorsalLimb
    :name: lateral olfactory tract, dorsal limb
 
@@ -7761,6 +8245,7 @@ SwansonBM_lateralOlfactoryTractGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralOlfactoryTractGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lotg
+   :hasVersion: `SwansonBM_3rd-ed_lateralOlfactoryTractGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralolfactorytractgeneral>`_
    :lookupLabel: SwansonBM_lateralOlfactoryTractGeneral
    :name: lateral olfactory tract, general
 
@@ -7777,6 +8262,7 @@ SwansonBM_lateralPosteriorNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralPosteriorNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LP
+   :hasVersion: `SwansonBM_3rd-ed_lateralPosteriorNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralposteriornucleusthalamus>`_
    :lookupLabel: SwansonBM_lateralPosteriorNucleusThalamus
    :name: lateral posterior nucleus thalamus
 
@@ -7793,6 +8279,7 @@ SwansonBM_lateralPreopticArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralPreopticArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LPO
+   :hasVersion: `SwansonBM_3rd-ed_lateralPreopticArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralpreopticarea>`_
    :lookupLabel: SwansonBM_lateralPreopticArea
    :name: lateral preoptic area
 
@@ -7809,6 +8296,7 @@ SwansonBM_lateralPropriohypothalamicPathways
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralPropriohypothalamicPathways
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: phpl
+   :hasVersion: `SwansonBM_3rd-ed_lateralPropriohypothalamicPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralpropriohypothalamicpathways>`_
    :lookupLabel: SwansonBM_lateralPropriohypothalamicPathways
    :name: lateral propriohypothalamic pathways
 
@@ -7825,6 +8313,7 @@ SwansonBM_lateralReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LRN
+   :hasVersion: `SwansonBM_3rd-ed_lateralReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralreticularnucleus>`_
    :lookupLabel: SwansonBM_lateralReticularNucleus
    :name: lateral reticular nucleus
 
@@ -7841,6 +8330,7 @@ SwansonBM_lateralReticularNucleusMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralReticularNucleusMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LRNm
+   :hasVersion: `SwansonBM_3rd-ed_lateralReticularNucleusMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralreticularnucleusmagnocellularpart>`_
    :lookupLabel: SwansonBM_lateralReticularNucleusMagnocellularPart
    :name: lateral reticular nucleus, magnocellular part
 
@@ -7857,6 +8347,7 @@ SwansonBM_lateralReticularNucleusParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralReticularNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LRNp
+   :hasVersion: `SwansonBM_3rd-ed_lateralReticularNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralreticularnucleusparvicellularpart>`_
    :lookupLabel: SwansonBM_lateralReticularNucleusParvicellularPart
    :name: lateral reticular nucleus, parvicellular part
 
@@ -7873,6 +8364,7 @@ SwansonBM_lateralSeptalComplexRisoldSwanson
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalComplexRisoldSwanson
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSX
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalComplexRisoldSwanson <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalcomplexrisoldswanson>`_
    :lookupLabel: SwansonBM_lateralSeptalComplexRisoldSwanson
    :name: lateral septal complex [Risold-Swanson]
 
@@ -7889,6 +8381,7 @@ SwansonBM_lateralSeptalNucleusCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LS
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscajal>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCajal
    :name: lateral septal nucleus [Cajal]
 
@@ -7905,6 +8398,7 @@ SwansonBM_lateralSeptalNucleusCaudalCaudodorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalCaudodorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalCaudodorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalcaudodorsalpart>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalCaudodorsalPart
    :name: lateral septal nucleus, caudal (caudodorsal) part
 
@@ -7921,6 +8415,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartDorsalZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartdorsalzone>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartDorsalZone
    :name: lateral septal nucleus, caudal part, dorsal zone
 
@@ -7937,6 +8432,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.d.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartdorsalzonedorsalregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneDorsalRegion
    :name: lateral septal nucleus, caudal part, dorsal zone, dorsal region
 
@@ -7953,6 +8449,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.d.l
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartdorsalzonelateralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneLateralRegion
    :name: lateral septal nucleus, caudal part, dorsal zone, lateral region
 
@@ -7969,6 +8466,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.d.r
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartdorsalzonerostralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneRostralRegion
    :name: lateral septal nucleus, caudal part, dorsal zone, rostral region
 
@@ -7985,6 +8483,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.d.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartdorsalzoneventralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartDorsalZoneVentralRegion
    :name: lateral septal nucleus, caudal part, dorsal zone, ventral region
 
@@ -8001,6 +8500,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzone>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZone
    :name: lateral septal nucleus, caudal part, ventral zone
 
@@ -8017,6 +8517,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.i
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzoneintermediateregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneIntermediateRegion
    :name: lateral septal nucleus, caudal part, ventral zone, intermediate region
 
@@ -8033,6 +8534,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.l
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzonelateralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegion
    :name: lateral septal nucleus, caudal part, ventral zone, lateral region
 
@@ -8049,6 +8551,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDomain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.l.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzonelateralregiondorsaldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionDorsalDomain
    :name: lateral septal nucleus, caudal part, ventral zone, lateral region, dorsal domain
 
@@ -8065,6 +8568,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDomain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.l.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzonelateralregionventraldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneLateralRegionVentralDomain
    :name: lateral septal nucleus, caudal part, ventral zone, lateral region, ventral domain
 
@@ -8081,6 +8585,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.m
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzonemedialregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegion
    :name: lateral septal nucleus, caudal part, ventral zone, medial region
 
@@ -8097,6 +8602,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDomain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.m.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzonemedialregiondorsaldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionDorsalDomain
    :name: lateral septal nucleus, caudal part, ventral zone, medial region, dorsal domain
 
@@ -8113,6 +8619,7 @@ SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDomain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSc.v.m.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleuscaudalpartventralzonemedialregionventraldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusCaudalPartVentralZoneMedialRegionVentralDomain
    :name: lateral septal nucleus, caudal part, ventral zone, medial region, ventral domain
 
@@ -8129,6 +8636,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzone>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZone
    :name: lateral septal nucleus, rostral part, dorsolateral zone
 
@@ -8145,6 +8653,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl.l
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzonelateralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegion
    :name: lateral septal nucleus, rostral part, dorsolateral zone, lateral region
 
@@ -8161,6 +8670,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDorsalDoma
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDorsalDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl.l.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDorsalDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzonelateralregiondorsaldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionDorsalDomain
    :name: lateral septal nucleus, rostral part, dorsolateral zone, lateral region, dorsal domain
 
@@ -8177,6 +8687,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDom
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl.l.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzonelateralregionventraldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneLateralRegionVentralDomain
    :name: lateral septal nucleus, rostral part, dorsolateral zone, lateral region, ventral domain
 
@@ -8193,6 +8704,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl.m
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzonemedialregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegion
    :name: lateral septal nucleus, rostral part, dorsolateral zone, medial region
 
@@ -8209,6 +8721,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDorsalDomai
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDorsalDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl.m.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDorsalDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzonemedialregiondorsaldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionDorsalDomain
    :name: lateral septal nucleus, rostral part, dorsolateral zone, medial region, dorsal domain
 
@@ -8225,6 +8738,7 @@ SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVentralDoma
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVentralDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.dl.m.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVentralDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartdorsolateralzonemedialregionventraldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartDorsolateralZoneMedialRegionVentralDomain
    :name: lateral septal nucleus, rostral part, dorsolateral zone, medial region, ventral domain
 
@@ -8241,6 +8755,7 @@ SwansonBM_lateralSeptalNucleusRostralPartMedialZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.m
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartmedialzone>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartMedialZone
    :name: lateral septal nucleus, rostral part, medial zone
 
@@ -8257,6 +8772,7 @@ SwansonBM_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.m.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartmedialzonedorsalregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartMedialZoneDorsalRegion
    :name: lateral septal nucleus, rostral part, medial zone, dorsal region
 
@@ -8273,6 +8789,7 @@ SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.m.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartmedialzoneventralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegion
    :name: lateral septal nucleus, rostral part, medial zone, ventral region
 
@@ -8289,6 +8806,7 @@ SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.m.v.c
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartmedialzoneventralregioncaudaldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionCaudalDomain
    :name: lateral septal nucleus, rostral part, medial zone, ventral region, caudal domain
 
@@ -8305,6 +8823,7 @@ SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDomain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.m.v.r
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartmedialzoneventralregionrostraldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartMedialZoneVentralRegionRostralDomain
    :name: lateral septal nucleus, rostral part, medial zone, ventral region, rostral domain
 
@@ -8321,6 +8840,7 @@ SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.vl
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartventrolateralzone>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZone
    :name: lateral septal nucleus, rostral part, ventrolateral zone
 
@@ -8337,6 +8857,7 @@ SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.vl.d
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartventrolateralzonedorsalregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegion
    :name: lateral septal nucleus, rostral part, ventrolateral zone, dorsal region
 
@@ -8353,6 +8874,7 @@ SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLateralDom
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLateralDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.vl.d.l
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLateralDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartventrolateralzonedorsalregionlateraldomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionLateralDomain
    :name: lateral septal nucleus, rostral part, ventrolateral zone, dorsal region, lateral domain
 
@@ -8369,6 +8891,7 @@ SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMedialDoma
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMedialDomain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.vl.d.m
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMedialDomain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartventrolateralzonedorsalregionmedialdomain>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneDorsalRegionMedialDomain
    :name: lateral septal nucleus, rostral part, ventrolateral zone, dorsal region, medial domain
 
@@ -8385,6 +8908,7 @@ SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr.vl.v
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralpartventrolateralzoneventralregion>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralPartVentrolateralZoneVentralRegion
    :name: lateral septal nucleus, rostral part, ventrolateral zone, ventral region
 
@@ -8401,6 +8925,7 @@ SwansonBM_lateralSeptalNucleusRostralRostroventralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusRostralRostroventralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSr
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusRostralRostroventralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusrostralrostroventralpart>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusRostralRostroventralPart
    :name: lateral septal nucleus, rostral (rostroventral) part
 
@@ -8417,6 +8942,7 @@ SwansonBM_lateralSeptalNucleusVentralPartRisoldSwanson
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSeptalNucleusVentralPartRisoldSwanson
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSv
+   :hasVersion: `SwansonBM_3rd-ed_lateralSeptalNucleusVentralPartRisoldSwanson <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralseptalnucleusventralpartrisoldswanson>`_
    :lookupLabel: SwansonBM_lateralSeptalNucleusVentralPartRisoldSwanson
    :name: lateral septal nucleus, ventral part [Risold-Swanson]
 
@@ -8433,6 +8959,7 @@ SwansonBM_lateralSpinalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSpinalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LSN
+   :hasVersion: `SwansonBM_3rd-ed_lateralSpinalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralspinalnucleus>`_
    :lookupLabel: SwansonBM_lateralSpinalNucleus
    :name: lateral spinal nucleus
 
@@ -8449,6 +8976,7 @@ SwansonBM_lateralSpinothalamicTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralSpinothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sttl
+   :hasVersion: `SwansonBM_3rd-ed_lateralSpinothalamicTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralspinothalamictract>`_
    :lookupLabel: SwansonBM_lateralSpinothalamicTract
    :name: lateral spinothalamic tract
 
@@ -8465,6 +8993,7 @@ SwansonBM_lateralTegmentalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LTN
+   :hasVersion: `SwansonBM_3rd-ed_lateralTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateraltegmentalnucleus>`_
    :lookupLabel: SwansonBM_lateralTegmentalNucleus
    :name: lateral tegmental nucleus
 
@@ -8481,6 +9010,7 @@ SwansonBM_lateralTerminalNucleusAccessoryOpticTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralTerminalNucleusAccessoryOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LT
+   :hasVersion: `SwansonBM_3rd-ed_lateralTerminalNucleusAccessoryOpticTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralterminalnucleusaccessoryoptictract>`_
    :lookupLabel: SwansonBM_lateralTerminalNucleusAccessoryOpticTract
    :name: lateral terminal nucleus accessory optic tract
 
@@ -8497,6 +9027,7 @@ SwansonBM_lateralVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VL
+   :hasVersion: `SwansonBM_3rd-ed_lateralVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralventricle>`_
    :lookupLabel: SwansonBM_lateralVentricle
    :name: lateral ventricle
 
@@ -8513,6 +9044,7 @@ SwansonBM_lateralVestibularNucleusDeiters
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lateralVestibularNucleusDeiters
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LAV
+   :hasVersion: `SwansonBM_3rd-ed_lateralVestibularNucleusDeiters <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lateralvestibularnucleusdeiters>`_
    :lookupLabel: SwansonBM_lateralVestibularNucleusDeiters
    :name: lateral vestibular nucleus [Deiters]
 
@@ -8529,6 +9061,7 @@ SwansonBM_laterodorsalTegmentalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_laterodorsalTegmentalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LDT
+   :hasVersion: `SwansonBM_3rd-ed_laterodorsalTegmentalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-laterodorsaltegmentalnucleus>`_
    :lookupLabel: SwansonBM_laterodorsalTegmentalNucleus
    :name: laterodorsal tegmental nucleus
 
@@ -8545,6 +9078,7 @@ SwansonBM_laterolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_laterolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISll
+   :hasVersion: `SwansonBM_3rd-ed_laterolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-laterolateralvisualarea>`_
    :lookupLabel: SwansonBM_laterolateralVisualArea
    :name: laterolateral visual area
 
@@ -8561,6 +9095,7 @@ SwansonBM_linearNucleusMedulla
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_linearNucleusMedulla
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LIN
+   :hasVersion: `SwansonBM_3rd-ed_linearNucleusMedulla <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-linearnucleusmedulla>`_
    :lookupLabel: SwansonBM_linearNucleusMedulla
    :name: linear nucleus medulla
 
@@ -8577,6 +9112,7 @@ SwansonBM_lingulaI
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lingulaI
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LING
+   :hasVersion: `SwansonBM_3rd-ed_lingulaI <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lingulai>`_
    :lookupLabel: SwansonBM_lingulaI
    :name: lingula (I)
 
@@ -8593,6 +9129,7 @@ SwansonBM_locusCeruleusVicqDAzyr
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_locusCeruleusVicqDAzyr
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: LC
+   :hasVersion: `SwansonBM_3rd-ed_locusCeruleusVicqDAzyr <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-locusceruleusvicqdazyr>`_
    :lookupLabel: SwansonBM_locusCeruleusVicqDAzyr
    :name: locus ceruleus [Vicq d’Azyr]
 
@@ -8609,6 +9146,7 @@ SwansonBM_longitudinalAssociationBundle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_longitudinalAssociationBundle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lab
+   :hasVersion: `SwansonBM_3rd-ed_longitudinalAssociationBundle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-longitudinalassociationbundle>`_
    :lookupLabel: SwansonBM_longitudinalAssociationBundle
    :name: longitudinal association bundle
 
@@ -8625,6 +9163,7 @@ SwansonBM_lumbarSpinalGanglia16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbarSpinalGanglia16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: G-L1-6
+   :hasVersion: `SwansonBM_3rd-ed_lumbarSpinalGanglia16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lumbarspinalganglia16>`_
    :lookupLabel: SwansonBM_lumbarSpinalGanglia16
    :name: lumbar spinal ganglia, 1-6
 
@@ -8641,6 +9180,7 @@ SwansonBM_lumbarSympatheticGanglia16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbarSympatheticGanglia16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Gs-L1-6
+   :hasVersion: `SwansonBM_3rd-ed_lumbarSympatheticGanglia16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lumbarsympatheticganglia16>`_
    :lookupLabel: SwansonBM_lumbarSympatheticGanglia16
    :name: lumbar sympathetic ganglia, 1-6
 
@@ -8657,6 +9197,7 @@ SwansonBM_lumbosacralPlexus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_lumbosacralPlexus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: lsp
+   :hasVersion: `SwansonBM_3rd-ed_lumbosacralPlexus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-lumbosacralplexus>`_
    :lookupLabel: SwansonBM_lumbosacralPlexus
    :name: lumbosacral plexus
 
@@ -8673,6 +9214,7 @@ SwansonBM_magnocellularNucleusLoo
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_magnocellularNucleusLoo
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MA
+   :hasVersion: `SwansonBM_3rd-ed_magnocellularNucleusLoo <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-magnocellularnucleusloo>`_
    :lookupLabel: SwansonBM_magnocellularNucleusLoo
    :name: magnocellular nucleus [Loo]
 
@@ -8689,6 +9231,7 @@ SwansonBM_magnocellularReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_magnocellularReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MARN
+   :hasVersion: `SwansonBM_3rd-ed_magnocellularReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-magnocellularreticularnucleus>`_
    :lookupLabel: SwansonBM_magnocellularReticularNucleus
    :name: magnocellular reticular nucleus
 
@@ -8705,6 +9248,7 @@ SwansonBM_mainOlfactoryBulbGlomerularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbGlomerularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOBgl
+   :hasVersion: `SwansonBM_3rd-ed_mainOlfactoryBulbGlomerularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mainolfactorybulbglomerularlayer>`_
    :lookupLabel: SwansonBM_mainOlfactoryBulbGlomerularLayer
    :name: main olfactory bulb, glomerular layer
 
@@ -8721,6 +9265,7 @@ SwansonBM_mainOlfactoryBulbGranuleCellLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbGranuleCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOBgr
+   :hasVersion: `SwansonBM_3rd-ed_mainOlfactoryBulbGranuleCellLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mainolfactorybulbgranulecelllayer>`_
    :lookupLabel: SwansonBM_mainOlfactoryBulbGranuleCellLayer
    :name: main olfactory bulb, granule cell layer
 
@@ -8737,6 +9282,7 @@ SwansonBM_mainOlfactoryBulbInnerPlexiformLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbInnerPlexiformLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOBipl
+   :hasVersion: `SwansonBM_3rd-ed_mainOlfactoryBulbInnerPlexiformLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mainolfactorybulbinnerplexiformlayer>`_
    :lookupLabel: SwansonBM_mainOlfactoryBulbInnerPlexiformLayer
    :name: main olfactory bulb, inner plexiform layer
 
@@ -8753,6 +9299,7 @@ SwansonBM_mainOlfactoryBulbMitralLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbMitralLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOBmi
+   :hasVersion: `SwansonBM_3rd-ed_mainOlfactoryBulbMitralLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mainolfactorybulbmitrallayer>`_
    :lookupLabel: SwansonBM_mainOlfactoryBulbMitralLayer
    :name: main olfactory bulb, mitral layer
 
@@ -8769,6 +9316,7 @@ SwansonBM_mainOlfactoryBulbOuterPlexiformLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbOuterPlexiformLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOBopl
+   :hasVersion: `SwansonBM_3rd-ed_mainOlfactoryBulbOuterPlexiformLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mainolfactorybulbouterplexiformlayer>`_
    :lookupLabel: SwansonBM_mainOlfactoryBulbOuterPlexiformLayer
    :name: main olfactory bulb, outer plexiform layer
 
@@ -8785,6 +9333,7 @@ SwansonBM_mainOlfactoryBulbSoemmerring
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mainOlfactoryBulbSoemmerring
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOB
+   :hasVersion: `SwansonBM_3rd-ed_mainOlfactoryBulbSoemmerring <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mainolfactorybulbsoemmerring>`_
    :lookupLabel: SwansonBM_mainOlfactoryBulbSoemmerring
    :name: main olfactory bulb [Soemmerring]
 
@@ -8801,6 +9350,7 @@ SwansonBM_majorIslandOfCallejaOlfactoryTubercle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_majorIslandOfCallejaOlfactoryTubercle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: islm
+   :hasVersion: `SwansonBM_3rd-ed_majorIslandOfCallejaOlfactoryTubercle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-majorislandofcallejaolfactorytubercle>`_
    :lookupLabel: SwansonBM_majorIslandOfCallejaOlfactoryTubercle
    :name: major island of Calleja (olfactory tubercle)
 
@@ -8817,6 +9367,7 @@ SwansonBM_mammillaryBodyGallSpurzheim
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillaryBodyGallSpurzheim
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MBO
+   :hasVersion: `SwansonBM_3rd-ed_mammillaryBodyGallSpurzheim <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mammillarybodygallspurzheim>`_
    :lookupLabel: SwansonBM_mammillaryBodyGallSpurzheim
    :name: mammillary body [Gall-Spurzheim]
 
@@ -8833,6 +9384,7 @@ SwansonBM_mammillaryPeduncleMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillaryPeduncleMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mp
+   :hasVersion: `SwansonBM_3rd-ed_mammillaryPeduncleMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mammillarypedunclemeynert>`_
    :lookupLabel: SwansonBM_mammillaryPeduncleMeynert
    :name: mammillary peduncle [Meynert]
 
@@ -8849,6 +9401,7 @@ SwansonBM_mammillotegmentalTractGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillotegmentalTractGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mtg
+   :hasVersion: `SwansonBM_3rd-ed_mammillotegmentalTractGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mammillotegmentaltractgudden>`_
    :lookupLabel: SwansonBM_mammillotegmentalTractGudden
    :name: mammillotegmental tract [Gudden]
 
@@ -8865,6 +9418,7 @@ SwansonBM_mammillothalamicTractVicqDAzyr
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mammillothalamicTractVicqDAzyr
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mtt
+   :hasVersion: `SwansonBM_3rd-ed_mammillothalamicTractVicqDAzyr <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mammillothalamictractvicqdazyr>`_
    :lookupLabel: SwansonBM_mammillothalamicTractVicqDAzyr
    :name: mammillothalamic tract [Vicq d'Azyr]
 
@@ -8881,6 +9435,7 @@ SwansonBM_marginalZoneSpinalCordWaldeyer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_marginalZoneSpinalCordWaldeyer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MZ
+   :hasVersion: `SwansonBM_3rd-ed_marginalZoneSpinalCordWaldeyer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-marginalzonespinalcordwaldeyer>`_
    :lookupLabel: SwansonBM_marginalZoneSpinalCordWaldeyer
    :name: marginal zone spinal cord [Waldeyer]
 
@@ -8897,6 +9452,7 @@ SwansonBM_medialAccessoryOculomotorNucleusBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAccessoryOculomotorNucleusBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MAN
+   :hasVersion: `SwansonBM_3rd-ed_medialAccessoryOculomotorNucleusBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialaccessoryoculomotornucleusbechterew>`_
    :lookupLabel: SwansonBM_medialAccessoryOculomotorNucleusBechterew
    :name: medial accessory oculomotor nucleus [Bechterew]
 
@@ -8913,6 +9469,7 @@ SwansonBM_medialAmygdalarNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEA
+   :hasVersion: `SwansonBM_3rd-ed_medialAmygdalarNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialamygdalarnucleus>`_
    :lookupLabel: SwansonBM_medialAmygdalarNucleus
    :name: medial amygdalar nucleus
 
@@ -8929,6 +9486,7 @@ SwansonBM_medialAmygdalarNucleusAnterodorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusAnterodorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEAad
+   :hasVersion: `SwansonBM_3rd-ed_medialAmygdalarNucleusAnterodorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialamygdalarnucleusanterodorsalpart>`_
    :lookupLabel: SwansonBM_medialAmygdalarNucleusAnterodorsalPart
    :name: medial amygdalar nucleus, anterodorsal part
 
@@ -8945,6 +9503,7 @@ SwansonBM_medialAmygdalarNucleusAnteroventralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusAnteroventralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEAav
+   :hasVersion: `SwansonBM_3rd-ed_medialAmygdalarNucleusAnteroventralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialamygdalarnucleusanteroventralpart>`_
    :lookupLabel: SwansonBM_medialAmygdalarNucleusAnteroventralPart
    :name: medial amygdalar nucleus, anteroventral part
 
@@ -8961,6 +9520,7 @@ SwansonBM_medialAmygdalarNucleusPosterodorsalPartSublayersAc
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusPosterodorsalPartSublayersAc
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEApd-a,b,c
+   :hasVersion: `SwansonBM_3rd-ed_medialAmygdalarNucleusPosterodorsalPartSublayersAc <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialamygdalarnucleusposterodorsalpartsublayersac>`_
    :lookupLabel: SwansonBM_medialAmygdalarNucleusPosterodorsalPartSublayersAc
    :name: medial amygdalar nucleus, posterodorsal part, sublayers a-c
 
@@ -8977,6 +9537,7 @@ SwansonBM_medialAmygdalarNucleusPosteroventralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialAmygdalarNucleusPosteroventralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEApv
+   :hasVersion: `SwansonBM_3rd-ed_medialAmygdalarNucleusPosteroventralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialamygdalarnucleusposteroventralpart>`_
    :lookupLabel: SwansonBM_medialAmygdalarNucleusPosteroventralPart
    :name: medial amygdalar nucleus, posteroventral part
 
@@ -8993,6 +9554,7 @@ SwansonBM_medialCorticohypothalamicTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialCorticohypothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mct
+   :hasVersion: `SwansonBM_3rd-ed_medialCorticohypothalamicTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialcorticohypothalamictract>`_
    :lookupLabel: SwansonBM_medialCorticohypothalamicTract
    :name: medial corticohypothalamic tract
 
@@ -9009,6 +9571,7 @@ SwansonBM_medialForebrainBundleEdinger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleEdinger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfb
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleEdinger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundleedinger>`_
    :lookupLabel: SwansonBM_medialForebrainBundleEdinger
    :name: medial forebrain bundle [Edinger]
 
@@ -9025,6 +9588,7 @@ SwansonBM_medialForebrainBundleSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbs
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystem>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystem
    :name: medial forebrain bundle system
 
@@ -9041,6 +9605,7 @@ SwansonBM_medialForebrainBundleSystemCerebrumRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemCerebrumRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbsc
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystemCerebrumRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystemcerebrumrelated>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystemCerebrumRelated
    :name: medial forebrain bundle system, cerebrum related
 
@@ -9057,6 +9622,7 @@ SwansonBM_medialForebrainBundleSystemEpithalamusRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemEpithalamusRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbse
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystemEpithalamusRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystemepithalamusrelated>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystemEpithalamusRelated
    :name: medial forebrain bundle system, epithalamus related
 
@@ -9073,6 +9639,7 @@ SwansonBM_medialForebrainBundleSystemHypothalamusRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemHypothalamusRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbshy
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystemHypothalamusRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystemhypothalamusrelated>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystemHypothalamusRelated
    :name: medial forebrain bundle system, hypothalamus related
 
@@ -9089,6 +9656,7 @@ SwansonBM_medialForebrainBundleSystemMammillaryRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemMammillaryRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbsma
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystemMammillaryRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystemmammillaryrelated>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystemMammillaryRelated
    :name: medial forebrain bundle system, mammillary related
 
@@ -9105,6 +9673,7 @@ SwansonBM_medialForebrainBundleSystemMidbrainRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemMidbrainRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbsm
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystemMidbrainRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystemmidbrainrelated>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystemMidbrainRelated
    :name: medial forebrain bundle system, midbrain related
 
@@ -9121,6 +9690,7 @@ SwansonBM_medialForebrainBundleSystemThalamusRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialForebrainBundleSystemThalamusRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mfbst
+   :hasVersion: `SwansonBM_3rd-ed_medialForebrainBundleSystemThalamusRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialforebrainbundlesystemthalamusrelated>`_
    :lookupLabel: SwansonBM_medialForebrainBundleSystemThalamusRelated
    :name: medial forebrain bundle system, thalamus related
 
@@ -9137,6 +9707,7 @@ SwansonBM_medialGeniculateComplex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MG
+   :hasVersion: `SwansonBM_3rd-ed_medialGeniculateComplex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialgeniculatecomplex>`_
    :lookupLabel: SwansonBM_medialGeniculateComplex
    :name: medial geniculate complex
 
@@ -9153,6 +9724,7 @@ SwansonBM_medialGeniculateComplexDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplexDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MGd
+   :hasVersion: `SwansonBM_3rd-ed_medialGeniculateComplexDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialgeniculatecomplexdorsalpart>`_
    :lookupLabel: SwansonBM_medialGeniculateComplexDorsalPart
    :name: medial geniculate complex, dorsal part
 
@@ -9169,6 +9741,7 @@ SwansonBM_medialGeniculateComplexMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MGm
+   :hasVersion: `SwansonBM_3rd-ed_medialGeniculateComplexMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialgeniculatecomplexmedialpart>`_
    :lookupLabel: SwansonBM_medialGeniculateComplexMedialPart
    :name: medial geniculate complex, medial part
 
@@ -9185,6 +9758,7 @@ SwansonBM_medialGeniculateComplexVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialGeniculateComplexVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MGv
+   :hasVersion: `SwansonBM_3rd-ed_medialGeniculateComplexVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialgeniculatecomplexventralpart>`_
    :lookupLabel: SwansonBM_medialGeniculateComplexVentralPart
    :name: medial geniculate complex, ventral part
 
@@ -9201,6 +9775,7 @@ SwansonBM_medialHabenulaDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MHd
+   :hasVersion: `SwansonBM_3rd-ed_medialHabenulaDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialhabenuladorsalpart>`_
    :lookupLabel: SwansonBM_medialHabenulaDorsalPart
    :name: medial habenula, dorsal part
 
@@ -9217,6 +9792,7 @@ SwansonBM_medialHabenulaNissl
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaNissl
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MH
+   :hasVersion: `SwansonBM_3rd-ed_medialHabenulaNissl <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialhabenulanissl>`_
    :lookupLabel: SwansonBM_medialHabenulaNissl
    :name: medial habenula [Nissl]
 
@@ -9233,6 +9809,7 @@ SwansonBM_medialHabenulaVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialHabenulaVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MHv
+   :hasVersion: `SwansonBM_3rd-ed_medialHabenulaVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialhabenulaventralpart>`_
    :lookupLabel: SwansonBM_medialHabenulaVentralPart
    :name: medial habenula, ventral part
 
@@ -9249,6 +9826,7 @@ SwansonBM_medialLemniscusReil
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialLemniscusReil
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ml
+   :hasVersion: `SwansonBM_3rd-ed_medialLemniscusReil <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediallemniscusreil>`_
    :lookupLabel: SwansonBM_medialLemniscusReil
    :name: medial lemniscus [Reil]
 
@@ -9265,6 +9843,7 @@ SwansonBM_medialLongitudinalFascicle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialLongitudinalFascicle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mlf
+   :hasVersion: `SwansonBM_3rd-ed_medialLongitudinalFascicle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediallongitudinalfascicle>`_
    :lookupLabel: SwansonBM_medialLongitudinalFascicle
    :name: medial longitudinal fascicle
 
@@ -9281,6 +9860,7 @@ SwansonBM_medialMammillaryNucleusBody
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialMammillaryNucleusBody
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MM
+   :hasVersion: `SwansonBM_3rd-ed_medialMammillaryNucleusBody <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialmammillarynucleusbody>`_
    :lookupLabel: SwansonBM_medialMammillaryNucleusBody
    :name: medial mammillary nucleus, body
 
@@ -9297,6 +9877,7 @@ SwansonBM_medialMammillaryNucleusGeneralGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialMammillaryNucleusGeneralGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MMg
+   :hasVersion: `SwansonBM_3rd-ed_medialMammillaryNucleusGeneralGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialmammillarynucleusgeneralgudden>`_
    :lookupLabel: SwansonBM_medialMammillaryNucleusGeneralGudden
    :name: medial mammillary nucleus, general [Gudden]
 
@@ -9313,6 +9894,7 @@ SwansonBM_medialMammillaryNucleusMedianPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialMammillaryNucleusMedianPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MMme
+   :hasVersion: `SwansonBM_3rd-ed_medialMammillaryNucleusMedianPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialmammillarynucleusmedianpart>`_
    :lookupLabel: SwansonBM_medialMammillaryNucleusMedianPart
    :name: medial mammillary nucleus, median part
 
@@ -9329,6 +9911,7 @@ SwansonBM_medialNucleiDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialNucleiDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MED
+   :hasVersion: `SwansonBM_3rd-ed_medialNucleiDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialnucleidorsalthalamus>`_
    :lookupLabel: SwansonBM_medialNucleiDorsalThalamus
    :name: medial nuclei, dorsal thalamus
 
@@ -9345,6 +9928,7 @@ SwansonBM_medialPreopticArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MPO
+   :hasVersion: `SwansonBM_3rd-ed_medialPreopticArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpreopticarea>`_
    :lookupLabel: SwansonBM_medialPreopticArea
    :name: medial preoptic area
 
@@ -9361,6 +9945,7 @@ SwansonBM_medialPreopticNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MPN
+   :hasVersion: `SwansonBM_3rd-ed_medialPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpreopticnucleus>`_
    :lookupLabel: SwansonBM_medialPreopticNucleus
    :name: medial preoptic nucleus
 
@@ -9377,6 +9962,7 @@ SwansonBM_medialPreopticNucleusCentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MPNc
+   :hasVersion: `SwansonBM_3rd-ed_medialPreopticNucleusCentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpreopticnucleuscentralpart>`_
    :lookupLabel: SwansonBM_medialPreopticNucleusCentralPart
    :name: medial preoptic nucleus, central part
 
@@ -9393,6 +9979,7 @@ SwansonBM_medialPreopticNucleusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MPNl
+   :hasVersion: `SwansonBM_3rd-ed_medialPreopticNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpreopticnucleuslateralpart>`_
    :lookupLabel: SwansonBM_medialPreopticNucleusLateralPart
    :name: medial preoptic nucleus, lateral part
 
@@ -9409,6 +9996,7 @@ SwansonBM_medialPreopticNucleusMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPreopticNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MPNm
+   :hasVersion: `SwansonBM_3rd-ed_medialPreopticNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpreopticnucleusmedialpart>`_
    :lookupLabel: SwansonBM_medialPreopticNucleusMedialPart
    :name: medial preoptic nucleus, medial part
 
@@ -9425,6 +10013,7 @@ SwansonBM_medialPretectalArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPretectalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MPT
+   :hasVersion: `SwansonBM_3rd-ed_medialPretectalArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpretectalarea>`_
    :lookupLabel: SwansonBM_medialPretectalArea
    :name: medial pretectal area
 
@@ -9441,6 +10030,7 @@ SwansonBM_medialPropriohypothalamicPathways
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialPropriohypothalamicPathways
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: phpm
+   :hasVersion: `SwansonBM_3rd-ed_medialPropriohypothalamicPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialpropriohypothalamicpathways>`_
    :lookupLabel: SwansonBM_medialPropriohypothalamicPathways
    :name: medial propriohypothalamic pathways
 
@@ -9457,6 +10047,7 @@ SwansonBM_medialSeptalComplex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialSeptalComplex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MSC
+   :hasVersion: `SwansonBM_3rd-ed_medialSeptalComplex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialseptalcomplex>`_
    :lookupLabel: SwansonBM_medialSeptalComplex
    :name: medial septal complex
 
@@ -9473,6 +10064,7 @@ SwansonBM_medialSeptalNucleusCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialSeptalNucleusCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MS
+   :hasVersion: `SwansonBM_3rd-ed_medialSeptalNucleusCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialseptalnucleuscajal>`_
    :lookupLabel: SwansonBM_medialSeptalNucleusCajal
    :name: medial septal nucleus [Cajal]
 
@@ -9489,6 +10081,7 @@ SwansonBM_medialTerminalNucleusAccessoryOpticTractEdinger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialTerminalNucleusAccessoryOpticTractEdinger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MT
+   :hasVersion: `SwansonBM_3rd-ed_medialTerminalNucleusAccessoryOpticTractEdinger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialterminalnucleusaccessoryoptictractedinger>`_
    :lookupLabel: SwansonBM_medialTerminalNucleusAccessoryOpticTractEdinger
    :name: medial terminal nucleus accessory optic tract [Edinger]
 
@@ -9505,6 +10098,7 @@ SwansonBM_medialVestibularNucleusSchwalbe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medialVestibularNucleusSchwalbe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MV
+   :hasVersion: `SwansonBM_3rd-ed_medialVestibularNucleusSchwalbe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medialvestibularnucleusschwalbe>`_
    :lookupLabel: SwansonBM_medialVestibularNucleusSchwalbe
    :name: medial vestibular nucleus [Schwalbe]
 
@@ -9521,6 +10115,7 @@ SwansonBM_medianApertureFourthVentricleMagendie
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianApertureFourthVentricleMagendie
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MAP
+   :hasVersion: `SwansonBM_3rd-ed_medianApertureFourthVentricleMagendie <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medianaperturefourthventriclemagendie>`_
    :lookupLabel: SwansonBM_medianApertureFourthVentricleMagendie
    :name: median aperture, fourth ventricle [Magendie]
 
@@ -9537,6 +10132,7 @@ SwansonBM_medianEminence
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianEminence
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ME
+   :hasVersion: `SwansonBM_3rd-ed_medianEminence <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medianeminence>`_
    :lookupLabel: SwansonBM_medianEminence
    :name: median eminence
 
@@ -9553,6 +10149,7 @@ SwansonBM_medianEminenceExternalLamina
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianEminenceExternalLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEex
+   :hasVersion: `SwansonBM_3rd-ed_medianEminenceExternalLamina <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medianeminenceexternallamina>`_
    :lookupLabel: SwansonBM_medianEminenceExternalLamina
    :name: median eminence, external lamina
 
@@ -9569,6 +10166,7 @@ SwansonBM_medianEminenceInternalLamina
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianEminenceInternalLamina
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEin
+   :hasVersion: `SwansonBM_3rd-ed_medianEminenceInternalLamina <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medianeminenceinternallamina>`_
    :lookupLabel: SwansonBM_medianEminenceInternalLamina
    :name: median eminence, internal lamina
 
@@ -9585,6 +10183,7 @@ SwansonBM_medianPreopticNucleusLoo
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medianPreopticNucleusLoo
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEPO
+   :hasVersion: `SwansonBM_3rd-ed_medianPreopticNucleusLoo <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medianpreopticnucleusloo>`_
    :lookupLabel: SwansonBM_medianPreopticNucleusLoo
    :name: median preoptic nucleus [Loo]
 
@@ -9601,6 +10200,7 @@ SwansonBM_mediodorsalNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MD
+   :hasVersion: `SwansonBM_3rd-ed_mediodorsalNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediodorsalnucleusthalamus>`_
    :lookupLabel: SwansonBM_mediodorsalNucleusThalamus
    :name: mediodorsal nucleus thalamus
 
@@ -9617,6 +10217,7 @@ SwansonBM_mediodorsalNucleusThalamusCentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MDc
+   :hasVersion: `SwansonBM_3rd-ed_mediodorsalNucleusThalamusCentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediodorsalnucleusthalamuscentralpart>`_
    :lookupLabel: SwansonBM_mediodorsalNucleusThalamusCentralPart
    :name: mediodorsal nucleus thalamus, central part
 
@@ -9633,6 +10234,7 @@ SwansonBM_mediodorsalNucleusThalamusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MDl
+   :hasVersion: `SwansonBM_3rd-ed_mediodorsalNucleusThalamusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediodorsalnucleusthalamuslateralpart>`_
    :lookupLabel: SwansonBM_mediodorsalNucleusThalamusLateralPart
    :name: mediodorsal nucleus thalamus, lateral part
 
@@ -9649,6 +10251,7 @@ SwansonBM_mediodorsalNucleusThalamusMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediodorsalNucleusThalamusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MDm
+   :hasVersion: `SwansonBM_3rd-ed_mediodorsalNucleusThalamusMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediodorsalnucleusthalamusmedialpart>`_
    :lookupLabel: SwansonBM_mediodorsalNucleusThalamusMedialPart
    :name: mediodorsal nucleus thalamus, medial part
 
@@ -9665,6 +10268,7 @@ SwansonBM_mediolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_mediolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISlm
+   :hasVersion: `SwansonBM_3rd-ed_mediolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-mediolateralvisualarea>`_
    :lookupLabel: SwansonBM_mediolateralVisualArea
    :name: mediolateral visual area
 
@@ -9681,6 +10285,7 @@ SwansonBM_medulla
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medulla
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MY
+   :hasVersion: `SwansonBM_3rd-ed_medulla <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medulla>`_
    :lookupLabel: SwansonBM_medulla
    :name: medulla
 
@@ -9697,6 +10302,7 @@ SwansonBM_medullaryReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medullaryReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MDRN
+   :hasVersion: `SwansonBM_3rd-ed_medullaryReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medullaryreticularnucleus>`_
    :lookupLabel: SwansonBM_medullaryReticularNucleus
    :name: medullary reticular nucleus
 
@@ -9713,6 +10319,7 @@ SwansonBM_medullaryReticularNucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medullaryReticularNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MDRNd
+   :hasVersion: `SwansonBM_3rd-ed_medullaryReticularNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medullaryreticularnucleusdorsalpart>`_
    :lookupLabel: SwansonBM_medullaryReticularNucleusDorsalPart
    :name: medullary reticular nucleus, dorsal part
 
@@ -9729,6 +10336,7 @@ SwansonBM_medullaryReticularNucleusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_medullaryReticularNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MDRNv
+   :hasVersion: `SwansonBM_3rd-ed_medullaryReticularNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-medullaryreticularnucleusventralpart>`_
    :lookupLabel: SwansonBM_medullaryReticularNucleusVentralPart
    :name: medullary reticular nucleus, ventral part
 
@@ -9745,6 +10353,7 @@ SwansonBM_meninges
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_meninges
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEN
+   :hasVersion: `SwansonBM_3rd-ed_meninges <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-meninges>`_
    :lookupLabel: SwansonBM_meninges
    :name: meninges
 
@@ -9761,6 +10370,7 @@ SwansonBM_midbrain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MB
+   :hasVersion: `SwansonBM_3rd-ed_midbrain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbrain>`_
    :lookupLabel: SwansonBM_midbrain
    :name: midbrain
 
@@ -9777,6 +10387,7 @@ SwansonBM_midbrainReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MRN
+   :hasVersion: `SwansonBM_3rd-ed_midbrainReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbrainreticularnucleus>`_
    :lookupLabel: SwansonBM_midbrainReticularNucleus
    :name: midbrain reticular nucleus
 
@@ -9793,6 +10404,7 @@ SwansonBM_midbrainReticularNucleusMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MRNm
+   :hasVersion: `SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbrainreticularnucleusmagnocellularpart>`_
    :lookupLabel: SwansonBM_midbrainReticularNucleusMagnocellularPart
    :name: midbrain reticular nucleus, magnocellular part
 
@@ -9809,6 +10421,7 @@ SwansonBM_midbrainReticularNucleusMagnocellularPartGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusMagnocellularPartGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MRNmg
+   :hasVersion: `SwansonBM_3rd-ed_midbrainReticularNucleusMagnocellularPartGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbrainreticularnucleusmagnocellularpartgeneral>`_
    :lookupLabel: SwansonBM_midbrainReticularNucleusMagnocellularPartGeneral
    :name: midbrain reticular nucleus, magnocellular part, general
 
@@ -9825,6 +10438,7 @@ SwansonBM_midbrainReticularNucleusParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MRNp
+   :hasVersion: `SwansonBM_3rd-ed_midbrainReticularNucleusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbrainreticularnucleusparvicellularpart>`_
    :lookupLabel: SwansonBM_midbrainReticularNucleusParvicellularPart
    :name: midbrain reticular nucleus, parvicellular part
 
@@ -9841,6 +10455,7 @@ SwansonBM_midbrainReticularNucleusRetrorubralArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainReticularNucleusRetrorubralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RR
+   :hasVersion: `SwansonBM_3rd-ed_midbrainReticularNucleusRetrorubralArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbrainreticularnucleusretrorubralarea>`_
    :lookupLabel: SwansonBM_midbrainReticularNucleusRetrorubralArea
    :name: midbrain reticular nucleus, retrorubral area
 
@@ -9857,6 +10472,7 @@ SwansonBM_midbrainTractOfTheTrigeminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainTractOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mtV
+   :hasVersion: `SwansonBM_3rd-ed_midbrainTractOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbraintractofthetrigeminalnerve>`_
    :lookupLabel: SwansonBM_midbrainTractOfTheTrigeminalNerve
    :name: midbrain tract of the trigeminal nerve
 
@@ -9873,6 +10489,7 @@ SwansonBM_midbrainTrigeminalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midbrainTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MEV
+   :hasVersion: `SwansonBM_3rd-ed_midbrainTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midbraintrigeminalnucleus>`_
    :lookupLabel: SwansonBM_midbrainTrigeminalNucleus
    :name: midbrain trigeminal nucleus
 
@@ -9889,6 +10506,7 @@ SwansonBM_middleCerebellarPeduncle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_middleCerebellarPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mcp
+   :hasVersion: `SwansonBM_3rd-ed_middleCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-middlecerebellarpeduncle>`_
    :lookupLabel: SwansonBM_middleCerebellarPeduncle
    :name: middle cerebellar peduncle
 
@@ -9905,6 +10523,7 @@ SwansonBM_middleCervicalGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_middleCervicalGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GMC
+   :hasVersion: `SwansonBM_3rd-ed_middleCervicalGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-middlecervicalganglion>`_
    :lookupLabel: SwansonBM_middleCervicalGanglion
    :name: middle cervical ganglion
 
@@ -9921,6 +10540,7 @@ SwansonBM_middleCommissureOfTheThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_middleCommissureOfTheThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: mtc
+   :hasVersion: `SwansonBM_3rd-ed_middleCommissureOfTheThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-middlecommissureofthethalamus>`_
    :lookupLabel: SwansonBM_middleCommissureOfTheThalamus
    :name: middle commissure of the thalamus
 
@@ -9937,6 +10557,7 @@ SwansonBM_midlineGroupDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midlineGroupDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MTN
+   :hasVersion: `SwansonBM_3rd-ed_midlineGroupDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midlinegroupdorsalthalamus>`_
    :lookupLabel: SwansonBM_midlineGroupDorsalThalamus
    :name: midline group, dorsal thalamus
 
@@ -9953,6 +10574,7 @@ SwansonBM_midlineNucleiDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_midlineNucleiDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MID
+   :hasVersion: `SwansonBM_3rd-ed_midlineNucleiDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-midlinenucleidorsalthalamus>`_
    :lookupLabel: SwansonBM_midlineNucleiDorsalThalamus
    :name: midline nuclei, dorsal thalamus
 
@@ -9969,6 +10591,7 @@ SwansonBM_motoneuronGroups
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motoneuronGroups
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MNG
+   :hasVersion: `SwansonBM_3rd-ed_motoneuronGroups <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-motoneurongroups>`_
    :lookupLabel: SwansonBM_motoneuronGroups
    :name: motoneuron groups
 
@@ -9985,6 +10608,7 @@ SwansonBM_motorNucleusOfTheTrigeminalMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Vma
+   :hasVersion: `SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-motornucleusofthetrigeminalmagnocellularpart>`_
    :lookupLabel: SwansonBM_motorNucleusOfTheTrigeminalMagnocellularPart
    :name: motor nucleus of the trigeminal, magnocellular part
 
@@ -10001,6 +10625,7 @@ SwansonBM_motorNucleusOfTheTrigeminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V
+   :hasVersion: `SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-motornucleusofthetrigeminalnerve>`_
    :lookupLabel: SwansonBM_motorNucleusOfTheTrigeminalNerve
    :name: motor nucleus of the trigeminal nerve
 
@@ -10017,6 +10642,7 @@ SwansonBM_motorNucleusOfTheTrigeminalNerveParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorNucleusOfTheTrigeminalNerveParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Vpc
+   :hasVersion: `SwansonBM_3rd-ed_motorNucleusOfTheTrigeminalNerveParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-motornucleusofthetrigeminalnerveparvicellularpart>`_
    :lookupLabel: SwansonBM_motorNucleusOfTheTrigeminalNerveParvicellularPart
    :name: motor nucleus of the trigeminal nerve, parvicellular part
 
@@ -10033,6 +10659,7 @@ SwansonBM_motorRootOfTheTrigeminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorRootOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: moV
+   :hasVersion: `SwansonBM_3rd-ed_motorRootOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-motorrootofthetrigeminalnerve>`_
    :lookupLabel: SwansonBM_motorRootOfTheTrigeminalNerve
    :name: motor root of the trigeminal nerve
 
@@ -10049,6 +10676,7 @@ SwansonBM_motorSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_motorSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOT
+   :hasVersion: `SwansonBM_3rd-ed_motorSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-motorsystem>`_
    :lookupLabel: SwansonBM_motorSystem
    :name: motor system
 
@@ -10065,6 +10693,7 @@ SwansonBM_myentericPlexusAuerbach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_myentericPlexusAuerbach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: myp
+   :hasVersion: `SwansonBM_3rd-ed_myentericPlexusAuerbach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-myentericplexusauerbach>`_
    :lookupLabel: SwansonBM_myentericPlexusAuerbach
    :name: myenteric plexus [Auerbach]
 
@@ -10081,6 +10710,7 @@ SwansonBM_nerveFibers
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nerveFibers
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: nfi
+   :hasVersion: `SwansonBM_3rd-ed_nerveFibers <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nervefibers>`_
    :lookupLabel: SwansonBM_nerveFibers
    :name: nerve fibers
 
@@ -10097,6 +10727,7 @@ SwansonBM_nervePlexuses
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nervePlexuses
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: plx
+   :hasVersion: `SwansonBM_3rd-ed_nervePlexuses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nerveplexuses>`_
    :lookupLabel: SwansonBM_nervePlexuses
    :name: nerve plexuses
 
@@ -10113,6 +10744,7 @@ SwansonBM_nerves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nerves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: n
+   :hasVersion: `SwansonBM_3rd-ed_nerves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nerves>`_
    :lookupLabel: SwansonBM_nerves
    :name: nerves
 
@@ -10129,6 +10761,7 @@ SwansonBM_nervousSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nervousSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NS
+   :hasVersion: `SwansonBM_3rd-ed_nervousSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nervoussystem>`_
    :lookupLabel: SwansonBM_nervousSystem
    :name: nervous system
 
@@ -10145,6 +10778,7 @@ SwansonBM_neuroendocrineMotorZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_neuroendocrineMotorZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NEM
+   :hasVersion: `SwansonBM_3rd-ed_neuroendocrineMotorZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-neuroendocrinemotorzone>`_
    :lookupLabel: SwansonBM_neuroendocrineMotorZone
    :name: neuroendocrine motor zone
 
@@ -10161,6 +10795,7 @@ SwansonBM_neuroendocrineMotorZoneMagnocellular
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_neuroendocrineMotorZoneMagnocellular
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NEMm
+   :hasVersion: `SwansonBM_3rd-ed_neuroendocrineMotorZoneMagnocellular <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-neuroendocrinemotorzonemagnocellular>`_
    :lookupLabel: SwansonBM_neuroendocrineMotorZoneMagnocellular
    :name: neuroendocrine motor zone, magnocellular
 
@@ -10177,6 +10812,7 @@ SwansonBM_neuroendocrineMotorZoneParvicellular
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_neuroendocrineMotorZoneParvicellular
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NEMp
+   :hasVersion: `SwansonBM_3rd-ed_neuroendocrineMotorZoneParvicellular <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-neuroendocrinemotorzoneparvicellular>`_
    :lookupLabel: SwansonBM_neuroendocrineMotorZoneParvicellular
    :name: neuroendocrine motor zone, parvicellular
 
@@ -10193,6 +10829,7 @@ SwansonBM_nigrostriatalTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nigrostriatalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: nst
+   :hasVersion: `SwansonBM_3rd-ed_nigrostriatalTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nigrostriataltract>`_
    :lookupLabel: SwansonBM_nigrostriatalTract
    :name: nigrostriatal tract
 
@@ -10209,6 +10846,7 @@ SwansonBM_nigrothalamicFibers
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nigrothalamicFibers
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ntt
+   :hasVersion: `SwansonBM_3rd-ed_nigrothalamicFibers <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nigrothalamicfibers>`_
    :lookupLabel: SwansonBM_nigrothalamicFibers
    :name: nigrothalamic fibers
 
@@ -10225,6 +10863,7 @@ SwansonBM_nodularFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nodularFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: nf
+   :hasVersion: `SwansonBM_3rd-ed_nodularFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nodularfissure>`_
    :lookupLabel: SwansonBM_nodularFissure
    :name: nodular fissure
 
@@ -10241,6 +10880,7 @@ SwansonBM_nodulusXSublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nodulusXSublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NODa,b
+   :hasVersion: `SwansonBM_3rd-ed_nodulusXSublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nodulusxsublobulesab>`_
    :lookupLabel: SwansonBM_nodulusXSublobulesAb
    :name: nodulus (X), sublobules a,b
 
@@ -10257,6 +10897,7 @@ SwansonBM_nucleusAccumbens
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusAccumbens
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ACB
+   :hasVersion: `SwansonBM_3rd-ed_nucleusAccumbens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusaccumbens>`_
    :lookupLabel: SwansonBM_nucleusAccumbens
    :name: nucleus accumbens
 
@@ -10273,6 +10914,7 @@ SwansonBM_nucleusAmbiguusDorsalDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusAmbiguusDorsalDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AMBd
+   :hasVersion: `SwansonBM_3rd-ed_nucleusAmbiguusDorsalDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusambiguusdorsaldivision>`_
    :lookupLabel: SwansonBM_nucleusAmbiguusDorsalDivision
    :name: nucleus ambiguus, dorsal division
 
@@ -10289,6 +10931,7 @@ SwansonBM_nucleusAmbiguusVentralDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusAmbiguusVentralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AMBv
+   :hasVersion: `SwansonBM_3rd-ed_nucleusAmbiguusVentralDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusambiguusventraldivision>`_
    :lookupLabel: SwansonBM_nucleusAmbiguusVentralDivision
    :name: nucleus ambiguus, ventral division
 
@@ -10305,6 +10948,7 @@ SwansonBM_nucleusBrachiumInferiorColliculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusBrachiumInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NB
+   :hasVersion: `SwansonBM_3rd-ed_nucleusBrachiumInferiorColliculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusbrachiuminferiorcolliculus>`_
    :lookupLabel: SwansonBM_nucleusBrachiumInferiorColliculus
    :name: nucleus brachium inferior colliculus
 
@@ -10321,6 +10965,7 @@ SwansonBM_nucleusCircularis
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusCircularis
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NC
+   :hasVersion: `SwansonBM_3rd-ed_nucleusCircularis <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleuscircularis>`_
    :lookupLabel: SwansonBM_nucleusCircularis
    :name: nucleus circularis
 
@@ -10337,6 +10982,7 @@ SwansonBM_nucleusIncertusCompactPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIncertusCompactPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NIc
+   :hasVersion: `SwansonBM_3rd-ed_nucleusIncertusCompactPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusincertuscompactpart>`_
    :lookupLabel: SwansonBM_nucleusIncertusCompactPart
    :name: nucleus incertus, compact part
 
@@ -10353,6 +10999,7 @@ SwansonBM_nucleusIncertusDiffusePart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIncertusDiffusePart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NId
+   :hasVersion: `SwansonBM_3rd-ed_nucleusIncertusDiffusePart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusincertusdiffusepart>`_
    :lookupLabel: SwansonBM_nucleusIncertusDiffusePart
    :name: nucleus incertus, diffuse part
 
@@ -10369,6 +11016,7 @@ SwansonBM_nucleusIncertusStreeter
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIncertusStreeter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NI
+   :hasVersion: `SwansonBM_3rd-ed_nucleusIncertusStreeter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusincertusstreeter>`_
    :lookupLabel: SwansonBM_nucleusIncertusStreeter
    :name: nucleus incertus [Streeter]
 
@@ -10385,6 +11033,7 @@ SwansonBM_nucleusIntercalatusStaderini
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusIntercalatusStaderini
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NIS
+   :hasVersion: `SwansonBM_3rd-ed_nucleusIntercalatusStaderini <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusintercalatusstaderini>`_
    :lookupLabel: SwansonBM_nucleusIntercalatusStaderini
    :name: nucleus intercalatus [Staderini]
 
@@ -10401,6 +11050,7 @@ SwansonBM_nucleusOfDarkschewitsch
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfDarkschewitsch
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ND
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfDarkschewitsch <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofdarkschewitsch>`_
    :lookupLabel: SwansonBM_nucleusOfDarkschewitsch
    :name: nucleus of Darkschewitsch
 
@@ -10417,6 +11067,7 @@ SwansonBM_nucleusOfRoller
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfRoller
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NR
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfRoller <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofroller>`_
    :lookupLabel: SwansonBM_nucleusOfRoller
    :name: nucleus of Roller
 
@@ -10433,6 +11084,7 @@ SwansonBM_nucleusOfTheBulbocavernosus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheBulbocavernosus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NBC
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheBulbocavernosus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthebulbocavernosus>`_
    :lookupLabel: SwansonBM_nucleusOfTheBulbocavernosus
    :name: nucleus of the bulbocavernosus
 
@@ -10449,6 +11101,7 @@ SwansonBM_nucleusOfTheLateralLemniscusBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLL
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelaterallemniscusbechterew>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralLemniscusBechterew
    :name: nucleus of the lateral lemniscus [Bechterew]
 
@@ -10465,6 +11118,7 @@ SwansonBM_nucleusOfTheLateralLemniscusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLLd
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelaterallemniscusdorsalpart>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralLemniscusDorsalPart
    :name: nucleus of the lateral lemniscus, dorsal part
 
@@ -10481,6 +11135,7 @@ SwansonBM_nucleusOfTheLateralLemniscusHorizontalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusHorizontalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLLh
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusHorizontalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelaterallemniscushorizontalpart>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralLemniscusHorizontalPart
    :name: nucleus of the lateral lemniscus, horizontal part
 
@@ -10497,6 +11152,7 @@ SwansonBM_nucleusOfTheLateralLemniscusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralLemniscusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLLv
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralLemniscusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelaterallemniscusventralpart>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralLemniscusVentralPart
    :name: nucleus of the lateral lemniscus, ventral part
 
@@ -10513,6 +11169,7 @@ SwansonBM_nucleusOfTheLateralOlfactoryTractDorsalCap
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractDorsalCap
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLOT3
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractDorsalCap <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelateralolfactorytractdorsalcap>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralOlfactoryTractDorsalCap
    :name: nucleus of the lateral olfactory tract, dorsal cap
 
@@ -10529,6 +11186,7 @@ SwansonBM_nucleusOfTheLateralOlfactoryTractGanser
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractGanser
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLOT
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractGanser <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelateralolfactorytractganser>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralOlfactoryTractGanser
    :name: nucleus of the lateral olfactory tract [Ganser]
 
@@ -10545,6 +11203,7 @@ SwansonBM_nucleusOfTheLateralOlfactoryTractMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLOT1
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelateralolfactorytractmolecularlayer>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralOlfactoryTractMolecularLayer
    :name: nucleus of the lateral olfactory tract, molecular layer
 
@@ -10561,6 +11220,7 @@ SwansonBM_nucleusOfTheLateralOlfactoryTractPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheLateralOlfactoryTractPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NLOT2
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheLateralOlfactoryTractPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthelateralolfactorytractpyramidallayer>`_
    :lookupLabel: SwansonBM_nucleusOfTheLateralOlfactoryTractPyramidalLayer
    :name: nucleus of the lateral olfactory tract, pyramidal layer
 
@@ -10577,6 +11237,7 @@ SwansonBM_nucleusOfTheOpticTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheOpticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NOT
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheOpticTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusoftheoptictract>`_
    :lookupLabel: SwansonBM_nucleusOfTheOpticTract
    :name: nucleus of the optic tract
 
@@ -10593,6 +11254,7 @@ SwansonBM_nucleusOfThePosteriorCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfThePosteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NPC
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfThePosteriorCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusoftheposteriorcommissure>`_
    :lookupLabel: SwansonBM_nucleusOfThePosteriorCommissure
    :name: nucleus of the posterior commissure
 
@@ -10609,6 +11271,7 @@ SwansonBM_nucleusOfTheSolitaryTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTS
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSolitaryTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthesolitarytract>`_
    :lookupLabel: SwansonBM_nucleusOfTheSolitaryTract
    :name: nucleus of the solitary tract
 
@@ -10625,6 +11288,7 @@ SwansonBM_nucleusOfTheSolitaryTractCentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTSce
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthesolitarytractcentralpart>`_
    :lookupLabel: SwansonBM_nucleusOfTheSolitaryTractCentralPart
    :name: nucleus of the solitary tract, central part
 
@@ -10641,6 +11305,7 @@ SwansonBM_nucleusOfTheSolitaryTractCommissuralPartCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractCommissuralPartCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTSco
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSolitaryTractCommissuralPartCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthesolitarytractcommissuralpartcajal>`_
    :lookupLabel: SwansonBM_nucleusOfTheSolitaryTractCommissuralPartCajal
    :name: nucleus of the solitary tract, commissural part [Cajal]
 
@@ -10657,6 +11322,7 @@ SwansonBM_nucleusOfTheSolitaryTractGelatinousPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractGelatinousPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTSge
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSolitaryTractGelatinousPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthesolitarytractgelatinouspart>`_
    :lookupLabel: SwansonBM_nucleusOfTheSolitaryTractGelatinousPart
    :name: nucleus of the solitary tract, gelatinous part
 
@@ -10673,6 +11339,7 @@ SwansonBM_nucleusOfTheSolitaryTractLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTSl
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSolitaryTractLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthesolitarytractlateralpart>`_
    :lookupLabel: SwansonBM_nucleusOfTheSolitaryTractLateralPart
    :name: nucleus of the solitary tract, lateral part
 
@@ -10689,6 +11356,7 @@ SwansonBM_nucleusOfTheSolitaryTractMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSolitaryTractMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTSm
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSolitaryTractMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthesolitarytractmedialpart>`_
    :lookupLabel: SwansonBM_nucleusOfTheSolitaryTractMedialPart
    :name: nucleus of the solitary tract, medial part
 
@@ -10705,6 +11373,7 @@ SwansonBM_nucleusOfTheSpinalAccessoryNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheSpinalAccessoryNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: XI
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheSpinalAccessoryNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthespinalaccessorynerve>`_
    :lookupLabel: SwansonBM_nucleusOfTheSpinalAccessoryNerve
    :name: nucleus of the spinal accessory nerve
 
@@ -10721,6 +11390,7 @@ SwansonBM_nucleusOfTheTrapezoidBody
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusOfTheTrapezoidBody
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NTB
+   :hasVersion: `SwansonBM_3rd-ed_nucleusOfTheTrapezoidBody <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusofthetrapezoidbody>`_
    :lookupLabel: SwansonBM_nucleusOfTheTrapezoidBody
    :name: nucleus of the trapezoid body
 
@@ -10737,6 +11407,7 @@ SwansonBM_nucleusPrepositusMarburg
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusPrepositusMarburg
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRP
+   :hasVersion: `SwansonBM_3rd-ed_nucleusPrepositusMarburg <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusprepositusmarburg>`_
    :lookupLabel: SwansonBM_nucleusPrepositusMarburg
    :name: nucleus prepositus [Marburg]
 
@@ -10753,6 +11424,7 @@ SwansonBM_nucleusPropriusOfTheSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusPropriusOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NP
+   :hasVersion: `SwansonBM_3rd-ed_nucleusPropriusOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleuspropriusofthespinalcord>`_
    :lookupLabel: SwansonBM_nucleusPropriusOfTheSpinalCord
    :name: nucleus proprius of the spinal cord
 
@@ -10769,6 +11441,7 @@ SwansonBM_nucleusRapheMagnus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRapheMagnus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RM
+   :hasVersion: `SwansonBM_3rd-ed_nucleusRapheMagnus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusraphemagnus>`_
    :lookupLabel: SwansonBM_nucleusRapheMagnus
    :name: nucleus raphé magnus
 
@@ -10785,6 +11458,7 @@ SwansonBM_nucleusRapheObscurus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRapheObscurus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RO
+   :hasVersion: `SwansonBM_3rd-ed_nucleusRapheObscurus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusrapheobscurus>`_
    :lookupLabel: SwansonBM_nucleusRapheObscurus
    :name: nucleus raphé obscurus
 
@@ -10801,6 +11475,7 @@ SwansonBM_nucleusRaphePallidus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRaphePallidus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RPA
+   :hasVersion: `SwansonBM_3rd-ed_nucleusRaphePallidus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusraphepallidus>`_
    :lookupLabel: SwansonBM_nucleusRaphePallidus
    :name: nucleus raphé pallidus
 
@@ -10817,6 +11492,7 @@ SwansonBM_nucleusRaphePontis
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusRaphePontis
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RPO
+   :hasVersion: `SwansonBM_3rd-ed_nucleusRaphePontis <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusraphepontis>`_
    :lookupLabel: SwansonBM_nucleusRaphePontis
    :name: nucleus raphé pontis
 
@@ -10833,6 +11509,7 @@ SwansonBM_nucleusReuniensCaudalDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REc
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensCaudalDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreunienscaudaldivision>`_
    :lookupLabel: SwansonBM_nucleusReuniensCaudalDivision
    :name: nucleus reuniens, caudal division
 
@@ -10849,6 +11526,7 @@ SwansonBM_nucleusReuniensCaudalDivisionDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REcd
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreunienscaudaldivisiondorsalpart>`_
    :lookupLabel: SwansonBM_nucleusReuniensCaudalDivisionDorsalPart
    :name: nucleus reuniens, caudal division, dorsal part
 
@@ -10865,6 +11543,7 @@ SwansonBM_nucleusReuniensCaudalDivisionMedianPartGurdjian
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensCaudalDivisionMedianPartGurdjian
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REcm
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionMedianPartGurdjian <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreunienscaudaldivisionmedianpartgurdjian>`_
    :lookupLabel: SwansonBM_nucleusReuniensCaudalDivisionMedianPartGurdjian
    :name: nucleus reuniens, caudal division, median part [Gurdjian]
 
@@ -10882,6 +11561,7 @@ SwansonBM_nucleusReuniensCaudalDivisionPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REp
    :alternateName: REcp
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensCaudalDivisionPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreunienscaudaldivisionposteriorpart>`_
    :lookupLabel: SwansonBM_nucleusReuniensCaudalDivisionPosteriorPart
    :name: nucleus reuniens, caudal division, posterior part
 
@@ -10898,6 +11578,7 @@ SwansonBM_nucleusReuniensMalone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensMalone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RE
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensMalone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensmalone>`_
    :lookupLabel: SwansonBM_nucleusReuniensMalone
    :name: nucleus reuniens [Malone]
 
@@ -10914,6 +11595,7 @@ SwansonBM_nucleusReuniensRostralDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REr
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensRostralDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensrostraldivision>`_
    :lookupLabel: SwansonBM_nucleusReuniensRostralDivision
    :name: nucleus reuniens, rostral division
 
@@ -10930,6 +11612,7 @@ SwansonBM_nucleusReuniensRostralDivisionAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REa
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensRostralDivisionAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensrostraldivisionanteriorpart>`_
    :lookupLabel: SwansonBM_nucleusReuniensRostralDivisionAnteriorPart
    :name: nucleus reuniens, rostral division, anterior part
 
@@ -10946,6 +11629,7 @@ SwansonBM_nucleusReuniensRostralDivisionDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REd
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensRostralDivisionDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensrostraldivisiondorsalpart>`_
    :lookupLabel: SwansonBM_nucleusReuniensRostralDivisionDorsalPart
    :name: nucleus reuniens, rostral division, dorsal part
 
@@ -10962,6 +11646,7 @@ SwansonBM_nucleusReuniensRostralDivisionLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REl
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensRostralDivisionLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensrostraldivisionlateralpart>`_
    :lookupLabel: SwansonBM_nucleusReuniensRostralDivisionLateralPart
    :name: nucleus reuniens, rostral division, lateral part
 
@@ -10978,6 +11663,7 @@ SwansonBM_nucleusReuniensRostralDivisionMedianPartGurdjian
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionMedianPartGurdjian
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REm
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensRostralDivisionMedianPartGurdjian <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensrostraldivisionmedianpartgurdjian>`_
    :lookupLabel: SwansonBM_nucleusReuniensRostralDivisionMedianPartGurdjian
    :name: nucleus reuniens, rostral division, median part [Gurdjian]
 
@@ -10994,6 +11680,7 @@ SwansonBM_nucleusReuniensRostralDivisionVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusReuniensRostralDivisionVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: REv
+   :hasVersion: `SwansonBM_3rd-ed_nucleusReuniensRostralDivisionVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusreuniensrostraldivisionventralpart>`_
    :lookupLabel: SwansonBM_nucleusReuniensRostralDivisionVentralPart
    :name: nucleus reuniens, rostral division, ventral part
 
@@ -11010,6 +11697,7 @@ SwansonBM_nucleusSagulum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusSagulum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SAG
+   :hasVersion: `SwansonBM_3rd-ed_nucleusSagulum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleussagulum>`_
    :lookupLabel: SwansonBM_nucleusSagulum
    :name: nucleus sagulum
 
@@ -11026,6 +11714,7 @@ SwansonBM_nucleusXBrodalPompeiano
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusXBrodalPompeiano
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: x
+   :hasVersion: `SwansonBM_3rd-ed_nucleusXBrodalPompeiano <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusxbrodalpompeiano>`_
    :lookupLabel: SwansonBM_nucleusXBrodalPompeiano
    :name: nucleus x [Brodal-Pompeiano]
 
@@ -11042,6 +11731,7 @@ SwansonBM_nucleusYBrodalPompeiano
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusYBrodalPompeiano
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: y
+   :hasVersion: `SwansonBM_3rd-ed_nucleusYBrodalPompeiano <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleusybrodalpompeiano>`_
    :lookupLabel: SwansonBM_nucleusYBrodalPompeiano
    :name: nucleus y [Brodal-Pompeiano]
 
@@ -11058,6 +11748,7 @@ SwansonBM_nucleusZBrodalPompeiano
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_nucleusZBrodalPompeiano
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: z
+   :hasVersion: `SwansonBM_3rd-ed_nucleusZBrodalPompeiano <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-nucleuszbrodalpompeiano>`_
    :lookupLabel: SwansonBM_nucleusZBrodalPompeiano
    :name: nucleus z [Brodal-Pompeiano]
 
@@ -11074,6 +11765,7 @@ SwansonBM_occipitalPoleCerebralCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_occipitalPoleCerebralCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OCP
+   :hasVersion: `SwansonBM_3rd-ed_occipitalPoleCerebralCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-occipitalpolecerebralcortex>`_
    :lookupLabel: SwansonBM_occipitalPoleCerebralCortex
    :name: occipital pole, cerebral cortex
 
@@ -11090,6 +11782,7 @@ SwansonBM_occipitalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_occipitalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OCC
+   :hasVersion: `SwansonBM_3rd-ed_occipitalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-occipitalregion>`_
    :lookupLabel: SwansonBM_occipitalRegion
    :name: occipital region
 
@@ -11106,6 +11799,7 @@ SwansonBM_oculomotorNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_oculomotorNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IIIn
+   :hasVersion: `SwansonBM_3rd-ed_oculomotorNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-oculomotornerve>`_
    :lookupLabel: SwansonBM_oculomotorNerve
    :name: oculomotor nerve
 
@@ -11122,6 +11816,7 @@ SwansonBM_oculomotorNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_oculomotorNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: III
+   :hasVersion: `SwansonBM_3rd-ed_oculomotorNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-oculomotornucleus>`_
    :lookupLabel: SwansonBM_oculomotorNucleus
    :name: oculomotor nucleus
 
@@ -11138,6 +11833,7 @@ SwansonBM_olfactoryCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OLF
+   :hasVersion: `SwansonBM_3rd-ed_olfactoryCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olfactorycortex>`_
    :lookupLabel: SwansonBM_olfactoryCortex
    :name: olfactory cortex
 
@@ -11154,6 +11850,7 @@ SwansonBM_olfactoryNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: In
+   :hasVersion: `SwansonBM_3rd-ed_olfactoryNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olfactorynerve>`_
    :lookupLabel: SwansonBM_olfactoryNerve
    :name: olfactory nerve
 
@@ -11170,6 +11867,7 @@ SwansonBM_olfactoryTubercleGanser
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTubercleGanser
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OT
+   :hasVersion: `SwansonBM_3rd-ed_olfactoryTubercleGanser <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olfactorytubercleganser>`_
    :lookupLabel: SwansonBM_olfactoryTubercleGanser
    :name: olfactory tubercle [Ganser]
 
@@ -11186,6 +11884,7 @@ SwansonBM_olfactoryTubercleMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTubercleMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OT1
+   :hasVersion: `SwansonBM_3rd-ed_olfactoryTubercleMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olfactorytuberclemolecularlayer>`_
    :lookupLabel: SwansonBM_olfactoryTubercleMolecularLayer
    :name: olfactory tubercle, molecular layer
 
@@ -11202,6 +11901,7 @@ SwansonBM_olfactoryTuberclePolymorphLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTuberclePolymorphLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OT3
+   :hasVersion: `SwansonBM_3rd-ed_olfactoryTuberclePolymorphLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olfactorytuberclepolymorphlayer>`_
    :lookupLabel: SwansonBM_olfactoryTuberclePolymorphLayer
    :name: olfactory tubercle, polymorph layer
 
@@ -11218,6 +11918,7 @@ SwansonBM_olfactoryTuberclePyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olfactoryTuberclePyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OT2
+   :hasVersion: `SwansonBM_3rd-ed_olfactoryTuberclePyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olfactorytuberclepyramidallayer>`_
    :lookupLabel: SwansonBM_olfactoryTuberclePyramidalLayer
    :name: olfactory tubercle, pyramidal layer
 
@@ -11234,6 +11935,7 @@ SwansonBM_olivaryPretectalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olivaryPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OP
+   :hasVersion: `SwansonBM_3rd-ed_olivaryPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olivarypretectalnucleus>`_
    :lookupLabel: SwansonBM_olivaryPretectalNucleus
    :name: olivary pretectal nucleus
 
@@ -11250,6 +11952,7 @@ SwansonBM_olivocerebellarTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_olivocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: oct
+   :hasVersion: `SwansonBM_3rd-ed_olivocerebellarTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-olivocerebellartract>`_
    :lookupLabel: SwansonBM_olivocerebellarTract
    :name: olivocerebellar tract
 
@@ -11266,6 +11969,7 @@ SwansonBM_opticChiasm
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_opticChiasm
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: och
+   :hasVersion: `SwansonBM_3rd-ed_opticChiasm <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-opticchiasm>`_
    :lookupLabel: SwansonBM_opticChiasm
    :name: optic chiasm
 
@@ -11282,6 +11986,7 @@ SwansonBM_opticNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_opticNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IIn
+   :hasVersion: `SwansonBM_3rd-ed_opticNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-opticnerve>`_
    :lookupLabel: SwansonBM_opticNerve
    :name: optic nerve
 
@@ -11298,6 +12003,7 @@ SwansonBM_opticTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_opticTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: opt
+   :hasVersion: `SwansonBM_3rd-ed_opticTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-optictract>`_
    :lookupLabel: SwansonBM_opticTract
    :name: optic tract
 
@@ -11314,6 +12020,7 @@ SwansonBM_orbitalArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ORB
+   :hasVersion: `SwansonBM_3rd-ed_orbitalArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-orbitalarea>`_
    :lookupLabel: SwansonBM_orbitalArea
    :name: orbital area
 
@@ -11330,6 +12037,7 @@ SwansonBM_orbitalAreaLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ORBl
+   :hasVersion: `SwansonBM_3rd-ed_orbitalAreaLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-orbitalarealateralpart>`_
    :lookupLabel: SwansonBM_orbitalAreaLateralPart
    :name: orbital area, lateral part
 
@@ -11346,6 +12054,7 @@ SwansonBM_orbitalAreaMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ORBm
+   :hasVersion: `SwansonBM_3rd-ed_orbitalAreaMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-orbitalareamedialpart>`_
    :lookupLabel: SwansonBM_orbitalAreaMedialPart
    :name: orbital area, medial part
 
@@ -11362,6 +12071,7 @@ SwansonBM_orbitalAreaVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ORBv
+   :hasVersion: `SwansonBM_3rd-ed_orbitalAreaVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-orbitalareaventralpart>`_
    :lookupLabel: SwansonBM_orbitalAreaVentralPart
    :name: orbital area, ventral part
 
@@ -11378,6 +12088,7 @@ SwansonBM_orbitalAreaVentrolateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_orbitalAreaVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ORBvl
+   :hasVersion: `SwansonBM_3rd-ed_orbitalAreaVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-orbitalareaventrolateralpart>`_
    :lookupLabel: SwansonBM_orbitalAreaVentrolateralPart
    :name: orbital area, ventrolateral part
 
@@ -11394,6 +12105,7 @@ SwansonBM_oticGanglionArnold
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_oticGanglionArnold
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GoIX
+   :hasVersion: `SwansonBM_3rd-ed_oticGanglionArnold <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-oticganglionarnold>`_
    :lookupLabel: SwansonBM_oticGanglionArnold
    :name: otic ganglion [Arnold]
 
@@ -11410,6 +12122,7 @@ SwansonBM_pallidotegmentalFascicle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pallidotegmentalFascicle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ptf
+   :hasVersion: `SwansonBM_3rd-ed_pallidotegmentalFascicle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pallidotegmentalfascicle>`_
    :lookupLabel: SwansonBM_pallidotegmentalFascicle
    :name: pallidotegmental fascicle
 
@@ -11426,6 +12139,7 @@ SwansonBM_pallidothalamicPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pallidothalamicPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pap
+   :hasVersion: `SwansonBM_3rd-ed_pallidothalamicPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pallidothalamicpathway>`_
    :lookupLabel: SwansonBM_pallidothalamicPathway
    :name: pallidothalamic pathway
 
@@ -11442,6 +12156,7 @@ SwansonBM_pallidum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pallidum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAL
+   :hasVersion: `SwansonBM_3rd-ed_pallidum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pallidum>`_
    :lookupLabel: SwansonBM_pallidum
    :name: pallidum
 
@@ -11458,6 +12173,7 @@ SwansonBM_parabigeminalNucleusBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabigeminalNucleusBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBG
+   :hasVersion: `SwansonBM_3rd-ed_parabigeminalNucleusBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabigeminalnucleusbechterew>`_
    :lookupLabel: SwansonBM_parabigeminalNucleusBechterew
    :name: parabigeminal nucleus [Bechterew]
 
@@ -11474,6 +12190,7 @@ SwansonBM_parabrachialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PB
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleus>`_
    :lookupLabel: SwansonBM_parabrachialNucleus
    :name: parabrachial nucleus
 
@@ -11490,6 +12207,7 @@ SwansonBM_parabrachialNucleusCentralLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusCentralLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBlc
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusCentralLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleuscentrallateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusCentralLateralPart
    :name: parabrachial nucleus, central lateral part
 
@@ -11506,6 +12224,7 @@ SwansonBM_parabrachialNucleusDorsalLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusDorsalLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBld
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusDorsalLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusdorsallateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusDorsalLateralPart
    :name: parabrachial nucleus, dorsal lateral part
 
@@ -11522,6 +12241,7 @@ SwansonBM_parabrachialNucleusExternalLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExternalLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBle
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusExternalLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusexternallateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusExternalLateralPart
    :name: parabrachial nucleus, external lateral part
 
@@ -11538,6 +12258,7 @@ SwansonBM_parabrachialNucleusExternalMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExternalMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBme
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusExternalMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusexternalmedialpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusExternalMedialPart
    :name: parabrachial nucleus, external medial part
 
@@ -11554,6 +12275,7 @@ SwansonBM_parabrachialNucleusExtremeLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusExtremeLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBlex
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusExtremeLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusextremelateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusExtremeLateralPart
    :name: parabrachial nucleus, extreme lateral part
 
@@ -11570,6 +12292,7 @@ SwansonBM_parabrachialNucleusInternalLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusInternalLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBli
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusInternalLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusinternallateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusInternalLateralPart
    :name: parabrachial nucleus, internal lateral part
 
@@ -11586,6 +12309,7 @@ SwansonBM_parabrachialNucleusLateralDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusLateralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBl
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusLateralDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleuslateraldivision>`_
    :lookupLabel: SwansonBM_parabrachialNucleusLateralDivision
    :name: parabrachial nucleus, lateral division
 
@@ -11602,6 +12326,7 @@ SwansonBM_parabrachialNucleusMedialDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusMedialDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBm
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusMedialDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusmedialdivision>`_
    :lookupLabel: SwansonBM_parabrachialNucleusMedialDivision
    :name: parabrachial nucleus, medial division
 
@@ -11618,6 +12343,7 @@ SwansonBM_parabrachialNucleusMedialMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusMedialMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBmm
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusMedialMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusmedialmedialpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusMedialMedialPart
    :name: parabrachial nucleus, medial medial part
 
@@ -11634,6 +12360,7 @@ SwansonBM_parabrachialNucleusSuperiorLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusSuperiorLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBls
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusSuperiorLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleussuperiorlateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusSuperiorLateralPart
    :name: parabrachial nucleus, superior lateral part
 
@@ -11650,6 +12377,7 @@ SwansonBM_parabrachialNucleusVentralLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusVentralLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBlv
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusVentralLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusventrallateralpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusVentralLateralPart
    :name: parabrachial nucleus, ventral lateral part
 
@@ -11666,6 +12394,7 @@ SwansonBM_parabrachialNucleusVentralMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parabrachialNucleusVentralMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PBmv
+   :hasVersion: `SwansonBM_3rd-ed_parabrachialNucleusVentralMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parabrachialnucleusventralmedialpart>`_
    :lookupLabel: SwansonBM_parabrachialNucleusVentralMedialPart
    :name: parabrachial nucleus, ventral medial part
 
@@ -11682,6 +12411,7 @@ SwansonBM_paracentralNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paracentralNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PCN
+   :hasVersion: `SwansonBM_3rd-ed_paracentralNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paracentralnucleusthalamus>`_
    :lookupLabel: SwansonBM_paracentralNucleusThalamus
    :name: paracentral nucleus thalamus
 
@@ -11698,6 +12428,7 @@ SwansonBM_parafascicularNucleusVogt
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parafascicularNucleusVogt
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PF
+   :hasVersion: `SwansonBM_3rd-ed_parafascicularNucleusVogt <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parafascicularnucleusvogt>`_
    :lookupLabel: SwansonBM_parafascicularNucleusVogt
    :name: parafascicular nucleus [Vogt]
 
@@ -11714,6 +12445,7 @@ SwansonBM_parafloccularSulcus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parafloccularSulcus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pfs
+   :hasVersion: `SwansonBM_3rd-ed_parafloccularSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parafloccularsulcus>`_
    :lookupLabel: SwansonBM_parafloccularSulcus
    :name: parafloccular sulcus
 
@@ -11730,6 +12462,7 @@ SwansonBM_paraflocculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraflocculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PFL
+   :hasVersion: `SwansonBM_3rd-ed_paraflocculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraflocculus>`_
    :lookupLabel: SwansonBM_paraflocculus
    :name: paraflocculus
 
@@ -11746,6 +12479,7 @@ SwansonBM_paragigantocellularReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PGRN
+   :hasVersion: `SwansonBM_3rd-ed_paragigantocellularReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paragigantocellularreticularnucleus>`_
    :lookupLabel: SwansonBM_paragigantocellularReticularNucleus
    :name: paragigantocellular reticular nucleus
 
@@ -11762,6 +12496,7 @@ SwansonBM_paragigantocellularReticularNucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PGRNd
+   :hasVersion: `SwansonBM_3rd-ed_paragigantocellularReticularNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paragigantocellularreticularnucleusdorsalpart>`_
    :lookupLabel: SwansonBM_paragigantocellularReticularNucleusDorsalPart
    :name: paragigantocellular reticular nucleus, dorsal part
 
@@ -11778,6 +12513,7 @@ SwansonBM_paragigantocellularReticularNucleusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paragigantocellularReticularNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PGRNl
+   :hasVersion: `SwansonBM_3rd-ed_paragigantocellularReticularNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paragigantocellularreticularnucleuslateralpart>`_
    :lookupLabel: SwansonBM_paragigantocellularReticularNucleusLateralPart
    :name: paragigantocellular reticular nucleus, lateral part
 
@@ -11794,6 +12530,7 @@ SwansonBM_paramedianLobule
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paramedianLobule
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRM
+   :hasVersion: `SwansonBM_3rd-ed_paramedianLobule <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paramedianlobule>`_
    :lookupLabel: SwansonBM_paramedianLobule
    :name: paramedian lobule
 
@@ -11810,6 +12547,7 @@ SwansonBM_paramedianReticularNucleusMislawsky
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paramedianReticularNucleusMislawsky
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PMR
+   :hasVersion: `SwansonBM_3rd-ed_paramedianReticularNucleusMislawsky <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paramedianreticularnucleusmislawsky>`_
    :lookupLabel: SwansonBM_paramedianReticularNucleusMislawsky
    :name: paramedian reticular nucleus [Mislawsky]
 
@@ -11826,6 +12564,7 @@ SwansonBM_paramedianSulcus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paramedianSulcus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pms
+   :hasVersion: `SwansonBM_3rd-ed_paramedianSulcus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paramediansulcus>`_
    :lookupLabel: SwansonBM_paramedianSulcus
    :name: paramedian sulcus
 
@@ -11842,6 +12581,7 @@ SwansonBM_parapyramidalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parapyramidalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PPY
+   :hasVersion: `SwansonBM_3rd-ed_parapyramidalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parapyramidalnucleus>`_
    :lookupLabel: SwansonBM_parapyramidalNucleus
    :name: parapyramidal nucleus
 
@@ -11858,6 +12598,7 @@ SwansonBM_parapyramidalNucleusDeepPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parapyramidalNucleusDeepPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PPYd
+   :hasVersion: `SwansonBM_3rd-ed_parapyramidalNucleusDeepPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parapyramidalnucleusdeeppart>`_
    :lookupLabel: SwansonBM_parapyramidalNucleusDeepPart
    :name: parapyramidal nucleus, deep part
 
@@ -11874,6 +12615,7 @@ SwansonBM_parapyramidalNucleusSuperficialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parapyramidalNucleusSuperficialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PPYs
+   :hasVersion: `SwansonBM_3rd-ed_parapyramidalNucleusSuperficialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parapyramidalnucleussuperficialpart>`_
    :lookupLabel: SwansonBM_parapyramidalNucleusSuperficialPart
    :name: parapyramidal nucleus, superficial part
 
@@ -11890,6 +12632,7 @@ SwansonBM_parasolitaryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasolitaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAS
+   :hasVersion: `SwansonBM_3rd-ed_parasolitaryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parasolitarynucleus>`_
    :lookupLabel: SwansonBM_parasolitaryNucleus
    :name: parasolitary nucleus
 
@@ -11906,6 +12649,7 @@ SwansonBM_parastrialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parastrialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PS
+   :hasVersion: `SwansonBM_3rd-ed_parastrialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parastrialnucleus>`_
    :lookupLabel: SwansonBM_parastrialNucleus
    :name: parastrial nucleus
 
@@ -11922,6 +12666,7 @@ SwansonBM_parasubiculumLayers16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasubiculumLayers16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAR1-6
+   :hasVersion: `SwansonBM_3rd-ed_parasubiculumLayers16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parasubiculumlayers16>`_
    :lookupLabel: SwansonBM_parasubiculumLayers16
    :name: parasubiculum, layers 1-6
 
@@ -11938,6 +12683,7 @@ SwansonBM_parasubthalamicNucleusZhangWang
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasubthalamicNucleusZhangWang
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PSTN
+   :hasVersion: `SwansonBM_3rd-ed_parasubthalamicNucleusZhangWang <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parasubthalamicnucleuszhangwang>`_
    :lookupLabel: SwansonBM_parasubthalamicNucleusZhangWang
    :name: parasubthalamic nucleus [Zhang-Wang]
 
@@ -11954,6 +12700,7 @@ SwansonBM_parasympatheticGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPA
+   :hasVersion: `SwansonBM_3rd-ed_parasympatheticGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parasympatheticganglia>`_
    :lookupLabel: SwansonBM_parasympatheticGanglia
    :name: parasympathetic ganglia
 
@@ -11970,6 +12717,7 @@ SwansonBM_parasympatheticPlexuses
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticPlexuses
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PPX
+   :hasVersion: `SwansonBM_3rd-ed_parasympatheticPlexuses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parasympatheticplexuses>`_
    :lookupLabel: SwansonBM_parasympatheticPlexuses
    :name: parasympathetic plexuses
 
@@ -11986,6 +12734,7 @@ SwansonBM_parasympatheticSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parasympatheticSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PSY
+   :hasVersion: `SwansonBM_3rd-ed_parasympatheticSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parasympatheticsystem>`_
    :lookupLabel: SwansonBM_parasympatheticSystem
    :name: parasympathetic system
 
@@ -12002,6 +12751,7 @@ SwansonBM_paratenialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paratenialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PT
+   :hasVersion: `SwansonBM_3rd-ed_paratenialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paratenialnucleus>`_
    :lookupLabel: SwansonBM_paratenialNucleus
    :name: paratenial nucleus
 
@@ -12018,6 +12768,7 @@ SwansonBM_paratrigeminalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paratrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAT
+   :hasVersion: `SwansonBM_3rd-ed_paratrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paratrigeminalnucleus>`_
    :lookupLabel: SwansonBM_paratrigeminalNucleus
    :name: paratrigeminal nucleus
 
@@ -12034,6 +12785,7 @@ SwansonBM_paraventricularHypothalamicNucleusAnteriorMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusAnteriorMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHam
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusAnteriorMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusanteriormagnocellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusAnteriorMagnocellularPart
    :name: paraventricular hypothalamic nucleus, anterior magnocellular part
 
@@ -12050,6 +12802,7 @@ SwansonBM_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHap
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusAnteriorParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusanteriorparvicellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusAnteriorParvicellularPart
    :name: paraventricular hypothalamic nucleus, anterior parvicellular part
 
@@ -12066,6 +12819,7 @@ SwansonBM_paraventricularHypothalamicNucleusDescendingDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusDescendingDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHd
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusDescendingDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusdescendingdivision>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusDescendingDivision
    :name: paraventricular hypothalamic nucleus, descending division
 
@@ -12082,6 +12836,7 @@ SwansonBM_paraventricularHypothalamicNucleusDorsalParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusDorsalParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHdp
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusDorsalParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusdorsalparvicellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusDorsalParvicellularPart
    :name: paraventricular hypothalamic nucleus, dorsal parvicellular part
 
@@ -12098,6 +12853,7 @@ SwansonBM_paraventricularHypothalamicNucleusFornicealPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusFornicealPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHf
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusFornicealPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusfornicealpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusFornicealPart
    :name: paraventricular hypothalamic nucleus, forniceal part
 
@@ -12114,6 +12870,7 @@ SwansonBM_paraventricularHypothalamicNucleusLateralParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusLateralParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHlp
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusLateralParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleuslateralparvicellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusLateralParvicellularPart
    :name: paraventricular hypothalamic nucleus, lateral parvicellular part
 
@@ -12130,6 +12887,7 @@ SwansonBM_paraventricularHypothalamicNucleusMagnocellularDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMagnocellularDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHm
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMagnocellularDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusmagnocellulardivision>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusMagnocellularDivision
    :name: paraventricular hypothalamic nucleus, magnocellular division
 
@@ -12146,6 +12904,7 @@ SwansonBM_paraventricularHypothalamicNucleusMalone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMalone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVH
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMalone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusmalone>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusMalone
    :name: paraventricular hypothalamic nucleus [Malone]
 
@@ -12162,6 +12921,7 @@ SwansonBM_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHmm
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusmedialmagnocellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusMedialMagnocellularPart
    :name: paraventricular hypothalamic nucleus, medial magnocellular part
 
@@ -12178,6 +12938,7 @@ SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHmp
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusmedialparvicellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPart
    :name: paraventricular hypothalamic nucleus, medial parvicellular part
 
@@ -12194,6 +12955,7 @@ SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartDorsalZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartDorsalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHmpd
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPartDorsalZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusmedialparvicellularpartdorsalzone>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartDorsalZone
    :name: paraventricular hypothalamic nucleus, medial parvicellular part, dorsal zone
 
@@ -12210,6 +12972,7 @@ SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartVentralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartVentralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHmpv
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusMedialParvicellularPartVentralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusmedialparvicellularpartventralzone>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusMedialParvicellularPartVentralZone
    :name: paraventricular hypothalamic nucleus, medial parvicellular part, ventral zone
 
@@ -12226,6 +12989,7 @@ SwansonBM_paraventricularHypothalamicNucleusNeuroendocrineComponent
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusNeuroendocrineComponent
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHne
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusNeuroendocrineComponent <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusneuroendocrinecomponent>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusNeuroendocrineComponent
    :name: paraventricular hypothalamic nucleus, neuroendocrine component
 
@@ -12242,6 +13006,7 @@ SwansonBM_paraventricularHypothalamicNucleusParvicellularDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusParvicellularDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHp
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusParvicellularDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusparvicellulardivision>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusParvicellularDivision
    :name: paraventricular hypothalamic nucleus, parvicellular division
 
@@ -12258,6 +13023,7 @@ SwansonBM_paraventricularHypothalamicNucleusPeriventricularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPeriventricularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHpv
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPeriventricularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusperiventricularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusPeriventricularPart
    :name: paraventricular hypothalamic nucleus, periventricular part
 
@@ -12274,6 +13040,7 @@ SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHpm
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusposteriormagnocellularpart>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPart
    :name: paraventricular hypothalamic nucleus, posterior magnocellular part
 
@@ -12290,6 +13057,7 @@ SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLateralZon
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLateralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHpml
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLateralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusposteriormagnocellularpartlateralzone>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartLateralZone
    :name: paraventricular hypothalamic nucleus, posterior magnocellular part, lateral zone
 
@@ -12306,6 +13074,7 @@ SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVHpmm
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularhypothalamicnucleusposteriormagnocellularpartmedialzone>`_
    :lookupLabel: SwansonBM_paraventricularHypothalamicNucleusPosteriorMagnocellularPartMedialZone
    :name: paraventricular hypothalamic nucleus, posterior magnocellular part, medial zone
 
@@ -12322,6 +13091,7 @@ SwansonBM_paraventricularThalamicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paraventricularThalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVT
+   :hasVersion: `SwansonBM_3rd-ed_paraventricularThalamicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paraventricularthalamicnucleus>`_
    :lookupLabel: SwansonBM_paraventricularThalamicNucleus
    :name: paraventricular thalamic nucleus
 
@@ -12338,6 +13108,7 @@ SwansonBM_paravertebralSympatheticGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_paravertebralSympatheticGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPAS
+   :hasVersion: `SwansonBM_3rd-ed_paravertebralSympatheticGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-paravertebralsympatheticganglia>`_
    :lookupLabel: SwansonBM_paravertebralSympatheticGanglia
    :name: paravertebral sympathetic ganglia
 
@@ -12354,6 +13125,7 @@ SwansonBM_parietalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parietalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PTL
+   :hasVersion: `SwansonBM_3rd-ed_parietalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parietalregion>`_
    :lookupLabel: SwansonBM_parietalRegion
    :name: parietal region
 
@@ -12370,6 +13142,7 @@ SwansonBM_parietalRegionPosteriorAssociationAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parietalRegionPosteriorAssociationAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PTLp
+   :hasVersion: `SwansonBM_3rd-ed_parietalRegionPosteriorAssociationAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parietalregionposteriorassociationareas>`_
    :lookupLabel: SwansonBM_parietalRegionPosteriorAssociationAreas
    :name: parietal region, posterior association areas
 
@@ -12386,6 +13159,7 @@ SwansonBM_parvicellularReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_parvicellularReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PARN
+   :hasVersion: `SwansonBM_3rd-ed_parvicellularReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-parvicellularreticularnucleus>`_
    :lookupLabel: SwansonBM_parvicellularReticularNucleus
    :name: parvicellular reticular nucleus
 
@@ -12402,6 +13176,7 @@ SwansonBM_pedunculopontineNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pedunculopontineNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PPN
+   :hasVersion: `SwansonBM_3rd-ed_pedunculopontineNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pedunculopontinenucleus>`_
    :lookupLabel: SwansonBM_pedunculopontineNucleus
    :name: pedunculopontine nucleus
 
@@ -12418,6 +13193,7 @@ SwansonBM_pelvicGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pelvicGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPEL
+   :hasVersion: `SwansonBM_3rd-ed_pelvicGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pelvicganglion>`_
    :lookupLabel: SwansonBM_pelvicGanglion
    :name: pelvic ganglion
 
@@ -12434,6 +13210,7 @@ SwansonBM_perforantPath
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perforantPath
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: per
+   :hasVersion: `SwansonBM_3rd-ed_perforantPath <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-perforantpath>`_
    :lookupLabel: SwansonBM_perforantPath
    :name: perforant path
 
@@ -12450,6 +13227,7 @@ SwansonBM_periaqueductalGray
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAG
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGray <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgray>`_
    :lookupLabel: SwansonBM_periaqueductalGray
    :name: periaqueductal gray
 
@@ -12466,6 +13244,7 @@ SwansonBM_periaqueductalGrayDorsalDivisionBeitz
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayDorsalDivisionBeitz
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAGd
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGrayDorsalDivisionBeitz <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgraydorsaldivisionbeitz>`_
    :lookupLabel: SwansonBM_periaqueductalGrayDorsalDivisionBeitz
    :name: periaqueductal gray, dorsal division [Beitz]
 
@@ -12482,6 +13261,7 @@ SwansonBM_periaqueductalGrayDorsolateralDivisionBeitz
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayDorsolateralDivisionBeitz
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAGdl
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGrayDorsolateralDivisionBeitz <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgraydorsolateraldivisionbeitz>`_
    :lookupLabel: SwansonBM_periaqueductalGrayDorsolateralDivisionBeitz
    :name: periaqueductal gray, dorsolateral division [Beitz]
 
@@ -12498,6 +13278,7 @@ SwansonBM_periaqueductalGrayMedialDivisionBeitz
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayMedialDivisionBeitz
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAGm
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGrayMedialDivisionBeitz <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgraymedialdivisionbeitz>`_
    :lookupLabel: SwansonBM_periaqueductalGrayMedialDivisionBeitz
    :name: periaqueductal gray, medial division [Beitz]
 
@@ -12514,6 +13295,7 @@ SwansonBM_periaqueductalGrayRostrolateralDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayRostrolateralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAGrl
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGrayRostrolateralDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgrayrostrolateraldivision>`_
    :lookupLabel: SwansonBM_periaqueductalGrayRostrolateralDivision
    :name: periaqueductal gray, rostrolateral division
 
@@ -12530,6 +13312,7 @@ SwansonBM_periaqueductalGrayRostromedialDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayRostromedialDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAGrm
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGrayRostromedialDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgrayrostromedialdivision>`_
    :lookupLabel: SwansonBM_periaqueductalGrayRostromedialDivision
    :name: periaqueductal gray, rostromedial division
 
@@ -12546,6 +13329,7 @@ SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAGvl
+   :hasVersion: `SwansonBM_3rd-ed_periaqueductalGrayVentrolateralDivisionBeitz <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periaqueductalgrayventrolateraldivisionbeitz>`_
    :lookupLabel: SwansonBM_periaqueductalGrayVentrolateralDivisionBeitz
    :name: periaqueductal gray, ventrolateral division [Beitz]
 
@@ -12562,6 +13346,7 @@ SwansonBM_perihypoglossalNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perihypoglossalNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PHY
+   :hasVersion: `SwansonBM_3rd-ed_perihypoglossalNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-perihypoglossalnuclei>`_
    :lookupLabel: SwansonBM_perihypoglossalNuclei
    :name: perihypoglossal nuclei
 
@@ -12578,6 +13363,7 @@ SwansonBM_periolivaryRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periolivaryRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: POR
+   :hasVersion: `SwansonBM_3rd-ed_periolivaryRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periolivaryregion>`_
    :lookupLabel: SwansonBM_periolivaryRegion
    :name: periolivary region
 
@@ -12594,6 +13380,7 @@ SwansonBM_peripeduncularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_peripeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PP
+   :hasVersion: `SwansonBM_3rd-ed_peripeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-peripeduncularnucleus>`_
    :lookupLabel: SwansonBM_peripeduncularNucleus
    :name: peripeduncular nucleus
 
@@ -12610,6 +13397,7 @@ SwansonBM_peripheralNervousSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_peripheralNervousSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PNS
+   :hasVersion: `SwansonBM_3rd-ed_peripheralNervousSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-peripheralnervoussystem>`_
    :lookupLabel: SwansonBM_peripheralNervousSystem
    :name: peripheral nervous system
 
@@ -12626,6 +13414,7 @@ SwansonBM_perireuniensNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perireuniensNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PR
+   :hasVersion: `SwansonBM_3rd-ed_perireuniensNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-perireuniensnucleus>`_
    :lookupLabel: SwansonBM_perireuniensNucleus
    :name: perireuniens nucleus
 
@@ -12642,6 +13431,7 @@ SwansonBM_perirhinalArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_perirhinalArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PERI
+   :hasVersion: `SwansonBM_3rd-ed_perirhinalArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-perirhinalarea>`_
    :lookupLabel: SwansonBM_perirhinalArea
    :name: perirhinal area
 
@@ -12658,6 +13448,7 @@ SwansonBM_periventricularBundleHypothalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularBundleHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pvbh
+   :hasVersion: `SwansonBM_3rd-ed_periventricularBundleHypothalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periventricularbundlehypothalamus>`_
    :lookupLabel: SwansonBM_periventricularBundleHypothalamus
    :name: periventricular bundle hypothalamus
 
@@ -12674,6 +13465,7 @@ SwansonBM_periventricularBundleThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularBundleThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pvbt
+   :hasVersion: `SwansonBM_3rd-ed_periventricularBundleThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periventricularbundlethalamus>`_
    :lookupLabel: SwansonBM_periventricularBundleThalamus
    :name: periventricular bundle thalamus
 
@@ -12690,6 +13482,7 @@ SwansonBM_periventricularHypothalamicNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVa
+   :hasVersion: `SwansonBM_3rd-ed_periventricularHypothalamicNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periventricularhypothalamicnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_periventricularHypothalamicNucleusAnteriorPart
    :name: periventricular hypothalamic nucleus, anterior part
 
@@ -12706,6 +13499,7 @@ SwansonBM_periventricularHypothalamicNucleusIntermediatePart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVi
+   :hasVersion: `SwansonBM_3rd-ed_periventricularHypothalamicNucleusIntermediatePart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periventricularhypothalamicnucleusintermediatepart>`_
    :lookupLabel: SwansonBM_periventricularHypothalamicNucleusIntermediatePart
    :name: periventricular hypothalamic nucleus, intermediate part
 
@@ -12722,6 +13516,7 @@ SwansonBM_periventricularHypothalamicNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularHypothalamicNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVp
+   :hasVersion: `SwansonBM_3rd-ed_periventricularHypothalamicNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periventricularhypothalamicnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_periventricularHypothalamicNucleusPosteriorPart
    :name: periventricular hypothalamic nucleus, posterior part
 
@@ -12738,6 +13533,7 @@ SwansonBM_periventricularRegionHypothalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_periventricularRegionHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PE
+   :hasVersion: `SwansonBM_3rd-ed_periventricularRegionHypothalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-periventricularregionhypothalamus>`_
    :lookupLabel: SwansonBM_periventricularRegionHypothalamus
    :name: periventricular region, hypothalamus
 
@@ -12754,6 +13550,7 @@ SwansonBM_phrenicNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_phrenicNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: phn
+   :hasVersion: `SwansonBM_3rd-ed_phrenicNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-phrenicnerve>`_
    :lookupLabel: SwansonBM_phrenicNerve
    :name: phrenic nerve
 
@@ -12770,6 +13567,7 @@ SwansonBM_phrenicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_phrenicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PN
+   :hasVersion: `SwansonBM_3rd-ed_phrenicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-phrenicnucleus>`_
    :lookupLabel: SwansonBM_phrenicNucleus
    :name: phrenic nucleus
 
@@ -12786,6 +13584,7 @@ SwansonBM_pia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PI
+   :hasVersion: `SwansonBM_3rd-ed_pia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pia>`_
    :lookupLabel: SwansonBM_pia
    :name: pia
 
@@ -12802,6 +13601,7 @@ SwansonBM_pinealGlandGalen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pinealGlandGalen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIN
+   :hasVersion: `SwansonBM_3rd-ed_pinealGlandGalen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pinealglandgalen>`_
    :lookupLabel: SwansonBM_pinealGlandGalen
    :name: pineal gland [Galen]
 
@@ -12818,6 +13618,7 @@ SwansonBM_pinealStalk
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pinealStalk
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIS
+   :hasVersion: `SwansonBM_3rd-ed_pinealStalk <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pinealstalk>`_
    :lookupLabel: SwansonBM_pinealStalk
    :name: pineal stalk
 
@@ -12834,6 +13635,7 @@ SwansonBM_piriformArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIR
+   :hasVersion: `SwansonBM_3rd-ed_piriformArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-piriformarea>`_
    :lookupLabel: SwansonBM_piriformArea
    :name: piriform area
 
@@ -12850,6 +13652,7 @@ SwansonBM_piriformAreaMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIR1
+   :hasVersion: `SwansonBM_3rd-ed_piriformAreaMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-piriformareamolecularlayer>`_
    :lookupLabel: SwansonBM_piriformAreaMolecularLayer
    :name: piriform area, molecular layer
 
@@ -12866,6 +13669,7 @@ SwansonBM_piriformAreaPolymorphLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaPolymorphLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIR3
+   :hasVersion: `SwansonBM_3rd-ed_piriformAreaPolymorphLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-piriformareapolymorphlayer>`_
    :lookupLabel: SwansonBM_piriformAreaPolymorphLayer
    :name: piriform area, polymorph layer
 
@@ -12882,6 +13686,7 @@ SwansonBM_piriformAreaPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformAreaPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIR2
+   :hasVersion: `SwansonBM_3rd-ed_piriformAreaPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-piriformareapyramidallayer>`_
    :lookupLabel: SwansonBM_piriformAreaPyramidalLayer
    :name: piriform area, pyramidal layer
 
@@ -12898,6 +13703,7 @@ SwansonBM_piriformamygdalarArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_piriformamygdalarArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PAA
+   :hasVersion: `SwansonBM_3rd-ed_piriformamygdalarArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-piriformamygdalararea>`_
    :lookupLabel: SwansonBM_piriformamygdalarArea
    :name: piriform-amygdalar area
 
@@ -12914,6 +13720,7 @@ SwansonBM_pituitaryGlandAnteriorLobe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandAnteriorLobe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AL
+   :hasVersion: `SwansonBM_3rd-ed_pituitaryGlandAnteriorLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pituitaryglandanteriorlobe>`_
    :lookupLabel: SwansonBM_pituitaryGlandAnteriorLobe
    :name: pituitary gland, anterior lobe
 
@@ -12930,6 +13737,7 @@ SwansonBM_pituitaryGlandGalen
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandGalen
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PIT
+   :hasVersion: `SwansonBM_3rd-ed_pituitaryGlandGalen <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pituitaryglandgalen>`_
    :lookupLabel: SwansonBM_pituitaryGlandGalen
    :name: pituitary gland [Galen]
 
@@ -12946,6 +13754,7 @@ SwansonBM_pituitaryGlandIntermediateLobe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandIntermediateLobe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IL
+   :hasVersion: `SwansonBM_3rd-ed_pituitaryGlandIntermediateLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pituitaryglandintermediatelobe>`_
    :lookupLabel: SwansonBM_pituitaryGlandIntermediateLobe
    :name: pituitary gland, intermediate lobe
 
@@ -12962,6 +13771,7 @@ SwansonBM_pituitaryGlandNeuralLobe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pituitaryGlandNeuralLobe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: NL
+   :hasVersion: `SwansonBM_3rd-ed_pituitaryGlandNeuralLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pituitaryglandneurallobe>`_
    :lookupLabel: SwansonBM_pituitaryGlandNeuralLobe
    :name: pituitary gland, neural lobe
 
@@ -12978,6 +13788,7 @@ SwansonBM_ponsVarolio
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ponsVarolio
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: P
+   :hasVersion: `SwansonBM_3rd-ed_ponsVarolio <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ponsvarolio>`_
    :lookupLabel: SwansonBM_ponsVarolio
    :name: pons [Varolio]
 
@@ -12994,6 +13805,7 @@ SwansonBM_pontineCentralGray
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineCentralGray
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PCG
+   :hasVersion: `SwansonBM_3rd-ed_pontineCentralGray <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinecentralgray>`_
    :lookupLabel: SwansonBM_pontineCentralGray
    :name: pontine central gray
 
@@ -13010,6 +13822,7 @@ SwansonBM_pontineCentralGrayGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineCentralGrayGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PCGg
+   :hasVersion: `SwansonBM_3rd-ed_pontineCentralGrayGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinecentralgraygeneral>`_
    :lookupLabel: SwansonBM_pontineCentralGrayGeneral
    :name: pontine central gray, general
 
@@ -13026,6 +13839,7 @@ SwansonBM_pontineGray
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineGray
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PG
+   :hasVersion: `SwansonBM_3rd-ed_pontineGray <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinegray>`_
    :lookupLabel: SwansonBM_pontineGray
    :name: pontine gray
 
@@ -13042,6 +13856,7 @@ SwansonBM_pontineGrayGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineGrayGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PGg
+   :hasVersion: `SwansonBM_3rd-ed_pontineGrayGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinegraygeneral>`_
    :lookupLabel: SwansonBM_pontineGrayGeneral
    :name: pontine gray, general
 
@@ -13058,6 +13873,7 @@ SwansonBM_pontineReticularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRN
+   :hasVersion: `SwansonBM_3rd-ed_pontineReticularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinereticularnucleus>`_
    :lookupLabel: SwansonBM_pontineReticularNucleus
    :name: pontine reticular nucleus
 
@@ -13074,6 +13890,7 @@ SwansonBM_pontineReticularNucleusCaudalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleusCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRNc
+   :hasVersion: `SwansonBM_3rd-ed_pontineReticularNucleusCaudalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinereticularnucleuscaudalpart>`_
    :lookupLabel: SwansonBM_pontineReticularNucleusCaudalPart
    :name: pontine reticular nucleus, caudal part
 
@@ -13090,6 +13907,7 @@ SwansonBM_pontineReticularNucleusRostralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pontineReticularNucleusRostralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRNr
+   :hasVersion: `SwansonBM_3rd-ed_pontineReticularNucleusRostralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pontinereticularnucleusrostralpart>`_
    :lookupLabel: SwansonBM_pontineReticularNucleusRostralPart
    :name: pontine reticular nucleus, rostral part
 
@@ -13106,6 +13924,7 @@ SwansonBM_postAndPrecerebellarNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postAndPrecerebellarNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CBPP
+   :hasVersion: `SwansonBM_3rd-ed_postAndPrecerebellarNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-postandprecerebellarnuclei>`_
    :lookupLabel: SwansonBM_postAndPrecerebellarNuclei
    :name: post- and precerebellar nuclei
 
@@ -13122,6 +13941,7 @@ SwansonBM_postcommissuralFornixElliotSmith
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postcommissuralFornixElliotSmith
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fxpo
+   :hasVersion: `SwansonBM_3rd-ed_postcommissuralFornixElliotSmith <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-postcommissuralfornixelliotsmith>`_
    :lookupLabel: SwansonBM_postcommissuralFornixElliotSmith
    :name: postcommissural fornix [Elliot Smith]
 
@@ -13138,6 +13958,7 @@ SwansonBM_posteriorAmygdalarNucleusCanterasSwanson
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorAmygdalarNucleusCanterasSwanson
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PA
+   :hasVersion: `SwansonBM_3rd-ed_posteriorAmygdalarNucleusCanterasSwanson <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posterioramygdalarnucleuscanterasswanson>`_
    :lookupLabel: SwansonBM_posteriorAmygdalarNucleusCanterasSwanson
    :name: posterior amygdalar nucleus [Canteras-Swanson]
 
@@ -13154,6 +13975,7 @@ SwansonBM_posteriorAuditoryArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorAuditoryArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AUDpo
+   :hasVersion: `SwansonBM_3rd-ed_posteriorAuditoryArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorauditoryarea>`_
    :lookupLabel: SwansonBM_posteriorAuditoryArea
    :name: posterior auditory area
 
@@ -13170,6 +13992,7 @@ SwansonBM_posteriorCommissureLieutaud
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorCommissureLieutaud
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pc
+   :hasVersion: `SwansonBM_3rd-ed_posteriorCommissureLieutaud <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorcommissurelieutaud>`_
    :lookupLabel: SwansonBM_posteriorCommissureLieutaud
    :name: posterior commissure [Lieutaud]
 
@@ -13186,6 +14009,7 @@ SwansonBM_posteriorComplexThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorComplexThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PO
+   :hasVersion: `SwansonBM_3rd-ed_posteriorComplexThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorcomplexthalamus>`_
    :lookupLabel: SwansonBM_posteriorComplexThalamus
    :name: posterior complex thalamus
 
@@ -13202,6 +14026,7 @@ SwansonBM_posteriorHypothalamicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PH
+   :hasVersion: `SwansonBM_3rd-ed_posteriorHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorhypothalamicnucleus>`_
    :lookupLabel: SwansonBM_posteriorHypothalamicNucleus
    :name: posterior hypothalamic nucleus
 
@@ -13218,6 +14043,7 @@ SwansonBM_posteriorLimitingNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorLimitingNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: POL
+   :hasVersion: `SwansonBM_3rd-ed_posteriorLimitingNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorlimitingnucleusthalamus>`_
    :lookupLabel: SwansonBM_posteriorLimitingNucleusThalamus
    :name: posterior limiting nucleus thalamus
 
@@ -13234,6 +14060,7 @@ SwansonBM_posteriorLobeCerebellum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorLobeCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PLC
+   :hasVersion: `SwansonBM_3rd-ed_posteriorLobeCerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorlobecerebellum>`_
    :lookupLabel: SwansonBM_posteriorLobeCerebellum
    :name: posterior lobe cerebellum
 
@@ -13250,6 +14077,7 @@ SwansonBM_posteriorPretectalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorPretectalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PPT
+   :hasVersion: `SwansonBM_3rd-ed_posteriorPretectalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorpretectalnucleus>`_
    :lookupLabel: SwansonBM_posteriorPretectalNucleus
    :name: posterior pretectal nucleus
 
@@ -13266,6 +14094,7 @@ SwansonBM_posteriorSeptalComplex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorSeptalComplex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PSC
+   :hasVersion: `SwansonBM_3rd-ed_posteriorSeptalComplex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorseptalcomplex>`_
    :lookupLabel: SwansonBM_posteriorSeptalComplex
    :name: posterior septal complex
 
@@ -13282,6 +14111,7 @@ SwansonBM_posteriorSuperiorFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteriorSuperiorFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: psf
+   :hasVersion: `SwansonBM_3rd-ed_posteriorSuperiorFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteriorsuperiorfissure>`_
    :lookupLabel: SwansonBM_posteriorSuperiorFissure
    :name: posterior superior fissure
 
@@ -13298,6 +14128,7 @@ SwansonBM_posterodorsalIntraculminateFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterodorsalIntraculminateFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: icupd
+   :hasVersion: `SwansonBM_3rd-ed_posterodorsalIntraculminateFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posterodorsalintraculminatefissure>`_
    :lookupLabel: SwansonBM_posterodorsalIntraculminateFissure
    :name: posterodorsal intraculminate fissure
 
@@ -13314,6 +14145,7 @@ SwansonBM_posterodorsalPreopticNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterodorsalPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PD
+   :hasVersion: `SwansonBM_3rd-ed_posterodorsalPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posterodorsalpreopticnucleus>`_
    :lookupLabel: SwansonBM_posterodorsalPreopticNucleus
    :name: posterodorsal preoptic nucleus
 
@@ -13330,6 +14162,7 @@ SwansonBM_posterolateralFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterolateralFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: plf
+   :hasVersion: `SwansonBM_3rd-ed_posterolateralFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posterolateralfissure>`_
    :lookupLabel: SwansonBM_posterolateralFissure
    :name: posterolateral fissure
 
@@ -13346,6 +14179,7 @@ SwansonBM_posterolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posterolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISpl
+   :hasVersion: `SwansonBM_3rd-ed_posterolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posterolateralvisualarea>`_
    :lookupLabel: SwansonBM_posterolateralVisualArea
    :name: posterolateral visual area
 
@@ -13362,6 +14196,7 @@ SwansonBM_posteromedialVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_posteromedialVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISpm
+   :hasVersion: `SwansonBM_3rd-ed_posteromedialVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-posteromedialvisualarea>`_
    :lookupLabel: SwansonBM_posteromedialVisualArea
    :name: posteromedial visual area
 
@@ -13378,6 +14213,7 @@ SwansonBM_postpiriformTransitionArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postpiriformTransitionArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TR
+   :hasVersion: `SwansonBM_3rd-ed_postpiriformTransitionArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-postpiriformtransitionarea>`_
    :lookupLabel: SwansonBM_postpiriformTransitionArea
    :name: postpiriform transition area
 
@@ -13394,6 +14230,7 @@ SwansonBM_postsubiculumLayers16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_postsubiculumLayers16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: POST1-6
+   :hasVersion: `SwansonBM_3rd-ed_postsubiculumLayers16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-postsubiculumlayers16>`_
    :lookupLabel: SwansonBM_postsubiculumLayers16
    :name: postsubiculum, layers 1-6
 
@@ -13410,6 +14247,7 @@ SwansonBM_precentralFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precentralFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pce
+   :hasVersion: `SwansonBM_3rd-ed_precentralFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-precentralfissure>`_
    :lookupLabel: SwansonBM_precentralFissure
    :name: precentral fissure
 
@@ -13426,6 +14264,7 @@ SwansonBM_precentralFissureA
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precentralFissureA
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pcea
+   :hasVersion: `SwansonBM_3rd-ed_precentralFissureA <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-precentralfissurea>`_
    :lookupLabel: SwansonBM_precentralFissureA
    :name: precentral fissure a
 
@@ -13442,6 +14281,7 @@ SwansonBM_precentralFissureB
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precentralFissureB
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pceb
+   :hasVersion: `SwansonBM_3rd-ed_precentralFissureB <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-precentralfissureb>`_
    :lookupLabel: SwansonBM_precentralFissureB
    :name: precentral fissure b
 
@@ -13458,6 +14298,7 @@ SwansonBM_precommissuralFornixElliotSmith
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralFornixElliotSmith
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fxpr
+   :hasVersion: `SwansonBM_3rd-ed_precommissuralFornixElliotSmith <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-precommissuralfornixelliotsmith>`_
    :lookupLabel: SwansonBM_precommissuralFornixElliotSmith
    :name: precommissural fornix [Elliot Smith]
 
@@ -13474,6 +14315,7 @@ SwansonBM_precommissuralFornixGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralFornixGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: fxprg
+   :hasVersion: `SwansonBM_3rd-ed_precommissuralFornixGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-precommissuralfornixgeneral>`_
    :lookupLabel: SwansonBM_precommissuralFornixGeneral
    :name: precommissural fornix, general
 
@@ -13490,6 +14332,7 @@ SwansonBM_precommissuralNucleusPeriaqueductalGrayPaxinosWatson
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_precommissuralNucleusPeriaqueductalGrayPaxinosWatson
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRC
+   :hasVersion: `SwansonBM_3rd-ed_precommissuralNucleusPeriaqueductalGrayPaxinosWatson <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-precommissuralnucleusperiaqueductalgraypaxinoswatson>`_
    :lookupLabel: SwansonBM_precommissuralNucleusPeriaqueductalGrayPaxinosWatson
    :name: precommissural nucleus, periaqueductal gray [Paxinos-Watson]
 
@@ -13506,6 +14349,7 @@ SwansonBM_preculminateFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preculminateFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pcf
+   :hasVersion: `SwansonBM_3rd-ed_preculminateFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preculminatefissure>`_
    :lookupLabel: SwansonBM_preculminateFissure
    :name: preculminate fissure
 
@@ -13522,6 +14366,7 @@ SwansonBM_prefrontalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prefrontalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PFR
+   :hasVersion: `SwansonBM_3rd-ed_prefrontalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-prefrontalregion>`_
    :lookupLabel: SwansonBM_prefrontalRegion
    :name: prefrontal region
 
@@ -13538,6 +14383,7 @@ SwansonBM_preganglionicAutonomicPools
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPools
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANSpre
+   :hasVersion: `SwansonBM_3rd-ed_preganglionicAutonomicPools <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preganglionicautonomicpools>`_
    :lookupLabel: SwansonBM_preganglionicAutonomicPools
    :name: preganglionic autonomic pools
 
@@ -13554,6 +14400,7 @@ SwansonBM_preganglionicAutonomicPoolsParasympathetic
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPoolsParasympathetic
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANSprep
+   :hasVersion: `SwansonBM_3rd-ed_preganglionicAutonomicPoolsParasympathetic <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preganglionicautonomicpoolsparasympathetic>`_
    :lookupLabel: SwansonBM_preganglionicAutonomicPoolsParasympathetic
    :name: preganglionic autonomic pools, parasympathetic
 
@@ -13570,6 +14417,7 @@ SwansonBM_preganglionicAutonomicPoolsSympathetic
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preganglionicAutonomicPoolsSympathetic
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ANSpres
+   :hasVersion: `SwansonBM_3rd-ed_preganglionicAutonomicPoolsSympathetic <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preganglionicautonomicpoolssympathetic>`_
    :lookupLabel: SwansonBM_preganglionicAutonomicPoolsSympathetic
    :name: preganglionic autonomic pools, sympathetic
 
@@ -13586,6 +14434,7 @@ SwansonBM_prelimbicArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prelimbicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PL
+   :hasVersion: `SwansonBM_3rd-ed_prelimbicArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-prelimbicarea>`_
    :lookupLabel: SwansonBM_prelimbicArea
    :name: prelimbic area
 
@@ -13602,6 +14451,7 @@ SwansonBM_premammillaryCommissureRisoldEtAl
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_premammillaryCommissureRisoldEtAl
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pmx
+   :hasVersion: `SwansonBM_3rd-ed_premammillaryCommissureRisoldEtAl <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-premammillarycommissurerisoldetal>`_
    :lookupLabel: SwansonBM_premammillaryCommissureRisoldEtAl
    :name: premammillary commissure [Risold et al.]
 
@@ -13618,6 +14468,7 @@ SwansonBM_preopticCommissureRisoldEtAl
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preopticCommissureRisoldEtAl
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: poc
+   :hasVersion: `SwansonBM_3rd-ed_preopticCommissureRisoldEtAl <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preopticcommissurerisoldetal>`_
    :lookupLabel: SwansonBM_preopticCommissureRisoldEtAl
    :name: preoptic commissure [Risold et al.]
 
@@ -13634,6 +14485,7 @@ SwansonBM_preopticLevelHypothalamusEdinger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preopticLevelHypothalamusEdinger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRO
+   :hasVersion: `SwansonBM_3rd-ed_preopticLevelHypothalamusEdinger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preopticlevelhypothalamusedinger>`_
    :lookupLabel: SwansonBM_preopticLevelHypothalamusEdinger
    :name: preoptic level, hypothalamus [Edinger]
 
@@ -13650,6 +14502,7 @@ SwansonBM_preopticPeriventricularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preopticPeriventricularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PVpo
+   :hasVersion: `SwansonBM_3rd-ed_preopticPeriventricularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preopticperiventricularnucleus>`_
    :lookupLabel: SwansonBM_preopticPeriventricularNucleus
    :name: preoptic periventricular nucleus
 
@@ -13666,6 +14519,7 @@ SwansonBM_preparasubthalamicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_preparasubthalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PST
+   :hasVersion: `SwansonBM_3rd-ed_preparasubthalamicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-preparasubthalamicnucleus>`_
    :lookupLabel: SwansonBM_preparasubthalamicNucleus
    :name: preparasubthalamic nucleus
 
@@ -13682,6 +14536,7 @@ SwansonBM_prepyramidalFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prepyramidalFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ppf
+   :hasVersion: `SwansonBM_3rd-ed_prepyramidalFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-prepyramidalfissure>`_
    :lookupLabel: SwansonBM_prepyramidalFissure
    :name: prepyramidal fissure
 
@@ -13698,6 +14553,7 @@ SwansonBM_presubiculumLayers16Cajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_presubiculumLayers16Cajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRE1-6
+   :hasVersion: `SwansonBM_3rd-ed_presubiculumLayers16Cajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-presubiculumlayers16cajal>`_
    :lookupLabel: SwansonBM_presubiculumLayers16Cajal
    :name: presubiculum, layers 1-6 [Cajal]
 
@@ -13714,6 +14570,7 @@ SwansonBM_pretectalRegionEdinger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pretectalRegionEdinger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PRT
+   :hasVersion: `SwansonBM_3rd-ed_pretectalRegionEdinger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pretectalregionedinger>`_
    :lookupLabel: SwansonBM_pretectalRegionEdinger
    :name: pretectal region [Edinger]
 
@@ -13730,6 +14587,7 @@ SwansonBM_prevertebralSympatheticGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_prevertebralSympatheticGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPRS
+   :hasVersion: `SwansonBM_3rd-ed_prevertebralSympatheticGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-prevertebralsympatheticganglia>`_
    :lookupLabel: SwansonBM_prevertebralSympatheticGanglia
    :name: prevertebral sympathetic ganglia
 
@@ -13746,6 +14604,7 @@ SwansonBM_primaryAuditoryArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryAuditoryArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AUDp
+   :hasVersion: `SwansonBM_3rd-ed_primaryAuditoryArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primaryauditoryarea>`_
    :lookupLabel: SwansonBM_primaryAuditoryArea
    :name: primary auditory area
 
@@ -13762,6 +14621,7 @@ SwansonBM_primaryFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pri
+   :hasVersion: `SwansonBM_3rd-ed_primaryFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primaryfissure>`_
    :lookupLabel: SwansonBM_primaryFissure
    :name: primary fissure
 
@@ -13778,6 +14638,7 @@ SwansonBM_primarySomatomotorArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatomotorArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOp
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatomotorArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatomotorarea>`_
    :lookupLabel: SwansonBM_primarySomatomotorArea
    :name: primary somatomotor area
 
@@ -13794,6 +14655,7 @@ SwansonBM_primarySomatosensoryArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryarea>`_
    :lookupLabel: SwansonBM_primarySomatosensoryArea
    :name: primary somatosensory area
 
@@ -13810,6 +14672,7 @@ SwansonBM_primarySomatosensoryAreaBarrelField
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaBarrelField
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp-bfd
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryAreaBarrelField <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryareabarrelfield>`_
    :lookupLabel: SwansonBM_primarySomatosensoryAreaBarrelField
    :name: primary somatosensory area, barrel field
 
@@ -13826,6 +14689,7 @@ SwansonBM_primarySomatosensoryAreaLowerLimbRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaLowerLimbRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp-ll
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryAreaLowerLimbRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryarealowerlimbregion>`_
    :lookupLabel: SwansonBM_primarySomatosensoryAreaLowerLimbRegion
    :name: primary somatosensory area, lower limb region
 
@@ -13842,6 +14706,7 @@ SwansonBM_primarySomatosensoryAreaMouthRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaMouthRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp-m
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryAreaMouthRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryareamouthregion>`_
    :lookupLabel: SwansonBM_primarySomatosensoryAreaMouthRegion
    :name: primary somatosensory area, mouth region
 
@@ -13858,6 +14723,7 @@ SwansonBM_primarySomatosensoryAreaNoseRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaNoseRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp-n
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryAreaNoseRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryareanoseregion>`_
    :lookupLabel: SwansonBM_primarySomatosensoryAreaNoseRegion
    :name: primary somatosensory area, nose region
 
@@ -13874,6 +14740,7 @@ SwansonBM_primarySomatosensoryAreaTrunkRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaTrunkRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp-tr
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryAreaTrunkRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryareatrunkregion>`_
    :lookupLabel: SwansonBM_primarySomatosensoryAreaTrunkRegion
    :name: primary somatosensory area, trunk region
 
@@ -13890,6 +14757,7 @@ SwansonBM_primarySomatosensoryAreaUpperLimbRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primarySomatosensoryAreaUpperLimbRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSp-ul
+   :hasVersion: `SwansonBM_3rd-ed_primarySomatosensoryAreaUpperLimbRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primarysomatosensoryareaupperlimbregion>`_
    :lookupLabel: SwansonBM_primarySomatosensoryAreaUpperLimbRegion
    :name: primary somatosensory area, upper limb region
 
@@ -13906,6 +14774,7 @@ SwansonBM_primaryVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_primaryVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISp
+   :hasVersion: `SwansonBM_3rd-ed_primaryVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-primaryvisualarea>`_
    :lookupLabel: SwansonBM_primaryVisualArea
    :name: primary visual area
 
@@ -13922,6 +14791,7 @@ SwansonBM_principalMammillaryTractKolliker
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_principalMammillaryTractKolliker
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pm
+   :hasVersion: `SwansonBM_3rd-ed_principalMammillaryTractKolliker <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-principalmammillarytractkolliker>`_
    :lookupLabel: SwansonBM_principalMammillaryTractKolliker
    :name: principal mammillary tract [Kölliker]
 
@@ -13938,6 +14808,7 @@ SwansonBM_principalSensoryNucleusOfTheTrigeminal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_principalSensoryNucleusOfTheTrigeminal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PSV
+   :hasVersion: `SwansonBM_3rd-ed_principalSensoryNucleusOfTheTrigeminal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-principalsensorynucleusofthetrigeminal>`_
    :lookupLabel: SwansonBM_principalSensoryNucleusOfTheTrigeminal
    :name: principal sensory nucleus of the trigeminal
 
@@ -13954,6 +14825,7 @@ SwansonBM_propriohypothalamicPathways
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_propriohypothalamicPathways
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: php
+   :hasVersion: `SwansonBM_3rd-ed_propriohypothalamicPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-propriohypothalamicpathways>`_
    :lookupLabel: SwansonBM_propriohypothalamicPathways
    :name: propriohypothalamic pathways
 
@@ -13970,6 +14842,7 @@ SwansonBM_proximalGlossopharyngealGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_proximalGlossopharyngealGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GpIX
+   :hasVersion: `SwansonBM_3rd-ed_proximalGlossopharyngealGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-proximalglossopharyngealganglion>`_
    :lookupLabel: SwansonBM_proximalGlossopharyngealGanglion
    :name: proximal glossopharyngeal ganglion
 
@@ -13986,6 +14859,7 @@ SwansonBM_proximalGlossopharyngeovagalPlacode
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_proximalGlossopharyngeovagalPlacode
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IX/Xpp
+   :hasVersion: `SwansonBM_3rd-ed_proximalGlossopharyngeovagalPlacode <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-proximalglossopharyngeovagalplacode>`_
    :lookupLabel: SwansonBM_proximalGlossopharyngeovagalPlacode
    :name: proximal glossopharyngeovagal placode
 
@@ -14002,6 +14876,7 @@ SwansonBM_proximalVagalGanglionEhrenritter
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_proximalVagalGanglionEhrenritter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GpX
+   :hasVersion: `SwansonBM_3rd-ed_proximalVagalGanglionEhrenritter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-proximalvagalganglionehrenritter>`_
    :lookupLabel: SwansonBM_proximalVagalGanglionEhrenritter
    :name: proximal vagal ganglion [Ehrenritter]
 
@@ -14018,6 +14893,7 @@ SwansonBM_pterygopalatineGanglionMeckel
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pterygopalatineGanglionMeckel
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GptVII
+   :hasVersion: `SwansonBM_3rd-ed_pterygopalatineGanglionMeckel <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pterygopalatineganglionmeckel>`_
    :lookupLabel: SwansonBM_pterygopalatineGanglionMeckel
    :name: pterygopalatine ganglion [Meckel]
 
@@ -14034,6 +14910,7 @@ SwansonBM_pudentalPlexus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pudentalPlexus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pup
+   :hasVersion: `SwansonBM_3rd-ed_pudentalPlexus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pudentalplexus>`_
    :lookupLabel: SwansonBM_pudentalPlexus
    :name: pudental plexus
 
@@ -14050,6 +14927,7 @@ SwansonBM_pyramidWillis
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramidWillis
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: py
+   :hasVersion: `SwansonBM_3rd-ed_pyramidWillis <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pyramidwillis>`_
    :lookupLabel: SwansonBM_pyramidWillis
    :name: pyramid [Willis]
 
@@ -14066,6 +14944,7 @@ SwansonBM_pyramidalDecussationPourfourDuPetit
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramidalDecussationPourfourDuPetit
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pyd
+   :hasVersion: `SwansonBM_3rd-ed_pyramidalDecussationPourfourDuPetit <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pyramidaldecussationpourfourdupetit>`_
    :lookupLabel: SwansonBM_pyramidalDecussationPourfourDuPetit
    :name: pyramidal decussation [Pourfour du Petit]
 
@@ -14082,6 +14961,7 @@ SwansonBM_pyramidalFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramidalFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: pyf
+   :hasVersion: `SwansonBM_3rd-ed_pyramidalFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pyramidalfissure>`_
    :lookupLabel: SwansonBM_pyramidalFissure
    :name: pyramidal fissure
 
@@ -14098,6 +14978,7 @@ SwansonBM_pyramusVIIISublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_pyramusVIIISublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PYRa,b
+   :hasVersion: `SwansonBM_3rd-ed_pyramusVIIISublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-pyramusviiisublobulesab>`_
    :lookupLabel: SwansonBM_pyramusVIIISublobulesAb
    :name: pyramus (VIII), sublobules a,b
 
@@ -14114,6 +14995,7 @@ SwansonBM_rapheNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rapheNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RA
+   :hasVersion: `SwansonBM_3rd-ed_rapheNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-raphenuclei>`_
    :lookupLabel: SwansonBM_rapheNuclei
    :name: raphé nuclei
 
@@ -14130,6 +15012,7 @@ SwansonBM_redNucleusBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_redNucleusBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RN
+   :hasVersion: `SwansonBM_3rd-ed_redNucleusBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rednucleusburdach>`_
    :lookupLabel: SwansonBM_redNucleusBurdach
    :name: red nucleus [Burdach]
 
@@ -14146,6 +15029,7 @@ SwansonBM_reticularFormationJLenhossek
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularFormationJLenhossek
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RET
+   :hasVersion: `SwansonBM_3rd-ed_reticularFormationJLenhossek <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticularformationjlenhossek>`_
    :lookupLabel: SwansonBM_reticularFormationJLenhossek
    :name: reticular formation [J. Lenhossék]
 
@@ -14162,6 +15046,7 @@ SwansonBM_reticularNucleusSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularNucleusSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RS
+   :hasVersion: `SwansonBM_3rd-ed_reticularNucleusSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticularnucleusspinalcord>`_
    :lookupLabel: SwansonBM_reticularNucleusSpinalCord
    :name: reticular nucleus spinal cord
 
@@ -14178,6 +15063,7 @@ SwansonBM_reticularNucleusThalamusArnold
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticularNucleusThalamusArnold
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RT
+   :hasVersion: `SwansonBM_3rd-ed_reticularNucleusThalamusArnold <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticularnucleusthalamusarnold>`_
    :lookupLabel: SwansonBM_reticularNucleusThalamusArnold
    :name: reticular nucleus thalamus [Arnold]
 
@@ -14194,6 +15080,7 @@ SwansonBM_reticulocerebellarTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rct
+   :hasVersion: `SwansonBM_3rd-ed_reticulocerebellarTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticulocerebellartract>`_
    :lookupLabel: SwansonBM_reticulocerebellarTract
    :name: reticulocerebellar tract
 
@@ -14210,6 +15097,7 @@ SwansonBM_reticulospinalTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rst
+   :hasVersion: `SwansonBM_3rd-ed_reticulospinalTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticulospinaltract>`_
    :lookupLabel: SwansonBM_reticulospinalTract
    :name: reticulospinal tract
 
@@ -14226,6 +15114,7 @@ SwansonBM_reticulospinalTractLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTractLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rstl
+   :hasVersion: `SwansonBM_3rd-ed_reticulospinalTractLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticulospinaltractlateralpart>`_
    :lookupLabel: SwansonBM_reticulospinalTractLateralPart
    :name: reticulospinal tract , lateral part
 
@@ -14242,6 +15131,7 @@ SwansonBM_reticulospinalTractMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_reticulospinalTractMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rstm
+   :hasVersion: `SwansonBM_3rd-ed_reticulospinalTractMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-reticulospinaltractmedialpart>`_
    :lookupLabel: SwansonBM_reticulospinalTractMedialPart
    :name: reticulospinal tract, medial part
 
@@ -14258,6 +15148,7 @@ SwansonBM_retina
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retina
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: R
+   :hasVersion: `SwansonBM_3rd-ed_retina <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retina>`_
    :lookupLabel: SwansonBM_retina
    :name: retina
 
@@ -14274,6 +15165,7 @@ SwansonBM_retinaGanglionCellLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaGanglionCellLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Rgcl
+   :hasVersion: `SwansonBM_3rd-ed_retinaGanglionCellLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retinaganglioncelllayer>`_
    :lookupLabel: SwansonBM_retinaGanglionCellLayer
    :name: retina, ganglion cell layer
 
@@ -14290,6 +15182,7 @@ SwansonBM_retinaInnerNuclearLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaInnerNuclearLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Rinl
+   :hasVersion: `SwansonBM_3rd-ed_retinaInnerNuclearLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retinainnernuclearlayer>`_
    :lookupLabel: SwansonBM_retinaInnerNuclearLayer
    :name: retina, inner nuclear layer
 
@@ -14306,6 +15199,7 @@ SwansonBM_retinaInnerPlexiformLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaInnerPlexiformLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Ripl
+   :hasVersion: `SwansonBM_3rd-ed_retinaInnerPlexiformLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retinainnerplexiformlayer>`_
    :lookupLabel: SwansonBM_retinaInnerPlexiformLayer
    :name: retina, inner plexiform layer
 
@@ -14322,6 +15216,7 @@ SwansonBM_retinaOuterNuclearLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaOuterNuclearLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Ronl
+   :hasVersion: `SwansonBM_3rd-ed_retinaOuterNuclearLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retinaouternuclearlayer>`_
    :lookupLabel: SwansonBM_retinaOuterNuclearLayer
    :name: retina, outer nuclear layer
 
@@ -14338,6 +15233,7 @@ SwansonBM_retinaOuterPlexiformLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retinaOuterPlexiformLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Ropl
+   :hasVersion: `SwansonBM_3rd-ed_retinaOuterPlexiformLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retinaouterplexiformlayer>`_
    :lookupLabel: SwansonBM_retinaOuterPlexiformLayer
    :name: retina, outer plexiform layer
 
@@ -14354,6 +15250,7 @@ SwansonBM_retrochiasmaticAreaLateralHypothalamicArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrochiasmaticAreaLateralHypothalamicArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RCH
+   :hasVersion: `SwansonBM_3rd-ed_retrochiasmaticAreaLateralHypothalamicArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrochiasmaticarealateralhypothalamicarea>`_
    :lookupLabel: SwansonBM_retrochiasmaticAreaLateralHypothalamicArea
    :name: retrochiasmatic area, lateral hypothalamic area
 
@@ -14370,6 +15267,7 @@ SwansonBM_retrohippocampalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrohippocampalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RHP
+   :hasVersion: `SwansonBM_3rd-ed_retrohippocampalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrohippocampalregion>`_
    :lookupLabel: SwansonBM_retrohippocampalRegion
    :name: retrohippocampal region
 
@@ -14386,6 +15284,7 @@ SwansonBM_retrosplenialArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RSP
+   :hasVersion: `SwansonBM_3rd-ed_retrosplenialArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrosplenialarea>`_
    :lookupLabel: SwansonBM_retrosplenialArea
    :name: retrosplenial area
 
@@ -14402,6 +15301,7 @@ SwansonBM_retrosplenialAreaDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RSPd
+   :hasVersion: `SwansonBM_3rd-ed_retrosplenialAreaDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrosplenialareadorsalpart>`_
    :lookupLabel: SwansonBM_retrosplenialAreaDorsalPart
    :name: retrosplenial area, dorsal part
 
@@ -14418,6 +15318,7 @@ SwansonBM_retrosplenialAreaLateralAgranularPartRisoldSwanson
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaLateralAgranularPartRisoldSwanson
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RSPagl
+   :hasVersion: `SwansonBM_3rd-ed_retrosplenialAreaLateralAgranularPartRisoldSwanson <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrosplenialarealateralagranularpartrisoldswanson>`_
    :lookupLabel: SwansonBM_retrosplenialAreaLateralAgranularPartRisoldSwanson
    :name: retrosplenial area, lateral agranular part [Risold-Swanson]
 
@@ -14434,6 +15335,7 @@ SwansonBM_retrosplenialAreaVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RSPv
+   :hasVersion: `SwansonBM_3rd-ed_retrosplenialAreaVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrosplenialareaventralpart>`_
    :lookupLabel: SwansonBM_retrosplenialAreaVentralPart
    :name: retrosplenial area, ventral part
 
@@ -14450,6 +15352,7 @@ SwansonBM_retrosplenialAreaVentralPartZoneA
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPartZoneA
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RSPv.a
+   :hasVersion: `SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneA <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrosplenialareaventralpartzonea>`_
    :lookupLabel: SwansonBM_retrosplenialAreaVentralPartZoneA
    :name: retrosplenial area, ventral part, zone a
 
@@ -14466,6 +15369,7 @@ SwansonBM_retrosplenialAreaVentralPartZoneBc
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_retrosplenialAreaVentralPartZoneBc
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RSPv.b/c
+   :hasVersion: `SwansonBM_3rd-ed_retrosplenialAreaVentralPartZoneBc <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-retrosplenialareaventralpartzonebc>`_
    :lookupLabel: SwansonBM_retrosplenialAreaVentralPartZoneBc
    :name: retrosplenial area, ventral part, zone b/c
 
@@ -14482,6 +15386,7 @@ SwansonBM_rhinalFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinalFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rf
+   :hasVersion: `SwansonBM_3rd-ed_rhinalFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rhinalfissure>`_
    :lookupLabel: SwansonBM_rhinalFissure
    :name: rhinal fissure
 
@@ -14498,6 +15403,7 @@ SwansonBM_rhinalIncisure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinalIncisure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ri
+   :hasVersion: `SwansonBM_3rd-ed_rhinalIncisure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rhinalincisure>`_
    :lookupLabel: SwansonBM_rhinalIncisure
    :name: rhinal incisure
 
@@ -14514,6 +15420,7 @@ SwansonBM_rhinalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RHI
+   :hasVersion: `SwansonBM_3rd-ed_rhinalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rhinalregion>`_
    :lookupLabel: SwansonBM_rhinalRegion
    :name: rhinal region
 
@@ -14530,6 +15437,7 @@ SwansonBM_rhinocele
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhinocele
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RC
+   :hasVersion: `SwansonBM_3rd-ed_rhinocele <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rhinocele>`_
    :lookupLabel: SwansonBM_rhinocele
    :name: rhinocele
 
@@ -14546,6 +15454,7 @@ SwansonBM_rhomboidNucleusCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rhomboidNucleusCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RH
+   :hasVersion: `SwansonBM_3rd-ed_rhomboidNucleusCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rhomboidnucleuscajal>`_
    :lookupLabel: SwansonBM_rhomboidNucleusCajal
    :name: rhomboid nucleus [Cajal]
 
@@ -14562,6 +15471,7 @@ SwansonBM_rostralLinearNucleusRaphe
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostralLinearNucleusRaphe
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RL
+   :hasVersion: `SwansonBM_3rd-ed_rostralLinearNucleusRaphe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rostrallinearnucleusraphe>`_
    :lookupLabel: SwansonBM_rostralLinearNucleusRaphe
    :name: rostral linear nucleus raphé
 
@@ -14578,6 +15488,7 @@ SwansonBM_rostralMedullaryVelumVieussens
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostralMedullaryVelumVieussens
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: RMVE
+   :hasVersion: `SwansonBM_3rd-ed_rostralMedullaryVelumVieussens <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rostralmedullaryvelumvieussens>`_
    :lookupLabel: SwansonBM_rostralMedullaryVelumVieussens
    :name: rostral medullary velum [Vieussens]
 
@@ -14594,6 +15505,7 @@ SwansonBM_rostralNeuropore
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostralNeuropore
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rnp
+   :hasVersion: `SwansonBM_3rd-ed_rostralNeuropore <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rostralneuropore>`_
    :lookupLabel: SwansonBM_rostralNeuropore
    :name: rostral neuropore
 
@@ -14610,6 +15522,7 @@ SwansonBM_rostrolateralVisualArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rostrolateralVisualArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISrl
+   :hasVersion: `SwansonBM_3rd-ed_rostrolateralVisualArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rostrolateralvisualarea>`_
    :lookupLabel: SwansonBM_rostrolateralVisualArea
    :name: rostrolateral visual area
 
@@ -14626,6 +15539,7 @@ SwansonBM_rubroreticularTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rubroreticularTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rrt
+   :hasVersion: `SwansonBM_3rd-ed_rubroreticularTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rubroreticulartract>`_
    :lookupLabel: SwansonBM_rubroreticularTract
    :name: rubroreticular tract
 
@@ -14642,6 +15556,7 @@ SwansonBM_rubrospinalTractMonakow
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_rubrospinalTractMonakow
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: rust
+   :hasVersion: `SwansonBM_3rd-ed_rubrospinalTractMonakow <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-rubrospinaltractmonakow>`_
    :lookupLabel: SwansonBM_rubrospinalTractMonakow
    :name: rubrospinal tract [Monakow]
 
@@ -14658,6 +15573,7 @@ SwansonBM_sacralParasympatheticGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralParasympatheticGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GPS
+   :hasVersion: `SwansonBM_3rd-ed_sacralParasympatheticGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sacralparasympatheticganglia>`_
    :lookupLabel: SwansonBM_sacralParasympatheticGanglia
    :name: sacral parasympathetic ganglia
 
@@ -14674,6 +15590,7 @@ SwansonBM_sacralSpinalGanglia14
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralSpinalGanglia14
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: G-S1-4
+   :hasVersion: `SwansonBM_3rd-ed_sacralSpinalGanglia14 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sacralspinalganglia14>`_
    :lookupLabel: SwansonBM_sacralSpinalGanglia14
    :name: sacral spinal ganglia, 1-4
 
@@ -14690,6 +15607,7 @@ SwansonBM_sacralSympatheticGanglia14
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sacralSympatheticGanglia14
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Gs-S1-4
+   :hasVersion: `SwansonBM_3rd-ed_sacralSympatheticGanglia14 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sacralsympatheticganglia14>`_
    :lookupLabel: SwansonBM_sacralSympatheticGanglia14
    :name: sacral sympathetic ganglia, 1-4
 
@@ -14706,6 +15624,7 @@ SwansonBM_secondaryFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_secondaryFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sec
+   :hasVersion: `SwansonBM_3rd-ed_secondaryFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-secondaryfissure>`_
    :lookupLabel: SwansonBM_secondaryFissure
    :name: secondary fissure
 
@@ -14722,6 +15641,7 @@ SwansonBM_secondarySomatomotorAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_secondarySomatomotorAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MOs
+   :hasVersion: `SwansonBM_3rd-ed_secondarySomatomotorAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-secondarysomatomotorareas>`_
    :lookupLabel: SwansonBM_secondarySomatomotorAreas
    :name: secondary somatomotor areas
 
@@ -14738,6 +15658,7 @@ SwansonBM_sensoryGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensoryGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GSE
+   :hasVersion: `SwansonBM_3rd-ed_sensoryGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensoryganglia>`_
    :lookupLabel: SwansonBM_sensoryGanglia
    :name: sensory ganglia
 
@@ -14754,6 +15675,7 @@ SwansonBM_sensoryRootOfTheTrigeminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensoryRootOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sV
+   :hasVersion: `SwansonBM_3rd-ed_sensoryRootOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensoryrootofthetrigeminalnerve>`_
    :lookupLabel: SwansonBM_sensoryRootOfTheTrigeminalNerve
    :name: sensory root of the trigeminal nerve
 
@@ -14770,6 +15692,7 @@ SwansonBM_sensorySystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SEN
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystem>`_
    :lookupLabel: SwansonBM_sensorySystem
    :name: sensory system
 
@@ -14786,6 +15709,7 @@ SwansonBM_sensorySystemAuditory
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemAuditory
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SENaud
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystemAuditory <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystemauditory>`_
    :lookupLabel: SwansonBM_sensorySystemAuditory
    :name: sensory system, auditory
 
@@ -14802,6 +15726,7 @@ SwansonBM_sensorySystemGustatory
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemGustatory
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SENgu
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystemGustatory <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystemgustatory>`_
    :lookupLabel: SwansonBM_sensorySystemGustatory
    :name: sensory system, gustatory
 
@@ -14818,6 +15743,7 @@ SwansonBM_sensorySystemHumorosensory
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemHumorosensory
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SENhum
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystemHumorosensory <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystemhumorosensory>`_
    :lookupLabel: SwansonBM_sensorySystemHumorosensory
    :name: sensory system, humorosensory
 
@@ -14834,6 +15760,7 @@ SwansonBM_sensorySystemSomatosensory
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemSomatosensory
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SENss
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystemSomatosensory <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystemsomatosensory>`_
    :lookupLabel: SwansonBM_sensorySystemSomatosensory
    :name: sensory system, somatosensory
 
@@ -14850,6 +15777,7 @@ SwansonBM_sensorySystemVisceral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemVisceral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SENvsc
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystemVisceral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystemvisceral>`_
    :lookupLabel: SwansonBM_sensorySystemVisceral
    :name: sensory system, visceral
 
@@ -14866,6 +15794,7 @@ SwansonBM_sensorySystemVisual
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sensorySystemVisual
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SENvis
+   :hasVersion: `SwansonBM_3rd-ed_sensorySystemVisual <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sensorysystemvisual>`_
    :lookupLabel: SwansonBM_sensorySystemVisual
    :name: sensory system, visual
 
@@ -14882,6 +15811,7 @@ SwansonBM_septalRegionMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_septalRegionMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SEP
+   :hasVersion: `SwansonBM_3rd-ed_septalRegionMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-septalregionmeynert>`_
    :lookupLabel: SwansonBM_septalRegionMeynert
    :name: septal region [Meynert]
 
@@ -14898,6 +15828,7 @@ SwansonBM_septofimbrialNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_septofimbrialNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SF
+   :hasVersion: `SwansonBM_3rd-ed_septofimbrialNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-septofimbrialnucleus>`_
    :lookupLabel: SwansonBM_septofimbrialNucleus
    :name: septofimbrial nucleus
 
@@ -14914,6 +15845,7 @@ SwansonBM_septohippocampalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_septohippocampalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SH
+   :hasVersion: `SwansonBM_3rd-ed_septohippocampalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-septohippocampalnucleus>`_
    :lookupLabel: SwansonBM_septohippocampalNucleus
    :name: septohippocampal nucleus
 
@@ -14930,6 +15862,7 @@ SwansonBM_simpleFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_simpleFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sif
+   :hasVersion: `SwansonBM_3rd-ed_simpleFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-simplefissure>`_
    :lookupLabel: SwansonBM_simpleFissure
    :name: simple fissure
 
@@ -14946,6 +15879,7 @@ SwansonBM_simpleLobuleSublobulesAb
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_simpleLobuleSublobulesAb
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SIMa,b
+   :hasVersion: `SwansonBM_3rd-ed_simpleLobuleSublobulesAb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-simplelobulesublobulesab>`_
    :lookupLabel: SwansonBM_simpleLobuleSublobulesAb
    :name: simple lobule, sublobules a,b
 
@@ -14962,6 +15896,7 @@ SwansonBM_solitaryTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_solitaryTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ts
+   :hasVersion: `SwansonBM_3rd-ed_solitaryTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-solitarytract>`_
    :lookupLabel: SwansonBM_solitaryTract
    :name: solitary tract
 
@@ -14978,6 +15913,7 @@ SwansonBM_somaticNervousSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somaticNervousSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SMS
+   :hasVersion: `SwansonBM_3rd-ed_somaticNervousSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-somaticnervoussystem>`_
    :lookupLabel: SwansonBM_somaticNervousSystem
    :name: somatic nervous system
 
@@ -14994,6 +15930,7 @@ SwansonBM_somatomotorAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somatomotorAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: MO
+   :hasVersion: `SwansonBM_3rd-ed_somatomotorAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-somatomotorareas>`_
    :lookupLabel: SwansonBM_somatomotorAreas
    :name: somatomotor areas
 
@@ -15010,6 +15947,7 @@ SwansonBM_somatomotorMotoneuronPools
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somatomotorMotoneuronPools
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SMM
+   :hasVersion: `SwansonBM_3rd-ed_somatomotorMotoneuronPools <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-somatomotormotoneuronpools>`_
    :lookupLabel: SwansonBM_somatomotorMotoneuronPools
    :name: somatomotor motoneuron pools
 
@@ -15026,6 +15964,7 @@ SwansonBM_somatosensoryAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_somatosensoryAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SS
+   :hasVersion: `SwansonBM_3rd-ed_somatosensoryAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-somatosensoryareas>`_
    :lookupLabel: SwansonBM_somatosensoryAreas
    :name: somatosensory areas
 
@@ -15042,6 +15981,7 @@ SwansonBM_spinalCentralGray
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCentralGray
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CGS
+   :hasVersion: `SwansonBM_3rd-ed_spinalCentralGray <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcentralgray>`_
    :lookupLabel: SwansonBM_spinalCentralGray
    :name: spinal central gray
 
@@ -15058,6 +15998,7 @@ SwansonBM_spinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SP
+   :hasVersion: `SwansonBM_3rd-ed_spinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcord>`_
    :lookupLabel: SwansonBM_spinalCord
    :name: spinal cord
 
@@ -15074,6 +16015,7 @@ SwansonBM_spinalCordCervicalLevelSegments18
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordCervicalLevelSegments18
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SP-C1-8
+   :hasVersion: `SwansonBM_3rd-ed_spinalCordCervicalLevelSegments18 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcordcervicallevelsegments18>`_
    :lookupLabel: SwansonBM_spinalCordCervicalLevelSegments18
    :name: spinal cord, cervical level, segments 1-8
 
@@ -15090,6 +16032,7 @@ SwansonBM_spinalCordCoccygealLevelSegments13
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordCoccygealLevelSegments13
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SP-Co1-3
+   :hasVersion: `SwansonBM_3rd-ed_spinalCordCoccygealLevelSegments13 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcordcoccygeallevelsegments13>`_
    :lookupLabel: SwansonBM_spinalCordCoccygealLevelSegments13
    :name: spinal cord, coccygeal level, segments 1-3
 
@@ -15106,6 +16049,7 @@ SwansonBM_spinalCordGrooves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordGrooves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: grvs
+   :hasVersion: `SwansonBM_3rd-ed_spinalCordGrooves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcordgrooves>`_
    :lookupLabel: SwansonBM_spinalCordGrooves
    :name: spinal cord grooves
 
@@ -15122,6 +16066,7 @@ SwansonBM_spinalCordLumbarLevelSegments16
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordLumbarLevelSegments16
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SP-L1-6
+   :hasVersion: `SwansonBM_3rd-ed_spinalCordLumbarLevelSegments16 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcordlumbarlevelsegments16>`_
    :lookupLabel: SwansonBM_spinalCordLumbarLevelSegments16
    :name: spinal cord, lumbar level, segments 1-6
 
@@ -15138,6 +16083,7 @@ SwansonBM_spinalCordSacralLevelSegments14
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordSacralLevelSegments14
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SP-S1-4
+   :hasVersion: `SwansonBM_3rd-ed_spinalCordSacralLevelSegments14 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcordsacrallevelsegments14>`_
    :lookupLabel: SwansonBM_spinalCordSacralLevelSegments14
    :name: spinal cord, sacral level, segments 1-4
 
@@ -15154,6 +16100,7 @@ SwansonBM_spinalCordThoracicLevelSegments113
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalCordThoracicLevelSegments113
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SP-T1-13
+   :hasVersion: `SwansonBM_3rd-ed_spinalCordThoracicLevelSegments113 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalcordthoraciclevelsegments113>`_
    :lookupLabel: SwansonBM_spinalCordThoracicLevelSegments113
    :name: spinal cord, thoracic level, segments 1-13
 
@@ -15170,6 +16117,7 @@ SwansonBM_spinalNerves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNerves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: spin
+   :hasVersion: `SwansonBM_3rd-ed_spinalNerves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnerves>`_
    :lookupLabel: SwansonBM_spinalNerves
    :name: spinal nerves
 
@@ -15186,6 +16134,7 @@ SwansonBM_spinalNucleusOfTheTrigeminal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPV
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminal>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminal
    :name: spinal nucleus of the trigeminal
 
@@ -15202,6 +16151,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalCaudalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalCaudalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVC
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalCaudalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminalcaudalpart>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalCaudalPart
    :name: spinal nucleus of the trigeminal, caudal part
 
@@ -15218,6 +16168,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalInterpolarPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalInterpolarPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVI
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalInterpolarPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminalinterpolarpart>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalInterpolarPart
    :name: spinal nucleus of the trigeminal, interpolar part
 
@@ -15234,6 +16185,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalOralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVO
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminaloralpart>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalOralPart
    :name: spinal nucleus of the trigeminal, oral part
 
@@ -15250,6 +16202,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVOcdm
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminaloralpartcaudaldorsomedialregion>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalOralPartCaudalDorsomedialRegion
    :name: spinal nucleus of the trigeminal, oral part, caudal dorsomedial region
 
@@ -15266,6 +16219,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDorsalZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDorsalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVOmdmd
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDorsalZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminaloralpartmiddledorsomedialregiondorsalzone>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionDorsalZone
    :name: spinal nucleus of the trigeminal, oral part, middle dorsomedial region, dorsal zone
 
@@ -15282,6 +16236,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVOmdmv
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminaloralpartmiddledorsomedialregionventralzone>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalOralPartMiddleDorsomedialRegionVentralZone
    :name: spinal nucleus of the trigeminal, oral part, middle dorsomedial region, ventral zone
 
@@ -15298,6 +16253,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVOrdm
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminaloralpartrostraldorsomedialregion>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalOralPartRostralDorsomedialRegion
    :name: spinal nucleus of the trigeminal oral part, rostral dorsomedial region
 
@@ -15314,6 +16270,7 @@ SwansonBM_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPVOvl
+   :hasVersion: `SwansonBM_3rd-ed_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalnucleusofthetrigeminaloralpartventrolateralpart>`_
    :lookupLabel: SwansonBM_spinalNucleusOfTheTrigeminalOralPartVentrolateralPart
    :name: spinal nucleus of the trigeminal, oral part, ventrolateral part
 
@@ -15330,6 +16287,7 @@ SwansonBM_spinalPlexuses
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalPlexuses
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: plxs
+   :hasVersion: `SwansonBM_3rd-ed_spinalPlexuses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalplexuses>`_
    :lookupLabel: SwansonBM_spinalPlexuses
    :name: spinal plexuses
 
@@ -15346,6 +16304,7 @@ SwansonBM_spinalSensoryGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalSensoryGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GSP
+   :hasVersion: `SwansonBM_3rd-ed_spinalSensoryGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalsensoryganglia>`_
    :lookupLabel: SwansonBM_spinalSensoryGanglia
    :name: spinal sensory ganglia
 
@@ -15362,6 +16321,7 @@ SwansonBM_spinalTractOfTheTrigeminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalTractOfTheTrigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sptV
+   :hasVersion: `SwansonBM_3rd-ed_spinalTractOfTheTrigeminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinaltractofthetrigeminalnerve>`_
    :lookupLabel: SwansonBM_spinalTractOfTheTrigeminalNerve
    :name: spinal tract of the trigeminal nerve
 
@@ -15378,6 +16338,7 @@ SwansonBM_spinalVestibularNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinalVestibularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPIV
+   :hasVersion: `SwansonBM_3rd-ed_spinalVestibularNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinalvestibularnucleus>`_
    :lookupLabel: SwansonBM_spinalVestibularNucleus
    :name: spinal vestibular nucleus
 
@@ -15394,6 +16355,7 @@ SwansonBM_spinocerebellarTracts
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinocerebellarTracts
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sct
+   :hasVersion: `SwansonBM_3rd-ed_spinocerebellarTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinocerebellartracts>`_
    :lookupLabel: SwansonBM_spinocerebellarTracts
    :name: spinocerebellar tracts
 
@@ -15410,6 +16372,7 @@ SwansonBM_spinocervicalTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinocervicalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: scrt
+   :hasVersion: `SwansonBM_3rd-ed_spinocervicalTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinocervicaltract>`_
    :lookupLabel: SwansonBM_spinocervicalTract
    :name: spinocervical tract
 
@@ -15426,6 +16389,7 @@ SwansonBM_spinohypothalamicPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinohypothalamicPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: shp
+   :hasVersion: `SwansonBM_3rd-ed_spinohypothalamicPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinohypothalamicpathway>`_
    :lookupLabel: SwansonBM_spinohypothalamicPathway
    :name: spinohypothalamic pathway
 
@@ -15442,6 +16406,7 @@ SwansonBM_spinoolivaryPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinoolivaryPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sop
+   :hasVersion: `SwansonBM_3rd-ed_spinoolivaryPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinoolivarypathway>`_
    :lookupLabel: SwansonBM_spinoolivaryPathway
    :name: spino-olivary pathway
 
@@ -15458,6 +16423,7 @@ SwansonBM_spinoreticularPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinoreticularPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: srp
+   :hasVersion: `SwansonBM_3rd-ed_spinoreticularPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinoreticularpathway>`_
    :lookupLabel: SwansonBM_spinoreticularPathway
    :name: spinoreticular pathway
 
@@ -15474,6 +16440,7 @@ SwansonBM_spinotectalPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinotectalPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: stp
+   :hasVersion: `SwansonBM_3rd-ed_spinotectalPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinotectalpathway>`_
    :lookupLabel: SwansonBM_spinotectalPathway
    :name: spinotectal pathway
 
@@ -15490,6 +16457,7 @@ SwansonBM_spinotelencephalicPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinotelencephalicPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: step
+   :hasVersion: `SwansonBM_3rd-ed_spinotelencephalicPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinotelencephalicpathway>`_
    :lookupLabel: SwansonBM_spinotelencephalicPathway
    :name: spinotelencephalic pathway
 
@@ -15506,6 +16474,7 @@ SwansonBM_spinothalamicTractThieleHorsley
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinothalamicTractThieleHorsley
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: stt
+   :hasVersion: `SwansonBM_3rd-ed_spinothalamicTractThieleHorsley <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinothalamictractthielehorsley>`_
    :lookupLabel: SwansonBM_spinothalamicTractThieleHorsley
    :name: spinothalamic tract [Thiele-Horsley]
 
@@ -15522,6 +16491,7 @@ SwansonBM_spinovestibularPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spinovestibularPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: svp
+   :hasVersion: `SwansonBM_3rd-ed_spinovestibularPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spinovestibularpathway>`_
    :lookupLabel: SwansonBM_spinovestibularPathway
    :name: spinovestibular pathway
 
@@ -15538,6 +16508,7 @@ SwansonBM_spiralGanglionCorti
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_spiralGanglionCorti
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GcVIII
+   :hasVersion: `SwansonBM_3rd-ed_spiralGanglionCorti <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-spiralganglioncorti>`_
    :lookupLabel: SwansonBM_spiralGanglionCorti
    :name: spiral ganglion [Corti]
 
@@ -15554,6 +16525,7 @@ SwansonBM_splanchnicNerves
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_splanchnicNerves
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: spn
+   :hasVersion: `SwansonBM_3rd-ed_splanchnicNerves <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-splanchnicnerves>`_
    :lookupLabel: SwansonBM_splanchnicNerves
    :name: splanchnic nerves
 
@@ -15570,6 +16542,7 @@ SwansonBM_stellateGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_stellateGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GSTL
+   :hasVersion: `SwansonBM_3rd-ed_stellateGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-stellateganglion>`_
    :lookupLabel: SwansonBM_stellateGanglion
    :name: stellate ganglion
 
@@ -15586,6 +16559,7 @@ SwansonBM_stratumZonaleThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_stratumZonaleThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sz
+   :hasVersion: `SwansonBM_3rd-ed_stratumZonaleThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-stratumzonalethalamus>`_
    :lookupLabel: SwansonBM_stratumZonaleThalamus
    :name: stratum zonale, thalamus
 
@@ -15602,6 +16576,7 @@ SwansonBM_striaMedullaris
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striaMedullaris
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sm
+   :hasVersion: `SwansonBM_3rd-ed_striaMedullaris <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-striamedullaris>`_
    :lookupLabel: SwansonBM_striaMedullaris
    :name: stria medullaris
 
@@ -15618,6 +16593,7 @@ SwansonBM_striaTerminalisWenzelWenzel
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striaTerminalisWenzelWenzel
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: st
+   :hasVersion: `SwansonBM_3rd-ed_striaTerminalisWenzelWenzel <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-striaterminaliswenzelwenzel>`_
    :lookupLabel: SwansonBM_striaTerminalisWenzelWenzel
    :name: stria terminalis [Wenzel-Wenzel]
 
@@ -15634,6 +16610,7 @@ SwansonBM_striatalFundus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatalFundus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: FS
+   :hasVersion: `SwansonBM_3rd-ed_striatalFundus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-striatalfundus>`_
    :lookupLabel: SwansonBM_striatalFundus
    :name: striatal fundus
 
@@ -15650,6 +16627,7 @@ SwansonBM_striatonigralPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatonigralPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: snp
+   :hasVersion: `SwansonBM_3rd-ed_striatonigralPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-striatonigralpathway>`_
    :lookupLabel: SwansonBM_striatonigralPathway
    :name: striatonigral pathway
 
@@ -15666,6 +16644,7 @@ SwansonBM_striatum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_striatum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: STR
+   :hasVersion: `SwansonBM_3rd-ed_striatum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-striatum>`_
    :lookupLabel: SwansonBM_striatum
    :name: striatum
 
@@ -15682,6 +16661,7 @@ SwansonBM_subceruleusNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subceruleusNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SLC
+   :hasVersion: `SwansonBM_3rd-ed_subceruleusNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subceruleusnucleus>`_
    :lookupLabel: SwansonBM_subceruleusNucleus
    :name: subceruleus nucleus
 
@@ -15698,6 +16678,7 @@ SwansonBM_subcommissuralOrgan
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subcommissuralOrgan
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCO
+   :hasVersion: `SwansonBM_3rd-ed_subcommissuralOrgan <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subcommissuralorgan>`_
    :lookupLabel: SwansonBM_subcommissuralOrgan
    :name: subcommissural organ
 
@@ -15714,6 +16695,7 @@ SwansonBM_subependymalZone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subependymalZone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SEZ
+   :hasVersion: `SwansonBM_3rd-ed_subependymalZone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subependymalzone>`_
    :lookupLabel: SwansonBM_subependymalZone
    :name: subependymal zone
 
@@ -15730,6 +16712,7 @@ SwansonBM_subfornicalOrganPines
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subfornicalOrganPines
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SFO
+   :hasVersion: `SwansonBM_3rd-ed_subfornicalOrganPines <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subfornicalorganpines>`_
    :lookupLabel: SwansonBM_subfornicalOrganPines
    :name: subfornical organ [Pines]
 
@@ -15746,6 +16729,7 @@ SwansonBM_subiculumBurdach
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumBurdach
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUB
+   :hasVersion: `SwansonBM_3rd-ed_subiculumBurdach <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumburdach>`_
    :lookupLabel: SwansonBM_subiculumBurdach
    :name: subiculum [Burdach]
 
@@ -15762,6 +16746,7 @@ SwansonBM_subiculumDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBd
+   :hasVersion: `SwansonBM_3rd-ed_subiculumDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumdorsalpart>`_
    :lookupLabel: SwansonBM_subiculumDorsalPart
    :name: subiculum, dorsal part
 
@@ -15778,6 +16763,7 @@ SwansonBM_subiculumDorsalPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBd-m
+   :hasVersion: `SwansonBM_3rd-ed_subiculumDorsalPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumdorsalpartmolecularlayer>`_
    :lookupLabel: SwansonBM_subiculumDorsalPartMolecularLayer
    :name: subiculum, dorsal part, molecular layer
 
@@ -15794,6 +16780,7 @@ SwansonBM_subiculumDorsalPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBd-sp
+   :hasVersion: `SwansonBM_3rd-ed_subiculumDorsalPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumdorsalpartpyramidallayer>`_
    :lookupLabel: SwansonBM_subiculumDorsalPartPyramidalLayer
    :name: subiculum, dorsal part, pyramidal layer
 
@@ -15810,6 +16797,7 @@ SwansonBM_subiculumDorsalPartStratumRadiatum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumDorsalPartStratumRadiatum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBd-sr
+   :hasVersion: `SwansonBM_3rd-ed_subiculumDorsalPartStratumRadiatum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumdorsalpartstratumradiatum>`_
    :lookupLabel: SwansonBM_subiculumDorsalPartStratumRadiatum
    :name: subiculum, dorsal part, stratum radiatum
 
@@ -15826,6 +16814,7 @@ SwansonBM_subiculumVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBv
+   :hasVersion: `SwansonBM_3rd-ed_subiculumVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumventralpart>`_
    :lookupLabel: SwansonBM_subiculumVentralPart
    :name: subiculum, ventral part
 
@@ -15842,6 +16831,7 @@ SwansonBM_subiculumVentralPartMolecularLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartMolecularLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBv-m
+   :hasVersion: `SwansonBM_3rd-ed_subiculumVentralPartMolecularLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumventralpartmolecularlayer>`_
    :lookupLabel: SwansonBM_subiculumVentralPartMolecularLayer
    :name: subiculum, ventral part, molecular layer
 
@@ -15858,6 +16848,7 @@ SwansonBM_subiculumVentralPartPyramidalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartPyramidalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBv-sp
+   :hasVersion: `SwansonBM_3rd-ed_subiculumVentralPartPyramidalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumventralpartpyramidallayer>`_
    :lookupLabel: SwansonBM_subiculumVentralPartPyramidalLayer
    :name: subiculum, ventral part, pyramidal layer
 
@@ -15874,6 +16865,7 @@ SwansonBM_subiculumVentralPartStratumRadiatum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subiculumVentralPartStratumRadiatum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUBv-sr
+   :hasVersion: `SwansonBM_3rd-ed_subiculumVentralPartStratumRadiatum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subiculumventralpartstratumradiatum>`_
    :lookupLabel: SwansonBM_subiculumVentralPartStratumRadiatum
    :name: subiculum, ventral part, stratum radiatum
 
@@ -15890,6 +16882,7 @@ SwansonBM_sublaterodorsalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sublaterodorsalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SLD
+   :hasVersion: `SwansonBM_3rd-ed_sublaterodorsalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sublaterodorsalnucleus>`_
    :lookupLabel: SwansonBM_sublaterodorsalNucleus
    :name: sublaterodorsal nucleus
 
@@ -15906,6 +16899,7 @@ SwansonBM_submandibularGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_submandibularGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GsVII
+   :hasVersion: `SwansonBM_3rd-ed_submandibularGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-submandibularganglion>`_
    :lookupLabel: SwansonBM_submandibularGanglion
    :name: submandibular ganglion
 
@@ -15922,6 +16916,7 @@ SwansonBM_submedialNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_submedialNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SMT
+   :hasVersion: `SwansonBM_3rd-ed_submedialNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-submedialnucleusthalamus>`_
    :lookupLabel: SwansonBM_submedialNucleusThalamus
    :name: submedial nucleus thalamus
 
@@ -15938,6 +16933,7 @@ SwansonBM_submucosalPlexusMeissner
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_submucosalPlexusMeissner
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: smp
+   :hasVersion: `SwansonBM_3rd-ed_submucosalPlexusMeissner <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-submucosalplexusmeissner>`_
    :lookupLabel: SwansonBM_submucosalPlexusMeissner
    :name: submucosal plexus [Meissner]
 
@@ -15954,6 +16950,7 @@ SwansonBM_subparafascicularNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPF
+   :hasVersion: `SwansonBM_3rd-ed_subparafascicularNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subparafascicularnucleusthalamus>`_
    :lookupLabel: SwansonBM_subparafascicularNucleusThalamus
    :name: subparafascicular nucleus thalamus
 
@@ -15970,6 +16967,7 @@ SwansonBM_subparafascicularNucleusThalamusMagnocellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusMagnocellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPFm
+   :hasVersion: `SwansonBM_3rd-ed_subparafascicularNucleusThalamusMagnocellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subparafascicularnucleusthalamusmagnocellularpart>`_
    :lookupLabel: SwansonBM_subparafascicularNucleusThalamusMagnocellularPart
    :name: subparafascicular nucleus thalamus, magnocellular part
 
@@ -15986,6 +16984,7 @@ SwansonBM_subparafascicularNucleusThalamusParvicellularPartLateralDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusParvicellularPartLateralDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPFpl
+   :hasVersion: `SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartLateralDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subparafascicularnucleusthalamusparvicellularpartlateraldivision>`_
    :lookupLabel: SwansonBM_subparafascicularNucleusThalamusParvicellularPartLateralDivision
    :name: subparafascicular nucleus thalamus, parvicellular part, lateral division
 
@@ -16002,6 +17001,7 @@ SwansonBM_subparafascicularNucleusThalamusParvicellularPartMedialDivision
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparafascicularNucleusThalamusParvicellularPartMedialDivision
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPFpm
+   :hasVersion: `SwansonBM_3rd-ed_subparafascicularNucleusThalamusParvicellularPartMedialDivision <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subparafascicularnucleusthalamusparvicellularpartmedialdivision>`_
    :lookupLabel: SwansonBM_subparafascicularNucleusThalamusParvicellularPartMedialDivision
    :name: subparafascicular nucleus thalamus, parvicellular part, medial division
 
@@ -16018,6 +17018,7 @@ SwansonBM_subparaventricularZoneHypothalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subparaventricularZoneHypothalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SBPV
+   :hasVersion: `SwansonBM_3rd-ed_subparaventricularZoneHypothalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subparaventricularzonehypothalamus>`_
    :lookupLabel: SwansonBM_subparaventricularZoneHypothalamus
    :name: subparaventricular zone hypothalamus
 
@@ -16034,6 +17035,7 @@ SwansonBM_substantiaGelatinosaSpinalCordRolando
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaGelatinosaSpinalCordRolando
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SGE
+   :hasVersion: `SwansonBM_3rd-ed_substantiaGelatinosaSpinalCordRolando <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-substantiagelatinosaspinalcordrolando>`_
    :lookupLabel: SwansonBM_substantiaGelatinosaSpinalCordRolando
    :name: substantia gelatinosa spinal cord [Rolando]
 
@@ -16050,6 +17052,7 @@ SwansonBM_substantiaInnominataReilReichert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaInnominataReilReichert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SI
+   :hasVersion: `SwansonBM_3rd-ed_substantiaInnominataReilReichert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-substantiainnominatareilreichert>`_
    :lookupLabel: SwansonBM_substantiaInnominataReilReichert
    :name: substantia innominata [Reil, Reichert]
 
@@ -16066,6 +17069,7 @@ SwansonBM_substantiaNigraCompactPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaNigraCompactPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SNc
+   :hasVersion: `SwansonBM_3rd-ed_substantiaNigraCompactPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-substantianigracompactpart>`_
    :lookupLabel: SwansonBM_substantiaNigraCompactPart
    :name: substantia nigra, compact part
 
@@ -16082,6 +17086,7 @@ SwansonBM_substantiaNigraReticularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaNigraReticularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SNr
+   :hasVersion: `SwansonBM_3rd-ed_substantiaNigraReticularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-substantianigrareticularpart>`_
    :lookupLabel: SwansonBM_substantiaNigraReticularPart
    :name: substantia nigra, reticular part
 
@@ -16098,6 +17103,7 @@ SwansonBM_substantiaNigraSoemmerringVicqDAzyr
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_substantiaNigraSoemmerringVicqDAzyr
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SN
+   :hasVersion: `SwansonBM_3rd-ed_substantiaNigraSoemmerringVicqDAzyr <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-substantianigrasoemmerringvicqdazyr>`_
    :lookupLabel: SwansonBM_substantiaNigraSoemmerringVicqDAzyr
    :name: substantia nigra [Soemmerring, Vicq d’Azyr]
 
@@ -16114,6 +17120,7 @@ SwansonBM_subthalamicFascicle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subthalamicFascicle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: stf
+   :hasVersion: `SwansonBM_3rd-ed_subthalamicFascicle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subthalamicfascicle>`_
    :lookupLabel: SwansonBM_subthalamicFascicle
    :name: subthalamic fascicle
 
@@ -16130,6 +17137,7 @@ SwansonBM_subthalamicNucleusLuys
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_subthalamicNucleusLuys
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: STN
+   :hasVersion: `SwansonBM_3rd-ed_subthalamicNucleusLuys <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-subthalamicnucleusluys>`_
    :lookupLabel: SwansonBM_subthalamicNucleusLuys
    :name: subthalamic nucleus [Luys]
 
@@ -16146,6 +17154,7 @@ SwansonBM_superiorCentralNucleusRapheBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCentralNucleusRapheBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CS
+   :hasVersion: `SwansonBM_3rd-ed_superiorCentralNucleusRapheBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcentralnucleusraphebechterew>`_
    :lookupLabel: SwansonBM_superiorCentralNucleusRapheBechterew
    :name: superior central nucleus raphé [Bechterew]
 
@@ -16162,6 +17171,7 @@ SwansonBM_superiorCentralNucleusRapheLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCentralNucleusRapheLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CSl
+   :hasVersion: `SwansonBM_3rd-ed_superiorCentralNucleusRapheLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcentralnucleusraphelateralpart>`_
    :lookupLabel: SwansonBM_superiorCentralNucleusRapheLateralPart
    :name: superior central nucleus raphé, lateral part
 
@@ -16178,6 +17188,7 @@ SwansonBM_superiorCentralNucleusRapheMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCentralNucleusRapheMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: CSm
+   :hasVersion: `SwansonBM_3rd-ed_superiorCentralNucleusRapheMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcentralnucleusraphemedialpart>`_
    :lookupLabel: SwansonBM_superiorCentralNucleusRapheMedialPart
    :name: superior central nucleus raphé, medial part
 
@@ -16194,6 +17205,7 @@ SwansonBM_superiorCerebellarPeduncle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCerebellarPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: scp
+   :hasVersion: `SwansonBM_3rd-ed_superiorCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcerebellarpeduncle>`_
    :lookupLabel: SwansonBM_superiorCerebellarPeduncle
    :name: superior cerebellar peduncle
 
@@ -16210,6 +17222,7 @@ SwansonBM_superiorCerebellarPeduncleWernekinck
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCerebellarPeduncleWernekinck
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: dscp
+   :hasVersion: `SwansonBM_3rd-ed_superiorCerebellarPeduncleWernekinck <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcerebellarpedunclewernekinck>`_
    :lookupLabel: SwansonBM_superiorCerebellarPeduncleWernekinck
    :name: superior cerebellar peduncle [Wernekinck]
 
@@ -16226,6 +17239,7 @@ SwansonBM_superiorCervicalGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorCervicalGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GSC
+   :hasVersion: `SwansonBM_3rd-ed_superiorCervicalGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcervicalganglion>`_
    :lookupLabel: SwansonBM_superiorCervicalGanglion
    :name: superior cervical ganglion
 
@@ -16242,6 +17256,7 @@ SwansonBM_superiorColliculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SC
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculus>`_
    :lookupLabel: SwansonBM_superiorColliculus
    :name: superior colliculus
 
@@ -16258,6 +17273,7 @@ SwansonBM_superiorColliculusCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: csc
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculuscommissure>`_
    :lookupLabel: SwansonBM_superiorColliculusCommissure
    :name: superior colliculus commissure
 
@@ -16274,6 +17290,7 @@ SwansonBM_superiorColliculusDeepGrayLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusDeepGrayLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCdg
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusDeepGrayLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusdeepgraylayer>`_
    :lookupLabel: SwansonBM_superiorColliculusDeepGrayLayer
    :name: superior colliculus, deep gray layer
 
@@ -16290,6 +17307,7 @@ SwansonBM_superiorColliculusDeepWhiteLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusDeepWhiteLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCdw
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusDeepWhiteLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusdeepwhitelayer>`_
    :lookupLabel: SwansonBM_superiorColliculusDeepWhiteLayer
    :name: superior colliculus, deep white layer
 
@@ -16306,6 +17324,7 @@ SwansonBM_superiorColliculusIntermediateGrayLayerSublayerA
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerA
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCig.a
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerA <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusintermediategraylayersublayera>`_
    :lookupLabel: SwansonBM_superiorColliculusIntermediateGrayLayerSublayerA
    :name: superior colliculus, intermediate gray layer, sublayer a
 
@@ -16322,6 +17341,7 @@ SwansonBM_superiorColliculusIntermediateGrayLayerSublayerB
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerB
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCig.b
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerB <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusintermediategraylayersublayerb>`_
    :lookupLabel: SwansonBM_superiorColliculusIntermediateGrayLayerSublayerB
    :name: superior colliculus, intermediate gray layer, sublayer b
 
@@ -16338,6 +17358,7 @@ SwansonBM_superiorColliculusIntermediateGrayLayerSublayerC
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateGrayLayerSublayerC
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCig.c
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusIntermediateGrayLayerSublayerC <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusintermediategraylayersublayerc>`_
    :lookupLabel: SwansonBM_superiorColliculusIntermediateGrayLayerSublayerC
    :name: superior colliculus, intermediate gray layer, sublayer c
 
@@ -16354,6 +17375,7 @@ SwansonBM_superiorColliculusIntermediateWhiteLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusIntermediateWhiteLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCiw
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusIntermediateWhiteLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusintermediatewhitelayer>`_
    :lookupLabel: SwansonBM_superiorColliculusIntermediateWhiteLayer
    :name: superior colliculus, intermediate white layer
 
@@ -16370,6 +17392,7 @@ SwansonBM_superiorColliculusMotorRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusMotorRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCm
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusMotorRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusmotorrelated>`_
    :lookupLabel: SwansonBM_superiorColliculusMotorRelated
    :name: superior colliculus, motor related
 
@@ -16386,6 +17409,7 @@ SwansonBM_superiorColliculusOpticLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusOpticLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCop
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusOpticLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculusopticlayer>`_
    :lookupLabel: SwansonBM_superiorColliculusOpticLayer
    :name: superior colliculus, optic layer
 
@@ -16402,6 +17426,7 @@ SwansonBM_superiorColliculusSensoryRelated
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusSensoryRelated
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCs
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusSensoryRelated <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculussensoryrelated>`_
    :lookupLabel: SwansonBM_superiorColliculusSensoryRelated
    :name: superior colliculus, sensory related
 
@@ -16418,6 +17443,7 @@ SwansonBM_superiorColliculusSuperficialGrayLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusSuperficialGrayLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCsg
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusSuperficialGrayLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculussuperficialgraylayer>`_
    :lookupLabel: SwansonBM_superiorColliculusSuperficialGrayLayer
    :name: superior colliculus, superficial gray layer
 
@@ -16434,6 +17460,7 @@ SwansonBM_superiorColliculusZonalLayer
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorColliculusZonalLayer
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCzo
+   :hasVersion: `SwansonBM_3rd-ed_superiorColliculusZonalLayer <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorcolliculuszonallayer>`_
    :lookupLabel: SwansonBM_superiorColliculusZonalLayer
    :name: superior colliculus, zonal layer
 
@@ -16450,6 +17477,7 @@ SwansonBM_superiorMesentericGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorMesentericGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GSM
+   :hasVersion: `SwansonBM_3rd-ed_superiorMesentericGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiormesentericganglion>`_
    :lookupLabel: SwansonBM_superiorMesentericGanglion
    :name: superior mesenteric ganglion
 
@@ -16466,6 +17494,7 @@ SwansonBM_superiorOlivaryComplexLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorOlivaryComplexLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SOCl
+   :hasVersion: `SwansonBM_3rd-ed_superiorOlivaryComplexLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorolivarycomplexlateralpart>`_
    :lookupLabel: SwansonBM_superiorOlivaryComplexLateralPart
    :name: superior olivary complex, lateral part
 
@@ -16482,6 +17511,7 @@ SwansonBM_superiorOlivaryComplexMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorOlivaryComplexMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SOCm
+   :hasVersion: `SwansonBM_3rd-ed_superiorOlivaryComplexMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorolivarycomplexmedialpart>`_
    :lookupLabel: SwansonBM_superiorOlivaryComplexMedialPart
    :name: superior olivary complex, medial part
 
@@ -16498,6 +17528,7 @@ SwansonBM_superiorOlivaryComplexSchroederVanDerKolk
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorOlivaryComplexSchroederVanDerKolk
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SOC
+   :hasVersion: `SwansonBM_3rd-ed_superiorOlivaryComplexSchroederVanDerKolk <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorolivarycomplexschroedervanderkolk>`_
    :lookupLabel: SwansonBM_superiorOlivaryComplexSchroederVanDerKolk
    :name: superior olivary complex [Schroeder van der Kolk]
 
@@ -16514,6 +17545,7 @@ SwansonBM_superiorSalivatoryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorSalivatoryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSN
+   :hasVersion: `SwansonBM_3rd-ed_superiorSalivatoryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorsalivatorynucleus>`_
    :lookupLabel: SwansonBM_superiorSalivatoryNucleus
    :name: superior salivatory nucleus
 
@@ -16530,6 +17562,7 @@ SwansonBM_superiorVestibularNucleusBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_superiorVestibularNucleusBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUV
+   :hasVersion: `SwansonBM_3rd-ed_superiorVestibularNucleusBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-superiorvestibularnucleusbechterew>`_
    :lookupLabel: SwansonBM_superiorVestibularNucleusBechterew
    :name: superior vestibular nucleus [Bechterew]
 
@@ -16546,6 +17579,7 @@ SwansonBM_supplementalSomatosensoryArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supplementalSomatosensoryArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SSs
+   :hasVersion: `SwansonBM_3rd-ed_supplementalSomatosensoryArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supplementalsomatosensoryarea>`_
    :lookupLabel: SwansonBM_supplementalSomatosensoryArea
    :name: supplemental somatosensory area
 
@@ -16562,6 +17596,7 @@ SwansonBM_suprachiasmaticNucleusDorsomedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCHd
+   :hasVersion: `SwansonBM_3rd-ed_suprachiasmaticNucleusDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-suprachiasmaticnucleusdorsomedialpart>`_
    :lookupLabel: SwansonBM_suprachiasmaticNucleusDorsomedialPart
    :name: suprachiasmatic nucleus, dorsomedial part
 
@@ -16578,6 +17613,7 @@ SwansonBM_suprachiasmaticNucleusSpiegelZwieg
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusSpiegelZwieg
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCH
+   :hasVersion: `SwansonBM_3rd-ed_suprachiasmaticNucleusSpiegelZwieg <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-suprachiasmaticnucleusspiegelzwieg>`_
    :lookupLabel: SwansonBM_suprachiasmaticNucleusSpiegelZwieg
    :name: suprachiasmatic nucleus [Spiegel-Zwieg]
 
@@ -16594,6 +17630,7 @@ SwansonBM_suprachiasmaticNucleusVentrolateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticNucleusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SCHv
+   :hasVersion: `SwansonBM_3rd-ed_suprachiasmaticNucleusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-suprachiasmaticnucleusventrolateralpart>`_
    :lookupLabel: SwansonBM_suprachiasmaticNucleusVentrolateralPart
    :name: suprachiasmatic nucleus, ventrolateral part
 
@@ -16610,6 +17647,7 @@ SwansonBM_suprachiasmaticPreopticNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprachiasmaticPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PSCH
+   :hasVersion: `SwansonBM_3rd-ed_suprachiasmaticPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-suprachiasmaticpreopticnucleus>`_
    :lookupLabel: SwansonBM_suprachiasmaticPreopticNucleus
    :name: suprachiasmatic preoptic nucleus
 
@@ -16626,6 +17664,7 @@ SwansonBM_suprageniculateNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_suprageniculateNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SGN
+   :hasVersion: `SwansonBM_3rd-ed_suprageniculateNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-suprageniculatenucleus>`_
    :lookupLabel: SwansonBM_suprageniculateNucleus
    :name: suprageniculate nucleus
 
@@ -16642,6 +17681,7 @@ SwansonBM_supragenualNucleusMeessenOlszewski
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supragenualNucleusMeessenOlszewski
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SG
+   :hasVersion: `SwansonBM_3rd-ed_supragenualNucleusMeessenOlszewski <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supragenualnucleusmeessenolszewski>`_
    :lookupLabel: SwansonBM_supragenualNucleusMeessenOlszewski
    :name: supragenual nucleus [Meessen-Olszewskí]
 
@@ -16658,6 +17698,7 @@ SwansonBM_supramammillaryDecussation
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: smd
+   :hasVersion: `SwansonBM_3rd-ed_supramammillaryDecussation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supramammillarydecussation>`_
    :lookupLabel: SwansonBM_supramammillaryDecussation
    :name: supramammillary decussation
 
@@ -16674,6 +17715,7 @@ SwansonBM_supramammillaryNucleusCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryNucleusCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUM
+   :hasVersion: `SwansonBM_3rd-ed_supramammillaryNucleusCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supramammillarynucleuscajal>`_
    :lookupLabel: SwansonBM_supramammillaryNucleusCajal
    :name: supramammillary nucleus [Cajal]
 
@@ -16690,6 +17732,7 @@ SwansonBM_supramammillaryNucleusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUMl
+   :hasVersion: `SwansonBM_3rd-ed_supramammillaryNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supramammillarynucleuslateralpart>`_
    :lookupLabel: SwansonBM_supramammillaryNucleusLateralPart
    :name: supramammillary nucleus, lateral part
 
@@ -16706,6 +17749,7 @@ SwansonBM_supramammillaryNucleusMedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supramammillaryNucleusMedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUMm
+   :hasVersion: `SwansonBM_3rd-ed_supramammillaryNucleusMedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supramammillarynucleusmedialpart>`_
    :lookupLabel: SwansonBM_supramammillaryNucleusMedialPart
    :name: supramammillary nucleus, medial part
 
@@ -16722,6 +17766,7 @@ SwansonBM_supraopticCommissures
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissures
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sup
+   :hasVersion: `SwansonBM_3rd-ed_supraopticCommissures <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticcommissures>`_
    :lookupLabel: SwansonBM_supraopticCommissures
    :name: supraoptic commissures
 
@@ -16738,6 +17783,7 @@ SwansonBM_supraopticCommissuresAnteriorGanser
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresAnteriorGanser
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: supa
+   :hasVersion: `SwansonBM_3rd-ed_supraopticCommissuresAnteriorGanser <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticcommissuresanteriorganser>`_
    :lookupLabel: SwansonBM_supraopticCommissuresAnteriorGanser
    :name: supraoptic commissures, anterior [Ganser]
 
@@ -16754,6 +17800,7 @@ SwansonBM_supraopticCommissuresDorsalMeynert
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresDorsalMeynert
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: supd
+   :hasVersion: `SwansonBM_3rd-ed_supraopticCommissuresDorsalMeynert <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticcommissuresdorsalmeynert>`_
    :lookupLabel: SwansonBM_supraopticCommissuresDorsalMeynert
    :name: supraoptic commissures, dorsal [Meynert]
 
@@ -16770,6 +17817,7 @@ SwansonBM_supraopticCommissuresVentralGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticCommissuresVentralGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: supv
+   :hasVersion: `SwansonBM_3rd-ed_supraopticCommissuresVentralGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticcommissuresventralgudden>`_
    :lookupLabel: SwansonBM_supraopticCommissuresVentralGudden
    :name: supraoptic commissures, ventral [Gudden]
 
@@ -16786,6 +17834,7 @@ SwansonBM_supraopticNucleusGeneralLenhossek
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticNucleusGeneralLenhossek
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SOg
+   :hasVersion: `SwansonBM_3rd-ed_supraopticNucleusGeneralLenhossek <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticnucleusgenerallenhossek>`_
    :lookupLabel: SwansonBM_supraopticNucleusGeneralLenhossek
    :name: supraoptic nucleus, general [Lenhossék]
 
@@ -16802,6 +17851,7 @@ SwansonBM_supraopticNucleusProper
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticNucleusProper
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SO
+   :hasVersion: `SwansonBM_3rd-ed_supraopticNucleusProper <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticnucleusproper>`_
    :lookupLabel: SwansonBM_supraopticNucleusProper
    :name: supraoptic nucleus, proper
 
@@ -16818,6 +17868,7 @@ SwansonBM_supraopticNucleusRetrochiasmaticPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supraopticNucleusRetrochiasmaticPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SOr
+   :hasVersion: `SwansonBM_3rd-ed_supraopticNucleusRetrochiasmaticPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supraopticnucleusretrochiasmaticpart>`_
    :lookupLabel: SwansonBM_supraopticNucleusRetrochiasmaticPart
    :name: supraoptic nucleus, retrochiasmatic part
 
@@ -16834,6 +17885,7 @@ SwansonBM_supratrigeminalNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_supratrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SUT
+   :hasVersion: `SwansonBM_3rd-ed_supratrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-supratrigeminalnucleus>`_
    :lookupLabel: SwansonBM_supratrigeminalNucleus
    :name: supratrigeminal nucleus
 
@@ -16850,6 +17902,7 @@ SwansonBM_sympatheticChain
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticChain
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: S
+   :hasVersion: `SwansonBM_3rd-ed_sympatheticChain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sympatheticchain>`_
    :lookupLabel: SwansonBM_sympatheticChain
    :name: sympathetic chain
 
@@ -16866,6 +17919,7 @@ SwansonBM_sympatheticGanglia
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticGanglia
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GSY
+   :hasVersion: `SwansonBM_3rd-ed_sympatheticGanglia <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sympatheticganglia>`_
    :lookupLabel: SwansonBM_sympatheticGanglia
    :name: sympathetic ganglia
 
@@ -16882,6 +17936,7 @@ SwansonBM_sympatheticPlexuses
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticPlexuses
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SPX
+   :hasVersion: `SwansonBM_3rd-ed_sympatheticPlexuses <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sympatheticplexuses>`_
    :lookupLabel: SwansonBM_sympatheticPlexuses
    :name: sympathetic plexuses
 
@@ -16898,6 +17953,7 @@ SwansonBM_sympatheticSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_sympatheticSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: SYM
+   :hasVersion: `SwansonBM_3rd-ed_sympatheticSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-sympatheticsystem>`_
    :lookupLabel: SwansonBM_sympatheticSystem
    :name: sympathetic system
 
@@ -16914,6 +17970,7 @@ SwansonBM_tectospinalPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectospinalPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tsp
+   :hasVersion: `SwansonBM_3rd-ed_tectospinalPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tectospinalpathway>`_
    :lookupLabel: SwansonBM_tectospinalPathway
    :name: tectospinal pathway
 
@@ -16930,6 +17987,7 @@ SwansonBM_tectospinalPathwayCrossedEdinger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectospinalPathwayCrossedEdinger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tspc
+   :hasVersion: `SwansonBM_3rd-ed_tectospinalPathwayCrossedEdinger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tectospinalpathwaycrossededinger>`_
    :lookupLabel: SwansonBM_tectospinalPathwayCrossedEdinger
    :name: tectospinal pathway, crossed [Edinger]
 
@@ -16946,6 +18004,7 @@ SwansonBM_tectospinalPathwayDirect
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectospinalPathwayDirect
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tspd
+   :hasVersion: `SwansonBM_3rd-ed_tectospinalPathwayDirect <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tectospinalpathwaydirect>`_
    :lookupLabel: SwansonBM_tectospinalPathwayDirect
    :name: tectospinal pathway, direct
 
@@ -16962,6 +18021,7 @@ SwansonBM_tectothalamicPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectothalamicPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ttp
+   :hasVersion: `SwansonBM_3rd-ed_tectothalamicPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tectothalamicpathway>`_
    :lookupLabel: SwansonBM_tectothalamicPathway
    :name: tectothalamic pathway
 
@@ -16978,6 +18038,7 @@ SwansonBM_tectum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tectum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TC
+   :hasVersion: `SwansonBM_3rd-ed_tectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tectum>`_
    :lookupLabel: SwansonBM_tectum
    :name: tectum
 
@@ -16994,6 +18055,7 @@ SwansonBM_tegmentalReticularNucleusPontineGrayBechterew
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tegmentalReticularNucleusPontineGrayBechterew
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TRN
+   :hasVersion: `SwansonBM_3rd-ed_tegmentalReticularNucleusPontineGrayBechterew <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tegmentalreticularnucleuspontinegraybechterew>`_
    :lookupLabel: SwansonBM_tegmentalReticularNucleusPontineGrayBechterew
    :name: tegmental reticular nucleus, pontine gray [Bechterew]
 
@@ -17010,6 +18072,7 @@ SwansonBM_tegmentum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tegmentum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TG
+   :hasVersion: `SwansonBM_3rd-ed_tegmentum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tegmentum>`_
    :lookupLabel: SwansonBM_tegmentum
    :name: tegmentum
 
@@ -17026,6 +18089,7 @@ SwansonBM_telencephalicRoofPlate
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_telencephalicRoofPlate
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: trp
+   :hasVersion: `SwansonBM_3rd-ed_telencephalicRoofPlate <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-telencephalicroofplate>`_
    :lookupLabel: SwansonBM_telencephalicRoofPlate
    :name: telencephalic roof plate
 
@@ -17042,6 +18106,7 @@ SwansonBM_telencephalon
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_telencephalon
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TL
+   :hasVersion: `SwansonBM_3rd-ed_telencephalon <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-telencephalon>`_
    :lookupLabel: SwansonBM_telencephalon
    :name: telencephalon
 
@@ -17058,6 +18123,7 @@ SwansonBM_temporalAssociationAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalAssociationAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TEa
+   :hasVersion: `SwansonBM_3rd-ed_temporalAssociationAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-temporalassociationareas>`_
    :lookupLabel: SwansonBM_temporalAssociationAreas
    :name: temporal association areas
 
@@ -17074,6 +18140,7 @@ SwansonBM_temporalPoleCerebralCortex
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalPoleCerebralCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TEP
+   :hasVersion: `SwansonBM_3rd-ed_temporalPoleCerebralCortex <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-temporalpolecerebralcortex>`_
    :lookupLabel: SwansonBM_temporalPoleCerebralCortex
    :name: temporal pole, cerebral cortex
 
@@ -17090,6 +18157,7 @@ SwansonBM_temporalRegion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_temporalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TE
+   :hasVersion: `SwansonBM_3rd-ed_temporalRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-temporalregion>`_
    :lookupLabel: SwansonBM_temporalRegion
    :name: temporal region
 
@@ -17106,6 +18174,7 @@ SwansonBM_teniaTecta
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_teniaTecta
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TT
+   :hasVersion: `SwansonBM_3rd-ed_teniaTecta <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-teniatecta>`_
    :lookupLabel: SwansonBM_teniaTecta
    :name: tenia tecta
 
@@ -17122,6 +18191,7 @@ SwansonBM_teniaTectaDorsalPartLayers14
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_teniaTectaDorsalPartLayers14
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TTd1-4
+   :hasVersion: `SwansonBM_3rd-ed_teniaTectaDorsalPartLayers14 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-teniatectadorsalpartlayers14>`_
    :lookupLabel: SwansonBM_teniaTectaDorsalPartLayers14
    :name: tenia tecta, dorsal part, layers 1-4
 
@@ -17138,6 +18208,7 @@ SwansonBM_teniaTectaVentralPartLayers13
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_teniaTectaVentralPartLayers13
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TTv1-3
+   :hasVersion: `SwansonBM_3rd-ed_teniaTectaVentralPartLayers13 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-teniatectaventralpartlayers13>`_
    :lookupLabel: SwansonBM_teniaTectaVentralPartLayers13
    :name: tenia tecta, ventral part, layers 1-3
 
@@ -17154,6 +18225,7 @@ SwansonBM_terminalGanglion
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_terminalGanglion
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GTE
+   :hasVersion: `SwansonBM_3rd-ed_terminalGanglion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-terminalganglion>`_
    :lookupLabel: SwansonBM_terminalGanglion
    :name: terminal ganglion
 
@@ -17170,6 +18242,7 @@ SwansonBM_terminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_terminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tn
+   :hasVersion: `SwansonBM_3rd-ed_terminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-terminalnerve>`_
    :lookupLabel: SwansonBM_terminalNerve
    :name: terminal nerve
 
@@ -17186,6 +18259,7 @@ SwansonBM_thalamicPeduncles
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thalamicPeduncles
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tp
+   :hasVersion: `SwansonBM_3rd-ed_thalamicPeduncles <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thalamicpeduncles>`_
    :lookupLabel: SwansonBM_thalamicPeduncles
    :name: thalamic peduncles
 
@@ -17202,6 +18276,7 @@ SwansonBM_thalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TH
+   :hasVersion: `SwansonBM_3rd-ed_thalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thalamus>`_
    :lookupLabel: SwansonBM_thalamus
    :name: thalamus
 
@@ -17218,6 +18293,7 @@ SwansonBM_thirdVentricle
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricle
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentricle <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventricle>`_
    :lookupLabel: SwansonBM_thirdVentricle
    :name: third ventricle
 
@@ -17234,6 +18310,7 @@ SwansonBM_thirdVentricleHypothalamicPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleHypothalamicPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3h
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentricleHypothalamicPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventriclehypothalamicpart>`_
    :lookupLabel: SwansonBM_thirdVentricleHypothalamicPart
    :name: third ventricle, hypothalamic part
 
@@ -17250,6 +18327,7 @@ SwansonBM_thirdVentricleInfundibularRecess
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleInfundibularRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3ir
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentricleInfundibularRecess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventricleinfundibularrecess>`_
    :lookupLabel: SwansonBM_thirdVentricleInfundibularRecess
    :name: third ventricle, infundibular recess
 
@@ -17266,6 +18344,7 @@ SwansonBM_thirdVentricleMammillaryRecess
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleMammillaryRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3m
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentricleMammillaryRecess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventriclemammillaryrecess>`_
    :lookupLabel: SwansonBM_thirdVentricleMammillaryRecess
    :name: third ventricle, mammillary recess
 
@@ -17282,6 +18361,7 @@ SwansonBM_thirdVentriclePeriventricularRecess
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePeriventricularRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3r
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentriclePeriventricularRecess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventricleperiventricularrecess>`_
    :lookupLabel: SwansonBM_thirdVentriclePeriventricularRecess
    :name: third ventricle, periventricular recess
 
@@ -17298,6 +18378,7 @@ SwansonBM_thirdVentriclePinealRecess
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePinealRecess
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3pi
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentriclePinealRecess <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventriclepinealrecess>`_
    :lookupLabel: SwansonBM_thirdVentriclePinealRecess
    :name: third ventricle, pineal recess
 
@@ -17314,6 +18395,7 @@ SwansonBM_thirdVentriclePreopticRecessEdinger
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentriclePreopticRecessEdinger
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3p
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentriclePreopticRecessEdinger <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventriclepreopticrecessedinger>`_
    :lookupLabel: SwansonBM_thirdVentriclePreopticRecessEdinger
    :name: third ventricle, preoptic recess [Edinger]
 
@@ -17330,6 +18412,7 @@ SwansonBM_thirdVentricleThalamicPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thirdVentricleThalamicPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: V3t
+   :hasVersion: `SwansonBM_3rd-ed_thirdVentricleThalamicPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thirdventriclethalamicpart>`_
    :lookupLabel: SwansonBM_thirdVentricleThalamicPart
    :name: third ventricle, thalamic part
 
@@ -17346,6 +18429,7 @@ SwansonBM_thoracicSpinalGanglia113
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thoracicSpinalGanglia113
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: G-T1-13
+   :hasVersion: `SwansonBM_3rd-ed_thoracicSpinalGanglia113 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thoracicspinalganglia113>`_
    :lookupLabel: SwansonBM_thoracicSpinalGanglia113
    :name: thoracic spinal ganglia, 1-13
 
@@ -17362,6 +18446,7 @@ SwansonBM_thoracicSympatheticGanglia313
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_thoracicSympatheticGanglia313
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Gs-T3-13
+   :hasVersion: `SwansonBM_3rd-ed_thoracicSympatheticGanglia313 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-thoracicsympatheticganglia313>`_
    :lookupLabel: SwansonBM_thoracicSympatheticGanglia313
    :name: thoracic sympathetic ganglia, 3-13
 
@@ -17378,6 +18463,7 @@ SwansonBM_trapezoidBodyTreviranus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trapezoidBodyTreviranus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tb
+   :hasVersion: `SwansonBM_3rd-ed_trapezoidBodyTreviranus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-trapezoidbodytreviranus>`_
    :lookupLabel: SwansonBM_trapezoidBodyTreviranus
    :name: trapezoid body [Treviranus]
 
@@ -17394,6 +18480,7 @@ SwansonBM_triangularNucleusSeptumCajal
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_triangularNucleusSeptumCajal
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TRS
+   :hasVersion: `SwansonBM_3rd-ed_triangularNucleusSeptumCajal <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-triangularnucleusseptumcajal>`_
    :lookupLabel: SwansonBM_triangularNucleusSeptumCajal
    :name: triangular nucleus septum [Cajal]
 
@@ -17410,6 +18497,7 @@ SwansonBM_trigeminalGanglionVieussensGasser
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminalGanglionVieussensGasser
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GV
+   :hasVersion: `SwansonBM_3rd-ed_trigeminalGanglionVieussensGasser <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-trigeminalganglionvieussensgasser>`_
    :lookupLabel: SwansonBM_trigeminalGanglionVieussensGasser
    :name: trigeminal ganglion [Vieussens, Gasser]
 
@@ -17426,6 +18514,7 @@ SwansonBM_trigeminalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Vn
+   :hasVersion: `SwansonBM_3rd-ed_trigeminalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-trigeminalnerve>`_
    :lookupLabel: SwansonBM_trigeminalNerve
    :name: trigeminal nerve
 
@@ -17442,6 +18531,7 @@ SwansonBM_trigeminocerebellarTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trigeminocerebellarTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: tct
+   :hasVersion: `SwansonBM_3rd-ed_trigeminocerebellarTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-trigeminocerebellartract>`_
    :lookupLabel: SwansonBM_trigeminocerebellarTract
    :name: trigeminocerebellar tract
 
@@ -17458,6 +18548,7 @@ SwansonBM_trochlearNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IVn
+   :hasVersion: `SwansonBM_3rd-ed_trochlearNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-trochlearnerve>`_
    :lookupLabel: SwansonBM_trochlearNerve
    :name: trochlear nerve
 
@@ -17474,6 +18565,7 @@ SwansonBM_trochlearNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_trochlearNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: IV
+   :hasVersion: `SwansonBM_3rd-ed_trochlearNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-trochlearnucleus>`_
    :lookupLabel: SwansonBM_trochlearNucleus
    :name: trochlear nucleus
 
@@ -17490,6 +18582,7 @@ SwansonBM_tuberalNucleusIntermediatePart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusIntermediatePart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Toy
+   :hasVersion: `SwansonBM_3rd-ed_tuberalNucleusIntermediatePart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberalnucleusintermediatepart>`_
    :lookupLabel: SwansonBM_tuberalNucleusIntermediatePart
    :name: tuberal nucleus, intermediate part
 
@@ -17506,6 +18599,7 @@ SwansonBM_tuberalNucleusLateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusLateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TUl
+   :hasVersion: `SwansonBM_3rd-ed_tuberalNucleusLateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberalnucleuslateralpart>`_
    :lookupLabel: SwansonBM_tuberalNucleusLateralPart
    :name: tuberal nucleus, lateral part
 
@@ -17522,6 +18616,7 @@ SwansonBM_tuberalNucleusMalone
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusMalone
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TU
+   :hasVersion: `SwansonBM_3rd-ed_tuberalNucleusMalone <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberalnucleusmalone>`_
    :lookupLabel: SwansonBM_tuberalNucleusMalone
    :name: tuberal nucleus [Malone]
 
@@ -17538,6 +18633,7 @@ SwansonBM_tuberalNucleusSubventricularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusSubventricularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TUsv
+   :hasVersion: `SwansonBM_3rd-ed_tuberalNucleusSubventricularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberalnucleussubventricularpart>`_
    :lookupLabel: SwansonBM_tuberalNucleusSubventricularPart
    :name: tuberal nucleus, subventricular part
 
@@ -17554,6 +18650,7 @@ SwansonBM_tuberalNucleusTereteSubnucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberalNucleusTereteSubnucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TUte
+   :hasVersion: `SwansonBM_3rd-ed_tuberalNucleusTereteSubnucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberalnucleusteretesubnucleus>`_
    :lookupLabel: SwansonBM_tuberalNucleusTereteSubnucleus
    :name: tuberal nucleus, terete subnucleus
 
@@ -17570,6 +18667,7 @@ SwansonBM_tuberomammillaryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberomammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TM
+   :hasVersion: `SwansonBM_3rd-ed_tuberomammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberomammillarynucleus>`_
    :lookupLabel: SwansonBM_tuberomammillaryNucleus
    :name: tuberomammillary nucleus
 
@@ -17586,6 +18684,7 @@ SwansonBM_tuberomammillaryNucleusDorsalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberomammillaryNucleusDorsalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TMd
+   :hasVersion: `SwansonBM_3rd-ed_tuberomammillaryNucleusDorsalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberomammillarynucleusdorsalpart>`_
    :lookupLabel: SwansonBM_tuberomammillaryNucleusDorsalPart
    :name: tuberomammillary nucleus, dorsal part
 
@@ -17602,6 +18701,7 @@ SwansonBM_tuberomammillaryNucleusVentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_tuberomammillaryNucleusVentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: TMv
+   :hasVersion: `SwansonBM_3rd-ed_tuberomammillaryNucleusVentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-tuberomammillarynucleusventralpart>`_
    :lookupLabel: SwansonBM_tuberomammillaryNucleusVentralPart
    :name: tuberomammillary nucleus, ventral part
 
@@ -17618,6 +18718,7 @@ SwansonBM_uncinateFascicleRussell
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uncinateFascicleRussell
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: uf
+   :hasVersion: `SwansonBM_3rd-ed_uncinateFascicleRussell <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-uncinatefasciclerussell>`_
    :lookupLabel: SwansonBM_uncinateFascicleRussell
    :name: uncinate fascicle [Russell]
 
@@ -17634,6 +18735,7 @@ SwansonBM_uvulaIXSublobulesAbc
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uvulaIXSublobulesAbc
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: UVUab,c
+   :hasVersion: `SwansonBM_3rd-ed_uvulaIXSublobulesAbc <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-uvulaixsublobulesabc>`_
    :lookupLabel: SwansonBM_uvulaIXSublobulesAbc
    :name: uvula (IX), sublobules ab,c
 
@@ -17650,6 +18752,7 @@ SwansonBM_uvularFissure1
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_uvularFissure1
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: uf1
+   :hasVersion: `SwansonBM_3rd-ed_uvularFissure1 <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-uvularfissure1>`_
    :lookupLabel: SwansonBM_uvularFissure1
    :name: uvular fissure 1
 
@@ -17666,6 +18769,7 @@ SwansonBM_vagalCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vagalCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Xc
+   :hasVersion: `SwansonBM_3rd-ed_vagalCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vagalcommissure>`_
    :lookupLabel: SwansonBM_vagalCommissure
    :name: vagal commissure
 
@@ -17682,6 +18786,7 @@ SwansonBM_vagusNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vagusNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: Xn
+   :hasVersion: `SwansonBM_3rd-ed_vagusNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vagusnerve>`_
    :lookupLabel: SwansonBM_vagusNerve
    :name: vagus nerve
 
@@ -17698,6 +18803,7 @@ SwansonBM_vascularOrganOfTheLaminaTerminalis
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vascularOrganOfTheLaminaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: OV
+   :hasVersion: `SwansonBM_3rd-ed_vascularOrganOfTheLaminaTerminalis <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vascularorganofthelaminaterminalis>`_
    :lookupLabel: SwansonBM_vascularOrganOfTheLaminaTerminalis
    :name: vascular organ of the lamina terminalis
 
@@ -17714,6 +18820,7 @@ SwansonBM_ventralAnteriorlateralComplexThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralAnteriorlateralComplexThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VAL
+   :hasVersion: `SwansonBM_3rd-ed_ventralAnteriorlateralComplexThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralanteriorlateralcomplexthalamus>`_
    :lookupLabel: SwansonBM_ventralAnteriorlateralComplexThalamus
    :name: ventral anterior-lateral complex thalamus
 
@@ -17730,6 +18837,7 @@ SwansonBM_ventralAuditoryAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralAuditoryAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: AUDv
+   :hasVersion: `SwansonBM_3rd-ed_ventralAuditoryAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralauditoryareas>`_
    :lookupLabel: SwansonBM_ventralAuditoryAreas
    :name: ventral auditory areas
 
@@ -17746,6 +18854,7 @@ SwansonBM_ventralCochlearNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCochlearNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VCO
+   :hasVersion: `SwansonBM_3rd-ed_ventralCochlearNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralcochlearnucleus>`_
    :lookupLabel: SwansonBM_ventralCochlearNucleus
    :name: ventral cochlear nucleus
 
@@ -17762,6 +18871,7 @@ SwansonBM_ventralCochlearNucleusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCochlearNucleusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VCOa
+   :hasVersion: `SwansonBM_3rd-ed_ventralCochlearNucleusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralcochlearnucleusanteriorpart>`_
    :lookupLabel: SwansonBM_ventralCochlearNucleusAnteriorPart
    :name: ventral cochlear nucleus, anterior part
 
@@ -17778,6 +18888,7 @@ SwansonBM_ventralCochlearNucleusPosteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCochlearNucleusPosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VCOp
+   :hasVersion: `SwansonBM_3rd-ed_ventralCochlearNucleusPosteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralcochlearnucleusposteriorpart>`_
    :lookupLabel: SwansonBM_ventralCochlearNucleusPosteriorPart
    :name: ventral cochlear nucleus, posterior part
 
@@ -17794,6 +18905,7 @@ SwansonBM_ventralCommissureOfTheSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCommissureOfTheSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vc
+   :hasVersion: `SwansonBM_3rd-ed_ventralCommissureOfTheSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralcommissureofthespinalcord>`_
    :lookupLabel: SwansonBM_ventralCommissureOfTheSpinalCord
    :name: ventral commissure of the spinal cord
 
@@ -17810,6 +18922,7 @@ SwansonBM_ventralCommissureSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralCommissureSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vwc
+   :hasVersion: `SwansonBM_3rd-ed_ventralCommissureSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralcommissurespinalcord>`_
    :lookupLabel: SwansonBM_ventralCommissureSpinalCord
    :name: ventral commissure, spinal cord
 
@@ -17826,6 +18939,7 @@ SwansonBM_ventralFuniculus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralFuniculus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vf
+   :hasVersion: `SwansonBM_3rd-ed_ventralFuniculus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralfuniculus>`_
    :lookupLabel: SwansonBM_ventralFuniculus
    :name: ventral funiculus
 
@@ -17842,6 +18956,7 @@ SwansonBM_ventralHippocampalCommissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralHippocampalCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vhc
+   :hasVersion: `SwansonBM_3rd-ed_ventralHippocampalCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralhippocampalcommissure>`_
    :lookupLabel: SwansonBM_ventralHippocampalCommissure
    :name: ventral hippocampal commissure
 
@@ -17858,6 +18973,7 @@ SwansonBM_ventralHornSpinalCord
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralHornSpinalCord
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VH
+   :hasVersion: `SwansonBM_3rd-ed_ventralHornSpinalCord <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralhornspinalcord>`_
    :lookupLabel: SwansonBM_ventralHornSpinalCord
    :name: ventral horn spinal cord
 
@@ -17874,6 +18990,7 @@ SwansonBM_ventralHornSpinalCordGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralHornSpinalCordGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VHg
+   :hasVersion: `SwansonBM_3rd-ed_ventralHornSpinalCordGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralhornspinalcordgeneral>`_
    :lookupLabel: SwansonBM_ventralHornSpinalCordGeneral
    :name: ventral horn spinal cord, general
 
@@ -17890,6 +19007,7 @@ SwansonBM_ventralMedialNucleusThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralMedialNucleusThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VM
+   :hasVersion: `SwansonBM_3rd-ed_ventralMedialNucleusThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralmedialnucleusthalamus>`_
    :lookupLabel: SwansonBM_ventralMedialNucleusThalamus
    :name: ventral medial nucleus thalamus
 
@@ -17906,6 +19024,7 @@ SwansonBM_ventralMedianFissure
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralMedianFissure
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vmf
+   :hasVersion: `SwansonBM_3rd-ed_ventralMedianFissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralmedianfissure>`_
    :lookupLabel: SwansonBM_ventralMedianFissure
    :name: ventral median fissure
 
@@ -17922,6 +19041,7 @@ SwansonBM_ventralNucleiDorsalThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralNucleiDorsalThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VENT
+   :hasVersion: `SwansonBM_3rd-ed_ventralNucleiDorsalThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralnucleidorsalthalamus>`_
    :lookupLabel: SwansonBM_ventralNucleiDorsalThalamus
    :name: ventral nuclei, dorsal thalamus
 
@@ -17938,6 +19058,7 @@ SwansonBM_ventralPosteriorComplexThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteriorComplexThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VP
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosteriorComplexThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposteriorcomplexthalamus>`_
    :lookupLabel: SwansonBM_ventralPosteriorComplexThalamus
    :name: ventral posterior complex thalamus
 
@@ -17954,6 +19075,7 @@ SwansonBM_ventralPosterolateralNucleusThalamusGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VPLg
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposterolateralnucleusthalamusgeneral>`_
    :lookupLabel: SwansonBM_ventralPosterolateralNucleusThalamusGeneral
    :name: ventral posterolateral nucleus thalamus, general
 
@@ -17970,6 +19092,7 @@ SwansonBM_ventralPosterolateralNucleusThalamusParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VPLpc
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposterolateralnucleusthalamusparvicellularpart>`_
    :lookupLabel: SwansonBM_ventralPosterolateralNucleusThalamusParvicellularPart
    :name: ventral posterolateral nucleus thalamus, parvicellular part
 
@@ -17986,6 +19109,7 @@ SwansonBM_ventralPosterolateralNucleusThalamusPrincipalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosterolateralNucleusThalamusPrincipalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VPL
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosterolateralNucleusThalamusPrincipalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposterolateralnucleusthalamusprincipalpart>`_
    :lookupLabel: SwansonBM_ventralPosterolateralNucleusThalamusPrincipalPart
    :name: ventral posterolateral nucleus thalamus, principal part
 
@@ -18002,6 +19126,7 @@ SwansonBM_ventralPosteromedialNucleusThalamusGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteromedialNucleusThalamusGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VPMg
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposteromedialnucleusthalamusgeneral>`_
    :lookupLabel: SwansonBM_ventralPosteromedialNucleusThalamusGeneral
    :name: ventral posteromedial nucleus thalamus, general
 
@@ -18018,6 +19143,7 @@ SwansonBM_ventralPosteromedialNucleusThalamusParvicellularPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteromedialNucleusThalamusParvicellularPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VPMpc
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusParvicellularPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposteromedialnucleusthalamusparvicellularpart>`_
    :lookupLabel: SwansonBM_ventralPosteromedialNucleusThalamusParvicellularPart
    :name: ventral posteromedial nucleus thalamus, parvicellular part
 
@@ -18034,6 +19160,7 @@ SwansonBM_ventralPosteromedialNucleusThalamusPrincipalPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPosteromedialNucleusThalamusPrincipalPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VPM
+   :hasVersion: `SwansonBM_3rd-ed_ventralPosteromedialNucleusThalamusPrincipalPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralposteromedialnucleusthalamusprincipalpart>`_
    :lookupLabel: SwansonBM_ventralPosteromedialNucleusThalamusPrincipalPart
    :name: ventral posteromedial nucleus thalamus, principal part
 
@@ -18050,6 +19177,7 @@ SwansonBM_ventralPremammillaryNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPremammillaryNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: PMv
+   :hasVersion: `SwansonBM_3rd-ed_ventralPremammillaryNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralpremammillarynucleus>`_
    :lookupLabel: SwansonBM_ventralPremammillaryNucleus
    :name: ventral premammillary nucleus
 
@@ -18066,6 +19194,7 @@ SwansonBM_ventralPropriohypothalamicPathways
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralPropriohypothalamicPathways
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: phpv
+   :hasVersion: `SwansonBM_3rd-ed_ventralPropriohypothalamicPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralpropriohypothalamicpathways>`_
    :lookupLabel: SwansonBM_ventralPropriohypothalamicPathways
    :name: ventral propriohypothalamic pathways
 
@@ -18082,6 +19211,7 @@ SwansonBM_ventralRootsCoiter
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralRootsCoiter
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vrt
+   :hasVersion: `SwansonBM_3rd-ed_ventralRootsCoiter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralrootscoiter>`_
    :lookupLabel: SwansonBM_ventralRootsCoiter
    :name: ventral roots [Coiter]
 
@@ -18098,6 +19228,7 @@ SwansonBM_ventralSpinocerebellarTractGowers
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralSpinocerebellarTractGowers
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sctv
+   :hasVersion: `SwansonBM_3rd-ed_ventralSpinocerebellarTractGowers <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralspinocerebellartractgowers>`_
    :lookupLabel: SwansonBM_ventralSpinocerebellarTractGowers
    :name: ventral spinocerebellar tract [Gowers]
 
@@ -18114,6 +19245,7 @@ SwansonBM_ventralSpinothalamicTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralSpinothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: sttv
+   :hasVersion: `SwansonBM_3rd-ed_ventralSpinothalamicTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralspinothalamictract>`_
    :lookupLabel: SwansonBM_ventralSpinothalamicTract
    :name: ventral spinothalamic tract
 
@@ -18130,6 +19262,7 @@ SwansonBM_ventralTegmentalAreaTsai
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalAreaTsai
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VTA
+   :hasVersion: `SwansonBM_3rd-ed_ventralTegmentalAreaTsai <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventraltegmentalareatsai>`_
    :lookupLabel: SwansonBM_ventralTegmentalAreaTsai
    :name: ventral tegmental area [Tsai]
 
@@ -18146,6 +19279,7 @@ SwansonBM_ventralTegmentalDecussationForel
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalDecussationForel
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vtd
+   :hasVersion: `SwansonBM_3rd-ed_ventralTegmentalDecussationForel <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventraltegmentaldecussationforel>`_
    :lookupLabel: SwansonBM_ventralTegmentalDecussationForel
    :name: ventral tegmental decussation [Forel]
 
@@ -18162,6 +19296,7 @@ SwansonBM_ventralTegmentalNucleusGudden
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralTegmentalNucleusGudden
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VTN
+   :hasVersion: `SwansonBM_3rd-ed_ventralTegmentalNucleusGudden <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventraltegmentalnucleusgudden>`_
    :lookupLabel: SwansonBM_ventralTegmentalNucleusGudden
    :name: ventral tegmental nucleus [Gudden]
 
@@ -18178,6 +19313,7 @@ SwansonBM_ventralThalamus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventralThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VNT
+   :hasVersion: `SwansonBM_3rd-ed_ventralThalamus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventralthalamus>`_
    :lookupLabel: SwansonBM_ventralThalamus
    :name: ventral thalamus
 
@@ -18194,6 +19330,7 @@ SwansonBM_ventricularSystem
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventricularSystem
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VS
+   :hasVersion: `SwansonBM_3rd-ed_ventricularSystem <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventricularsystem>`_
    :lookupLabel: SwansonBM_ventricularSystem
    :name: ventricular system
 
@@ -18210,6 +19347,7 @@ SwansonBM_ventrolateralHypothalamicTract
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventrolateralHypothalamicTract
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vlt
+   :hasVersion: `SwansonBM_3rd-ed_ventrolateralHypothalamicTract <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventrolateralhypothalamictract>`_
    :lookupLabel: SwansonBM_ventrolateralHypothalamicTract
    :name: ventrolateral hypothalamic tract
 
@@ -18226,6 +19364,7 @@ SwansonBM_ventrolateralPreopticNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventrolateralPreopticNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VLP
+   :hasVersion: `SwansonBM_3rd-ed_ventrolateralPreopticNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventrolateralpreopticnucleus>`_
    :lookupLabel: SwansonBM_ventrolateralPreopticNucleus
    :name: ventrolateral preoptic nucleus
 
@@ -18242,6 +19381,7 @@ SwansonBM_ventromedialHypothalamicNucleus
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialHypothalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VMH
+   :hasVersion: `SwansonBM_3rd-ed_ventromedialHypothalamicNucleus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventromedialhypothalamicnucleus>`_
    :lookupLabel: SwansonBM_ventromedialHypothalamicNucleus
    :name: ventromedial hypothalamic nucleus
 
@@ -18258,6 +19398,7 @@ SwansonBM_ventromedialNucleusHypothalamusAnteriorPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VMHa
+   :hasVersion: `SwansonBM_3rd-ed_ventromedialNucleusHypothalamusAnteriorPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventromedialnucleushypothalamusanteriorpart>`_
    :lookupLabel: SwansonBM_ventromedialNucleusHypothalamusAnteriorPart
    :name: ventromedial nucleus hypothalamus, anterior part
 
@@ -18274,6 +19415,7 @@ SwansonBM_ventromedialNucleusHypothalamusCentralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusCentralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VMHc
+   :hasVersion: `SwansonBM_3rd-ed_ventromedialNucleusHypothalamusCentralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventromedialnucleushypothalamuscentralpart>`_
    :lookupLabel: SwansonBM_ventromedialNucleusHypothalamusCentralPart
    :name: ventromedial nucleus hypothalamus, central part
 
@@ -18290,6 +19432,7 @@ SwansonBM_ventromedialNucleusHypothalamusDorsomedialPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusDorsomedialPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VMHdm
+   :hasVersion: `SwansonBM_3rd-ed_ventromedialNucleusHypothalamusDorsomedialPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventromedialnucleushypothalamusdorsomedialpart>`_
    :lookupLabel: SwansonBM_ventromedialNucleusHypothalamusDorsomedialPart
    :name: ventromedial nucleus hypothalamus, dorsomedial part
 
@@ -18306,6 +19449,7 @@ SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VMHvl
+   :hasVersion: `SwansonBM_3rd-ed_ventromedialNucleusHypothalamusVentrolateralPart <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-ventromedialnucleushypothalamusventrolateralpart>`_
    :lookupLabel: SwansonBM_ventromedialNucleusHypothalamusVentrolateralPart
    :name: ventromedial nucleus hypothalamus, ventrolateral part
 
@@ -18322,6 +19466,7 @@ SwansonBM_vermalRegionsCerebellum
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vermalRegionsCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VERM
+   :hasVersion: `SwansonBM_3rd-ed_vermalRegionsCerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vermalregionscerebellum>`_
    :lookupLabel: SwansonBM_vermalRegionsCerebellum
    :name: vermal regions, cerebellum
 
@@ -18338,6 +19483,7 @@ SwansonBM_vestibularGanglionScarpa
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibularGanglionScarpa
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: GvVIII
+   :hasVersion: `SwansonBM_3rd-ed_vestibularGanglionScarpa <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vestibularganglionscarpa>`_
    :lookupLabel: SwansonBM_vestibularGanglionScarpa
    :name: vestibular ganglion [Scarpa]
 
@@ -18354,6 +19500,7 @@ SwansonBM_vestibularNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibularNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vVIIIn
+   :hasVersion: `SwansonBM_3rd-ed_vestibularNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vestibularnerve>`_
    :lookupLabel: SwansonBM_vestibularNerve
    :name: vestibular nerve
 
@@ -18370,6 +19517,7 @@ SwansonBM_vestibularNuclei
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibularNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VNC
+   :hasVersion: `SwansonBM_3rd-ed_vestibularNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vestibularnuclei>`_
    :lookupLabel: SwansonBM_vestibularNuclei
    :name: vestibular nuclei
 
@@ -18386,6 +19534,7 @@ SwansonBM_vestibulocochlearNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulocochlearNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VIIIn
+   :hasVersion: `SwansonBM_3rd-ed_vestibulocochlearNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vestibulocochlearnerve>`_
    :lookupLabel: SwansonBM_vestibulocochlearNerve
    :name: vestibulocochlear nerve
 
@@ -18402,6 +19551,7 @@ SwansonBM_vestibulomotorRegions
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulomotorRegions
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VMO
+   :hasVersion: `SwansonBM_3rd-ed_vestibulomotorRegions <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vestibulomotorregions>`_
    :lookupLabel: SwansonBM_vestibulomotorRegions
    :name: vestibulomotor regions
 
@@ -18418,6 +19568,7 @@ SwansonBM_vestibulospinalPathway
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vestibulospinalPathway
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: vsp
+   :hasVersion: `SwansonBM_3rd-ed_vestibulospinalPathway <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vestibulospinalpathway>`_
    :lookupLabel: SwansonBM_vestibulospinalPathway
    :name: vestibulospinal pathway
 
@@ -18434,6 +19585,7 @@ SwansonBM_visceralArea
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_visceralArea
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VISC
+   :hasVersion: `SwansonBM_3rd-ed_visceralArea <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-visceralarea>`_
    :lookupLabel: SwansonBM_visceralArea
    :name: visceral area
 
@@ -18450,6 +19602,7 @@ SwansonBM_visceralSensorymotorAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_visceralSensorymotorAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VSM
+   :hasVersion: `SwansonBM_3rd-ed_visceralSensorymotorAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-visceralsensorymotorareas>`_
    :lookupLabel: SwansonBM_visceralSensorymotorAreas
    :name: visceral sensory-motor areas
 
@@ -18466,6 +19619,7 @@ SwansonBM_visualAreas
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_visualAreas
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: VIS
+   :hasVersion: `SwansonBM_3rd-ed_visualAreas <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-visualareas>`_
    :lookupLabel: SwansonBM_visualAreas
    :name: visual areas
 
@@ -18482,6 +19636,7 @@ SwansonBM_vomeronasalNerve
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_vomeronasalNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: von
+   :hasVersion: `SwansonBM_3rd-ed_vomeronasalNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-vomeronasalnerve>`_
    :lookupLabel: SwansonBM_vomeronasalNerve
    :name: vomeronasal nerve
 
@@ -18498,6 +19653,7 @@ SwansonBM_zonaIncerta
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaIncerta
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ZI
+   :hasVersion: `SwansonBM_3rd-ed_zonaIncerta <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-zonaincerta>`_
    :lookupLabel: SwansonBM_zonaIncerta
    :name: zona incerta
 
@@ -18514,6 +19670,7 @@ SwansonBM_zonaIncertaDopaminergicGroup
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaIncertaDopaminergicGroup
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ZIda
+   :hasVersion: `SwansonBM_3rd-ed_zonaIncertaDopaminergicGroup <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-zonaincertadopaminergicgroup>`_
    :lookupLabel: SwansonBM_zonaIncertaDopaminergicGroup
    :name: zona incerta, dopaminergic group
 
@@ -18530,6 +19687,7 @@ SwansonBM_zonaIncertaGeneral
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaIncertaGeneral
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: ZIg
+   :hasVersion: `SwansonBM_3rd-ed_zonaIncertaGeneral <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-zonaincertageneral>`_
    :lookupLabel: SwansonBM_zonaIncertaGeneral
    :name: zona incerta, general
 
@@ -18546,6 +19704,7 @@ SwansonBM_zonaLimitans
    :@id: https://openminds.om-i.org/instances/parcellationEntity/SwansonBM_zonaLimitans
    :@type: https://openminds.om-i.org/types/ParcellationEntity
    :abbreviation: zl
+   :hasVersion: `SwansonBM_3rd-ed_zonaLimitans <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntityVersions/SwansonBM_3rd-ed.html#swansonbm-3rd-ed-zonalimitans>`_
    :lookupLabel: SwansonBM_zonaLimitans
    :name: zona limitans
 

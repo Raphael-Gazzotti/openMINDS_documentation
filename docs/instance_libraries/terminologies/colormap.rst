@@ -2,7 +2,7 @@
 Terminologies: Colormap library
 ###############################
 
-Related schema specification: `Colormap <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/colormap.html>`_
+Related schema specification: `Colormap <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/colormap.html>`_
 
 ------------
 

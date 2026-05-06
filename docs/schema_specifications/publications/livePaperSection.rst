@@ -50,7 +50,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/publications/livePaperVersion.html>`_
+                | `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/publications/livePaperVersion.html>`_
    :instructions: Add the live paper version this live paper section is part of.
 
 `BACK TO TOP <LivePaperSection_>`_

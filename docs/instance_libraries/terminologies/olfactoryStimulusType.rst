@@ -2,7 +2,7 @@
 Terminologies: OlfactoryStimulusType library
 ############################################
 
-Related schema specification: `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_
+Related schema specification: `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_
 
 ------------
 

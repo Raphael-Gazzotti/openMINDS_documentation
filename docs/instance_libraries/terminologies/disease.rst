@@ -2,7 +2,7 @@
 Terminologies: Disease library
 ##############################
 
-Related schema specification: `Disease <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/disease.html>`_
+Related schema specification: `Disease <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/disease.html>`_
 
 ------------
 
@@ -17,6 +17,7 @@ COVID-19
    :@id: https://openminds.om-i.org/instances/disease/COVID-19
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A coronavirus infectious disease that is characterized by fever, cough and shortness of breath and caused by the coronavirus strain SARS-CoV-2.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739370
    :name: COVID-19
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_0080600
 
@@ -33,6 +34,7 @@ acquiredBlindness
    :@id: https://openminds.om-i.org/instances/disease/acquiredBlindness
    :@type: https://openminds.om-i.org/types/Disease
    :definition: Acquired blindness is caused by a group of diseases, disorders or injuries that led to permanent severely impaired vision or irreversible lack of vision during adulthood.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0499758
    :name: acquired blindness
    :preferredOntologyIdentifier: http://id.nlm.nih.gov/mesh/2018/M0336554
 
@@ -79,8 +81,8 @@ cerebralAtrophy
    :@id: https://openminds.om-i.org/instances/disease/cerebralAtrophy
    :@type: https://openminds.om-i.org/types/Disease
    :definition: Cerebral atrophy describes the pathological process of wasting or decrease in size of the cells or tissue of the cerebrum.
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/HP:0012444#brain-atrophy
    :name: cerebral atrophy
-   :preferredCrossReference: https://knowledge-space.org/wiki/HP:0012444#brain-atrophy
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/HP_0002059
 
 `BACK TO TOP <Terminologies: Disease library_>`_
@@ -172,9 +174,10 @@ glioma
    :@id: https://openminds.om-i.org/instances/disease/glioma
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A benign or malignant brain and spinal cord tumor that arises from glial cells (astrocytes, oligodendrocytes, ependymal cells).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104647
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12618#glioma
    :name: glioma
-   :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12618#glioma
-   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0104647
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_12618
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -207,8 +210,9 @@ macularDegeneration
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A retinal degeneration characterized by gradual deterioration of light-sensing cells in the tissues at the back of the eye resulting in vision loss.[adapted from [Disease Ontology definition](http://purl.obolibrary.org/obo/DOID_4448)]
    :description: Deterioration of the macula lutea in the retina; may be inherited, drug induced, or due to aging; leads to a severe loss of central vision while peripheral vision is retained.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106448
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1
    :name: macular degeneration
-   :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12811#macular-degeneration-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_4448
 
 `BACK TO TOP <Terminologies: Disease library_>`_
@@ -224,6 +228,7 @@ malignantNeoplasm
    :@id: https://openminds.om-i.org/instances/disease/malignantNeoplasm
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'malignant neoplasm' is composed of atypical, often pleomorphic cells that uncontrollably grow and multiply, spreading into surrounding tissue and even invading distant anatomic sites (metastasis). Many malignant neoplasm form solid tumors, but cancers of the blood generally do not. [(adapted from [NCI](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)].
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0752652
    :name: malignant neoplasm
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCIT_C9305
 
@@ -240,9 +245,10 @@ meningioma
    :@id: https://openminds.om-i.org/instances/disease/meningioma
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A generally slow growing tumor attached to the dura mater and composed of neoplastic meningothelial (arachnoidal) cells.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106789
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma
    :name: meningioma
-   :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12601#meningioma
-   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106789
+   :preferredOntologyIdentifier: http://uri.neuinfo.org/nif/nifstd/birnlex_12601
 
 `BACK TO TOP <Terminologies: Disease library_>`_
 
@@ -257,8 +263,9 @@ mentalDisorder
    :@id: https://openminds.om-i.org/instances/disease/mentalDisorder
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A 'mental disorder' is characterized by a clinically significant disturbance in an individual’s cognition, emotional regulation, or behaviour and is usually associated with distress or impairment in important areas of functioning. [adapted from [WHO fact-sheets](https://www.who.int/news-room/fact-sheets/detail/mental-disorders)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106792
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12669#mental-disorder
    :name: mental disorder
-   :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12669#mental-disorder
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106792
 
 `BACK TO TOP <Terminologies: Disease library_>`_
@@ -289,8 +296,9 @@ multipleSclerosis
    :@id: https://openminds.om-i.org/instances/disease/multipleSclerosis
    :@type: https://openminds.om-i.org/types/Disease
    :definition: 'Multiple sclerosis' is a disorder in which the body's immune system attacks the protective meylin covering of the nerve cells in the brain, optic nerve and spinal cord (adapted from the [Mayo clinic](https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269#:~:text=Multiple%20sclerosis%20is%20a%20disorder,insulation%20on%20an%20electrical%20wire.))
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0756481
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1
    :name: multiple sclerosis
-   :preferredCrossReference: https://knowledge-space.org/wiki/BIRNLEX:12514#multiple-sclerosis-1
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_2377
 
 `BACK TO TOP <Terminologies: Disease library_>`_
@@ -322,6 +330,7 @@ stroke
    :@id: https://openminds.om-i.org/instances/disease/stroke
    :@type: https://openminds.om-i.org/types/Disease
    :definition: A sudden loss of neurological function secondary to hemorrhage or ischemia in the brain parenchyma due to a vascular event.
+   :interlexIdentifier: http://uri.interlex.org/ilx_0738754
    :name: stroke
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/DOID_6713
 

@@ -2,7 +2,7 @@
 Terminologies: ModelScope library
 #################################
 
-Related schema specification: `ModelScope <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/modelScope.html>`_
+Related schema specification: `ModelScope <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/modelScope.html>`_
 
 ------------
 

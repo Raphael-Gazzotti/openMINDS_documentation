@@ -2,7 +2,7 @@
 Terminologies: DifferenceMeasure library
 ########################################
 
-Related schema specification: `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/differenceMeasure.html>`_
+Related schema specification: `DifferenceMeasure <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/differenceMeasure.html>`_
 
 ------------
 

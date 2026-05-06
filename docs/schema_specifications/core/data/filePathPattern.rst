@@ -29,7 +29,7 @@ groupingType
 
    :semantic name: https://openminds.om-i.org/props/groupingType
    :value type: | linked object array \(1-N\) of type
-                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
+                | `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
    :instructions: Add all grouping types that are defined by this file path pattern.
 
 `BACK TO TOP <FilePathPattern_>`_

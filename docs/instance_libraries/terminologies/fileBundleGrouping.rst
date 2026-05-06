@@ -2,7 +2,7 @@
 Terminologies: FileBundleGrouping library
 #########################################
 
-Related schema specification: `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
+Related schema specification: `FileBundleGrouping <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/fileBundleGrouping.html>`_
 
 ------------
 

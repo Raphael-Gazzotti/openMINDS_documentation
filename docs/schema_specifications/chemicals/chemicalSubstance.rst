@@ -67,7 +67,7 @@ molecularEntity
 
    :semantic name: https://openminds.om-i.org/props/molecularEntity
    :value type: | linked object of type
-                | `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/molecularEntity.html>`_
+                | `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/molecularEntity.html>`_
    :instructions: Add the molecular entity that makes up this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -84,7 +84,7 @@ productSource
 
    :semantic name: https://openminds.om-i.org/props/productSource
    :value type: | linked object of type
-                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/chemicals/productSource.html>`_
+                | `ProductSource <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/productSource.html>`_
    :instructions: Add the source of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_
@@ -101,7 +101,7 @@ purity
 
    :semantic name: https://openminds.om-i.org/props/purity
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter the purity of this chemical substance.
 
 `BACK TO TOP <ChemicalSubstance_>`_

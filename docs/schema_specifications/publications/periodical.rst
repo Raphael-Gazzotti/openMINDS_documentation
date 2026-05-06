@@ -48,7 +48,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `ISSN <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/digitalIdentifier/ISSN.html>`_
+                | `ISSN <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/ISSN.html>`_
    :instructions: Add the globally unique and persistent digital identifier of this periodical.
 
 `BACK TO TOP <Periodical_>`_

@@ -33,7 +33,7 @@ Distinct technique used to quantify the uncertainty of a measurement.
 
    :semantic name: https://openminds.om-i.org/props/typeOfUncertainty
    :value type: | linked object of type
-                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
+                | `TypeOfUncertainty <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/typeOfUncertainty.html>`_
    :instructions: Add the type of uncertainty used to determine the uncertainty for this quantitative value.
 
 `BACK TO TOP <QuantitativeValue_>`_
@@ -70,7 +70,7 @@ Determinate quantity adopted as a standard of measurement.
 
    :semantic name: https://openminds.om-i.org/props/unit
    :value type: | linked object of type
-                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
+                | `UnitOfMeasurement <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/unitOfMeasurement.html>`_
    :instructions: Add the unit of measurement of this quantitative value and its uncertainty.
 
 `BACK TO TOP <QuantitativeValue_>`_

@@ -46,7 +46,7 @@ backgroundStrain
 
    :semantic name: https://openminds.om-i.org/props/backgroundStrain
    :value type: | linked object array \(1-2\) of type
-                | `Strain <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/strain.html>`_
+                | `Strain <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/strain.html>`_
    :instructions: Add the background strain that explains the majority of the genetic background and/or causes the majority of the prominent traits. If two strains contributed equally, state both.
 
 `BACK TO TOP <Strain_>`_
@@ -63,7 +63,7 @@ breedingType
 
    :semantic name: https://openminds.om-i.org/props/breedingType
    :value type: | linked object of type
-                | `BreedingType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/breedingType.html>`_
+                | `BreedingType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/breedingType.html>`_
    :instructions: Add the breeding type for this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -101,7 +101,7 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object of type
-                | `RRID <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | `RRID <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add the 'Research Resource Identifier' (RRID) of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -118,7 +118,7 @@ diseaseModel
 
    :semantic name: https://openminds.om-i.org/props/diseaseModel
    :value type: | linked object array \(1-N\) of type
-                | `Disease <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/diseaseModel.html>`_
+                | `Disease <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/disease.html>`_ or `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/diseaseModel.html>`_
    :instructions: Add all (human) diseases and/or conditions that this strain is a model for.
 
 `BACK TO TOP <Strain_>`_
@@ -135,7 +135,7 @@ geneticStrainType
 
    :semantic name: https://openminds.om-i.org/props/geneticStrainType
    :value type: | linked object of type
-                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/geneticStrainType.html>`_
+                | `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/geneticStrainType.html>`_
    :instructions: Add the genetic background type of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -228,7 +228,7 @@ Category of biological classification comprising related organisms or population
 
    :semantic name: https://openminds.om-i.org/props/species
    :value type: | linked object of type
-                | `Species <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/species.html>`_
+                | `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_
    :instructions: Add the species of this strain.
 
 `BACK TO TOP <Strain_>`_
@@ -245,7 +245,7 @@ stockNumber
 
    :semantic name: https://openminds.om-i.org/props/stockNumber
    :value type: | embedded object of type
-                | `StockNumber <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/digitalIdentifier/stockNumber.html>`_
+                | `StockNumber <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/stockNumber.html>`_
    :instructions: Add the stock number from the vendor the strain was supplied from/is in stock at.
 
 `BACK TO TOP <Strain_>`_

@@ -9,7 +9,7 @@ License
 Structured information on a used license.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/licenses.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/licenses.html>`_.
 
 ------------
 

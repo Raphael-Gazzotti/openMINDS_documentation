@@ -2,7 +2,7 @@
 Terminologies: ElectricalStimulusType library
 #############################################
 
-Related schema specification: `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_
+Related schema specification: `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_
 
 ------------
 

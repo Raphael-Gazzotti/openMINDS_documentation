@@ -2,7 +2,7 @@
 Terminologies: CriteriaQualityType library
 ##########################################
 
-Related schema specification: `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/criteriaQualityType.html>`_
+Related schema specification: `CriteriaQualityType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/criteriaQualityType.html>`_
 
 ------------
 

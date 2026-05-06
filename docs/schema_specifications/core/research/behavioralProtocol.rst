@@ -31,7 +31,7 @@ describedIn
 
    :semantic name: https://openminds.om-i.org/props/describedIn
    :value type: | linked object array \(1-N\) of type
-                | `DOI <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/webResource.html>`_
+                | `DOI <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/digitalIdentifier/DOI.html>`_, `File <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/data/file.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/webResource.html>`_
    :instructions: Add all sources in which this behavioral protocol is described in detail.
 
 `BACK TO TOP <BehavioralProtocol_>`_
@@ -105,7 +105,7 @@ stimulation
 
    :semantic name: https://openminds.om-i.org/props/stimulation
    :value type: | linked object array \(1-N\) of type
-                | `StimulationApproach <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/stimulationApproach.html>`_ or `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/stimulationTechnique.html>`_
+                | `StimulationApproach <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/stimulationApproach.html>`_ or `StimulationTechnique <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/stimulationTechnique.html>`_
    :instructions: Add all stimulation approaches and/or techniques used within this behavioral protocol.
 
 `BACK TO TOP <BehavioralProtocol_>`_
@@ -122,7 +122,7 @@ stimulusType
 
    :semantic name: https://openminds.om-i.org/props/stimulusType
    :value type: | linked object array \(1-N\) of type
-                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tactileStimulusType.html>`_ or `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/visualStimulusType.html>`_
+                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tactileStimulusType.html>`_ or `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/visualStimulusType.html>`_
    :instructions: Add all stimulus types used within this behavioral protocol.
 
 `BACK TO TOP <BehavioralProtocol_>`_

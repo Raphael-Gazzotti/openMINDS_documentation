@@ -2,7 +2,7 @@
 ParcellationEntityVersions: WHSSDatlas_v2 library
 #################################################
 
-Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
 
 ------------
 
@@ -18,8 +18,7 @@ WHSSDatlas_v2_alveusOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: alv
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
-   :isVersionOf: `WHSSDatlas_alveusOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-alveusofthehippocampus>`_
+   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_alveusOfTheHippocampus
    :name: alveus of the hippocampus
    :versionIdentifier: v2
@@ -40,8 +39,7 @@ WHSSDatlas_v2_anteriorCommissure
    :alternateName: aci
    :correctedName: anterior commissure, intrabulbar part
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissure>`_
-   :isVersionOf: `WHSSDatlas_anteriorCommissureIntrabulbarPart <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissureintrabulbarpart>`_
+   :hasParent: `WHSSDatlas_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissure>`_
    :lookupLabel: WHSSDatlas_v2_anteriorCommissure
    :name: anterior commissure
    :versionIdentifier: v2
@@ -60,8 +58,7 @@ WHSSDatlas_v2_anteriorCommissureAnteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: aca, anterior commissure, anterior limb
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissure>`_
-   :isVersionOf: `WHSSDatlas_anteriorCommissureAnteriorLimb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissureanteriorlimb>`_
+   :hasParent: `WHSSDatlas_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissure>`_
    :lookupLabel: WHSSDatlas_v2_anteriorCommissureAnteriorPart
    :name: anterior commissure, anterior part
    :versionIdentifier: v2
@@ -80,8 +77,7 @@ WHSSDatlas_v2_anteriorCommissurePosteriorPart
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: acp, anterior commissure, posterior limb
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissure>`_
-   :isVersionOf: `WHSSDatlas_anteriorCommissurePosteriorLimb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissureposteriorlimb>`_
+   :hasParent: `WHSSDatlas_anteriorCommissure <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-anteriorcommissure>`_
    :lookupLabel: WHSSDatlas_v2_anteriorCommissurePosteriorPart
    :name: anterior commissure, posterior part
    :versionIdentifier: v2
@@ -100,8 +96,7 @@ WHSSDatlas_v2_ascendingFibersOfTheFacialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: asc7
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_facialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerve>`_
-   :isVersionOf: `WHSSDatlas_ascendingFibersOfTheFacialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-ascendingfibersofthefacialnerve>`_
+   :hasParent: `WHSSDatlas_facialNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerve>`_
    :lookupLabel: WHSSDatlas_v2_ascendingFibersOfTheFacialNerve
    :name: ascending fibers of the facial nerve
    :versionIdentifier: v2
@@ -122,8 +117,7 @@ WHSSDatlas_v2_basalForebrainRegion
    :alternateName: BFR-u
    :correctedName: basal forebrain region, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_basalForebrainRegionUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-basalforebrainregionunspecified>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_basalForebrainRegion
    :name: basal forebrain region
    :versionIdentifier: v2
@@ -142,8 +136,7 @@ WHSSDatlas_v2_bedNucleusOfTheStriaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: BNST
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_bedNucleusOfTheStriaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-bednucleusofthestriaterminalis>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_bedNucleusOfTheStriaTerminalis
    :name: bed nucleus of the stria terminalis
    :versionIdentifier: v2
@@ -162,8 +155,7 @@ WHSSDatlas_v2_brachiumOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: bsc
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_whiteMatterOfTheTectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematterofthetectum>`_
-   :isVersionOf: `WHSSDatlas_brachiumOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-brachiumofthesuperiorcolliculus>`_
+   :hasParent: `WHSSDatlas_whiteMatterOfTheTectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematterofthetectum>`_
    :lookupLabel: WHSSDatlas_v2_brachiumOfTheSuperiorColliculus
    :name: brachium of the superior colliculus
    :versionIdentifier: v2
@@ -184,8 +176,7 @@ WHSSDatlas_v2_brainstem
    :alternateName: BS-u, brain stem, unspecified
    :correctedName: brainstem, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_brainstemUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-brainstemunspecified>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_brainstem
    :name: brainstem
    :versionIdentifier: v2
@@ -205,7 +196,6 @@ WHSSDatlas_v2_centralCanal
    :additionalRemarks: "central canal" and "spinal cord" (annotated)  had "spinal cord" (hierarchical term) as parent; this was changed in v3 and later versions ("central canal" has parent "ventricular system" and "spinal cord" has no parent structure; no hierarchical term has been added to this parcellation entity version
    :alternateName: CC
    :hasAnnotation: COMING SOON
-   :isVersionOf: `WHSSDatlas_centralCanal <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-centralcanal>`_
    :lookupLabel: WHSSDatlas_v2_centralCanal
    :name: central canal
    :versionIdentifier: v2
@@ -224,8 +214,7 @@ WHSSDatlas_v2_cingulateCortexArea2
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Cg2, cingulate area 2
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_cingulateArea2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cingulatearea2>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_cingulateCortexArea2
    :name: cingulate cortex, area 2
    :versionIdentifier: v2
@@ -244,8 +233,7 @@ WHSSDatlas_v2_commissuralStriaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: cst
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
-   :isVersionOf: `WHSSDatlas_commissuralStriaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-commissuralstriaterminalis>`_
+   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
    :lookupLabel: WHSSDatlas_v2_commissuralStriaTerminalis
    :name: commissural stria terminalis
    :versionIdentifier: v2
@@ -264,8 +252,7 @@ WHSSDatlas_v2_commissureOfTheInferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: cic, inferior colliculus, commissure
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_whiteMatterOfTheTectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematterofthetectum>`_
-   :isVersionOf: `WHSSDatlas_inferiorColliculusCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-inferiorcolliculuscommissure>`_
+   :hasParent: `WHSSDatlas_whiteMatterOfTheTectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematterofthetectum>`_
    :lookupLabel: WHSSDatlas_v2_commissureOfTheInferiorColliculus
    :name: commissure of the inferior colliculus
    :versionIdentifier: v2
@@ -284,8 +271,7 @@ WHSSDatlas_v2_commissureOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: csc
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_whiteMatterOfTheTectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematterofthetectum>`_
-   :isVersionOf: `WHSSDatlas_commissureOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-commissureofthesuperiorcolliculus>`_
+   :hasParent: `WHSSDatlas_whiteMatterOfTheTectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematterofthetectum>`_
    :lookupLabel: WHSSDatlas_v2_commissureOfTheSuperiorColliculus
    :name: commissure of the superior colliculus
    :versionIdentifier: v2
@@ -304,8 +290,7 @@ WHSSDatlas_v2_cornuAmmonis1
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: CA1
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_cornuAmmonis1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cornuammonis1>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_cornuAmmonis1
    :name: cornu ammonis 1
    :versionIdentifier: v2
@@ -324,8 +309,7 @@ WHSSDatlas_v2_cornuAmmonis2
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: CA2
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_cornuAmmonis2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cornuammonis2>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_cornuAmmonis2
    :name: cornu ammonis 2
    :versionIdentifier: v2
@@ -344,8 +328,7 @@ WHSSDatlas_v2_cornuAmmonis3
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: CA3
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_cornuAmmonis3 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cornuammonis3>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_cornuAmmonis3
    :name: cornu ammonis 3
    :versionIdentifier: v2
@@ -364,8 +347,7 @@ WHSSDatlas_v2_corpusCallosumAndAssociatedSubcorticalWhiteMatter
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: cc-ec-cing-dwm
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_whiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematter>`_
-   :isVersionOf: `WHSSDatlas_corpusCallosumAndAssociatedSubcorticalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-corpuscallosumandassociatedsubcorticalwhitematter>`_
+   :hasParent: `WHSSDatlas_whiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematter>`_
    :lookupLabel: WHSSDatlas_v2_corpusCallosumAndAssociatedSubcorticalWhiteMatter
    :name: corpus callosum and associated subcortical white matter
    :versionIdentifier: v2
@@ -384,8 +366,7 @@ WHSSDatlas_v2_deeperLayersOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: SuD
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
-   :isVersionOf: `WHSSDatlas_deeperLayersOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-deeperlayersofthesuperiorcolliculus>`_
+   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
    :lookupLabel: WHSSDatlas_v2_deeperLayersOfTheSuperiorColliculus
    :name: deeper layers of the superior colliculus
    :versionIdentifier: v2
@@ -404,8 +385,7 @@ WHSSDatlas_v2_dentateGyrus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: DG
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_dentateGyrus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-dentategyrus>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_dentateGyrus
    :name: dentate gyrus
    :versionIdentifier: v2
@@ -425,8 +405,7 @@ WHSSDatlas_v2_descendingCorticofugalPathways
    :additionalRemarks: .label file name "descending corticofugal pathways" does not match the name in the .mbat file ("corticofugal pathways"), which is an error; .label file name is correct; for details, see atlas documentation
    :alternateName: corticofugal tract and corona radiata, ic-cp-lfp-py
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_corticofugalPathways <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-corticofugalpathways>`_
-   :isVersionOf: `WHSSDatlas_corticofugalTractAndCoronaRadiata <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-corticofugaltractandcoronaradiata>`_
+   :hasParent: `WHSSDatlas_corticofugalPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-corticofugalpathways>`_
    :lookupLabel: WHSSDatlas_v2_descendingCorticofugalPathways
    :name: descending corticofugal pathways
    :versionIdentifier: v2
@@ -445,8 +424,7 @@ WHSSDatlas_v2_entopeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: EP
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_entopeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-entopeduncularnucleus>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_entopeduncularNucleus
    :name: entopeduncular nucleus
    :versionIdentifier: v2
@@ -467,8 +445,7 @@ WHSSDatlas_v2_entorhinalCortex
    :alternateName: MEC
    :correctedName: medial entorhinal cortex
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_medialEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-medialentorhinalcortex>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_entorhinalCortex
    :name: entorhinal cortex
    :versionIdentifier: v2
@@ -489,8 +466,7 @@ WHSSDatlas_v2_facialNerve
    :alternateName: 7n-u
    :correctedName: facial nerve, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_facialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerve>`_
-   :isVersionOf: `WHSSDatlas_facialNerveUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerveunspecified>`_
+   :hasParent: `WHSSDatlas_facialNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerve>`_
    :lookupLabel: WHSSDatlas_v2_facialNerve
    :name: facial nerve
    :versionIdentifier: v2
@@ -509,8 +485,7 @@ WHSSDatlas_v2_fasciculusRetroflexus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: fr
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
-   :isVersionOf: `WHSSDatlas_fasciculusRetroflexus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-fasciculusretroflexus>`_
+   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
    :lookupLabel: WHSSDatlas_v2_fasciculusRetroflexus
    :name: fasciculus retroflexus
    :versionIdentifier: v2
@@ -529,8 +504,7 @@ WHSSDatlas_v2_fasciolaCinereum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: FC
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_fasciolaCinereum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-fasciolacinereum>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_fasciolaCinereum
    :name: fasciola cinereum
    :versionIdentifier: v2
@@ -549,8 +523,7 @@ WHSSDatlas_v2_fimbriaOfTheHippocampus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: fi
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
-   :isVersionOf: `WHSSDatlas_fimbriaOfTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-fimbriaofthehippocampus>`_
+   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_fimbriaOfTheHippocampus
    :name: fimbria of the hippocampus
    :versionIdentifier: v2
@@ -569,8 +542,7 @@ WHSSDatlas_v2_fornix
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: f
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
-   :isVersionOf: `WHSSDatlas_fornix <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-fornix>`_
+   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_fornix
    :name: fornix
    :versionIdentifier: v2
@@ -589,8 +561,7 @@ WHSSDatlas_v2_frontalAssociationCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: FrA
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_frontalAssociationCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-frontalassociationcortex>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_frontalAssociationCortex
    :name: frontal association cortex
    :versionIdentifier: v2
@@ -609,8 +580,7 @@ WHSSDatlas_v2_genuOfTheFacialNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: g7
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_facialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerve>`_
-   :isVersionOf: `WHSSDatlas_genuOfTheFacialNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-genuofthefacialnerve>`_
+   :hasParent: `WHSSDatlas_facialNerve <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-facialnerve>`_
    :lookupLabel: WHSSDatlas_v2_genuOfTheFacialNerve
    :name: genu of the facial nerve
    :versionIdentifier: v2
@@ -629,8 +599,7 @@ WHSSDatlas_v2_globusPallidus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: GP, Gpe, globus pallidus external
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_globusPallidusExternal <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-globuspallidusexternal>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_globusPallidus
    :name: globus pallidus
    :versionIdentifier: v2
@@ -649,8 +618,7 @@ WHSSDatlas_v2_glomerularLayerOfTheAccessoryOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: GlA
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulb>`_
-   :isVersionOf: `WHSSDatlas_glomerularLayerOfTheAccessoryOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-glomerularlayeroftheaccessoryolfactorybulb>`_
+   :hasParent: `WHSSDatlas_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulb>`_
    :lookupLabel: WHSSDatlas_v2_glomerularLayerOfTheAccessoryOlfactoryBulb
    :name: glomerular layer of the accessory olfactory bulb
    :versionIdentifier: v2
@@ -669,8 +637,7 @@ WHSSDatlas_v2_glomerularLayerOfTheOlfactoryBulb
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Gl
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulb>`_
-   :isVersionOf: `WHSSDatlas_glomerularLayerOfTheOlfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-glomerularlayeroftheolfactorybulb>`_
+   :hasParent: `WHSSDatlas_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulb>`_
    :lookupLabel: WHSSDatlas_v2_glomerularLayerOfTheOlfactoryBulb
    :name: glomerular layer of the olfactory bulb
    :versionIdentifier: v2
@@ -691,8 +658,7 @@ WHSSDatlas_v2_granuleCellLevelOfTheCerebellum
    :alternateName: Cb-u, deeper cerebellum
    :correctedName: cerebellum, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellum>`_
-   :isVersionOf: `WHSSDatlas_cerebellumUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellumunspecified>`_
+   :hasParent: `WHSSDatlas_cerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellum>`_
    :lookupLabel: WHSSDatlas_v2_granuleCellLevelOfTheCerebellum
    :name: granule cell level of the cerebellum
    :versionIdentifier: v2
@@ -711,8 +677,7 @@ WHSSDatlas_v2_habenularCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: hbc
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
-   :isVersionOf: `WHSSDatlas_habenularCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-habenularcommissure>`_
+   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
    :lookupLabel: WHSSDatlas_v2_habenularCommissure
    :name: habenular commissure
    :versionIdentifier: v2
@@ -733,8 +698,7 @@ WHSSDatlas_v2_hypothalamicRegion
    :alternateName: HTh-u
    :correctedName: hypothalamic region, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_hypothalamicRegionUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hypothalamicregionunspecified>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_hypothalamicRegion
    :name: hypothalamic region
    :versionIdentifier: v2
@@ -753,8 +717,7 @@ WHSSDatlas_v2_inferiorCerebellarPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: icp
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellarandprecerebellarwhitematter>`_
-   :isVersionOf: `WHSSDatlas_inferiorCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-inferiorcerebellarpeduncle>`_
+   :hasParent: `WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellarandprecerebellarwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_inferiorCerebellarPeduncle
    :name: inferior cerebellar peduncle
    :versionIdentifier: v2
@@ -773,8 +736,7 @@ WHSSDatlas_v2_inferiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: IC
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
-   :isVersionOf: `WHSSDatlas_inferiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-inferiorcolliculus>`_
+   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
    :lookupLabel: WHSSDatlas_v2_inferiorColliculus
    :name: inferior colliculus
    :versionIdentifier: v2
@@ -793,8 +755,7 @@ WHSSDatlas_v2_inferiorOlive
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: IO
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_inferiorOlive <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-inferiorolive>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_inferiorOlive
    :name: inferior olive
    :versionIdentifier: v2
@@ -813,7 +774,6 @@ WHSSDatlas_v2_innerEar
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: IE
    :hasAnnotation: COMING SOON
-   :isVersionOf: `WHSSDatlas_innerEar <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-innerear>`_
    :lookupLabel: WHSSDatlas_v2_innerEar
    :name: inner ear
    :versionIdentifier: v2
@@ -832,8 +792,7 @@ WHSSDatlas_v2_interpeduncularNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: IP
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_interpeduncularNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-interpeduncularnucleus>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_interpeduncularNucleus
    :name: interpeduncular nucleus
    :versionIdentifier: v2
@@ -852,8 +811,7 @@ WHSSDatlas_v2_lateralEntorhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: LEC
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_lateralEntorhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-lateralentorhinalcortex>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_lateralEntorhinalCortex
    :name: lateral entorhinal cortex
    :versionIdentifier: v2
@@ -874,8 +832,7 @@ WHSSDatlas_v2_mammillothalamicTract
    :alternateName: mtg
    :correctedName: mammillotegmental tract
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
-   :isVersionOf: `WHSSDatlas_mammillotegmentalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mammillotegmentaltract>`_
+   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
    :lookupLabel: WHSSDatlas_v2_mammillothalamicTract
    :name: mammillothalamic tract
    :versionIdentifier: v2
@@ -896,8 +853,7 @@ WHSSDatlas_v2_medialLemniscus
    :alternateName: ml-u
    :correctedName: medial lemniscus, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_medialLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mediallemniscus>`_
-   :isVersionOf: `WHSSDatlas_medialLemniscusUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mediallemniscusunspecified>`_
+   :hasParent: `WHSSDatlas_medialLemniscus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mediallemniscus>`_
    :lookupLabel: WHSSDatlas_v2_medialLemniscus
    :name: medial lemniscus
    :versionIdentifier: v2
@@ -916,8 +872,7 @@ WHSSDatlas_v2_medialLemniscusDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: mlx
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_medialLemniscus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mediallemniscus>`_
-   :isVersionOf: `WHSSDatlas_medialLemniscusDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mediallemniscusdecussation>`_
+   :hasParent: `WHSSDatlas_medialLemniscus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-mediallemniscus>`_
    :lookupLabel: WHSSDatlas_v2_medialLemniscusDecussation
    :name: medial lemniscus decussation
    :versionIdentifier: v2
@@ -936,8 +891,7 @@ WHSSDatlas_v2_middleCerebellarPeduncle
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: mcp
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellarandprecerebellarwhitematter>`_
-   :isVersionOf: `WHSSDatlas_middleCerebellarPeduncle <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-middlecerebellarpeduncle>`_
+   :hasParent: `WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellarandprecerebellarwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_middleCerebellarPeduncle
    :name: middle cerebellar peduncle
    :versionIdentifier: v2
@@ -956,8 +910,7 @@ WHSSDatlas_v2_molecularLayerOfTheCerebellum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Cb-m
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellum>`_
-   :isVersionOf: `WHSSDatlas_molecularCellLayerOfTheCerebellum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-molecularcelllayerofthecerebellum>`_
+   :hasParent: `WHSSDatlas_cerebellum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellum>`_
    :lookupLabel: WHSSDatlas_v2_molecularLayerOfTheCerebellum
    :name: molecular layer of the cerebellum
    :versionIdentifier: v2
@@ -978,8 +931,7 @@ WHSSDatlas_v2_neocortex
    :alternateName: Ncx-u
    :correctedName: neocortex, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_neocortexUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-neocortexunspecified>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_neocortex
    :name: neocortex
    :versionIdentifier: v2
@@ -998,8 +950,7 @@ WHSSDatlas_v2_nucleusOfTheStriaMedullaris
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: SMn
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_nucleusOfTheStriaMedullaris <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-nucleusofthestriamedullaris>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_nucleusOfTheStriaMedullaris
    :name: nucleus of the stria medullaris
    :versionIdentifier: v2
@@ -1020,8 +971,7 @@ WHSSDatlas_v2_olfactoryBulb
    :alternateName: OB-u
    :correctedName: olfactory bulb, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulb>`_
-   :isVersionOf: `WHSSDatlas_olfactoryBulbUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulbunspecified>`_
+   :hasParent: `WHSSDatlas_olfactoryBulb <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-olfactorybulb>`_
    :lookupLabel: WHSSDatlas_v2_olfactoryBulb
    :name: olfactory bulb
    :versionIdentifier: v2
@@ -1040,8 +990,7 @@ WHSSDatlas_v2_opticNerve
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: 2n
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_opticFiberSystemAndSupraopticDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticfibersystemandsupraopticdecussation>`_
-   :isVersionOf: `WHSSDatlas_opticNerve <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticnerve>`_
+   :hasParent: `WHSSDatlas_opticFiberSystemAndSupraopticDecussation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticfibersystemandsupraopticdecussation>`_
    :lookupLabel: WHSSDatlas_v2_opticNerve
    :name: optic nerve
    :versionIdentifier: v2
@@ -1060,8 +1009,7 @@ WHSSDatlas_v2_opticTractAndOpticChiasm
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: opt-och
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_opticFiberSystemAndSupraopticDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticfibersystemandsupraopticdecussation>`_
-   :isVersionOf: `WHSSDatlas_opticTractAndOpticChiasm <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-optictractandopticchiasm>`_
+   :hasParent: `WHSSDatlas_opticFiberSystemAndSupraopticDecussation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticfibersystemandsupraopticdecussation>`_
    :lookupLabel: WHSSDatlas_v2_opticTractAndOpticChiasm
    :name: optic tract and optic chiasm
    :versionIdentifier: v2
@@ -1080,8 +1028,7 @@ WHSSDatlas_v2_parasubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PaS
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_parasubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-parasubiculum>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_parasubiculum
    :name: parasubiculum
    :versionIdentifier: v2
@@ -1100,8 +1047,7 @@ WHSSDatlas_v2_periaqueductalGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PAG
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_periaqueductalGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-periaqueductalgray>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_periaqueductalGray
    :name: periaqueductal gray
    :versionIdentifier: v2
@@ -1120,8 +1066,7 @@ WHSSDatlas_v2_perirhinalArea35
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PER35
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_perirhinalArea35 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-perirhinalarea35>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_perirhinalArea35
    :name: perirhinal area 35
    :versionIdentifier: v2
@@ -1140,8 +1085,7 @@ WHSSDatlas_v2_perirhinalArea36
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PER36
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_perirhinalArea36 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-perirhinalarea36>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_perirhinalArea36
    :name: perirhinal area 36
    :versionIdentifier: v2
@@ -1160,8 +1104,7 @@ WHSSDatlas_v2_periventricularGray
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PVG
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_periventricularGray <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-periventriculargray>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_periventricularGray
    :name: periventricular gray
    :versionIdentifier: v2
@@ -1180,8 +1123,7 @@ WHSSDatlas_v2_pinealGland
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PG
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_pinealGland <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-pinealgland>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_pinealGland
    :name: pineal gland
    :versionIdentifier: v2
@@ -1200,8 +1142,7 @@ WHSSDatlas_v2_pontineNuclei
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Pn
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_pontineNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-pontinenuclei>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_pontineNuclei
    :name: pontine nuclei
    :versionIdentifier: v2
@@ -1220,8 +1161,7 @@ WHSSDatlas_v2_posteriorCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: pc
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_whiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematter>`_
-   :isVersionOf: `WHSSDatlas_posteriorCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-posteriorcommissure>`_
+   :hasParent: `WHSSDatlas_whiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematter>`_
    :lookupLabel: WHSSDatlas_v2_posteriorCommissure
    :name: posterior commissure
    :versionIdentifier: v2
@@ -1240,8 +1180,7 @@ WHSSDatlas_v2_postrhinalCortex
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: POR
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_postrhinalCortex <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-postrhinalcortex>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_postrhinalCortex
    :name: postrhinal cortex
    :versionIdentifier: v2
@@ -1260,8 +1199,7 @@ WHSSDatlas_v2_presubiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PrS
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_presubiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-presubiculum>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_presubiculum
    :name: presubiculum
    :versionIdentifier: v2
@@ -1280,8 +1218,7 @@ WHSSDatlas_v2_pretectalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: PRT, PT
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
-   :isVersionOf: `WHSSDatlas_pretectalRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-pretectalregion>`_
+   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
    :lookupLabel: WHSSDatlas_v2_pretectalRegion
    :name: pretectal region
    :versionIdentifier: v2
@@ -1300,8 +1237,7 @@ WHSSDatlas_v2_pyramidalDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: pyx
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_corticofugalPathways <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-corticofugalpathways>`_
-   :isVersionOf: `WHSSDatlas_pyramidalDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-pyramidaldecussation>`_
+   :hasParent: `WHSSDatlas_corticofugalPathways <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-corticofugalpathways>`_
    :lookupLabel: WHSSDatlas_v2_pyramidalDecussation
    :name: pyramidal decussation
    :versionIdentifier: v2
@@ -1320,8 +1256,7 @@ WHSSDatlas_v2_septalRegion
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Sep
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_septalRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-septalregion>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_septalRegion
    :name: septal region
    :versionIdentifier: v2
@@ -1341,7 +1276,6 @@ WHSSDatlas_v2_spinalCord
    :additionalRemarks:  "spinal cord" (annotated)  had "spinal cord" (hierarchical term) as parent, which was removed in v3 and later versions; here that hierarchical term has not been added as a parcellation entity
    :alternateName: SpC
    :hasAnnotation: COMING SOON
-   :isVersionOf: `WHSSDatlas_spinalCord <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-spinalcord>`_
    :lookupLabel: WHSSDatlas_v2_spinalCord
    :name: spinal cord
    :versionIdentifier: v2
@@ -1360,8 +1294,7 @@ WHSSDatlas_v2_spinalTrigeminalNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Sp5n
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_spinalTrigeminalNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-spinaltrigeminalnucleus>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_spinalTrigeminalNucleus
    :name: spinal trigeminal nucleus
    :versionIdentifier: v2
@@ -1380,8 +1313,7 @@ WHSSDatlas_v2_spinalTrigeminalTract
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: sp5t
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_whiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematter>`_
-   :isVersionOf: `WHSSDatlas_spinalTrigeminalTract <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-spinaltrigeminaltract>`_
+   :hasParent: `WHSSDatlas_whiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-whitematter>`_
    :lookupLabel: WHSSDatlas_v2_spinalTrigeminalTract
    :name: spinal trigeminal tract
    :versionIdentifier: v2
@@ -1400,8 +1332,7 @@ WHSSDatlas_v2_striaMedullarisOfTheThalamus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: sm, stria medullaris thalami
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
-   :isVersionOf: `WHSSDatlas_striaMedullarisThalami <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-striamedullaristhalami>`_
+   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
    :lookupLabel: WHSSDatlas_v2_striaMedullarisOfTheThalamus
    :name: stria medullaris of the thalamus
    :versionIdentifier: v2
@@ -1420,8 +1351,7 @@ WHSSDatlas_v2_striaTerminalis
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: st
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
-   :isVersionOf: `WHSSDatlas_striaTerminalis <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-striaterminalis>`_
+   :hasParent: `WHSSDatlas_thalamicTracts <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamictracts>`_
    :lookupLabel: WHSSDatlas_v2_striaTerminalis
    :name: stria terminalis
    :versionIdentifier: v2
@@ -1440,8 +1370,7 @@ WHSSDatlas_v2_striatum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: Str
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_striatum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-striatum>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_striatum
    :name: striatum
    :versionIdentifier: v2
@@ -1460,8 +1389,7 @@ WHSSDatlas_v2_subiculum
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: SUB
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
-   :isVersionOf: `WHSSDatlas_subiculum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-subiculum>`_
+   :hasParent: `WHSSDatlas_cerebralCortexIncludingTheNeocortexAndTheHippocampus <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebralcortexincludingtheneocortexandthehippocampus>`_
    :lookupLabel: WHSSDatlas_v2_subiculum
    :name: subiculum
    :versionIdentifier: v2
@@ -1480,8 +1408,7 @@ WHSSDatlas_v2_substantiaNigra
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: SN
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_substantiaNigra <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-substantianigra>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_substantiaNigra
    :name: substantia nigra
    :versionIdentifier: v2
@@ -1500,8 +1427,7 @@ WHSSDatlas_v2_subthalamicNucleus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: STh
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_subthalamicNucleus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-subthalamicnucleus>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_subthalamicNucleus
    :name: subthalamic nucleus
    :versionIdentifier: v2
@@ -1520,8 +1446,7 @@ WHSSDatlas_v2_superficialGrayLayerOfTheSuperiorColliculus
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: SuG
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
-   :isVersionOf: `WHSSDatlas_superficialGrayLayerOfTheSuperiorColliculus <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-superficialgraylayerofthesuperiorcolliculus>`_
+   :hasParent: `WHSSDatlas_tectum <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-tectum>`_
    :lookupLabel: WHSSDatlas_v2_superficialGrayLayerOfTheSuperiorColliculus
    :name: superficial gray layer of the superior colliculus
    :versionIdentifier: v2
@@ -1540,8 +1465,7 @@ WHSSDatlas_v2_supraopticDecussation
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: sox
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_opticFiberSystemAndSupraopticDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticfibersystemandsupraopticdecussation>`_
-   :isVersionOf: `WHSSDatlas_supraopticDecussation <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-supraopticdecussation>`_
+   :hasParent: `WHSSDatlas_opticFiberSystemAndSupraopticDecussation <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-opticfibersystemandsupraopticdecussation>`_
    :lookupLabel: WHSSDatlas_v2_supraopticDecussation
    :name: supraoptic decussation
    :versionIdentifier: v2
@@ -1562,8 +1486,7 @@ WHSSDatlas_v2_thalamus
    :alternateName: Thal-u
    :correctedName: thalamus, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
-   :isVersionOf: `WHSSDatlas_thalamusUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-thalamusunspecified>`_
+   :hasParent: `WHSSDatlas_grayMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-graymatter>`_
    :lookupLabel: WHSSDatlas_v2_thalamus
    :name: thalamus
    :versionIdentifier: v2
@@ -1582,8 +1505,7 @@ WHSSDatlas_v2_transverseFibersOfThePons
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: tfp
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellarandprecerebellarwhitematter>`_
-   :isVersionOf: `WHSSDatlas_transverseFibersOfThePons <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-transversefibersofthepons>`_
+   :hasParent: `WHSSDatlas_cerebellarAndPrecerebellarWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-cerebellarandprecerebellarwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_transverseFibersOfThePons
    :name: transverse fibers of the pons
    :versionIdentifier: v2
@@ -1602,8 +1524,7 @@ WHSSDatlas_v2_ventralHippocampalCommissure
    :@type: https://openminds.om-i.org/types/ParcellationEntityVersion
    :alternateName: vhc
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
-   :isVersionOf: `WHSSDatlas_ventralHippocampalCommissure <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-ventralhippocampalcommissure>`_
+   :hasParent: `WHSSDatlas_hippocampalWhiteMatter <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-hippocampalwhitematter>`_
    :lookupLabel: WHSSDatlas_v2_ventralHippocampalCommissure
    :name: ventral hippocampal commissure
    :versionIdentifier: v2
@@ -1624,8 +1545,7 @@ WHSSDatlas_v2_ventricularSystem
    :alternateName: V-u
    :correctedName: ventricular system, unspecified
    :hasAnnotation: COMING SOON
-   :hasParent: `WHSSDatlas_brain <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-brain>`_
-   :isVersionOf: `WHSSDatlas_ventricularSystemUnspecified <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-ventricularsystemunspecified>`_
+   :hasParent: `WHSSDatlas_brain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/WHSSDatlas.html#whssdatlas-brain>`_
    :lookupLabel: WHSSDatlas_v2_ventricularSystem
    :name: ventricular system
    :versionIdentifier: v2

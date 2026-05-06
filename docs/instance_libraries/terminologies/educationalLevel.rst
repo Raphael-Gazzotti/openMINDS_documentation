@@ -2,7 +2,7 @@
 Terminologies: EducationalLevel library
 #######################################
 
-Related schema specification: `EducationalLevel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/educationalLevel.html>`_
+Related schema specification: `EducationalLevel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/educationalLevel.html>`_
 
 ------------
 

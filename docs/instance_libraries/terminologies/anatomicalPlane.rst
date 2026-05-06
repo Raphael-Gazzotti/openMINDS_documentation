@@ -2,7 +2,7 @@
 Terminologies: AnatomicalPlane library
 ######################################
 
-Related schema specification: `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/anatomicalPlane.html>`_
+Related schema specification: `AnatomicalPlane <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/anatomicalPlane.html>`_
 
 ------------
 

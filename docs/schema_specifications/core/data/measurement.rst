@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `measuredQuantity <measuredQuantity_heading_>`_, `value <value_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `obtainedWith <obtainedWith_heading_>`_, `timestamp <timestamp_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `measuredWith <measuredWith_heading_>`_, `timestamp <timestamp_heading_>`_
 
 ------------
 
@@ -50,25 +50,25 @@ measuredQuantity
 
    :semantic name: https://openminds.om-i.org/props/measuredQuantity
    :value type: | linked object of type
-                | `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/measuredQuantity.html>`_
+                | `MeasuredQuantity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/measuredQuantity.html>`_
    :instructions: Add the quantity that was measured during this measurement.
 
 `BACK TO TOP <Measurement_>`_
 
 ------------
 
-.. _obtainedWith_heading:
+.. _measuredWith_heading:
 
 ************
-obtainedWith
+measuredWith
 ************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/obtainedWith
+   :semantic name: https://openminds.om-i.org/props/measuredWith
    :value type: | linked object of type
-                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/ephys/device/pipetteUsage.html>`_, `MRICoilUsage <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/neuroimaging/device/MRICoilUsage.html>`_, `MRIScannerUsage <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/neuroimaging/device/MRIScannerUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
-   :instructions: Add the used device for obtaining this measurement.
+                | `ElectrodeArrayUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/electrodeArrayUsage.html>`_, `ElectrodeUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/electrodeUsage.html>`_, `PipetteUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/ephys/device/pipetteUsage.html>`_ or `SlicingDeviceUsage <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/specimenPrep/device/slicingDeviceUsage.html>`_
+   :instructions: Add the device that was used during this measurement.
 
 `BACK TO TOP <Measurement_>`_
 
@@ -103,7 +103,7 @@ Entry for a property.
 
    :semantic name: https://openminds.om-i.org/props/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter all values that were measured at the same time and are of the same measured quantity.
 
 `BACK TO TOP <Measurement_>`_

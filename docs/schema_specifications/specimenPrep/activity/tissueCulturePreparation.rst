@@ -29,7 +29,7 @@ cultureMedium
 
    :semantic name: https://openminds.om-i.org/props/cultureMedium
    :value type: | linked object of type
-                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/chemicals/chemicalMixture.html>`_
+                | `ChemicalMixture <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/chemicals/chemicalMixture.html>`_
    :instructions: Add the culture medium used during this tissue culture preparation.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -46,7 +46,7 @@ cultureType
 
    :semantic name: https://openminds.om-i.org/props/cultureType
    :value type: | linked object of type
-                | `CellCultureType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellCultureType.html>`_
+                | `CellCultureType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellCultureType.html>`_
    :instructions: Add the cell culture type of the resulting tissue cell culture.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -63,7 +63,7 @@ customPropertySet
 
    :semantic name: https://openminds.om-i.org/props/customPropertySet
    :value type: | embedded object array \(1-N\) of type
-                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/customPropertySet.html>`_
+                | `CustomPropertySet <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/customPropertySet.html>`_
    :instructions: Add any user-defined parameters grouped in context-specific sets that are not covered in the standardized properties of this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -118,7 +118,7 @@ Something or someone that is put into or participates in a process or machine.
 
    :semantic name: https://openminds.om-i.org/props/input
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectGroupState.html>`_ or `SubjectState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/subjectState.html>`_
+                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleState.html>`_, `TissueSampleCollectionState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleCollectionState.html>`_, `SubjectGroupState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/subjectGroupState.html>`_ or `SubjectState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/subjectState.html>`_
    :instructions: Add the state of the specimen before it was prepared as culture in this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -137,7 +137,7 @@ Reference to the ensemble of multiple things or beings.
 
    :semantic name: https://openminds.om-i.org/props/isPartOf
    :value type: | linked object of type
-                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/products/datasetVersion.html>`_
+                | `DatasetVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/products/datasetVersion.html>`_
    :instructions: Add the dataset version in which this activity was conducted.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -173,7 +173,7 @@ Something or someone that comes out of, is delivered or produced by a process or
 
    :semantic name: https://openminds.om-i.org/props/output
    :value type: | linked object array \(1-N\) of type
-                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/tissueSampleState.html>`_
+                | `TissueSampleState <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/tissueSampleState.html>`_
    :instructions: Add the state of the prepared tissue sample culture that resulted from this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -190,7 +190,7 @@ performedBy
 
    :semantic name: https://openminds.om-i.org/props/performedBy
    :value type: | linked object array \(1-N\) of type
-                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/person.html>`_
+                | `SoftwareAgent <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/computation/softwareAgent.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/person.html>`_
    :instructions: Add all agents that performed this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -207,7 +207,7 @@ preparationDesign
 
    :semantic name: https://openminds.om-i.org/props/preparationDesign
    :value type: | linked object of type
-                | `PreparationType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/preparationType.html>`_
+                | `PreparationType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/preparationType.html>`_
    :instructions: Add the initial preparation type for this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -226,7 +226,7 @@ Plan that describes the process of a scientific or medical experiment, treatment
 
    :semantic name: https://openminds.om-i.org/props/protocol
    :value type: | linked object array \(1-N\) of type
-                | `Protocol <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/research/protocol.html>`_
+                | `Protocol <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/research/protocol.html>`_
    :instructions: Add all protocols used during this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_
@@ -262,7 +262,7 @@ Structure or function that was targeted within a study.
 
    :semantic name: https://openminds.om-i.org/props/studyTarget
    :value type: | linked object array \(1-N\) of type
-                | `AnatomicalCavity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/anatomicalCavity.html>`_, `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cellType.html>`_, `DeviceType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/deviceType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `ExternalBodyRegion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/externalBodyRegion.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/molecularEntity.html>`_, `MuscularStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/muscularStructure.html>`_, `NervousSystemStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/nervousSystemStructure.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organ.html>`_, `OrganSystemStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organSystemStructure.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/organismSystem.html>`_, `SkeletalStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/skeletalStructure.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/termSuggestion.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueSampleType.html>`_, `TissueStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/tissueStructure.html>`_, `VascularStructure <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/vascularStructure.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+                | `AuditoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/auditoryStimulusType.html>`_, `BiologicalOrder <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/biologicalOrder.html>`_, `BiologicalSex <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/biologicalSex.html>`_, `BreedingType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/breedingType.html>`_, `CellCultureType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellCultureType.html>`_, `CellType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cellType.html>`_, `Disease <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/disease.html>`_, `DiseaseModel <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/diseaseModel.html>`_, `ElectricalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/electricalStimulusType.html>`_, `GeneticStrainType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/geneticStrainType.html>`_, `GustatoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/gustatoryStimulusType.html>`_, `Handedness <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/handedness.html>`_, `MolecularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/molecularEntity.html>`_, `OlfactoryStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/olfactoryStimulusType.html>`_, `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_, `Organ <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organ.html>`_, `OrganismSubstance <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organismSubstance.html>`_, `OrganismSystem <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/organismSystem.html>`_, `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_, `SubcellularEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/subcellularEntity.html>`_, `TactileStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tactileStimulusType.html>`_, `TermSuggestion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/termSuggestion.html>`_, `TissueSampleType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/tissueSampleType.html>`_, `UBERONParcellation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/UBERONParcellation.html>`_, `VisualStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/visualStimulusType.html>`_, `CustomAnatomicalEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/non-atlas/customAnatomicalEntity.html>`_, `ParcellationEntity <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntity.html>`_ or `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
    :instructions: Add all study targets of this activity.
 
 `BACK TO TOP <TissueCulturePreparation_>`_

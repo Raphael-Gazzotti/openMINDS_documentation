@@ -9,7 +9,7 @@ ActionStatusType
 Structured information about the status of an action.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/terminologies/actionStatusType.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/terminologies/actionStatusType.html>`_.
 
 ------------
 
@@ -19,7 +19,7 @@ Properties
 ##########
 
 :Required: `name <name_heading_>`_
-:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `otherCrossReference <otherCrossReference_heading_>`_, `otherOntologyIdentifier <otherOntologyIdentifier_heading_>`_, `preferredCrossReference <preferredCrossReference_heading_>`_, `preferredOntologyIdentifier <preferredOntologyIdentifier_heading_>`_, `synonym <synonym_heading_>`_
+:Optional: `definition <definition_heading_>`_, `description <description_heading_>`_, `interlexIdentifier <interlexIdentifier_heading_>`_, `knowledgeSpaceLink <knowledgeSpaceLink_heading_>`_, `preferredOntologyIdentifier <preferredOntologyIdentifier_heading_>`_, `synonym <synonym_heading_>`_
 
 ------------
 
@@ -61,6 +61,44 @@ Longer statement or account giving the characteristics of someone or something.
 
 ------------
 
+.. _interlexIdentifier_heading:
+
+******************
+interlexIdentifier
+******************
+
+Persistent identifier for a term registered in the InterLex project.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/interlexIdentifier
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the integrated ontology entry in the InterLex project.
+
+`BACK TO TOP <ActionStatusType_>`_
+
+------------
+
+.. _knowledgeSpaceLink_heading:
+
+******************
+knowledgeSpaceLink
+******************
+
+Persistent link to an encyclopedia entry in the Knowledge Space project.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/knowledgeSpaceLink
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the wiki page of the corresponding term in the KnowledgeSpace.
+
+`BACK TO TOP <ActionStatusType_>`_
+
+------------
+
 .. _name_heading:
 
 ****
@@ -80,57 +118,6 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
 
 ------------
 
-.. _otherCrossReference_heading:
-
-*******************
-otherCrossReference
-*******************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/otherCrossReference
-   :value type: | string array \(1-N\)
-                | formatting: text/plain; singleline
-   :instructions: Enter all internationalized resource identifiers (IRIs) pointing to cross-references to external databases or registries that are equivalent to this term (e.g., Wikidata). Do not repeat the preferred cross-reference.
-
-`BACK TO TOP <ActionStatusType_>`_
-
-------------
-
-.. _otherOntologyIdentifier_heading:
-
-***********************
-otherOntologyIdentifier
-***********************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/otherOntologyIdentifier
-   :value type: | string array \(1-N\)
-                | formatting: text/plain; singleline
-   :instructions: Enter all internationalized resource identifiers (IRIs) pointing to ontology entries that are equivalent to this term (e.g., UBERON). Do not repeat the preferred ontology identifier.
-
-`BACK TO TOP <ActionStatusType_>`_
-
-------------
-
-.. _preferredCrossReference_heading:
-
-***********************
-preferredCrossReference
-***********************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/preferredCrossReference
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred cross-reference to an external database or registry (e.g., KnowledgeSpace).
-
-`BACK TO TOP <ActionStatusType_>`_
-
-------------
-
 .. _preferredOntologyIdentifier_heading:
 
 ***************************
@@ -144,7 +131,7 @@ Persistent identifier of a preferred ontological term.
    :semantic name: https://openminds.om-i.org/props/preferredOntologyIdentifier
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term (e.g., InterLex).
+   :instructions: Enter the internationalized resource identifier (IRI) pointing to the preferred ontological term.
 
 `BACK TO TOP <ActionStatusType_>`_
 

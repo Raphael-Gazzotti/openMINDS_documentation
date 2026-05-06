@@ -2,7 +2,7 @@
 Terminologies: SetupType library
 ################################
 
-Related schema specification: `SetupType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/setupType.html>`_
+Related schema specification: `SetupType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/setupType.html>`_
 
 ------------
 

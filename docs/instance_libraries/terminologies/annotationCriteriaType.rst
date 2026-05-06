@@ -2,7 +2,7 @@
 Terminologies: AnnotationCriteriaType library
 #############################################
 
-Related schema specification: `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/annotationCriteriaType.html>`_
+Related schema specification: `AnnotationCriteriaType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/annotationCriteriaType.html>`_
 
 ------------
 

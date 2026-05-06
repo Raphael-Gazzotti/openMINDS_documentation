@@ -16,7 +16,7 @@ Structured information about an association of two or more persons or organizati
 Properties
 ##########
 
-:Required: `fullName <fullName_heading_>`_, `memberships <memberships_heading_>`_
+:Required: `fullName <fullName_heading_>`_
 :Optional: `contactInformation <contactInformation_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
 
 ------------
@@ -33,7 +33,7 @@ Any available way used to contact a person or business (e.g., address, phone num
 
    :semantic name: https://openminds.om-i.org/props/contactInformation
    :value type: | linked object of type
-                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/actors/contactInformation.html>`_
+                | `ContactInformation <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/actors/contactInformation.html>`_
    :instructions: Add the contact information of this consortium.
 
 `BACK TO TOP <Consortium_>`_
@@ -73,23 +73,6 @@ Main website of something or someone.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this consortium.
-
-`BACK TO TOP <Consortium_>`_
-
-------------
-
-.. _memberships_heading:
-
-***********
-memberships
-***********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/memberships
-   :value type: | embedded object array \(2-N\) of type
-                | `Membership <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/membership.html>`_
-   :instructions: Add all membership records (one per member) for this consortium.
 
 `BACK TO TOP <Consortium_>`_
 

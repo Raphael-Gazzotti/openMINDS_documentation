@@ -2,7 +2,7 @@
 ParcellationEntityVersions: AAL1_SPM12-v4 library
 #################################################
 
-Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
+Related schema specification: `ParcellationEntityVersion <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/SANDS/atlas/parcellationEntityVersion.html>`_
 
 ------------
 
@@ -19,8 +19,7 @@ AAL1_SPM12-v4_ACIN
    :abbreviation: ACIN
    :alternateName: CIA, Cingulum_Ant
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_ACIN <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-acin>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_ACIN
    :name: anterior cingulate and paracingulate gyri
    :versionIdentifier: SPM12, v4
@@ -40,8 +39,7 @@ AAL1_SPM12-v4_AG
    :abbreviation: AG
    :alternateName: Angular, GA
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
-   :isVersionOf: `AAL1_AG <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-ag>`_
+   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
    :lookupLabel: AAL1_SPM12-v4_AG
    :name: angular gyrus
    :versionIdentifier: SPM12, v4
@@ -61,8 +59,7 @@ AAL1_SPM12-v4_AMYG
    :abbreviation: AMYG
    :alternateName: AMYGD, Amygdala
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
-   :isVersionOf: `AAL1_AMYG <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-amyg>`_
+   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
    :lookupLabel: AAL1_SPM12-v4_AMYG
    :name: amygdala
    :versionIdentifier: SPM12, v4
@@ -82,8 +79,7 @@ AAL1_SPM12-v4_CAU
    :abbreviation: CAU
    :alternateName: Caudate, NC
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
-   :isVersionOf: `AAL1_CAU <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-cau>`_
+   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
    :lookupLabel: AAL1_SPM12-v4_CAU
    :name: caudate nucleus
    :versionIdentifier: SPM12, v4
@@ -103,8 +99,7 @@ AAL1_SPM12-v4_F1
    :abbreviation: F1
    :alternateName: F1, Frontal_Sup
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f1>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F1
    :name: superior frontal gyrus, dorsolateral
    :versionIdentifier: SPM12, v4
@@ -124,8 +119,7 @@ AAL1_SPM12-v4_F1M
    :abbreviation: F1M
    :alternateName: FM, Frontal_Sup_Medial
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F1M <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f1m>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F1M
    :name: superior frontal gyrus, medial
    :versionIdentifier: SPM12, v4
@@ -145,8 +139,7 @@ AAL1_SPM12-v4_F1MO
    :abbreviation: F1MO
    :alternateName: FMO, Frontal_Med_Orb
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F1MO <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f1mo>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F1MO
    :name: superior frontal gyrus, medial orbital
    :versionIdentifier: SPM12, v4
@@ -166,8 +159,7 @@ AAL1_SPM12-v4_F1O
    :abbreviation: F1O
    :alternateName: F1O, Frontal_Sup_Orb
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F1O <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f1o>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F1O
    :name: superior frontal gyrus, orbital part
    :versionIdentifier: SPM12, v4
@@ -187,8 +179,7 @@ AAL1_SPM12-v4_F2
    :abbreviation: F2
    :alternateName: F2, Frontal_Mid
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f2>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F2
    :name: middle frontal gyrus
    :versionIdentifier: SPM12, v4
@@ -208,8 +199,7 @@ AAL1_SPM12-v4_F2O
    :abbreviation: F2O
    :alternateName: F2O, Frontal_Mid_Orb
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F2O <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f2o>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F2O
    :name: middle frontal gyrus, orbital part
    :versionIdentifier: SPM12, v4
@@ -229,8 +219,7 @@ AAL1_SPM12-v4_F3O
    :abbreviation: F3O
    :alternateName: F3O, Frontal_Inf_Orb
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F3O <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f3o>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F3O
    :name: inferior frontal gyrus, orbital part
    :versionIdentifier: SPM12, v4
@@ -250,8 +239,7 @@ AAL1_SPM12-v4_F3OP
    :abbreviation: F3OP
    :alternateName: F3OP, Frontal_Inf_Oper
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F3OP <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f3op>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F3OP
    :name: inferior frontal gyrus, opercular part
    :versionIdentifier: SPM12, v4
@@ -271,8 +259,7 @@ AAL1_SPM12-v4_F3T
    :abbreviation: F3T
    :alternateName: F3T, Frontal_Inf_Tri
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_F3T <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-f3t>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_F3T
    :name: inferior frontal gyrus, triangular part
    :versionIdentifier: SPM12, v4
@@ -292,8 +279,7 @@ AAL1_SPM12-v4_FUSI
    :abbreviation: FUSI
    :alternateName: FUSI, Fusiform
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_FUSI <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-fusi>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_FUSI
    :name: fusiform gyrus
    :versionIdentifier: SPM12, v4
@@ -313,8 +299,7 @@ AAL1_SPM12-v4_GR
    :abbreviation: GR
    :alternateName: GR, Rectus
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_GR <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-gr>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_GR
    :name: gyrus rectus
    :versionIdentifier: SPM12, v4
@@ -334,8 +319,7 @@ AAL1_SPM12-v4_HES
    :abbreviation: HES
    :alternateName: HESCHL, Heschl
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
-   :isVersionOf: `AAL1_HES <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-hes>`_
+   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
    :lookupLabel: AAL1_SPM12-v4_HES
    :name: Heschl gyrus
    :versionIdentifier: SPM12, v4
@@ -355,8 +339,7 @@ AAL1_SPM12-v4_HIP
    :abbreviation: HIP
    :alternateName: HIPPO, Hippocampus
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_HIP <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-hip>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_HIP
    :name: hippocampus
    :versionIdentifier: SPM12, v4
@@ -376,8 +359,7 @@ AAL1_SPM12-v4_IN
    :abbreviation: IN
    :alternateName: IN, Insula
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
-   :isVersionOf: `AAL1_IN <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-in>`_
+   :hasParent: `AAL1_brain <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-brain>`_
    :lookupLabel: AAL1_SPM12-v4_IN
    :name: insula
    :versionIdentifier: SPM12, v4
@@ -397,8 +379,7 @@ AAL1_SPM12-v4_LING
    :abbreviation: LING
    :alternateName: LING, Lingual
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_LING <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-ling>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_LING
    :name: lingual gyrus
    :versionIdentifier: SPM12, v4
@@ -418,8 +399,7 @@ AAL1_SPM12-v4_MCIN
    :abbreviation: MCIN
    :alternateName: CINM, Cingulum_Mid
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_MCIN <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-mcin>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_MCIN
    :name: median cingulate and paracingulate gyri
    :versionIdentifier: SPM12, v4
@@ -439,8 +419,7 @@ AAL1_SPM12-v4_O1
    :abbreviation: O1
    :alternateName: O1, Occipital_Sup
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_O1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-o1>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_O1
    :name: superior occipital gyrus
    :versionIdentifier: SPM12, v4
@@ -460,8 +439,7 @@ AAL1_SPM12-v4_O2
    :abbreviation: O2
    :alternateName: O2, Occipital_Mid
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_O2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-o2>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_O2
    :name: middle occipital gyrus
    :versionIdentifier: SPM12, v4
@@ -481,8 +459,7 @@ AAL1_SPM12-v4_O3
    :abbreviation: O3
    :alternateName: O3, Occipital_Inf
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_O3 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-o3>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_O3
    :name: inferior occipital gyrus
    :versionIdentifier: SPM12, v4
@@ -502,8 +479,7 @@ AAL1_SPM12-v4_OC
    :abbreviation: OC
    :alternateName: COB, Olfactory
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_OC <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-oc>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_OC
    :name: olfactory cortex
    :versionIdentifier: SPM12, v4
@@ -523,8 +499,7 @@ AAL1_SPM12-v4_P1
    :abbreviation: P1
    :alternateName: P1, Parietal_Sup
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
-   :isVersionOf: `AAL1_P1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-p1>`_
+   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
    :lookupLabel: AAL1_SPM12-v4_P1
    :name: superior parietal gyrus
    :versionIdentifier: SPM12, v4
@@ -544,8 +519,7 @@ AAL1_SPM12-v4_P2
    :abbreviation: P2
    :alternateName: P2, Parietal_Inf
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
-   :isVersionOf: `AAL1_P2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-p2>`_
+   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
    :lookupLabel: AAL1_SPM12-v4_P2
    :name: inferior parietal, but supramarginal and angular gyri
    :versionIdentifier: SPM12, v4
@@ -565,8 +539,7 @@ AAL1_SPM12-v4_PAL
    :abbreviation: PAL
    :alternateName: PALL, Pallidum
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
-   :isVersionOf: `AAL1_PAL <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-pal>`_
+   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
    :lookupLabel: AAL1_SPM12-v4_PAL
    :name: lenticular nucleus, pallidum
    :versionIdentifier: SPM12, v4
@@ -586,8 +559,7 @@ AAL1_SPM12-v4_PCIN
    :abbreviation: PCIN
    :alternateName: CIP, Cingulum_Post
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_PCIN <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-pcin>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_PCIN
    :name: posterior cingulate gyrus
    :versionIdentifier: SPM12, v4
@@ -607,8 +579,7 @@ AAL1_SPM12-v4_PCL
    :abbreviation: PCL
    :alternateName: LPC, Paracentralobule
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_PCL <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-pcl>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_PCL
    :name: paracentral lobule
    :versionIdentifier: SPM12, v4
@@ -628,8 +599,7 @@ AAL1_SPM12-v4_PHIP
    :abbreviation: PHIP
    :alternateName: PARA_HIPPO, ParaHippocampal
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_PHIP <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-phip>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_PHIP
    :name: parahippocampal gyrus
    :versionIdentifier: SPM12, v4
@@ -649,8 +619,7 @@ AAL1_SPM12-v4_POST
    :abbreviation: POST
    :alternateName: PA, Postcentral
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_centralRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-centralregion>`_
-   :isVersionOf: `AAL1_POST <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-post>`_
+   :hasParent: `AAL1_centralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-centralregion>`_
    :lookupLabel: AAL1_SPM12-v4_POST
    :name: postcentral gyrus
    :versionIdentifier: SPM12, v4
@@ -670,8 +639,7 @@ AAL1_SPM12-v4_PQ
    :abbreviation: PQ
    :alternateName: PQ, Precuneus
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
-   :isVersionOf: `AAL1_PQ <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-pq>`_
+   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
    :lookupLabel: AAL1_SPM12-v4_PQ
    :name: precuneus
    :versionIdentifier: SPM12, v4
@@ -691,8 +659,7 @@ AAL1_SPM12-v4_PRE
    :abbreviation: PRE
    :alternateName: FA, Precentral
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_centralRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-centralregion>`_
-   :isVersionOf: `AAL1_PRE <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-pre>`_
+   :hasParent: `AAL1_centralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-centralregion>`_
    :lookupLabel: AAL1_SPM12-v4_PRE
    :name: precentral gyrus
    :versionIdentifier: SPM12, v4
@@ -712,8 +679,7 @@ AAL1_SPM12-v4_PUT
    :abbreviation: PUT
    :alternateName: NL, Putamen
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
-   :isVersionOf: `AAL1_PUT <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-put>`_
+   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
    :lookupLabel: AAL1_SPM12-v4_PUT
    :name: lenticular nucleus, putamen
    :versionIdentifier: SPM12, v4
@@ -733,8 +699,7 @@ AAL1_SPM12-v4_Q
    :abbreviation: Q
    :alternateName: Cuneus, Q
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_Q <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-q>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_Q
    :name: cuneus
    :versionIdentifier: SPM12, v4
@@ -754,8 +719,7 @@ AAL1_SPM12-v4_RO
    :abbreviation: RO
    :alternateName: OR, Rolandic_Oper
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_centralRegion <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-centralregion>`_
-   :isVersionOf: `AAL1_RO <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-ro>`_
+   :hasParent: `AAL1_centralRegion <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-centralregion>`_
    :lookupLabel: AAL1_SPM12-v4_RO
    :name: rolandic operculum
    :versionIdentifier: SPM12, v4
@@ -775,8 +739,7 @@ AAL1_SPM12-v4_SMA
    :abbreviation: SMA
    :alternateName: SMA, Supp_Motor_Area
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
-   :isVersionOf: `AAL1_SMA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-sma>`_
+   :hasParent: `AAL1_frontalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-frontallobe>`_
    :lookupLabel: AAL1_SPM12-v4_SMA
    :name: supplementary motor area
    :versionIdentifier: SPM12, v4
@@ -796,8 +759,7 @@ AAL1_SPM12-v4_SMG
    :abbreviation: SMG
    :alternateName: GSM, SupraMarginal
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
-   :isVersionOf: `AAL1_SMG <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-smg>`_
+   :hasParent: `AAL1_parietalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-parietallobe>`_
    :lookupLabel: AAL1_SPM12-v4_SMG
    :name: supramarginal gyrus
    :versionIdentifier: SPM12, v4
@@ -817,8 +779,7 @@ AAL1_SPM12-v4_T1
    :abbreviation: T1
    :alternateName: T1, Temporal_Sup
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
-   :isVersionOf: `AAL1_T1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-t1>`_
+   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
    :lookupLabel: AAL1_SPM12-v4_T1
    :name: superior temporal gyrus
    :versionIdentifier: SPM12, v4
@@ -838,8 +799,7 @@ AAL1_SPM12-v4_T1P
    :abbreviation: T1P
    :alternateName: T1A, Temporal_Pole_Sup
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_T1P <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-t1p>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_T1P
    :name: temporal pole: superior temporal gyrus
    :versionIdentifier: SPM12, v4
@@ -859,8 +819,7 @@ AAL1_SPM12-v4_T2
    :abbreviation: T2
    :alternateName: T2, Temporal_Mid
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
-   :isVersionOf: `AAL1_T2 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-t2>`_
+   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
    :lookupLabel: AAL1_SPM12-v4_T2
    :name: middle temporal gyrus
    :versionIdentifier: SPM12, v4
@@ -880,8 +839,7 @@ AAL1_SPM12-v4_T2P
    :abbreviation: T2P
    :alternateName: T2A, Temporal_Pole_Mid
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
-   :isVersionOf: `AAL1_T2P <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-t2p>`_
+   :hasParent: `AAL1_limbicLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-limbiclobe>`_
    :lookupLabel: AAL1_SPM12-v4_T2P
    :name: temporal pole: middle temporal gyrus
    :versionIdentifier: SPM12, v4
@@ -901,8 +859,7 @@ AAL1_SPM12-v4_T3
    :abbreviation: T3
    :alternateName: T3, Temporal_Inf
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
-   :isVersionOf: `AAL1_T3 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-t3>`_
+   :hasParent: `AAL1_temporalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-temporallobe>`_
    :lookupLabel: AAL1_SPM12-v4_T3
    :name: inferior temporal gyrus
    :versionIdentifier: SPM12, v4
@@ -922,8 +879,7 @@ AAL1_SPM12-v4_THA
    :abbreviation: THA
    :alternateName: THA, Thalamus
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
-   :isVersionOf: `AAL1_THA <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-tha>`_
+   :hasParent: `AAL1_subcorticalGrayNuclei <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-subcorticalgraynuclei>`_
    :lookupLabel: AAL1_SPM12-v4_THA
    :name: thalamus
    :versionIdentifier: SPM12, v4
@@ -943,8 +899,7 @@ AAL1_SPM12-v4_V1
    :abbreviation: V1
    :alternateName: Calcarine, V1
    :hasAnnotation: COMING SOON
-   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
-   :isVersionOf: `AAL1_V1 <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/parcellationEntities/AAL1.html#aal1-v1>`_
+   :hasParent: `AAL1_occipitalLobe <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/parcellationEntities/AAL1.html#aal1-occipitallobe>`_
    :lookupLabel: AAL1_SPM12-v4_V1
    :name: calcarine fissure and surrounding cortex
    :versionIdentifier: SPM12, v4

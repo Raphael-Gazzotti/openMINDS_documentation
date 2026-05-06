@@ -2,7 +2,7 @@
 Terminologies: AnalysisTechnique library
 ########################################
 
-Related schema specification: `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/analysisTechnique.html>`_
+Related schema specification: `AnalysisTechnique <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/analysisTechnique.html>`_
 
 ------------
 
@@ -500,8 +500,9 @@ dynamicCausalModeling
    :@id: https://openminds.om-i.org/instances/analysisTechnique/dynamicCausalModeling
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: An analysis framework for specifying non-linear state-space models in continuous time using stochastic or ordinary differential equations, for fitting them to data and comparing their evidence using Bayesian model comparison.[adapted from [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_causal_modeling)]
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103618
    :name: dynamic causal modeling
-   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0103618
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0103618
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1175,6 +1176,7 @@ pathwayAnalysis
    :@id: https://openminds.om-i.org/instances/analysisTechnique/pathwayAnalysis
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: A 'pathway analysis' refers to a group of techniques that aim to discover what biological themes, and which biomolecules, are crucial to understand biological pathways of (typically) high-throughput biological data (adapted from [García-Campos et al., 2015](https://doi.org/10.3389/fphys.2015.00383)).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0778897
    :name: pathway analysis
    :preferredOntologyIdentifier: http://edamontology.org/operation_3928
 
@@ -1409,8 +1411,9 @@ signalFilteringTechnique
    :@id: https://openminds.om-i.org/instances/analysisTechnique/signalFilteringTechnique
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: 'Signal filtering' is a signal processing technique used to remove or suppress unwanted components or features (e.g., certain frequencies) from a measured signal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Filter_(signal_processing))]
+   :interlexIdentifier: http://uri.interlex.org/ilx_0739623
    :name: signal filtering technique
-   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739623
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/151
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1425,8 +1428,9 @@ signalProcessingTechnique
    :@id: https://openminds.om-i.org/instances/analysisTechnique/signalProcessingTechnique
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: 'Signal processing' refers to a class of analysis techniques used to improve transmission, storage efficiency and subjective quality as well as to emphasize or detect components of interest in a measured signal. [adapted from [wikipedia](https://en.wikipedia.org/wiki/Signal_processing)]
+   :interlexIdentifier: http://uri.interlex.org/ilx_0739633
    :name: signal processing technique
-   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739633
+   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/readable/technique/sigproc
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 
@@ -1471,8 +1475,8 @@ spikeSorting
    :@id: https://openminds.om-i.org/instances/analysisTechnique/spikeSorting
    :@type: https://openminds.om-i.org/types/AnalysisTechnique
    :definition: 'Spike sorting' is a class of techniques used in the analysis of extracellular electrophysiological data to extract the activity of one or more neurons from the background electrical noise by making use of the typical waveforms action potentials (spikes) create in the recorded neuronal signal.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0739628
    :name: spike sorting
-   :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0739628
 
 `BACK TO TOP <Terminologies: AnalysisTechnique library_>`_
 

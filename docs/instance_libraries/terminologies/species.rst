@@ -2,7 +2,7 @@
 Terminologies: Species library
 ##############################
 
-Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/species.html>`_
+Related schema specification: `Species <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/species.html>`_
 
 ------------
 
@@ -33,6 +33,7 @@ bosTaurus
    :@id: https://openminds.om-i.org/instances/species/bosTaurus
    :@type: https://openminds.om-i.org/types/Species
    :definition: Cattle (Bos taurus) are large, domesticated, bovid ungulates widely kept as livestock.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101393
    :name: Bos taurus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9913
 
@@ -49,6 +50,7 @@ caenorhabditisElegans
    :@id: https://openminds.om-i.org/instances/species/caenorhabditisElegans
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Caenorhabditis elegans* (C. elegans) belongs to the family of *rhabditidae* (roundworms).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101548
    :name: Caenorhabditis elegans
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_6239
 
@@ -129,6 +131,7 @@ cricetulusGriseus
    :@id: https://openminds.om-i.org/instances/species/cricetulusGriseus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The Chinese hamster (Cricetulus griseus or Cricetulus aureus) is a rodent in the genus Cricetulus of the subfamily Cricetidae.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0102635
    :name: Cricetulus griseus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10029
 
@@ -145,8 +148,9 @@ danioRerio
    :@id: https://openminds.om-i.org/instances/species/danioRerio
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Danio rerio* (zebrafish) belongs to the family of *cyprinidae* (cyprinids, freshwater fish).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0783580
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:7955#danio-rerio
    :name: Danio rerio
-   :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:7955#danio-rerio
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_7955
 
 `BACK TO TOP <Terminologies: Species library_>`_
@@ -162,6 +166,7 @@ drosophilaMelanogaster
    :@id: https://openminds.om-i.org/instances/species/drosophilaMelanogaster
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Drosophila melanogaster* (fruit fly) belongs to the family of *Drosophilidae*.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0103567
    :name: Drosophila melanogaster
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_7227
 
@@ -178,6 +183,7 @@ felisCatus
    :@id: https://openminds.om-i.org/instances/species/felisCatus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Felis catus* (domestic cat) belongs to the family of *Felidae*, subfamily *Felinae*.
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0101690
    :name: Felis catus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9685
 
@@ -194,8 +200,9 @@ homoSapiens
    :@id: https://openminds.om-i.org/instances/species/homoSapiens
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Homo sapiens* (humans) belongs to the family of *hominidae* (great apes).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0105114
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:9606#human
    :name: Homo sapiens
-   :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:9606#human
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
 
 `BACK TO TOP <Terminologies: Species library_>`_
@@ -211,6 +218,7 @@ macacaFascicularis
    :@id: https://openminds.om-i.org/instances/species/macacaFascicularis
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fascicularis* (crab-eating macaque) belongs to the family of *cercopithecidae* (old world monkeys).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0485278
    :name: Macaca fascicularis
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9541
 
@@ -227,6 +235,7 @@ macacaFuscata
    :@id: https://openminds.om-i.org/instances/species/macacaFuscata
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca fuscata* (Japanese macaque) belongs to the family of *cercopithecidae* (old world monkeys).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0105773
    :name: Macaca fuscata
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9542
 
@@ -243,6 +252,7 @@ macacaMulatta
    :@id: https://openminds.om-i.org/instances/species/macacaMulatta
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Macaca mulatta* (rhesus macaque) belongs to the family of *cercopithecidae* (old world monkeys).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0110118
    :name: Macaca mulatta
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
 
@@ -307,8 +317,9 @@ musMusculus
    :@id: https://openminds.om-i.org/instances/species/musMusculus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mus musculus* (house mouse) belongs to the family of *muridae* (murids).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0107134
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:10090#mouse
    :name: Mus musculus
-   :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:10090#mouse
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
 
 `BACK TO TOP <Terminologies: Species library_>`_
@@ -340,6 +351,7 @@ mustelaPutoriusFuro
    :@id: https://openminds.om-i.org/instances/species/mustelaPutoriusFuro
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Mustela putorius furo* (domestic ferret) belongs to the family of *mustelidae* (mustelids).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0104165
    :name: Mustela putorius furo
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9669
 
@@ -389,8 +401,9 @@ rattusNorvegicus
    :@id: https://openminds.om-i.org/instances/species/rattusNorvegicus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Rattus norvegicus* (brown rat) belongs to the family of *muridae* (murids).
+   :interlexIdentifier: http://uri.interlex.org/base/ilx_0109658
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:10116#rat
    :name: Rattus norvegicus
-   :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:10116#rat
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
 
 `BACK TO TOP <Terminologies: Species library_>`_
@@ -406,8 +419,9 @@ susScrofaDomesticus
    :@id: https://openminds.om-i.org/instances/species/susScrofaDomesticus
    :@type: https://openminds.om-i.org/types/Species
    :definition: The species *Sus scrofa domesticus* (domestic pig) belongs to the family of suidae (suids).
+   :interlexIdentifier: http://uri.interlex.org/ilx_0739770
+   :knowledgeSpaceLink: https://knowledge-space.org/wiki/NCBITaxon:9825#sus-scrofa-domesticus
    :name: Sus scrofa domesticus
-   :preferredCrossReference: https://knowledge-space.org/wiki/NCBITaxon:9825#sus-scrofa-domesticus
    :preferredOntologyIdentifier: http://purl.obolibrary.org/obo/NCBITaxon_9825
 
 `BACK TO TOP <Terminologies: Species library_>`_

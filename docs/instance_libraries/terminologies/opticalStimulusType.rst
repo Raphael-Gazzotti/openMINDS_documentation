@@ -2,7 +2,7 @@
 Terminologies: OpticalStimulusType library
 ##########################################
 
-Related schema specification: `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_
+Related schema specification: `OpticalStimulusType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/opticalStimulusType.html>`_
 
 ------------
 

@@ -9,7 +9,7 @@ ContentType
 Structured information on the content type of a file instance, bundle or repository.
 
 
-For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v5.0/instance_libraries/contentTypes.html>`_.
+For this schema openMINDS provides a `library of instances <https://openminds-documentation.readthedocs.io/en/v4.0/instance_libraries/contentTypes.html>`_.
 
 ------------
 
@@ -19,7 +19,7 @@ Properties
 ##########
 
 :Required: `name <name_heading_>`_
-:Optional: `dataType <dataType_heading_>`_, `definingSource <definingSource_heading_>`_, `description <description_heading_>`_, `displayLabel <displayLabel_heading_>`_, `fileExtension <fileExtension_heading_>`_, `isBasedOn <isBasedOn_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
+:Optional: `dataType <dataType_heading_>`_, `description <description_heading_>`_, `displayLabel <displayLabel_heading_>`_, `fileExtension <fileExtension_heading_>`_, `relatedMediaType <relatedMediaType_heading_>`_, `specification <specification_heading_>`_, `synonym <synonym_heading_>`_
 
 ------------
 
@@ -33,25 +33,8 @@ dataType
 
    :semantic name: https://openminds.om-i.org/props/dataType
    :value type: | linked object array \(1-N\) of type
-                | `DataType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/dataType.html>`_
+                | `DataType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/dataType.html>`_
    :instructions: Add all data types that may be represented via this content type.
-
-`BACK TO TOP <ContentType_>`_
-
-------------
-
-.. _definingSource_heading:
-
-**************
-definingSource
-**************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/definingSource
-   :value type: | string array \(1-N\)
-                | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifiers (IRIs) of sources that define or document this content type, preferably authoritative registries (e.g., IANA), or reference documentation (e.g., mimetype.io) if no registry entry exists.
 
 `BACK TO TOP <ContentType_>`_
 
@@ -112,23 +95,6 @@ String of characters attached as suffix to the names of files of a particular fo
 
 ------------
 
-.. _isBasedOn_heading:
-
-*********
-isBasedOn
-*********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/isBasedOn
-   :value type: | linked object array \(1-N\) of type
-                | `ContentType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/data/contentType.html>`_
-   :instructions: Add all content types this content type is based on.
-
-`BACK TO TOP <ContentType_>`_
-
-------------
-
 .. _name_heading:
 
 ****
@@ -143,6 +109,25 @@ Word or phrase that constitutes the distinctive designation of a being or thing.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the name of this content type following a IANA.org inspired convention.
+
+`BACK TO TOP <ContentType_>`_
+
+------------
+
+.. _relatedMediaType_heading:
+
+****************
+relatedMediaType
+****************
+
+Reference to an official two-part identifier for file formats and format contents.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/relatedMediaType
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) to the official registered media type (e.g., provided on IANA.org) matching this content type.
 
 `BACK TO TOP <ContentType_>`_
 

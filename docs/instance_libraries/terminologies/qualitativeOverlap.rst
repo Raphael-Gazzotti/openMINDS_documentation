@@ -2,7 +2,7 @@
 Terminologies: QualitativeOverlap library
 #########################################
 
-Related schema specification: `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/qualitativeOverlap.html>`_
+Related schema specification: `QualitativeOverlap <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/qualitativeOverlap.html>`_
 
 ------------
 

@@ -17,24 +17,7 @@ Properties
 ##########
 
 :Required: `name <name_heading_>`_, `value <value_heading_>`_
-:Optional: `externalDefinitionOfName <externalDefinitionOfName_heading_>`_
-
-------------
-
-.. _externalDefinitionOfName_heading:
-
-************************
-externalDefinitionOfName
-************************
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/externalDefinitionOfName
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the internationalized resource identifier (IRI) to an external definition of the property name.
-
-`BACK TO TOP <NumericalProperty_>`_
+:Optional:
 
 ------------
 
@@ -69,7 +52,7 @@ Entry for a property.
 
    :semantic name: https://openminds.om-i.org/props/value
    :value type: | embedded object array \(1-N\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
+                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
    :instructions: Enter all quantitative values that are described by this numerical property.
 
 `BACK TO TOP <NumericalProperty_>`_

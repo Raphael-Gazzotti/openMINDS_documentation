@@ -2,7 +2,7 @@
 Terminologies: CranialWindowReinforcementType library
 #####################################################
 
-Related schema specification: `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/cranialWindowReinforcementType.html>`_
+Related schema specification: `CranialWindowReinforcementType <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/cranialWindowReinforcementType.html>`_
 
 ------------
 

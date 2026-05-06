@@ -2,7 +2,7 @@
 Terminologies: Handedness library
 #################################
 
-Related schema specification: `Handedness <https://openminds-documentation.readthedocs.io/en/v5.0/schema_specifications/controlledTerms/handedness.html>`_
+Related schema specification: `Handedness <https://openminds-documentation.readthedocs.io/en/v4.0/schema_specifications/controlledTerms/handedness.html>`_
 
 ------------
 
