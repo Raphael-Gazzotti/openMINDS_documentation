@@ -13,6 +13,7 @@ derivedData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/semanticDataType/derivedData
    :@type: https://openminds.om-i.org/types/SemanticDataType
    :name: derived data
@@ -26,6 +27,7 @@ experimentalData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/semanticDataType/experimentalData
    :@type: https://openminds.om-i.org/types/SemanticDataType
    :name: experimental data
@@ -39,6 +41,7 @@ rawData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/semanticDataType/rawData
    :@type: https://openminds.om-i.org/types/SemanticDataType
    :name: raw data
@@ -52,6 +55,7 @@ simulatedData
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/semanticDataType/simulatedData
    :@type: https://openminds.om-i.org/types/SemanticDataType
    :name: simulated data

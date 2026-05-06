@@ -9,6 +9,8 @@ Research
 - `PropertyValueList <research/propertyValueList.html>`_
 - `Protocol <research/protocol.html>`_
 - `ProtocolExecution <research/protocolExecution.html>`_
+- `SpecimenAge <research/specimenAge.html>`_
+- `SpecimenWeight <research/specimenWeight.html>`_
 - `Strain <research/strain.html>`_
 - `StringProperty <research/stringProperty.html>`_
 - `Subject <research/subject.html>`_
@@ -29,6 +31,8 @@ Research
    research/propertyValueList
    research/protocol
    research/protocolExecution
+   research/specimenAge
+   research/specimenWeight
    research/strain
    research/stringProperty
    research/subject

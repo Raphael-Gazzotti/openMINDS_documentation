@@ -13,6 +13,7 @@ standardDeviation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/typeOfUncertainty/standardDeviation
    :@type: https://openminds.om-i.org/types/TypeOfUncertainty
    :name: standard deviation
@@ -26,6 +27,7 @@ standardError
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/typeOfUncertainty/standardError
    :@type: https://openminds.om-i.org/types/TypeOfUncertainty
    :name: standard error

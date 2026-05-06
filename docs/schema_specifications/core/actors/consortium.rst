@@ -16,7 +16,7 @@ Structured information about an association of two or more persons or organizati
 Properties
 ##########
 
-:Required: `fullName <fullName_heading_>`_
+:Required: `fullName <fullName_heading_>`_, `memberships <memberships_heading_>`_
 :Optional: `contactInformation <contactInformation_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
 
 ------------
@@ -73,6 +73,23 @@ Main website of something or someone.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the internationalized resource identifier (IRI) to the homepage of this consortium.
+
+`BACK TO TOP <Consortium_>`_
+
+------------
+
+.. _memberships_heading:
+
+***********
+memberships
+***********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/memberships
+   :value type: | embedded object array \(2-N\) of type
+                | `Membership <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/membership.html>`_
+   :instructions: Add all membership records (one per member) for this consortium.
 
 `BACK TO TOP <Consortium_>`_
 

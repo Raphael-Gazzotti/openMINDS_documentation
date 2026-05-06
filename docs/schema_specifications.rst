@@ -7,6 +7,7 @@ Schema specifications
 - `ControlledTerms <schema_specifications/controlledTerms.html>`_
 - `Core <schema_specifications/core.html>`_
 - `Ephys <schema_specifications/ephys.html>`_
+- `Neuroimaging <schema_specifications/neuroimaging.html>`_
 - `Publications <schema_specifications/publications.html>`_
 - `SANDS <schema_specifications/SANDS.html>`_
 - `SpecimenPrep <schema_specifications/specimenPrep.html>`_
@@ -19,6 +20,7 @@ Schema specifications
    schema_specifications/controlledTerms
    schema_specifications/core
    schema_specifications/ephys
+   schema_specifications/neuroimaging
    schema_specifications/publications
    schema_specifications/SANDS
    schema_specifications/specimenPrep

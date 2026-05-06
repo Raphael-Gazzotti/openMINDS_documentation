@@ -13,6 +13,7 @@ left
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/laterality/left
    :@type: https://openminds.om-i.org/types/Laterality
    :name: left
@@ -26,6 +27,7 @@ right
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/laterality/right
    :@type: https://openminds.om-i.org/types/Laterality
    :name: right

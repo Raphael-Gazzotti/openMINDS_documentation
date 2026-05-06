@@ -13,6 +13,7 @@ chlorideReversalPotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/chlorideReversalPotential
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: The reversal potential for chloride ions.
@@ -27,6 +28,7 @@ compensationCurrent
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/compensationCurrent
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Current injected into a cell to maintain the membrane potential at a target value.
@@ -41,6 +43,7 @@ holdingPotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/holdingPotential
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Measured membrane potential during a voltage-clamp protocol.
@@ -55,6 +58,7 @@ inputResistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/inputResistance
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Total resistance observed by the amplifier during an electrophysiological recording.
@@ -69,6 +73,7 @@ liquidJunctionPotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/liquidJunctionPotential
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: A potential difference that develops when two solutions of electrolytes of different concentrations are in contact with each other.
@@ -83,10 +88,10 @@ membranePotential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/membranePotential
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: A quality inhering in a cell's plasma membrane by virtue of the electric potential difference across it.
-   :interlexIdentifier: http://uri.interlex.org/base/ilx_0106774
    :name: membrane potential
    :preferredOntologyIdentifier: http://uri.interlex.org/base/ilx_0106774
 
@@ -99,6 +104,7 @@ sealResistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/sealResistance
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Resistance of the seal between the pipette tip and cell membrane in patch-clamp recording.
@@ -113,6 +119,7 @@ seriesResistance
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/measuredQuantity/seriesResistance
    :@type: https://openminds.om-i.org/types/MeasuredQuantity
    :definition: Resistance of the electrode during an electrophysiological recording.

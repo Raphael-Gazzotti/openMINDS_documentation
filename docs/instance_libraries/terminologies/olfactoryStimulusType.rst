@@ -13,6 +13,7 @@ floralOdor
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/olfactoryStimulusType/floralOdor
    :@type: https://openminds.om-i.org/types/OlfactoryStimulusType
    :definition: Any chemical compound that smells floral.

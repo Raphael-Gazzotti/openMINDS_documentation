@@ -15,7 +15,24 @@ Properties
 ##########
 
 :Required: `name <name_heading_>`_, `value <value_heading_>`_
-:Optional:
+:Optional: `externalDefinitionOfName <externalDefinitionOfName_heading_>`_
+
+------------
+
+.. _externalDefinitionOfName_heading:
+
+************************
+externalDefinitionOfName
+************************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/externalDefinitionOfName
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the internationalized resource identifier (IRI) to an external definition of the property name.
+
+`BACK TO TOP <StringProperty_>`_
 
 ------------
 

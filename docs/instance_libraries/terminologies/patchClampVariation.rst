@@ -13,6 +13,7 @@ cellAttachedPatch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/patchClampVariation/cellAttachedPatch
    :@type: https://openminds.om-i.org/types/PatchClampVariation
    :definition: A variation of the patch-clamp technique in which the cell membrane remains intact.
@@ -28,6 +29,7 @@ insideOutPatch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/patchClampVariation/insideOutPatch
    :@type: https://openminds.om-i.org/types/PatchClampVariation
    :definition: A variation of the patch-clamp technique in which a patch of membrane is excised and the cytosolic surface exposed.
@@ -43,6 +45,7 @@ loosePatch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/patchClampVariation/loosePatch
    :@type: https://openminds.om-i.org/types/PatchClampVariation
    :definition: A variation of the patch-clamp technique involving a seal with low electrical resistance.
@@ -58,6 +61,7 @@ outsideOutPatch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/patchClampVariation/outsideOutPatch
    :@type: https://openminds.om-i.org/types/PatchClampVariation
    :definition: A variation of the patch-clamp technique in which a patch of membrane is excised and the external surface exposed.
@@ -73,6 +77,7 @@ perforatedPatch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/patchClampVariation/perforatedPatch
    :@type: https://openminds.om-i.org/types/PatchClampVariation
    :definition: A variation of the patch-clamp technique in which the cell membrane is perforated.
@@ -88,6 +93,7 @@ wholeCellPatch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/patchClampVariation/wholeCellPatch
    :@type: https://openminds.om-i.org/types/PatchClampVariation
    :definition: A variation of the patch-clamp technique in which the patch is ruptured, giving access to the intracellular space.

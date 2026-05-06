@@ -13,6 +13,7 @@ active
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/active
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An in-progress action.
@@ -28,6 +29,7 @@ completed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/completed
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An action that has already taken place with a successful outcome.
@@ -43,6 +45,7 @@ failed
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/failed
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An action that failed to complete or completed but produced an error.
@@ -58,6 +61,7 @@ inactive
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/inactive
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: A pending or suspended action.
@@ -72,6 +76,7 @@ paused
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/paused
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: A temporarily stopped action that can be resumed at a later point in time.
@@ -86,6 +91,7 @@ pending
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/pending
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: An action which is awaiting execution.
@@ -100,6 +106,7 @@ potential
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/actionStatusType/potential
    :@type: https://openminds.om-i.org/types/ActionStatusType
    :definition: A description of an action that is supported.

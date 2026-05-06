@@ -14,8 +14,8 @@ SubjectGroup
 Properties
 ##########
 
-:Required: `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `numberOfSubjects <numberOfSubjects_heading_>`_
+:Required: `numberOfSubjects <numberOfSubjects_heading_>`_, `species <species_heading_>`_, `studiedState <studiedState_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `biologicalSex <biologicalSex_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `isPartOf <isPartOf_heading_>`_, `lookupLabel <lookupLabel_heading_>`_
 
 ------------
 
@@ -71,6 +71,25 @@ Term or code that identifies someone or something within a particular product.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter the identifier (or label) of this specimen set that is used within the corresponding data files to identify this specimen set.
+
+`BACK TO TOP <SubjectGroup_>`_
+
+------------
+
+.. _isPartOf_heading:
+
+********
+isPartOf
+********
+
+Reference to the ensemble of multiple things or beings.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/isPartOf
+   :value type: | linked object array \(1-N\) of type
+                | `SubjectGroup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/subjectGroup.html>`_
+   :instructions: Add all subject groups of which this subject group is a subgroup.
 
 `BACK TO TOP <SubjectGroup_>`_
 

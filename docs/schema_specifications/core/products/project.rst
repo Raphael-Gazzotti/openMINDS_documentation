@@ -16,25 +16,23 @@ Structured information on a research project.
 Properties
 ##########
 
-:Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasPart <hasPart_heading_>`_, `shortName <shortName_heading_>`_
-:Optional: `coordinator <coordinator_heading_>`_, `homepage <homepage_heading_>`_
+:Required: `description <description_heading_>`_, `fullName <fullName_heading_>`_, `hasPart <hasPart_heading_>`_, `shortName <shortName_heading_>`_, `type <type_heading_>`_
+:Optional: `contribution <contribution_heading_>`_, `homepage <homepage_heading_>`_
 
 ------------
 
-.. _coordinator_heading:
+.. _contribution_heading:
 
-***********
-coordinator
-***********
-
-Legal person who organizes the collaborative work of people or groups.
+************
+contribution
+************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/coordinator
-   :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
-   :instructions: Add all parties that coordinate this project.
+   :semantic name: https://openminds.om-i.org/props/contribution
+   :value type: | embedded object array \(1-N\) of type
+                | `Contribution <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/contribution.html>`_
+   :instructions: Add all individual, organisational, or consortial contributions to this project.
 
 `BACK TO TOP <Project_>`_
 
@@ -88,7 +86,7 @@ hasPart
 
    :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `ValidationTest <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTest.html>`_, `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_, `WorkflowRecipe <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipe.html>`_, `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipeVersion.html>`_, `Dataset <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/dataset.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_, `MetaDataModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModel.html>`_, `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModelVersion.html>`_, `Model <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/model.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `Software <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/software.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `WebService <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webService.html>`_, `WebServiceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/webServiceVersion.html>`_, `LivePaper <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaper.html>`_, `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperVersion.html>`_, `BrainAtlas <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlas.html>`_, `BrainAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/brainAtlasVersion.html>`_, `CommonCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpace.html>`_ or `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_
+                | `ValidationTest <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTest.html>`_, `ValidationTestVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/validationTestVersion.html>`_, `WorkflowRecipe <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipe.html>`_, `WorkflowRecipeVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/computation/workflowRecipeVersion.html>`_, `Dataset <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/dataset.html>`_, `DatasetVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/datasetVersion.html>`_, `Interface <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/interface.html>`_, `InterfaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/interfaceVersion.html>`_, `MetaDataModel <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModel.html>`_, `MetaDataModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/metaDataModelVersion.html>`_, `Model <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/model.html>`_, `ModelVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/modelVersion.html>`_, `Software <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/software.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `LivePaper <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaper.html>`_, `LivePaperVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/publications/livePaperVersion.html>`_, `AnatomicalAtlas <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/anatomicalAtlas.html>`_, `AnatomicalAtlasVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/anatomicalAtlasVersion.html>`_, `CommonCoordinateFramework <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateFramework.html>`_ or `CommonCoordinateFrameworkVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateFrameworkVersion.html>`_
    :instructions: Add all research product (versions) that are part of this project.
 
 `BACK TO TOP <Project_>`_
@@ -128,6 +126,25 @@ Shortened or fully abbreviated name of something or somebody.
    :value type: | string
                 | formatting: text/plain; singleline
    :instructions: Enter a short name (or alias) for this project that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
+
+`BACK TO TOP <Project_>`_
+
+------------
+
+.. _type_heading:
+
+****
+type
+****
+
+Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/type
+   :value type: | linked object of type
+                | `ProjectType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/projectType.html>`_
+   :instructions: Add the type of this project (e.g., research project, grant project).
 
 `BACK TO TOP <Project_>`_
 

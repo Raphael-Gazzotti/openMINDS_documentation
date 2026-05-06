@@ -14,25 +14,23 @@ CoordinatePoint
 Properties
 ##########
 
-:Required: `coordinateSpace <coordinateSpace_heading_>`_, `coordinates <coordinates_heading_>`_
+:Required: `coordinateFramework <coordinateFramework_heading_>`_, `coordinates <coordinates_heading_>`_
 :Optional:
 
 ------------
 
-.. _coordinateSpace_heading:
+.. _coordinateFramework_heading:
 
-***************
-coordinateSpace
-***************
-
-Two or three dimensional geometric setting.
+*******************
+coordinateFramework
+*******************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/coordinateSpace
+   :semantic name: https://openminds.om-i.org/props/coordinateFramework
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_ or `CustomCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customCoordinateSpace.html>`_
-   :instructions: Add the coordinate space in which this coordinate point exists in.
+                | `CommonCoordinateFrameworkVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateFrameworkVersion.html>`_ or `CustomCoordinateFramework <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customCoordinateFramework.html>`_
+   :instructions: Add the coordinate framework in which this coordinate point exists in.
 
 `BACK TO TOP <CoordinatePoint_>`_
 

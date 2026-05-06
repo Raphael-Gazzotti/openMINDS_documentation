@@ -17,7 +17,7 @@ Properties
 ##########
 
 :Required: `ageCategory <ageCategory_heading_>`_
-:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `attribute <attribute_heading_>`_, `descendedFrom <descendedFrom_heading_>`_, `handedness <handedness_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `relativeTimeIndication <relativeTimeIndication_heading_>`_, `weight <weight_heading_>`_
+:Optional: `additionalRemarks <additionalRemarks_heading_>`_, `age <age_heading_>`_, `associatedProtocol <associatedProtocol_heading_>`_, `attribute <attribute_heading_>`_, `descendedFrom <descendedFrom_heading_>`_, `handedness <handedness_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `lookupLabel <lookupLabel_heading_>`_, `pathology <pathology_heading_>`_, `relativeTimeIndication <relativeTimeIndication_heading_>`_, `weight <weight_heading_>`_
 
 ------------
 
@@ -52,8 +52,8 @@ Time of life or existence at which some particular qualification, capacity or ev
 
    :semantic name: https://openminds.om-i.org/props/age
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
-   :instructions: Enter the age of the specimen (set) in this state.
+                | `SpecimenAge <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/specimenAge.html>`_
+   :instructions: Enter the age and age reference of the specimen (set) in this state.
 
 `BACK TO TOP <SubjectState_>`_
 
@@ -73,6 +73,23 @@ Distinct life cycle class that is defined by a similar age or age range (develop
    :value type: | linked object of type
                 | `AgeCategory <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/ageCategory.html>`_
    :instructions: Add the age category of the subject in this state.
+
+`BACK TO TOP <SubjectState_>`_
+
+------------
+
+.. _associatedProtocol_heading:
+
+******************
+associatedProtocol
+******************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/associatedProtocol
+   :value type: | linked object array \(1-N\) of type
+                | `Protocol <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/protocol.html>`_ or `BehavioralProtocol <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/behavioralProtocol.html>`_
+   :instructions: Add all technical and/or behavioral protocols associated with this specimen state.
 
 `BACK TO TOP <SubjectState_>`_
 
@@ -215,8 +232,8 @@ Amount that a thing or being weighs.
 
    :semantic name: https://openminds.om-i.org/props/weight
    :value type: | embedded object of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_ or `QuantitativeValueRange <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValueRange.html>`_
-   :instructions: Enter the weight of the specimen (set) in this state.
+                | `SpecimenWeight <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/research/specimenWeight.html>`_
+   :instructions: Enter the weight and weight type of the specimen (set) in this state.
 
 `BACK TO TOP <SubjectState_>`_
 

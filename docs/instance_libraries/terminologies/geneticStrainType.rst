@@ -13,6 +13,7 @@ conditionalKnockinReady
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/conditionalKnockinReady
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: conditional knockin ready
@@ -26,6 +27,7 @@ conditionalKnockoutReady
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/conditionalKnockoutReady
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: conditional knockout ready
@@ -39,6 +41,7 @@ conditionalReady
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/conditionalReady
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: conditional ready
@@ -52,6 +55,7 @@ knockin
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/knockin
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: knockin
@@ -65,6 +69,7 @@ knockout
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/knockout
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: knockout
@@ -78,6 +83,7 @@ transgenic
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/transgenic
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: transgenic
@@ -91,6 +97,7 @@ wildtype
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/geneticStrainType/wildtype
    :@type: https://openminds.om-i.org/types/GeneticStrainType
    :name: wildtype

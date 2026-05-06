@@ -16,25 +16,57 @@ An entity comprised of one or more natural persons with a particular purpose. [a
 Properties
 ##########
 
-:Required: `fullName <fullName_heading_>`_
-:Optional: `affiliation <affiliation_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `shortName <shortName_heading_>`_
+:Required: `countryOfFormation <countryOfFormation_heading_>`_, `name <name_heading_>`_, `type <type_heading_>`_
+:Optional: `acronym <acronym_heading_>`_, `alternateName <alternateName_heading_>`_, `digitalIdentifier <digitalIdentifier_heading_>`_, `hasParent <hasParent_heading_>`_, `homepage <homepage_heading_>`_, `jurisdiction <jurisdiction_heading_>`_, `location <location_heading_>`_, `membership <membership_heading_>`_
 
 ------------
 
-.. _affiliation_heading:
+.. _acronym_heading:
 
-***********
-affiliation
-***********
-
-Declaration of a person being closely associated to an organization.
+*******
+acronym
+*******
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/affiliation
-   :value type: | embedded object array \(1-N\) of type
-                | `Affiliation <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/affiliation.html>`_
-   :instructions: Enter all current and, if necessary, past affiliations of this organization.
+   :semantic name: https://openminds.om-i.org/props/acronym
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter the acronym of this organization.
+
+`BACK TO TOP <Organization_>`_
+
+------------
+
+.. _alternateName_heading:
+
+*************
+alternateName
+*************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/alternateName
+   :value type: | string array \(1-N\)
+                | formatting: text/plain; singleline
+   :instructions: Enter any other known name or acronym of this organization.
+
+`BACK TO TOP <Organization_>`_
+
+------------
+
+.. _countryOfFormation_heading:
+
+******************
+countryOfFormation
+******************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/countryOfFormation
+   :value type: | linked object of type
+                | `SovereignState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/sovereignState.html>`_
+   :instructions: Add the country where the organization was formed.
 
 `BACK TO TOP <Organization_>`_
 
@@ -52,27 +84,8 @@ Digital handle to identify objects or legal persons.
 
    :semantic name: https://openminds.om-i.org/props/digitalIdentifier
    :value type: | linked object array \(1-N\) of type
-                | `GRIDID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/GRIDID.html>`_, `RORID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RORID.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
+                | `GenericIdentifier <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/genericIdentifier.html>`_, `ISNI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/ISNI.html>`_, `LEI <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/LEI.html>`_, `RORID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RORID.html>`_ or `RRID <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/digitalIdentifier/RRID.html>`_
    :instructions: Add all globally unique and persistent digital identifier of this organization.
-
-`BACK TO TOP <Organization_>`_
-
-------------
-
-.. _fullName_heading:
-
-********
-fullName
-********
-
-Whole, non-abbreviated name of something or somebody.
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/fullName
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the full name of this organization.
 
 `BACK TO TOP <Organization_>`_
 
@@ -116,20 +129,90 @@ Main website of something or someone.
 
 ------------
 
-.. _shortName_heading:
+.. _jurisdiction_heading:
 
-*********
-shortName
-*********
-
-Shortened or fully abbreviated name of something or somebody.
+************
+jurisdiction
+************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/shortName
+   :semantic name: https://openminds.om-i.org/props/jurisdiction
+   :value type: | linked object of type
+                | `SovereignState <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/sovereignState.html>`_ or `SupranationalBody <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/supranationalBody.html>`_
+   :instructions: Add the jurisdiction under which the organization operates.
+
+`BACK TO TOP <Organization_>`_
+
+------------
+
+.. _location_heading:
+
+********
+location
+********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/location
+   :value type: | embedded object of type
+                | `Location <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/location.html>`_
+   :instructions: Add the headquarters location of this organization.
+
+`BACK TO TOP <Organization_>`_
+
+------------
+
+.. _membership_heading:
+
+**********
+membership
+**********
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/membership
+   :value type: | embedded object array \(1-N\) of type
+                | `Membership <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/membership.html>`_
+   :instructions: Add all membership records (one per member) for this organization. Who is considered a qualified member is typically defined in the organization’s membership agreements.
+
+`BACK TO TOP <Organization_>`_
+
+------------
+
+.. _name_heading:
+
+****
+name
+****
+
+Word or phrase that constitutes the distinctive designation of a being or thing.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/name
    :value type: | string
                 | formatting: text/plain; singleline
-   :instructions: Enter a short name (or alias) for this organization that could be used as a shortened display title (e.g., for web services with too little space to display the full name).
+   :instructions: Enter the organization’s preferred name for use in international contexts.
+
+`BACK TO TOP <Organization_>`_
+
+------------
+
+.. _type_heading:
+
+****
+type
+****
+
+Distinct class to which a group of entities or concepts with similar characteristics or attributes belong to.
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/type
+   :value type: | linked object of type
+                | `OrganizationType <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/organizationType.html>`_
+   :instructions: Add the type of this organization (legal entity or organizational unit).
 
 `BACK TO TOP <Organization_>`_
 

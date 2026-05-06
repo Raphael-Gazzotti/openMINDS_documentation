@@ -16,61 +16,42 @@ Structured information about a relationship between two entities, such as a pers
 Properties
 ##########
 
-:Required: `memberOf <memberOf_heading_>`_
-:Optional: `endDate <endDate_heading_>`_, `startDate <startDate_heading_>`_
+:Required: `organization <organization_heading_>`_, `person <person_heading_>`_
+:Optional:
 
 ------------
 
-.. _endDate_heading:
+.. _organization_heading:
 
-*******
-endDate
-*******
+************
+organization
+************
 
-Date in the Gregorian calendar at which something terminates in time.
+Legally accountable, administrative and functional structure.
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/endDate
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the end date of this affiliation, formatted as 'YYYY-MM-DD'. Leave blank if this affiliation is still current.
+   :semantic name: https://openminds.om-i.org/props/organization
+   :value type: | linked object array \(1-N\) of type
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_
+   :instructions: Add all organizations (in display order) with which the specified individual is affiliated.
 
 `BACK TO TOP <Affiliation_>`_
 
 ------------
 
-.. _memberOf_heading:
+.. _person_heading:
 
-********
-memberOf
-********
+******
+person
+******
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/memberOf
+   :semantic name: https://openminds.om-i.org/props/person
    :value type: | linked object of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_ or `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_
-   :instructions: Add the organization or consortium another party was or still is a member of.
-
-`BACK TO TOP <Affiliation_>`_
-
-------------
-
-.. _startDate_heading:
-
-*********
-startDate
-*********
-
-Date in the Gregorian calendar at which something begins in time
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/startDate
-   :value type: | string
-                | formatting: text/plain; singleline
-   :instructions: Enter the start date of this affiliation, formatted as 'YYYY-MM-DD'.
+                | `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+   :instructions: Add the individual to whom this affiliation belongs.
 
 `BACK TO TOP <Affiliation_>`_
 

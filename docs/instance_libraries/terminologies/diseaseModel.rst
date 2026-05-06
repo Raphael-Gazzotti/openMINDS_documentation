@@ -13,6 +13,7 @@ alzheimersDiseaseModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/alzheimersDiseaseModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Alzheimer's disease.
@@ -28,6 +29,7 @@ autismSpectrumDisorderModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/autismSpectrumDisorderModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal autism sprectrum disorder.
@@ -42,6 +44,7 @@ epilepsyModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/epilepsyModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed for epilepsy in humans or animals.
@@ -57,6 +60,7 @@ fragileXsyndromeModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/fragileXsyndromeModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal fragile X syndrome.
@@ -72,6 +76,7 @@ huntingtonsDiseaseModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/huntingtonsDiseaseModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Huntington's disease.
@@ -86,6 +91,7 @@ parkinsonsDiseaseModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/parkinsonsDiseaseModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Parkinson's disease.
@@ -100,6 +106,7 @@ strokeModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/strokeModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed during stroke in humans or animals.
@@ -115,6 +122,7 @@ williamsBeurenSyndromeModel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/diseaseModel/williamsBeurenSyndromeModel
    :@type: https://openminds.om-i.org/types/DiseaseModel
    :definition: An animal or cell displaying all or some of the pathological processes that are observed in the actual human or animal Williams-Beuren syndrome.

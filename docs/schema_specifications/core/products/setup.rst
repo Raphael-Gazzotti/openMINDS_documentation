@@ -48,7 +48,7 @@ hasPart
 
    :semantic name: https://openminds.om-i.org/props/hasPart
    :value type: | linked object array \(2-N\) of type
-                | `Setup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipette.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDevice.html>`_
+                | `Setup <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/setup.html>`_, `SoftwareVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/softwareVersion.html>`_, `Electrode <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrode.html>`_, `ElectrodeArray <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/electrodeArray.html>`_, `Pipette <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/ephys/device/pipette.html>`_, `MRICoil <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/neuroimaging/device/MRICoil.html>`_, `MRIScanner <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/neuroimaging/device/MRIScanner.html>`_ or `SlicingDevice <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/specimenPrep/device/slicingDevice.html>`_
    :instructions: Add all components, including other setups, that are part of this setup. Note that a setup should not be only composed of software.
 
 `BACK TO TOP <Setup_>`_
@@ -82,7 +82,7 @@ manufacturer
 
    :semantic name: https://openminds.om-i.org/props/manufacturer
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add the manufacturer (private or industrial) that constructed this setup.
 
 `BACK TO TOP <Setup_>`_

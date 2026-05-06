@@ -13,6 +13,7 @@ GestaltVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/GestaltVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: Gestalt visual stimulation
@@ -26,6 +27,7 @@ abstractImageVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/abstractImageVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: In an 'abstract image visual stimulation' a subject is visually stimulated with a static image that does not show a natural scene but reduced information or forms (e.g., colored symbols or outlines of faces).
@@ -40,6 +42,7 @@ checkerboardVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/checkerboardVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: Stimulation technique that uses a checkerboard as visual stimulus.
@@ -54,6 +57,7 @@ currentStepStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/currentStepStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: Current step stimulation is a technique in which an amount of current is applied in predefined steps, whilst measuring changes in neural/muscular activity.
@@ -68,6 +72,7 @@ driftingGratingVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/driftingGratingVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: drifting grating visual stimulation
@@ -81,12 +86,12 @@ electricalStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/electricalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: A technique used to elicit a reaction by an electrical stimulus.
-   :interlexIdentifier: http://uri.interlex.org/ilx_0739699
    :name: electrical stimulation
-   :preferredOntologyIdentifier: http://uri.interlex.org/tgbugs/uris/indexes/ontologies/methods/188
+   :preferredOntologyIdentifier: http://uri.interlex.org/ilx_0739699
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 
@@ -97,6 +102,7 @@ figure-groundVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/figure-groundVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: figure-ground visual stimulation
@@ -110,6 +116,7 @@ microstimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/microstimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: microstimulation
@@ -123,6 +130,7 @@ naturalImageVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/naturalImageVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: In a 'natural image visual stimulation' a subject is visually stimulated with a static image that shows a natural scene (e.g., landscape or a person).
@@ -137,6 +145,7 @@ naturalSoundAuditoryStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/naturalSoundAuditoryStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: natural sound auditory stimulation
@@ -150,6 +159,7 @@ optogeneticStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/optogeneticStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: Using light of a particular wavelength, 'optogenetic stimulation' increases or inhibits the activity of neuron populations that express (typically due to genetic manipulation) light-sensitive ion channels, pumps or enzymes.
@@ -164,6 +174,7 @@ photonStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/photonStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: photon stimulation
@@ -177,6 +188,7 @@ randomDotMotionStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/randomDotMotionStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: In a 'random dot motion stimulation' a subject is visually stimulated with a video where simulated randomly distributed dot(s) are re-positioned at a new random location with each video frame [[Newsome & Paré, 1988](https://doi.org/10.1523/jneurosci.08-06-02201.1988).
@@ -191,6 +203,7 @@ singlePulseElectricalStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/singlePulseElectricalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: A 'single pulse electrical stimulation' is a cortical stimulation technique typically used in the field of epilepsy surgery.
@@ -205,6 +218,7 @@ staticGratingVisualStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/staticGratingVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: static grating visual stimulation
@@ -218,7 +232,8 @@ subliminalStimulation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/instances/technique/subliminalStimulation
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/stimulationTechnique/subliminalStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: 'Subliminal stimulation' is a technique providing any sensory stimuli below an individual's threshold for conscious perception (adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli))
    :name: subliminal stimulation
@@ -232,10 +247,11 @@ subliminalVisualStimulation
 
 .. admonition:: metadata sheet
 
-   :@id: https://openminds.om-i.org/instances/technique/subliminalVisualSimulation
+   :@context: @vocab: <https://openminds.om-i.org/props/>
+   :@id: https://openminds.om-i.org/instances/stimulationTechnique/subliminalVisualStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
-   :definition: 'Subliminal visual simulation' is a technique providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]
-   :name: subliminal visual simulation
+   :definition: Stimulation technique that is providing visual stimuli below an indivdual's threshold for conscious perception [adapted from [wikipedia](https://en.wikipedia.org/wiki/Subliminal_stimuli)]
+   :name: subliminal visual stimulation
 
 `BACK TO TOP <Terminologies: StimulationTechnique library_>`_
 
@@ -246,6 +262,7 @@ transcranialMagneticStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/transcranialMagneticStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :name: transcranial magnetic stimulation
@@ -259,6 +276,7 @@ whiskerStimulation
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/stimulationTechnique/whiskerStimulation
    :@type: https://openminds.om-i.org/types/StimulationTechnique
    :definition: 'Whisker stimulation' comprises all stimulation techniques in which a single whisker or a group of whiskers is deflected in repeatable manner.

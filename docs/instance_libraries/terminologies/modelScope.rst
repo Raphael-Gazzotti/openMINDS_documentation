@@ -13,6 +13,7 @@ network-brainRegion
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/network-brainRegion
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of one or more brain regions
@@ -27,6 +28,7 @@ network-microcircuit
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/network-microcircuit
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a neuronal microcircuit
@@ -41,6 +43,7 @@ network-wholeBrain
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/network-wholeBrain
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of an entire brain
@@ -55,6 +58,7 @@ network
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/network
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a neuronal network
@@ -69,6 +73,7 @@ singleCell
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/singleCell
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a single cell
@@ -83,6 +88,7 @@ subcellular-ionChannel
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/subcellular-ionChannel
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of an ion channel
@@ -97,6 +103,7 @@ subcellular-molecular
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/subcellular-molecular
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of the structure or behaviour of molecules
@@ -111,6 +118,7 @@ subcellular-signalling
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/subcellular-signalling
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of sub-cellular signalling pathways
@@ -125,6 +133,7 @@ subcellular-spine
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/subcellular-spine
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of a dendritic spine, or of a dendritic region containing several spines
@@ -139,6 +148,7 @@ subcellular
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/modelScope/subcellular
    :@type: https://openminds.om-i.org/types/ModelScope
    :definition: A model of an entity or process contained within a cell

@@ -14,42 +14,23 @@ CustomAnnotation
 Properties
 ##########
 
-:Required: `coordinateSpace <coordinateSpace_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type <type_heading_>`_
-:Optional: `anchorPoint <anchorPoint_heading_>`_, `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification <specification_heading_>`_
+:Required: `coordinateFramework <coordinateFramework_heading_>`_, `criteriaQualityType <criteriaQualityType_heading_>`_, `criteriaType <criteriaType_heading_>`_, `type <type_heading_>`_
+:Optional: `criteria <criteria_heading_>`_, `inspiredBy <inspiredBy_heading_>`_, `internalIdentifier <internalIdentifier_heading_>`_, `laterality <laterality_heading_>`_, `preferredVisualization <preferredVisualization_heading_>`_, `specification <specification_heading_>`_
 
 ------------
 
-.. _anchorPoint_heading:
+.. _coordinateFramework_heading:
 
-***********
-anchorPoint
-***********
-
-.. admonition:: schema_specifications
-
-   :semantic name: https://openminds.om-i.org/props/anchorPoint
-   :value type: | embedded object array \(2-3\) of type
-                | `QuantitativeValue <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/quantitativeValue.html>`_
-   :instructions: Enter the coordinates of the anchor point for this annotation (e.g., its centroid in two dimensional space as [x, y] or in three dimensional space as [x, y, z]).
-
-`BACK TO TOP <CustomAnnotation_>`_
-
-------------
-
-.. _coordinateSpace_heading:
-
-***************
-coordinateSpace
-***************
-
-Two or three dimensional geometric setting.
+*******************
+coordinateFramework
+*******************
 
 .. admonition:: schema_specifications
 
-   :semantic name: https://openminds.om-i.org/props/coordinateSpace
+   :semantic name: https://openminds.om-i.org/props/coordinateFramework
    :value type: | linked object of type
-                | `CommonCoordinateSpaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateSpaceVersion.html>`_ or `CustomCoordinateSpace <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customCoordinateSpace.html>`_
-   :instructions: Add the coordinate space for this custom annotation.
+                | `CommonCoordinateFrameworkVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/atlas/commonCoordinateFrameworkVersion.html>`_ or `CustomCoordinateFramework <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/SANDS/non-atlas/customCoordinateFramework.html>`_
+   :instructions: Add the coordinate framework for this custom annotation.
 
 `BACK TO TOP <CustomAnnotation_>`_
 

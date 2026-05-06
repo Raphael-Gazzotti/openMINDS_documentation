@@ -13,6 +13,7 @@ dutch
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/dutch
    :@type: https://openminds.om-i.org/types/Language
    :name: Dutch
@@ -26,6 +27,7 @@ english
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/english
    :@type: https://openminds.om-i.org/types/Language
    :name: English
@@ -39,6 +41,7 @@ french
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/french
    :@type: https://openminds.om-i.org/types/Language
    :name: French
@@ -52,6 +55,7 @@ german
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/german
    :@type: https://openminds.om-i.org/types/Language
    :name: German
@@ -65,6 +69,7 @@ greek
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/greek
    :@type: https://openminds.om-i.org/types/Language
    :name: Greek
@@ -78,6 +83,7 @@ italian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/italian
    :@type: https://openminds.om-i.org/types/Language
    :name: Italian
@@ -91,6 +97,7 @@ norwegian
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/norwegian
    :@type: https://openminds.om-i.org/types/Language
    :name: Norwegian
@@ -104,6 +111,7 @@ spanish
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/spanish
    :@type: https://openminds.om-i.org/types/Language
    :name: Spanish
@@ -117,6 +125,7 @@ swedish
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/language/swedish
    :@type: https://openminds.om-i.org/types/Language
    :name: Swedish

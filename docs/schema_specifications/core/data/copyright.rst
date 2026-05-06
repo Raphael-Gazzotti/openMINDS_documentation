@@ -17,7 +17,24 @@ Properties
 ##########
 
 :Required: `holder <holder_heading_>`_, `year <year_heading_>`_
-:Optional:
+:Optional: `customUsageClause <customUsageClause_heading_>`_
+
+------------
+
+.. _customUsageClause_heading:
+
+*****************
+customUsageClause
+*****************
+
+.. admonition:: schema_specifications
+
+   :semantic name: https://openminds.om-i.org/props/customUsageClause
+   :value type: | string
+                | formatting: text/plain; singleline
+   :instructions: Enter a statement describing the usage rights, such as 'All rights reserved.'.
+
+`BACK TO TOP <Copyright_>`_
 
 ------------
 
@@ -33,7 +50,7 @@ Legal person in possession of something.
 
    :semantic name: https://openminds.om-i.org/props/holder
    :value type: | linked object array \(1-N\) of type
-                | `Consortium <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/consortium.html>`_, `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_ or `Person <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/person.html>`_
    :instructions: Add all parties that hold this copyright.
 
 `BACK TO TOP <Copyright_>`_
@@ -53,7 +70,7 @@ Cycle in the Gregorian calendar specified by a number and comprised of 365 or 36
    :semantic name: https://openminds.om-i.org/props/year
    :value type: | string array \(1-N\)
                 | formatting: text/plain; singleline
-   :instructions: Enter the year during which the copyright was first asserted and, optionally, later years during which updated versions were published.
+   :instructions: Enter the year when the copyright was first asserted, and optionally any subsequent years when the copyright holder and/or the rights-reservation clause was updated.
 
 `BACK TO TOP <Copyright_>`_
 

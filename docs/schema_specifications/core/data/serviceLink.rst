@@ -96,9 +96,9 @@ service
 .. admonition:: schema_specifications
 
    :semantic name: https://openminds.om-i.org/props/service
-   :value type: | linked object of type
-                | `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/controlledTerms/service.html>`_
-   :instructions: Add the service in which the specified data can be opened.
+   :value type: | linked object array \(1-N\) of type
+                | `Interface <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/interface.html>`_, `InterfaceVersion <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/interfaceVersion.html>`_ or `WebResource <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/miscellaneous/webResource.html>`_
+   :instructions: Add all services in which the specified data can be opened by linking to each service’s interface (group of versions), specific interface version, or web resource.
 
 `BACK TO TOP <ServiceLink_>`_
 

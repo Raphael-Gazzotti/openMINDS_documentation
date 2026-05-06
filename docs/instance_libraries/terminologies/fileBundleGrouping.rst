@@ -13,6 +13,7 @@ behavioralProtocol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/behavioralProtocol
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: behavioral protocol
@@ -26,6 +27,7 @@ coordinateSpace
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/coordinateSpace
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: coordinate space
@@ -39,6 +41,7 @@ protocol
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/protocol
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: protocol
@@ -52,6 +55,7 @@ studyTarget
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/studyTarget
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: study target
@@ -65,6 +69,7 @@ subject
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/subject
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: subject
@@ -78,6 +83,7 @@ subjectGroup
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/subjectGroup
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: subject group
@@ -91,6 +97,7 @@ technique
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/technique
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: technique
@@ -104,6 +111,7 @@ tissueSample
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/tissueSample
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: tissue sample
@@ -117,6 +125,7 @@ tissueSampleCollection
 
 .. admonition:: metadata sheet
 
+   :@context: @vocab: <https://openminds.om-i.org/props/>
    :@id: https://openminds.om-i.org/instances/fileBundleGrouping/tissueSampleCollection
    :@type: https://openminds.om-i.org/types/FileBundleGrouping
    :name: tissue sample collection

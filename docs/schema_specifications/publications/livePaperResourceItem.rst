@@ -50,8 +50,8 @@ Reference to an organization that provides facilities and services for something
 
    :semantic name: https://openminds.om-i.org/props/hostedBy
    :value type: | linked object of type
-                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_
-   :instructions: Add the host organization of this live paper resource item.
+                | `Organization <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/actors/organization.html>`_, `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/service.html>`_ or `Service <https://openminds-documentation.readthedocs.io/en/latest/schema_specifications/core/products/service.html>`_
+   :instructions: Add the web service or organization that hosts this live paper resource item.
 
 `BACK TO TOP <LivePaperResourceItem_>`_
 
